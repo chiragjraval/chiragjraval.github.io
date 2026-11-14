@@ -3,14 +3,14 @@
     "screenerCompanyId" : "843",
     "companyCode" : "DOLATALGO",
     "companyName" : "Dolat Algotech",
-    "screenerCompanyLink" : "https://www.screener.in/company/DOLATALGO/",
+    "screenerCompanyLink" : "https://www.screener.in/company/DOLATALGO/consolidated/",
     "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/843/chart/?q=Price-DMA50-DMA200-Volume&days=365",
     "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/843/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
     "attributes" : {
       "companyCode" : "DOLATALGO",
       "companyName" : "Dolat Algotech",
       "marketCap" : 1155.00,
-      "peRatio" : 8.02,
+      "peRatio" : 6.82,
       "description" : "Dolat Algotech Ltd is a trading cum clearing member of NSE India and carries on the business of securities broking and securities trading.[1]"
     },
     "companyScore" : {
@@ -24,29 +24,22 @@
       "pricePercentageAboveDma100" : 5.14,
       "pricePercentageAboveDma200" : 5.41,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 11.95,
-      "operatingProfitMarginPercentile" : 18.01,
-      "netProfitMarginPercentile" : 5.72,
+      "salesGrowthPercentile" : 15.42,
+      "operatingProfitMarginPercentile" : 17.45,
+      "netProfitMarginPercentile" : 5.40,
       "totalTechnicalScore" : 20.38,
-      "totalFundamentalScore" : 35.67,
-      "totalScore" : 56.05
+      "totalFundamentalScore" : 38.27,
+      "totalScore" : 58.65
     }
   },
   "attributes" : {
     "companyCode" : "DOLATALGO",
     "companyName" : "Dolat Algotech",
     "marketCap" : 1155.00,
-    "peRatio" : 8.02,
+    "peRatio" : 6.82,
     "description" : "Dolat Algotech Ltd is a trading cum clearing member of NSE India and carries on the business of securities broking and securities trading.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-14",
-    "price" : 77.45,
-    "dma50" : 81.09,
-    "dma100" : null,
-    "dma200" : 91.38,
-    "volume" : 627559.00
-  }, {
     "date" : "2025-11-17",
     "price" : 76.15,
     "dma50" : 80.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-13",
     "price" : 79.31,
     "dma50" : 75.55,
-    "dma100" : 78.51,
+    "dma100" : null,
     "dma200" : 82.79,
     "volume" : 380050.00
   }, {
@@ -2606,11 +2599,11 @@
     "netProfit" : 38.81
   }, {
     "date" : "2025-09-30",
-    "sales" : 34.33,
-    "salesGrowthYoY" : -71.35,
+    "sales" : 34.32,
+    "salesGrowthYoY" : -71.36,
     "grossProfitMargin" : 100.00,
-    "grossProfit" : 34.33,
-    "operatingProfitMargin" : 44.92,
+    "grossProfit" : 34.32,
+    "operatingProfitMargin" : 44.93,
     "operatingProfit" : 15.42,
     "netProfitMargin" : 13.14,
     "netProfit" : 4.51
@@ -2644,17 +2637,27 @@
     "operatingProfit" : 82.16,
     "netProfitMargin" : 47.11,
     "netProfit" : 53.82
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 74.88,
+    "salesGrowthYoY" : 118.18,
+    "grossProfitMargin" : 100.00,
+    "grossProfit" : 74.88,
+    "operatingProfitMargin" : 67.07,
+    "operatingProfit" : 50.22,
+    "netProfitMargin" : 40.04,
+    "netProfit" : 29.98
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 114.25,
-    "salesGrowthYoY" : 37.37,
+    "date" : "2026-09-30",
+    "sales" : 74.88,
+    "salesGrowthYoY" : 118.18,
     "grossProfitMargin" : 100.00,
-    "grossProfit" : 114.25,
-    "operatingProfitMargin" : 71.91,
-    "operatingProfit" : 82.16,
-    "netProfitMargin" : 47.11,
-    "netProfit" : 53.82
+    "grossProfit" : 74.88,
+    "operatingProfitMargin" : 67.07,
+    "operatingProfit" : 50.22,
+    "netProfitMargin" : 40.04,
+    "netProfit" : 29.98
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -2667,11 +2670,11 @@
     "pricePercentageAboveDma100" : 5.14,
     "pricePercentageAboveDma200" : 5.41,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 11.95,
-    "operatingProfitMarginPercentile" : 18.01,
-    "netProfitMarginPercentile" : 5.72,
+    "salesGrowthPercentile" : 15.42,
+    "operatingProfitMarginPercentile" : 17.45,
+    "netProfitMarginPercentile" : 5.40,
     "totalTechnicalScore" : 20.38,
-    "totalFundamentalScore" : 35.67,
-    "totalScore" : 56.05
+    "totalFundamentalScore" : 38.27,
+    "totalScore" : 58.65
   }
 }

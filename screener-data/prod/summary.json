@@ -1,6 +1,6 @@
 {
-  "totalCompanies" : 489,
-  "generatedAt" : "2026-11-13T23:50:31.472518803",
+  "totalCompanies" : 490,
+  "generatedAt" : "2026-11-14T22:34:24.730576379",
   "companies" : [ {
     "screenerCompanyId" : "56204",
     "companyCode" : "501261",
@@ -44,7 +44,7 @@
       "companyCode" : "506528",
       "companyName" : "Keltech Energies",
       "marketCap" : 1656.00,
-      "peRatio" : 63.30,
+      "peRatio" : 58.70,
       "description" : "Incorporated in 1977, Keltech Energies Ltd manufactures explosives and perlite related products[1]"
     },
     "companyScore" : {
@@ -58,12 +58,12 @@
       "pricePercentageAboveDma100" : 3.02,
       "pricePercentageAboveDma200" : 1.27,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 14.88,
-      "operatingProfitMarginPercentile" : 12.56,
-      "netProfitMarginPercentile" : 7.33,
+      "salesGrowthPercentile" : 15.66,
+      "operatingProfitMarginPercentile" : 14.71,
+      "netProfitMarginPercentile" : 8.39,
       "totalTechnicalScore" : 38.45,
-      "totalFundamentalScore" : 34.76,
-      "totalScore" : 73.21
+      "totalFundamentalScore" : 38.77,
+      "totalScore" : 77.22
     }
   }, {
     "screenerCompanyId" : "3354",
@@ -224,38 +224,6 @@
       "totalTechnicalScore" : 39.31,
       "totalFundamentalScore" : 44.27,
       "totalScore" : 83.58
-    }
-  }, {
-    "screenerCompanyId" : "1284371",
-    "companyCode" : "543920",
-    "companyName" : "CFF Fluid",
-    "screenerCompanyLink" : "https://www.screener.in/company/543920/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1284371/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1284371/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "543920",
-      "companyName" : "CFF Fluid",
-      "marketCap" : 2267.00,
-      "peRatio" : 57.80,
-      "description" : "Incorporated in 2012, CFF Fluid Control Ltd is in the business of manufacturing, overhaul, repairs, and maintenance of shipboard machinery, combat system, reference system, test facilities (pneumatic, hydraulic, electrical, electrical systems) for submarines and surface ships for Indian Navy[1]"
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.70,
-      "pricePercentageAboveDma100" : 4.54,
-      "pricePercentageAboveDma200" : 3.81,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 20.00,
-      "operatingProfitMarginPercentile" : 15.00,
-      "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 43.06,
-      "totalFundamentalScore" : 45.00,
-      "totalScore" : 88.06
     }
   }, {
     "screenerCompanyId" : "1285643",
@@ -1472,6 +1440,38 @@
       "totalTechnicalScore" : 21.16,
       "totalFundamentalScore" : 32.99,
       "totalScore" : 54.14
+    }
+  }, {
+    "screenerCompanyId" : "281",
+    "companyCode" : "ASHOKLEY",
+    "companyName" : "Ashok Leyland",
+    "screenerCompanyLink" : "https://www.screener.in/company/ASHOKLEY/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/281/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/281/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "ASHOKLEY",
+      "companyName" : "Ashok Leyland",
+      "marketCap" : 99386.00,
+      "peRatio" : 26.30,
+      "description" : "Ashok Leyland is the flagship Company of the Hinduja group, having a long-standing presence in the domestic medium and heavy commercial vehicle (M&HCV) segment. The company has a strong brand and well-diversified distribution and service network across the country and has a presence in 50 countries, it is one of the most fully-integrated manufacturing companies. Its headquarter is in Chennai [1] They manage driver training institutes across India and have trained over 8,00,000 drivers since inception. [1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma200" : 0.00,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 4.67,
+      "pricePercentageAboveDma100" : 4.75,
+      "pricePercentageAboveDma200" : 4.72,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 15.90,
+      "operatingProfitMarginPercentile" : 18.51,
+      "netProfitMarginPercentile" : 9.18,
+      "totalTechnicalScore" : 34.13,
+      "totalFundamentalScore" : 43.59,
+      "totalScore" : 77.72
     }
   }, {
     "screenerCompanyId" : "294",
@@ -3564,7 +3564,7 @@
       "companyCode" : "DHAMPURSUG",
       "companyName" : "Dhampur Sugar",
       "marketCap" : 1100.00,
-      "peRatio" : 15.60,
+      "peRatio" : 12.10,
       "description" : "Incorporated in 1933, Dhampur Sugar Mills Ltd manufactures and sells sugar, chemicals, ethanol, and cogeneration of power.[1]"
     },
     "companyScore" : {
@@ -3578,12 +3578,12 @@
       "pricePercentageAboveDma100" : 4.75,
       "pricePercentageAboveDma200" : 4.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 9.76,
-      "operatingProfitMarginPercentile" : 6.62,
-      "netProfitMarginPercentile" : 5.43,
+      "salesGrowthPercentile" : 8.43,
+      "operatingProfitMarginPercentile" : 7.35,
+      "netProfitMarginPercentile" : 5.81,
       "totalTechnicalScore" : 44.24,
-      "totalFundamentalScore" : 21.80,
-      "totalScore" : 66.04
+      "totalFundamentalScore" : 21.59,
+      "totalScore" : 65.83
     }
   }, {
     "screenerCompanyId" : "806",
@@ -3749,14 +3749,14 @@
     "screenerCompanyId" : "843",
     "companyCode" : "DOLATALGO",
     "companyName" : "Dolat Algotech",
-    "screenerCompanyLink" : "https://www.screener.in/company/DOLATALGO/",
+    "screenerCompanyLink" : "https://www.screener.in/company/DOLATALGO/consolidated/",
     "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/843/chart/?q=Price-DMA50-DMA200-Volume&days=365",
     "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/843/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
     "attributes" : {
       "companyCode" : "DOLATALGO",
       "companyName" : "Dolat Algotech",
       "marketCap" : 1155.00,
-      "peRatio" : 8.02,
+      "peRatio" : 6.82,
       "description" : "Dolat Algotech Ltd is a trading cum clearing member of NSE India and carries on the business of securities broking and securities trading.[1]"
     },
     "companyScore" : {
@@ -3770,12 +3770,12 @@
       "pricePercentageAboveDma100" : 5.14,
       "pricePercentageAboveDma200" : 5.41,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 11.95,
-      "operatingProfitMarginPercentile" : 18.01,
-      "netProfitMarginPercentile" : 5.72,
+      "salesGrowthPercentile" : 15.42,
+      "operatingProfitMarginPercentile" : 17.45,
+      "netProfitMarginPercentile" : 5.40,
       "totalTechnicalScore" : 20.38,
-      "totalFundamentalScore" : 35.67,
-      "totalScore" : 56.05
+      "totalFundamentalScore" : 38.27,
+      "totalScore" : 58.65
     }
   }, {
     "screenerCompanyId" : "823",
@@ -4418,38 +4418,6 @@
       "totalScore" : 60.78
     }
   }, {
-    "screenerCompanyId" : "1021",
-    "companyCode" : "FCL",
-    "companyName" : "Fineotex Chem",
-    "screenerCompanyLink" : "https://www.screener.in/company/FCL/consolidated/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1021/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1021/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "FCL",
-      "companyName" : "Fineotex Chem",
-      "marketCap" : 6192.00,
-      "peRatio" : 50.60,
-      "description" : "Incorporated in 1979, Fineotex Chemicals Ltd is engaged in the business of manufacturing auxiliaries and specialty chemicals for textiles, construction, water treatment, fertilizer, leather, and paint industries[1]"
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 4.45,
-      "pricePercentageAboveDma200" : 3.60,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 3.00,
-      "operatingProfitMarginPercentile" : 8.99,
-      "netProfitMarginPercentile" : 7.54,
-      "totalTechnicalScore" : 42.93,
-      "totalFundamentalScore" : 19.54,
-      "totalScore" : 62.47
-    }
-  }, {
     "screenerCompanyId" : "1000",
     "companyCode" : "FDC",
     "companyName" : "FDC",
@@ -4480,6 +4448,38 @@
       "totalTechnicalScore" : 25.01,
       "totalFundamentalScore" : 26.88,
       "totalScore" : 51.89
+    }
+  }, {
+    "screenerCompanyId" : "547",
+    "companyCode" : "FEDDERSHOL",
+    "companyName" : "Fedders Holding",
+    "screenerCompanyLink" : "https://www.screener.in/company/FEDDERSHOL/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/547/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/547/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "FEDDERSHOL",
+      "companyName" : "Fedders Holding",
+      "marketCap" : 1116.00,
+      "peRatio" : 13.10,
+      "description" : "Incorporated in 1991, Fedders Holding Ltd is in the business of investment, finance, and consultancy[1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma200" : 5.00,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 4.48,
+      "pricePercentageAboveDma200" : 4.35,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 11.57,
+      "operatingProfitMarginPercentile" : 14.57,
+      "netProfitMarginPercentile" : 1.20,
+      "totalTechnicalScore" : 38.94,
+      "totalFundamentalScore" : 27.34,
+      "totalScore" : 66.28
     }
   }, {
     "screenerCompanyId" : "1002",
@@ -5570,38 +5570,6 @@
       "totalScore" : 37.85
     }
   }, {
-    "screenerCompanyId" : "1223",
-    "companyCode" : "GUFICBIO",
-    "companyName" : "Gufic BioScience",
-    "screenerCompanyLink" : "https://www.screener.in/company/GUFICBIO/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1223/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1223/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "GUFICBIO",
-      "companyName" : "Gufic BioScience",
-      "marketCap" : 4744.00,
-      "peRatio" : 64.50,
-      "description" : "Gufic Biosciences Limited is engaged in the manufacture of pharmaceuticals, medicinal chemicals and botanical products."
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.43,
-      "pricePercentageAboveDma100" : 4.27,
-      "pricePercentageAboveDma200" : 3.84,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
-      "salesGrowthPercentile" : 11.71,
-      "operatingProfitMarginPercentile" : 16.28,
-      "netProfitMarginPercentile" : 7.79,
-      "totalTechnicalScore" : 47.54,
-      "totalFundamentalScore" : 35.78,
-      "totalScore" : 83.32
-    }
-  }, {
     "screenerCompanyId" : "1224",
     "companyCode" : "GUJALKALI",
     "companyName" : "Gujarat Alkalies",
@@ -6434,38 +6402,6 @@
       "totalScore" : 30.08
     }
   }, {
-    "screenerCompanyId" : "1286054",
-    "companyCode" : "INDOMIM",
-    "companyName" : "Indo-MIM",
-    "screenerCompanyLink" : "https://www.screener.in/company/INDOMIM/consolidated/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1286054/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1286054/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "INDOMIM",
-      "companyName" : "Indo-MIM",
-      "marketCap" : 63116.00,
-      "peRatio" : 97.80,
-      "description" : "Incorporated in 1996, Indo-MIM Ltd manufactures precision engineering components using metal injection molding (MIM) technology.[1]"
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.42,
-      "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.11,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 0.00,
-      "operatingProfitMarginPercentile" : 20.00,
-      "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 22.53,
-      "totalFundamentalScore" : 30.00,
-      "totalScore" : 52.53
-    }
-  }, {
     "screenerCompanyId" : "1462",
     "companyCode" : "INDORAMA",
     "companyName" : "Indo Rama Synth.",
@@ -6592,38 +6528,6 @@
       "totalTechnicalScore" : 30.02,
       "totalFundamentalScore" : 40.66,
       "totalScore" : 70.68
-    }
-  }, {
-    "screenerCompanyId" : "1284611",
-    "companyCode" : "INNOVACAP",
-    "companyName" : "Innova Captab",
-    "screenerCompanyLink" : "https://www.screener.in/company/INNOVACAP/consolidated/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1284611/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1284611/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "INNOVACAP",
-      "companyName" : "Innova Captab",
-      "marketCap" : 6709.00,
-      "peRatio" : 43.60,
-      "description" : "Incorporated in January 2005, Innova Captab Ltd is a pharmaceutical company is an integrated pharmaceutical company in India with a presence across the pharmaceutical value chain.[1]"
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.55,
-      "pricePercentageAboveDma100" : 4.44,
-      "pricePercentageAboveDma200" : 3.93,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 17.09,
-      "operatingProfitMarginPercentile" : 18.75,
-      "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 42.92,
-      "totalFundamentalScore" : 43.34,
-      "totalScore" : 86.26
     }
   }, {
     "screenerCompanyId" : "1275359",
@@ -6848,6 +6752,38 @@
       "totalTechnicalScore" : 25.38,
       "totalFundamentalScore" : 32.73,
       "totalScore" : 58.11
+    }
+  }, {
+    "screenerCompanyId" : "1585",
+    "companyCode" : "JAMNAAUTO",
+    "companyName" : "Jamna Auto Inds.",
+    "screenerCompanyLink" : "https://www.screener.in/company/JAMNAAUTO/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1585/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1585/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "JAMNAAUTO",
+      "companyName" : "Jamna Auto Inds.",
+      "marketCap" : 5958.00,
+      "peRatio" : 23.00,
+      "description" : "Incorporated in 1965, Jamna Auto Industries Limited manufactures conventional leaf springs, parabolic leaf springs, air suspensions and lift axles, predominantly for Commercial Vehicles.[1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma200" : 5.00,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 4.42,
+      "pricePercentageAboveDma100" : 4.36,
+      "pricePercentageAboveDma200" : 4.14,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 15.18,
+      "operatingProfitMarginPercentile" : 18.41,
+      "netProfitMarginPercentile" : 9.08,
+      "totalTechnicalScore" : 42.93,
+      "totalFundamentalScore" : 42.67,
+      "totalScore" : 85.61
     }
   }, {
     "screenerCompanyId" : "1274170",
@@ -10306,6 +10242,38 @@
       "totalScore" : 62.20
     }
   }, {
+    "screenerCompanyId" : "2347",
+    "companyCode" : "ORCHPHARMA",
+    "companyName" : "Orchid Pharma",
+    "screenerCompanyLink" : "https://www.screener.in/company/ORCHPHARMA/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/2347/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/2347/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "ORCHPHARMA",
+      "companyName" : "Orchid Pharma",
+      "marketCap" : 5296.00,
+      "peRatio" : 101.00,
+      "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma200" : 5.00,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 4.98,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 12.77,
+      "operatingProfitMarginPercentile" : 14.34,
+      "netProfitMarginPercentile" : 8.28,
+      "totalTechnicalScore" : 30.64,
+      "totalFundamentalScore" : 35.38,
+      "totalScore" : 66.02
+    }
+  }, {
     "screenerCompanyId" : "1274339",
     "companyCode" : "ORIENTELEC",
     "companyName" : "Orient Electric",
@@ -10528,6 +10496,38 @@
       "totalTechnicalScore" : 48.31,
       "totalFundamentalScore" : 32.09,
       "totalScore" : 80.40
+    }
+  }, {
+    "screenerCompanyId" : "2564",
+    "companyCode" : "PFOCUS",
+    "companyName" : "Prime Focus",
+    "screenerCompanyLink" : "https://www.screener.in/company/PFOCUS/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/2564/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/2564/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "PFOCUS",
+      "companyName" : "Prime Focus",
+      "marketCap" : 21023.00,
+      "peRatio" : 93.60,
+      "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma200" : 5.00,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.26,
+      "pricePercentageAboveDma200" : 4.97,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 10.75,
+      "operatingProfitMarginPercentile" : 13.59,
+      "netProfitMarginPercentile" : 1.68,
+      "totalTechnicalScore" : 35.56,
+      "totalFundamentalScore" : 26.02,
+      "totalScore" : 61.58
     }
   }, {
     "screenerCompanyId" : "2464",
@@ -12290,6 +12290,38 @@
       "totalScore" : 84.75
     }
   }, {
+    "screenerCompanyId" : "1275120",
+    "companyCode" : "SHRIRAMPPS",
+    "companyName" : "Shriram Properti",
+    "screenerCompanyLink" : "https://www.screener.in/company/SHRIRAMPPS/consolidated/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1275120/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1275120/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "SHRIRAMPPS",
+      "companyName" : "Shriram Properti",
+      "marketCap" : 1206.00,
+      "peRatio" : 11.60,
+      "description" : "Shriram Properties is a part of Shriram Group. They are one of the leading residential real estate development companies in South India primarily focused on the mid-market and affordable housing categories. They are also present in plotted development, mid-market premium, luxury housing as well as commercial & office space categories in our core markets. They commenced operations in Bengaluru in the year 2000 and have since expanded their presence to other cities in South India, i.e., Chennai, Coimbatore and Visakhapatnam. In addition, they also have presence in Kolkata in East India, where they are developing a large mixed-use project. [1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
+      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma200" : 0.00,
+      "dma100HigherThanDma200" : 0.00,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.49,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 4.00,
+      "operatingProfitMarginPercentile" : 13.68,
+      "netProfitMarginPercentile" : 4.91,
+      "totalTechnicalScore" : 15.90,
+      "totalFundamentalScore" : 22.59,
+      "totalScore" : 38.49
+    }
+  }, {
     "screenerCompanyId" : "2733",
     "companyCode" : "SHUKRAPHAR",
     "companyName" : "Shukra Pharma.",
@@ -12832,6 +12864,38 @@
       "totalTechnicalScore" : 15.47,
       "totalFundamentalScore" : 31.48,
       "totalScore" : 46.95
+    }
+  }, {
+    "screenerCompanyId" : "1286176",
+    "companyCode" : "SSRETAIL",
+    "companyName" : "SS Retail",
+    "screenerCompanyLink" : "https://www.screener.in/company/SSRETAIL/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1286176/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1286176/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "SSRETAIL",
+      "companyName" : "SS Retail",
+      "marketCap" : 5497.00,
+      "peRatio" : 71.10,
+      "description" : "Incorporated in June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories, and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa, and Gujarat.[1]"
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma200" : 0.00,
+      "dma100HigherThanDma200" : 0.00,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 0.00,
+      "pricePercentageAboveDma200" : 4.94,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "salesGrowthPercentile" : 20.00,
+      "operatingProfitMarginPercentile" : 12.00,
+      "netProfitMarginPercentile" : 9.57,
+      "totalTechnicalScore" : 19.63,
+      "totalFundamentalScore" : 41.57,
+      "totalScore" : 61.19
     }
   }, {
     "screenerCompanyId" : "3196",
@@ -14459,43 +14523,11 @@
       "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
-      "operatingProfitMarginPercentile" : 7.54,
-      "netProfitMarginPercentile" : 6.57,
+      "operatingProfitMarginPercentile" : 7.13,
+      "netProfitMarginPercentile" : 6.41,
       "totalTechnicalScore" : 25.26,
-      "totalFundamentalScore" : 34.12,
-      "totalScore" : 59.37
-    }
-  }, {
-    "screenerCompanyId" : "3503",
-    "companyCode" : "TVSSRICHAK",
-    "companyName" : "TVS Srichakra",
-    "screenerCompanyLink" : "https://www.screener.in/company/TVSSRICHAK/consolidated/",
-    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/3503/chart/?q=Price-DMA50-DMA200-Volume&days=365",
-    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/3503/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
-    "attributes" : {
-      "companyCode" : "TVSSRICHAK",
-      "companyName" : "TVS Srichakra",
-      "marketCap" : 3321.00,
-      "peRatio" : 32.40,
-      "description" : "TVS Srichakra, part of the TVS Group, is a leading manufacturer of two-wheeler tyres in India.[1]"
-    },
-    "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
-      "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.09,
-      "pricePercentageAboveDma200" : 4.83,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 16.10,
-      "operatingProfitMarginPercentile" : 12.19,
-      "netProfitMarginPercentile" : 7.30,
-      "totalTechnicalScore" : 29.95,
-      "totalFundamentalScore" : 35.59,
-      "totalScore" : 65.54
+      "totalFundamentalScore" : 33.54,
+      "totalScore" : 58.80
     }
   }, {
     "screenerCompanyId" : "3548",
@@ -14970,12 +15002,12 @@
       "pricePercentageAboveDma100" : 4.87,
       "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 5.00,
-      "operatingProfitMarginPercentile" : 16.24,
-      "netProfitMarginPercentile" : 5.62,
+      "salesGrowthPercentile" : 4.62,
+      "operatingProfitMarginPercentile" : 18.61,
+      "netProfitMarginPercentile" : 6.47,
       "totalTechnicalScore" : 44.59,
-      "totalFundamentalScore" : 26.87,
-      "totalScore" : 71.46
+      "totalFundamentalScore" : 29.69,
+      "totalScore" : 74.28
     }
   }, {
     "screenerCompanyId" : "3583",

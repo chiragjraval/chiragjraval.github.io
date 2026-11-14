@@ -25,11 +25,11 @@
       "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
-      "operatingProfitMarginPercentile" : 7.54,
-      "netProfitMarginPercentile" : 6.57,
+      "operatingProfitMarginPercentile" : 7.13,
+      "netProfitMarginPercentile" : 6.41,
       "totalTechnicalScore" : 25.26,
-      "totalFundamentalScore" : 34.12,
-      "totalScore" : 59.37
+      "totalFundamentalScore" : 33.54,
+      "totalScore" : 58.80
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "TVS Supply Chain Solutions provides supply chain management services for international organizations, government departments, and large and medium-sized businesses.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-14",
-    "price" : 122.45,
-    "dma50" : 127.53,
-    "dma100" : null,
-    "dma200" : 136.46,
-    "volume" : 1053586.00
-  }, {
     "date" : "2025-11-17",
     "price" : 122.05,
     "dma50" : 127.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-13",
     "price" : 109.37,
     "dma50" : 105.93,
-    "dma100" : 107.37,
+    "dma100" : null,
     "dma200" : 117.80,
     "volume" : 266826.00
   }, {
@@ -1954,17 +1947,27 @@
     "operatingProfit" : 13.90,
     "netProfitMargin" : 1.36,
     "netProfit" : 7.98
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 585.64,
+    "salesGrowthYoY" : 25.89,
+    "grossProfitMargin" : 93.39,
+    "grossProfit" : 546.93,
+    "operatingProfitMargin" : 1.97,
+    "operatingProfit" : 11.54,
+    "netProfitMargin" : 1.03,
+    "netProfit" : 6.03
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 586.66,
-    "salesGrowthYoY" : 25.37,
-    "grossProfitMargin" : 89.50,
-    "grossProfit" : 525.06,
-    "operatingProfitMargin" : 2.37,
-    "operatingProfit" : 13.90,
-    "netProfitMargin" : 1.36,
-    "netProfit" : 7.98
+    "date" : "2026-09-30",
+    "sales" : 585.64,
+    "salesGrowthYoY" : 25.89,
+    "grossProfitMargin" : 93.39,
+    "grossProfit" : 546.93,
+    "operatingProfitMargin" : 1.97,
+    "operatingProfit" : 11.54,
+    "netProfitMargin" : 1.03,
+    "netProfit" : 6.03
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -1978,10 +1981,10 @@
     "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
-    "operatingProfitMarginPercentile" : 7.54,
-    "netProfitMarginPercentile" : 6.57,
+    "operatingProfitMarginPercentile" : 7.13,
+    "netProfitMarginPercentile" : 6.41,
     "totalTechnicalScore" : 25.26,
-    "totalFundamentalScore" : 34.12,
-    "totalScore" : 59.37
+    "totalFundamentalScore" : 33.54,
+    "totalScore" : 58.80
   }
 }

@@ -10,7 +10,7 @@
       "companyCode" : "506528",
       "companyName" : "Keltech Energies",
       "marketCap" : 1656.00,
-      "peRatio" : 63.30,
+      "peRatio" : 58.70,
       "description" : "Incorporated in 1977, Keltech Energies Ltd manufactures explosives and perlite related products[1]"
     },
     "companyScore" : {
@@ -24,29 +24,22 @@
       "pricePercentageAboveDma100" : 3.02,
       "pricePercentageAboveDma200" : 1.27,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 14.88,
-      "operatingProfitMarginPercentile" : 12.56,
-      "netProfitMarginPercentile" : 7.33,
+      "salesGrowthPercentile" : 15.66,
+      "operatingProfitMarginPercentile" : 14.71,
+      "netProfitMarginPercentile" : 8.39,
       "totalTechnicalScore" : 38.45,
-      "totalFundamentalScore" : 34.76,
-      "totalScore" : 73.21
+      "totalFundamentalScore" : 38.77,
+      "totalScore" : 77.22
     }
   },
   "attributes" : {
     "companyCode" : "506528",
     "companyName" : "Keltech Energies",
     "marketCap" : 1656.00,
-    "peRatio" : 63.30,
+    "peRatio" : 58.70,
     "description" : "Incorporated in 1977, Keltech Energies Ltd manufactures explosives and perlite related products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-14",
-    "price" : 4275.65,
-    "dma50" : 4242.26,
-    "dma100" : null,
-    "dma200" : 3941.07,
-    "volume" : 1106.00
-  }, {
     "date" : "2025-11-17",
     "price" : 4248.60,
     "dma50" : 4242.50,
@@ -478,7 +471,7 @@
     "price" : 3625.95,
     "dma50" : 3561.46,
     "dma100" : null,
-    "dma200" : 3797.89,
+    "dma200" : 3797.90,
     "volume" : 3004.00
   }, {
     "date" : "2026-02-13",
@@ -695,7 +688,7 @@
     "price" : 3162.20,
     "dma50" : 3272.57,
     "dma100" : null,
-    "dma200" : 3630.35,
+    "dma200" : 3630.36,
     "volume" : 465.00
   }, {
     "date" : "2026-04-02",
@@ -743,7 +736,7 @@
     "date" : "2026-04-13",
     "price" : 3902.15,
     "dma50" : 3337.99,
-    "dma100" : 3514.31,
+    "dma100" : null,
     "dma200" : 3623.30,
     "volume" : 2070.00
   }, {
@@ -807,7 +800,7 @@
     "price" : 4452.00,
     "dma50" : 3646.09,
     "dma100" : 3530.94,
-    "dma200" : 3685.91,
+    "dma200" : 3685.92,
     "volume" : 661.00
   }, {
     "date" : "2026-04-28",
@@ -2644,17 +2637,27 @@
     "operatingProfit" : 13.80,
     "netProfitMargin" : 4.41,
     "netProfit" : 8.08
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 160.53,
+    "salesGrowthYoY" : 36.87,
+    "grossProfitMargin" : 29.02,
+    "grossProfit" : 46.59,
+    "operatingProfitMargin" : 8.15,
+    "operatingProfit" : 13.08,
+    "netProfitMargin" : 5.14,
+    "netProfit" : 8.25
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 183.28,
-    "salesGrowthYoY" : 27.76,
-    "grossProfitMargin" : 24.61,
-    "grossProfit" : 45.11,
-    "operatingProfitMargin" : 7.53,
-    "operatingProfit" : 13.80,
-    "netProfitMargin" : 4.41,
-    "netProfit" : 8.08
+    "date" : "2026-09-30",
+    "sales" : 160.53,
+    "salesGrowthYoY" : 36.87,
+    "grossProfitMargin" : 29.02,
+    "grossProfit" : 46.59,
+    "operatingProfitMargin" : 8.15,
+    "operatingProfit" : 13.08,
+    "netProfitMargin" : 5.14,
+    "netProfit" : 8.25
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -2667,11 +2670,11 @@
     "pricePercentageAboveDma100" : 3.02,
     "pricePercentageAboveDma200" : 1.27,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 14.88,
-    "operatingProfitMarginPercentile" : 12.56,
-    "netProfitMarginPercentile" : 7.33,
+    "salesGrowthPercentile" : 15.66,
+    "operatingProfitMarginPercentile" : 14.71,
+    "netProfitMarginPercentile" : 8.39,
     "totalTechnicalScore" : 38.45,
-    "totalFundamentalScore" : 34.76,
-    "totalScore" : 73.21
+    "totalFundamentalScore" : 38.77,
+    "totalScore" : 77.22
   }
 }

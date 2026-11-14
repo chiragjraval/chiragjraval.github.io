@@ -24,12 +24,12 @@
       "pricePercentageAboveDma100" : 4.87,
       "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 5.00,
-      "operatingProfitMarginPercentile" : 16.24,
-      "netProfitMarginPercentile" : 5.62,
+      "salesGrowthPercentile" : 4.62,
+      "operatingProfitMarginPercentile" : 18.61,
+      "netProfitMarginPercentile" : 6.47,
       "totalTechnicalScore" : 44.59,
-      "totalFundamentalScore" : 26.87,
-      "totalScore" : 71.46
+      "totalFundamentalScore" : 29.69,
+      "totalScore" : 74.28
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Vertis Infrastructure Trust (VIT) is an InvIT of road sector assets sponsored by Galaxy, which is invested in by funds, vehicles and/or entities managed and/or advised by KKR, with VFA as its investment manager, VPM, a 100% subsidiary of VFA, acting as project manager and Axis Trustee Services Ltd acting as trustee.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-14",
-    "price" : 109.00,
-    "dma50" : 103.65,
-    "dma100" : null,
-    "dma200" : 100.25,
-    "volume" : 75000.00
-  }, {
     "date" : "2025-11-17",
     "price" : 109.50,
     "dma50" : 103.88,
@@ -743,7 +736,7 @@
     "date" : "2026-05-25",
     "price" : 109.00,
     "dma50" : 107.81,
-    "dma100" : 107.89,
+    "dma100" : null,
     "dma200" : 105.05,
     "volume" : 50000.00
   }, {
@@ -1483,8 +1476,8 @@
     "salesGrowthYoY" : 205.81,
     "grossProfitMargin" : 100.00,
     "grossProfit" : 596.17,
-    "operatingProfitMargin" : 58.25,
-    "operatingProfit" : 347.27,
+    "operatingProfitMargin" : 96.43,
+    "operatingProfit" : 574.89,
     "netProfitMargin" : 59.29,
     "netProfit" : 353.47
   }, {
@@ -1513,21 +1506,31 @@
     "salesGrowthYoY" : 32.99,
     "grossProfitMargin" : 100.00,
     "grossProfit" : 735.52,
-    "operatingProfitMargin" : 91.64,
-    "operatingProfit" : 674.03,
-    "netProfitMargin" : 64.15,
-    "netProfit" : 471.84
+    "operatingProfitMargin" : 97.45,
+    "operatingProfit" : 716.76,
+    "netProfitMargin" : 69.96,
+    "netProfit" : 514.57
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 726.63,
+    "salesGrowthYoY" : 21.88,
+    "grossProfitMargin" : 100.00,
+    "grossProfit" : 726.63,
+    "operatingProfitMargin" : 96.65,
+    "operatingProfit" : 702.29,
+    "netProfitMargin" : 68.63,
+    "netProfit" : 498.69
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 735.52,
-    "salesGrowthYoY" : 32.99,
+    "date" : "2026-09-30",
+    "sales" : 726.63,
+    "salesGrowthYoY" : 21.88,
     "grossProfitMargin" : 100.00,
-    "grossProfit" : 735.52,
-    "operatingProfitMargin" : 91.64,
-    "operatingProfit" : 674.03,
-    "netProfitMargin" : 64.15,
-    "netProfit" : 471.84
+    "grossProfit" : 726.63,
+    "operatingProfitMargin" : 96.65,
+    "operatingProfit" : 702.29,
+    "netProfitMargin" : 68.63,
+    "netProfit" : 498.69
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -1540,11 +1543,11 @@
     "pricePercentageAboveDma100" : 4.87,
     "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 5.00,
-    "operatingProfitMarginPercentile" : 16.24,
-    "netProfitMarginPercentile" : 5.62,
+    "salesGrowthPercentile" : 4.62,
+    "operatingProfitMarginPercentile" : 18.61,
+    "netProfitMarginPercentile" : 6.47,
     "totalTechnicalScore" : 44.59,
-    "totalFundamentalScore" : 26.87,
-    "totalScore" : 71.46
+    "totalFundamentalScore" : 29.69,
+    "totalScore" : 74.28
   }
 }
