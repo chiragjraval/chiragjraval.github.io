@@ -10,7 +10,7 @@
       "companyCode" : "DHAMPURSUG",
       "companyName" : "Dhampur Sugar",
       "marketCap" : 1100.00,
-      "peRatio" : 15.60,
+      "peRatio" : 12.10,
       "description" : "Incorporated in 1933, Dhampur Sugar Mills Ltd manufactures and sells sugar, chemicals, ethanol, and cogeneration of power.[1]"
     },
     "companyScore" : {
@@ -24,29 +24,22 @@
       "pricePercentageAboveDma100" : 4.75,
       "pricePercentageAboveDma200" : 4.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 9.76,
-      "operatingProfitMarginPercentile" : 6.62,
-      "netProfitMarginPercentile" : 5.43,
+      "salesGrowthPercentile" : 8.43,
+      "operatingProfitMarginPercentile" : 7.35,
+      "netProfitMarginPercentile" : 5.81,
       "totalTechnicalScore" : 44.24,
-      "totalFundamentalScore" : 21.80,
-      "totalScore" : 66.04
+      "totalFundamentalScore" : 21.59,
+      "totalScore" : 65.83
     }
   },
   "attributes" : {
     "companyCode" : "DHAMPURSUG",
     "companyName" : "Dhampur Sugar",
     "marketCap" : 1100.00,
-    "peRatio" : 15.60,
+    "peRatio" : 12.10,
     "description" : "Incorporated in 1933, Dhampur Sugar Mills Ltd manufactures and sells sugar, chemicals, ethanol, and cogeneration of power.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-14",
-    "price" : 131.28,
-    "dma50" : 136.46,
-    "dma100" : null,
-    "dma200" : 146.59,
-    "volume" : 133508.00
-  }, {
     "date" : "2025-11-17",
     "price" : 131.59,
     "dma50" : 136.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-13",
     "price" : 140.24,
     "dma50" : 127.07,
-    "dma100" : 123.44,
+    "dma100" : null,
     "dma200" : 132.25,
     "volume" : 571689.00
   }, {
@@ -2644,17 +2637,27 @@
     "operatingProfit" : 30.46,
     "netProfitMargin" : 0.96,
     "netProfit" : 5.30
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 502.99,
+    "salesGrowthYoY" : -0.05,
+    "grossProfitMargin" : 22.91,
+    "grossProfit" : 115.24,
+    "operatingProfitMargin" : 8.14,
+    "operatingProfit" : 40.94,
+    "netProfitMargin" : 2.48,
+    "netProfit" : 12.47
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 551.86,
-    "salesGrowthYoY" : 5.86,
-    "grossProfitMargin" : 16.95,
-    "grossProfit" : 93.54,
-    "operatingProfitMargin" : 5.52,
-    "operatingProfit" : 30.46,
-    "netProfitMargin" : 0.96,
-    "netProfit" : 5.30
+    "date" : "2026-09-30",
+    "sales" : 502.99,
+    "salesGrowthYoY" : -0.05,
+    "grossProfitMargin" : 22.91,
+    "grossProfit" : 115.24,
+    "operatingProfitMargin" : 8.14,
+    "operatingProfit" : 40.94,
+    "netProfitMargin" : 2.48,
+    "netProfit" : 12.47
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -2667,11 +2670,11 @@
     "pricePercentageAboveDma100" : 4.75,
     "pricePercentageAboveDma200" : 4.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 9.76,
-    "operatingProfitMarginPercentile" : 6.62,
-    "netProfitMarginPercentile" : 5.43,
+    "salesGrowthPercentile" : 8.43,
+    "operatingProfitMarginPercentile" : 7.35,
+    "netProfitMarginPercentile" : 5.81,
     "totalTechnicalScore" : 44.24,
-    "totalFundamentalScore" : 21.80,
-    "totalScore" : 66.04
+    "totalFundamentalScore" : 21.59,
+    "totalScore" : 65.83
   }
 }
