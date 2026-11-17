@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "REDINGTON",
       "companyName" : "Redington",
-      "marketCap" : 27339.00,
-      "peRatio" : 13.60,
+      "marketCap" : 26623.00,
+      "peRatio" : 13.30,
       "description" : "Established in the year 1993, Redington Limited is a leading distributor of IT and mobility products and a provider of supply chain management solutions and support services in India, the Middle East, Turkey and Africa.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.13,
-      "pricePercentageAboveDma100" : 4.90,
-      "pricePercentageAboveDma200" : 4.41,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 4.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 6.59,
       "netProfitMarginPercentile" : 9.02,
-      "totalTechnicalScore" : 39.44,
+      "totalTechnicalScore" : 34.85,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 75.06
+      "totalScore" : 70.47
     }
   },
   "attributes" : {
     "companyCode" : "REDINGTON",
     "companyName" : "Redington",
-    "marketCap" : 27339.00,
-    "peRatio" : 13.60,
+    "marketCap" : 26623.00,
+    "peRatio" : 13.30,
     "description" : "Established in the year 1993, Redington Limited is a leading distributor of IT and mobility products and a provider of supply chain management solutions and support services in India, the Middle East, Turkey and Africa.[1]"
   },
   "technicalHistory" : [ {
@@ -422,7 +422,7 @@
     "price" : 276.65,
     "dma50" : 270.87,
     "dma100" : null,
-    "dma200" : 264.43,
+    "dma200" : 264.42,
     "volume" : 1501823.00
   }, {
     "date" : "2026-02-04",
@@ -527,7 +527,7 @@
     "price" : 239.95,
     "dma50" : 265.95,
     "dma100" : null,
-    "dma200" : 263.99,
+    "dma200" : 263.98,
     "volume" : 1480154.00
   }, {
     "date" : "2026-02-25",
@@ -590,7 +590,7 @@
     "price" : 259.30,
     "dma50" : 261.61,
     "dma100" : null,
-    "dma200" : 262.94,
+    "dma200" : 262.93,
     "volume" : 80019823.00
   }, {
     "date" : "2026-03-11",
@@ -849,7 +849,7 @@
     "price" : 224.49,
     "dma50" : 229.17,
     "dma100" : 248.99,
-    "dma200" : 249.58,
+    "dma200" : 249.57,
     "volume" : 2727638.00
   }, {
     "date" : "2026-05-08",
@@ -1768,14 +1768,21 @@
     "dma100" : 343.06,
     "dma200" : 312.55,
     "volume" : 2712617.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 340.55,
+    "dma50" : 358.60,
+    "dma100" : 343.70,
+    "dma200" : 312.83,
+    "volume" : 2299658.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 349.70,
-    "dma50" : 359.34,
-    "dma100" : 343.06,
-    "dma200" : 312.55,
-    "volume" : 2712617.00
+    "date" : "2026-11-16",
+    "price" : 340.55,
+    "dma50" : 358.60,
+    "dma100" : 343.70,
+    "dma200" : 312.83,
+    "volume" : 2299658.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2611,20 +2618,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.13,
-    "pricePercentageAboveDma100" : 4.90,
-    "pricePercentageAboveDma200" : 4.41,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 4.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 6.59,
     "netProfitMarginPercentile" : 9.02,
-    "totalTechnicalScore" : 39.44,
+    "totalTechnicalScore" : 34.85,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 75.06
+    "totalScore" : 70.47
   }
 }

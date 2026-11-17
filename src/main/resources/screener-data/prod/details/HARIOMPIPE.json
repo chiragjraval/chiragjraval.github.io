@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "HARIOMPIPE",
       "companyName" : "Hariom Pipe",
-      "marketCap" : 1139.00,
-      "peRatio" : 13.00,
+      "marketCap" : 1117.00,
+      "peRatio" : 12.70,
       "description" : "Incorporated in 2008, Hariom Pipe Industries Ltd is a manufacturer of high-quality steel products[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.68,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.98,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 5.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.79,
       "operatingProfitMarginPercentile" : 5.22,
       "netProfitMarginPercentile" : 5.22,
-      "totalTechnicalScore" : 29.59,
+      "totalTechnicalScore" : 19.88,
       "totalFundamentalScore" : 26.22,
-      "totalScore" : 55.81
+      "totalScore" : 46.10
     }
   },
   "attributes" : {
     "companyCode" : "HARIOMPIPE",
     "companyName" : "Hariom Pipe",
-    "marketCap" : 1139.00,
-    "peRatio" : 13.00,
+    "marketCap" : 1117.00,
+    "peRatio" : 12.70,
     "description" : "Incorporated in 2008, Hariom Pipe Industries Ltd is a manufacturer of high-quality steel products[1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 362.67,
     "dma200" : 366.27,
     "volume" : 94712.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 360.80,
+    "dma50" : 346.00,
+    "dma100" : 362.09,
+    "dma200" : 366.21,
+    "volume" : 59744.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 367.65,
-    "dma50" : 345.40,
-    "dma100" : 362.67,
-    "dma200" : 366.27,
-    "volume" : 94712.00
+    "date" : "2026-11-16",
+    "price" : 360.80,
+    "dma50" : 346.00,
+    "dma100" : 362.09,
+    "dma200" : 366.21,
+    "volume" : 59744.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -2021,20 +2028,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.68,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.98,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 5.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.79,
     "operatingProfitMarginPercentile" : 5.22,
     "netProfitMarginPercentile" : 5.22,
-    "totalTechnicalScore" : 29.59,
+    "totalTechnicalScore" : 19.88,
     "totalFundamentalScore" : 26.22,
-    "totalScore" : 55.81
+    "totalScore" : 46.10
   }
 }

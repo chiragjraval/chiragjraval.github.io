@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AXISBANK",
       "companyName" : "Axis Bank",
-      "marketCap" : 414537.00,
-      "peRatio" : 13.80,
+      "marketCap" : 418087.00,
+      "peRatio" : 14.00,
       "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
     },
     "companyScore" : {
@@ -18,25 +18,25 @@
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
-      "dma50HigherThanDma200" : 0.00,
+      "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.72,
-      "pricePercentageAboveDma100" : 4.73,
-      "pricePercentageAboveDma200" : 4.72,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.69,
+      "pricePercentageAboveDma200" : 4.68,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.84,
       "operatingProfitMarginPercentile" : 18.04,
       "netProfitMarginPercentile" : 8.42,
-      "totalTechnicalScore" : 34.17,
+      "totalTechnicalScore" : 44.05,
       "totalFundamentalScore" : 37.31,
-      "totalScore" : 71.47
+      "totalScore" : 81.35
     }
   },
   "attributes" : {
     "companyCode" : "AXISBANK",
     "companyName" : "Axis Bank",
-    "marketCap" : 414537.00,
-    "peRatio" : 13.80,
+    "marketCap" : 418087.00,
+    "peRatio" : 14.00,
     "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
   },
   "technicalHistory" : [ {
@@ -212,7 +212,7 @@
     "price" : 1230.60,
     "dma50" : 1236.07,
     "dma100" : null,
-    "dma200" : 1171.49,
+    "dma200" : 1171.48,
     "volume" : 5088264.00
   }, {
     "date" : "2025-12-22",
@@ -275,7 +275,7 @@
     "price" : 1266.90,
     "dma50" : 1239.17,
     "dma100" : null,
-    "dma200" : 1177.82,
+    "dma200" : 1177.81,
     "volume" : 5903661.00
   }, {
     "date" : "2026-01-05",
@@ -464,7 +464,7 @@
     "price" : 1347.30,
     "dma50" : 1292.60,
     "dma100" : null,
-    "dma200" : 1210.13,
+    "dma200" : 1210.12,
     "volume" : 3961979.00
   }, {
     "date" : "2026-02-12",
@@ -1003,7 +1003,7 @@
     "price" : 1292.40,
     "dma50" : 1281.45,
     "dma100" : 1298.02,
-    "dma200" : 1252.34,
+    "dma200" : 1252.33,
     "volume" : 7797894.00
   }, {
     "date" : "2026-06-10",
@@ -1768,14 +1768,21 @@
     "dma100" : 1263.43,
     "dma200" : 1259.74,
     "volume" : 4381384.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1342.40,
+    "dma50" : 1262.98,
+    "dma100" : 1263.22,
+    "dma200" : 1260.56,
+    "volume" : 5474197.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1331.00,
-    "dma50" : 1259.73,
-    "dma100" : 1263.43,
-    "dma200" : 1259.74,
-    "volume" : 4381384.00
+    "date" : "2026-11-16",
+    "price" : 1342.40,
+    "dma50" : 1262.98,
+    "dma100" : 1263.22,
+    "dma200" : 1260.56,
+    "volume" : 5474197.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2664,17 +2671,17 @@
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
-    "dma50HigherThanDma200" : 0.00,
+    "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.72,
-    "pricePercentageAboveDma100" : 4.73,
-    "pricePercentageAboveDma200" : 4.72,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.69,
+    "pricePercentageAboveDma200" : 4.68,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.84,
     "operatingProfitMarginPercentile" : 18.04,
     "netProfitMarginPercentile" : 8.42,
-    "totalTechnicalScore" : 34.17,
+    "totalTechnicalScore" : 44.05,
     "totalFundamentalScore" : 37.31,
-    "totalScore" : 71.47
+    "totalScore" : 81.35
   }
 }

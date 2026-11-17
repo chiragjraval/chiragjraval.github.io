@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "ORCHPHARMA",
       "companyName" : "Orchid Pharma",
-      "marketCap" : 5296.00,
-      "peRatio" : 101.00,
+      "marketCap" : 5535.00,
+      "peRatio" : 106.00,
       "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.46,
-      "pricePercentageAboveDma200" : 4.98,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.25,
+      "pricePercentageAboveDma200" : 4.75,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 14.34,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 30.64,
+      "totalTechnicalScore" : 39.99,
       "totalFundamentalScore" : 35.38,
-      "totalScore" : 66.02
+      "totalScore" : 75.38
     }
   },
   "attributes" : {
     "companyCode" : "ORCHPHARMA",
     "companyName" : "Orchid Pharma",
-    "marketCap" : 5296.00,
-    "peRatio" : 101.00,
+    "marketCap" : 5535.00,
+    "peRatio" : 106.00,
     "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
   },
   "technicalHistory" : [ {
@@ -58,7 +58,7 @@
     "price" : 850.20,
     "dma50" : 765.46,
     "dma100" : null,
-    "dma200" : 851.27,
+    "dma200" : 851.26,
     "volume" : 95816.00
   }, {
     "date" : "2025-11-20",
@@ -170,7 +170,7 @@
     "price" : 848.95,
     "dma50" : 805.73,
     "dma100" : null,
-    "dma200" : 851.27,
+    "dma200" : 851.26,
     "volume" : 32435.00
   }, {
     "date" : "2025-12-12",
@@ -1768,14 +1768,21 @@
     "dma100" : 973.45,
     "dma200" : 880.52,
     "volume" : 92778.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 924.25,
+    "dma50" : 922.28,
+    "dma100" : 972.80,
+    "dma200" : 880.96,
+    "volume" : 848860.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 884.40,
-    "dma50" : 922.20,
-    "dma100" : 973.45,
-    "dma200" : 880.52,
-    "volume" : 92778.00
+    "date" : "2026-11-16",
+    "price" : 924.25,
+    "dma50" : 922.28,
+    "dma100" : 972.80,
+    "dma200" : 880.96,
+    "volume" : 848860.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2667,21 @@
     "netProfit" : 36.75
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.46,
-    "pricePercentageAboveDma200" : 4.98,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.25,
+    "pricePercentageAboveDma200" : 4.75,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 14.34,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 30.64,
+    "totalTechnicalScore" : 39.99,
     "totalFundamentalScore" : 35.38,
-    "totalScore" : 66.02
+    "totalScore" : 75.38
   }
 }

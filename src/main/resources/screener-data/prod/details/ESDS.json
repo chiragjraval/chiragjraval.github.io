@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ESDS",
       "companyName" : "ESDS Software",
-      "marketCap" : 14774.00,
-      "peRatio" : 114.00,
+      "marketCap" : 14036.00,
+      "peRatio" : 109.00,
       "description" : "ESDS delivers India's enterprise cloud, GPU, data centre and AI infrastructure, built in India and governed by Indian law.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma50" : 5.31,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.25,
+      "pricePercentageAboveDma200" : 4.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 19.33,
+      "totalTechnicalScore" : 19.85,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 63.33
+      "totalScore" : 63.85
     }
   },
   "attributes" : {
     "companyCode" : "ESDS",
     "companyName" : "ESDS Software",
-    "marketCap" : 14774.00,
-    "peRatio" : 114.00,
+    "marketCap" : 14036.00,
+    "peRatio" : 109.00,
     "description" : "ESDS delivers India's enterprise cloud, GPU, data centre and AI infrastructure, built in India and governed by Indian law.[1]"
   },
   "technicalHistory" : [ {
@@ -375,14 +375,21 @@
     "dma100" : null,
     "dma200" : 1096.05,
     "volume" : 938082.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1197.50,
+    "dma50" : 1277.22,
+    "dma100" : null,
+    "dma200" : 1097.06,
+    "volume" : 466976.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1260.50,
-    "dma50" : 1280.48,
+    "date" : "2026-11-16",
+    "price" : 1197.50,
+    "dma50" : 1277.22,
     "dma100" : null,
-    "dma200" : 1096.05,
-    "volume" : 938082.00
+    "dma200" : 1097.06,
+    "volume" : 466976.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -453,15 +460,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma50" : 5.31,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.25,
+    "pricePercentageAboveDma200" : 4.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 19.33,
+    "totalTechnicalScore" : 19.85,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 63.33
+    "totalScore" : 63.85
   }
 }

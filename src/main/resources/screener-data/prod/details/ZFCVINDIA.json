@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "ZFCVINDIA",
       "companyName" : "ZF Commercial",
-      "marketCap" : 26544.00,
-      "peRatio" : 52.20,
+      "marketCap" : 25123.00,
+      "peRatio" : 49.40,
       "description" : "Operating under the ZF WABCO brand and part of ZF Group Commercial Vehicle Control Systems Division, WABCO INDIA Limited is India’s market leader for advanced braking systems, conventional braking products and related air assisted technologies and systems in India. It also provides software development and other services. Its headquarter is in Chennai, India"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.37,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.43,
       "operatingProfitMarginPercentile" : 15.06,
       "netProfitMarginPercentile" : 8.21,
-      "totalTechnicalScore" : 25.07,
+      "totalTechnicalScore" : 20.85,
       "totalFundamentalScore" : 38.71,
-      "totalScore" : 63.78
+      "totalScore" : 59.56
     }
   },
   "attributes" : {
     "companyCode" : "ZFCVINDIA",
     "companyName" : "ZF Commercial",
-    "marketCap" : 26544.00,
-    "peRatio" : 52.20,
+    "marketCap" : 25123.00,
+    "peRatio" : 49.40,
     "description" : "Operating under the ZF WABCO brand and part of ZF Group Commercial Vehicle Control Systems Division, WABCO INDIA Limited is India’s market leader for advanced braking systems, conventional braking products and related air assisted technologies and systems in India. It also provides software development and other services. Its headquarter is in Chennai, India"
   },
   "technicalHistory" : [ {
@@ -107,7 +107,7 @@
     "price" : 2200.67,
     "dma50" : 2170.99,
     "dma100" : null,
-    "dma200" : 2193.80,
+    "dma200" : 2193.81,
     "volume" : 78223.00
   }, {
     "date" : "2025-12-01",
@@ -163,7 +163,7 @@
     "price" : 2393.50,
     "dma50" : 2244.49,
     "dma100" : null,
-    "dma200" : 2212.77,
+    "dma200" : 2212.78,
     "volume" : 239046.00
   }, {
     "date" : "2025-12-11",
@@ -345,7 +345,7 @@
     "price" : 2337.00,
     "dma50" : 2367.79,
     "dma100" : null,
-    "dma200" : 2265.70,
+    "dma200" : 2265.71,
     "volume" : 47826.00
   }, {
     "date" : "2026-01-20",
@@ -1768,14 +1768,21 @@
     "dma100" : 2390.62,
     "dma200" : 2364.96,
     "volume" : 169162.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 2207.50,
+    "dma50" : 2276.08,
+    "dma100" : 2385.89,
+    "dma200" : 2363.39,
+    "volume" : 95299.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 2332.40,
-    "dma50" : 2278.88,
-    "dma100" : 2390.62,
-    "dma200" : 2364.96,
-    "volume" : 169162.00
+    "date" : "2026-11-16",
+    "price" : 2207.50,
+    "dma50" : 2276.08,
+    "dma100" : 2385.89,
+    "dma200" : 2363.39,
+    "volume" : 95299.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-06-30",
@@ -2530,21 +2537,21 @@
     "netProfit" : 123.94
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.88,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.37,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.43,
     "operatingProfitMarginPercentile" : 15.06,
     "netProfitMarginPercentile" : 8.21,
-    "totalTechnicalScore" : 25.07,
+    "totalTechnicalScore" : 20.85,
     "totalFundamentalScore" : 38.71,
-    "totalScore" : 63.78
+    "totalScore" : 59.56
   }
 }

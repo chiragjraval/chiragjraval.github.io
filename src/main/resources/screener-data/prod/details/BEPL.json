@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BEPL",
       "companyName" : "Bhansali Engg.",
-      "marketCap" : 2805.00,
-      "peRatio" : 12.60,
+      "marketCap" : 2753.00,
+      "peRatio" : 12.40,
       "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.17,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 4.88,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 4.97,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 30.27,
+      "totalTechnicalScore" : 30.54,
       "totalFundamentalScore" : 41.56,
-      "totalScore" : 71.83
+      "totalScore" : 72.10
     }
   },
   "attributes" : {
     "companyCode" : "BEPL",
     "companyName" : "Bhansali Engg.",
-    "marketCap" : 2805.00,
-    "peRatio" : 12.60,
+    "marketCap" : 2753.00,
+    "peRatio" : 12.40,
     "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
   },
   "technicalHistory" : [ {
@@ -695,7 +695,7 @@
     "price" : 87.08,
     "dma50" : 84.49,
     "dma100" : null,
-    "dma200" : 94.92,
+    "dma200" : 94.91,
     "volume" : 552641.00
   }, {
     "date" : "2026-04-06",
@@ -1768,14 +1768,21 @@
     "dma100" : 117.88,
     "dma200" : 110.07,
     "volume" : 509149.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 110.63,
+    "dma50" : 116.48,
+    "dma100" : 117.95,
+    "dma200" : 110.07,
+    "volume" : 407736.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 112.70,
-    "dma50" : 116.71,
-    "dma100" : 117.88,
+    "date" : "2026-11-16",
+    "price" : 110.63,
+    "dma50" : 116.48,
+    "dma100" : 117.95,
     "dma200" : 110.07,
-    "volume" : 509149.00
+    "volume" : 407736.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.17,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 4.88,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 4.97,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 30.27,
+    "totalTechnicalScore" : 30.54,
     "totalFundamentalScore" : 41.56,
-    "totalScore" : 71.83
+    "totalScore" : 72.10
   }
 }

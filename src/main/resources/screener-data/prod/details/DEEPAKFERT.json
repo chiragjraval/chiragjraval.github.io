@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "DEEPAKFERT",
       "companyName" : "Deepak Fertilis.",
-      "marketCap" : 15929.00,
-      "peRatio" : 13.70,
+      "marketCap" : 17077.00,
+      "peRatio" : 14.70,
       "description" : "Incorporated in 1979, Deepak Fertilisers and Petrochemicals Corporation Ltd is in the business of fertlisers, agri services, bulk chemicals, mining chemicals and real estate[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.54,
-      "pricePercentageAboveDma200" : 5.27,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.73,
+      "pricePercentageAboveDma100" : 5.21,
+      "pricePercentageAboveDma200" : 4.93,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 3.90,
       "netProfitMarginPercentile" : 2.41,
-      "totalTechnicalScore" : 20.88,
+      "totalTechnicalScore" : 34.87,
       "totalFundamentalScore" : 19.57,
-      "totalScore" : 40.46
+      "totalScore" : 54.44
     }
   },
   "attributes" : {
     "companyCode" : "DEEPAKFERT",
     "companyName" : "Deepak Fertilis.",
-    "marketCap" : 15929.00,
-    "peRatio" : 13.70,
+    "marketCap" : 17077.00,
+    "peRatio" : 14.70,
     "description" : "Incorporated in 1979, Deepak Fertilisers and Petrochemicals Corporation Ltd is in the business of fertlisers, agri services, bulk chemicals, mining chemicals and real estate[1]"
   },
   "technicalHistory" : [ {
@@ -135,7 +135,7 @@
     "price" : 1320.70,
     "dma50" : 1426.00,
     "dma100" : null,
-    "dma200" : 1380.18,
+    "dma200" : 1380.17,
     "volume" : 125857.00
   }, {
     "date" : "2025-12-05",
@@ -415,7 +415,7 @@
     "price" : 969.60,
     "dma50" : 1228.06,
     "dma100" : null,
-    "dma200" : 1319.77,
+    "dma200" : 1319.76,
     "volume" : 603429.00
   }, {
     "date" : "2026-02-03",
@@ -1409,7 +1409,7 @@
     "price" : 1407.00,
     "dma50" : 1495.78,
     "dma100" : 1441.41,
-    "dma200" : 1371.59,
+    "dma200" : 1371.58,
     "volume" : 685041.00
   }, {
     "date" : "2026-09-01",
@@ -1768,14 +1768,21 @@
     "dma100" : 1414.09,
     "dma200" : 1334.33,
     "volume" : 246698.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1352.80,
+    "dma50" : 1283.65,
+    "dma100" : 1411.79,
+    "dma200" : 1334.51,
+    "volume" : 3863401.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1261.80,
-    "dma50" : 1280.83,
-    "dma100" : 1414.09,
-    "dma200" : 1334.33,
-    "volume" : 246698.00
+    "date" : "2026-11-16",
+    "price" : 1352.80,
+    "dma50" : 1283.65,
+    "dma100" : 1411.79,
+    "dma200" : 1334.51,
+    "volume" : 3863401.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2667,21 @@
     "netProfit" : 25.59
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.54,
-    "pricePercentageAboveDma200" : 5.27,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.73,
+    "pricePercentageAboveDma100" : 5.21,
+    "pricePercentageAboveDma200" : 4.93,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 3.90,
     "netProfitMarginPercentile" : 2.41,
-    "totalTechnicalScore" : 20.88,
+    "totalTechnicalScore" : 34.87,
     "totalFundamentalScore" : 19.57,
-    "totalScore" : 40.46
+    "totalScore" : 54.44
   }
 }

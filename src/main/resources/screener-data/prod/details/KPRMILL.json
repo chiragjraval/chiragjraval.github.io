@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "KPRMILL",
       "companyName" : "K P R Mill Ltd",
-      "marketCap" : 39596.00,
-      "peRatio" : 38.10,
+      "marketCap" : 41394.00,
+      "peRatio" : 39.80,
       "description" : "K.P.R. Mill is engaged in one of the largest vertically integrated apparel manufacturing Companies in India. The Company produces Yarn, Knitted Fabric, Readymade Garments and Wind power.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.53,
+      "pricePercentageAboveDma50" : 4.57,
+      "pricePercentageAboveDma100" : 4.57,
+      "pricePercentageAboveDma200" : 4.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.43,
       "operatingProfitMarginPercentile" : 19.28,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 39.12,
+      "totalTechnicalScore" : 43.43,
       "totalFundamentalScore" : 43.71,
-      "totalScore" : 82.83
+      "totalScore" : 87.14
     }
   },
   "attributes" : {
     "companyCode" : "KPRMILL",
     "companyName" : "K P R Mill Ltd",
-    "marketCap" : 39596.00,
-    "peRatio" : 38.10,
+    "marketCap" : 41394.00,
+    "peRatio" : 39.80,
     "description" : "K.P.R. Mill is engaged in one of the largest vertically integrated apparel manufacturing Companies in India. The Company produces Yarn, Knitted Fabric, Readymade Garments and Wind power.[1]"
   },
   "technicalHistory" : [ {
@@ -170,7 +170,7 @@
     "price" : 971.10,
     "dma50" : 1047.61,
     "dma100" : null,
-    "dma200" : 1039.00,
+    "dma200" : 1038.99,
     "volume" : 194843.00
   }, {
     "date" : "2025-12-12",
@@ -233,14 +233,14 @@
     "price" : 940.80,
     "dma50" : 1022.15,
     "dma100" : null,
-    "dma200" : 1032.55,
+    "dma200" : 1032.54,
     "volume" : 123918.00
   }, {
     "date" : "2025-12-26",
     "price" : 938.10,
     "dma50" : 1018.86,
     "dma100" : null,
-    "dma200" : 1031.61,
+    "dma200" : 1031.60,
     "volume" : 277644.00
   }, {
     "date" : "2025-12-29",
@@ -296,7 +296,7 @@
     "price" : 885.70,
     "dma50" : 990.66,
     "dma100" : null,
-    "dma200" : 1022.81,
+    "dma200" : 1022.80,
     "volume" : 207769.00
   }, {
     "date" : "2026-01-08",
@@ -492,7 +492,7 @@
     "price" : 914.10,
     "dma50" : 933.02,
     "dma100" : null,
-    "dma200" : 991.96,
+    "dma200" : 991.95,
     "volume" : 252360.00
   }, {
     "date" : "2026-02-18",
@@ -653,7 +653,7 @@
     "price" : 822.75,
     "dma50" : 887.68,
     "dma100" : null,
-    "dma200" : 965.67,
+    "dma200" : 965.66,
     "volume" : 586952.00
   }, {
     "date" : "2026-03-24",
@@ -737,7 +737,7 @@
     "price" : 870.70,
     "dma50" : 873.18,
     "dma100" : null,
-    "dma200" : 952.43,
+    "dma200" : 952.42,
     "volume" : 332867.00
   }, {
     "date" : "2026-04-15",
@@ -821,7 +821,7 @@
     "price" : 936.60,
     "dma50" : 892.88,
     "dma100" : 900.30,
-    "dma200" : 949.21,
+    "dma200" : 949.20,
     "volume" : 247861.00
   }, {
     "date" : "2026-05-04",
@@ -1768,14 +1768,21 @@
     "dma100" : 1113.65,
     "dma200" : 1058.80,
     "volume" : 310896.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1211.00,
+    "dma50" : 1115.66,
+    "dma100" : 1114.45,
+    "dma200" : 1060.31,
+    "volume" : 615001.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1158.40,
-    "dma50" : 1111.77,
-    "dma100" : 1113.65,
-    "dma200" : 1058.80,
-    "volume" : 310896.00
+    "date" : "2026-11-16",
+    "price" : 1211.00,
+    "dma50" : 1115.66,
+    "dma100" : 1114.45,
+    "dma200" : 1060.31,
+    "volume" : 615001.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-03-31",
@@ -2623,18 +2630,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.53,
+    "pricePercentageAboveDma50" : 4.57,
+    "pricePercentageAboveDma100" : 4.57,
+    "pricePercentageAboveDma200" : 4.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.43,
     "operatingProfitMarginPercentile" : 19.28,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 39.12,
+    "totalTechnicalScore" : 43.43,
     "totalFundamentalScore" : 43.71,
-    "totalScore" : 82.83
+    "totalScore" : 87.14
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NELCAST",
       "companyName" : "Nelcast",
-      "marketCap" : 1335.00,
-      "peRatio" : 25.40,
+      "marketCap" : 1308.00,
+      "peRatio" : 24.90,
       "description" : "Incorporated in 1982, Nelcast Ltd is in the business of manufacturing Iron Castings[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.33,
-      "pricePercentageAboveDma100" : 4.00,
-      "pricePercentageAboveDma200" : 4.01,
+      "pricePercentageAboveDma50" : 4.47,
+      "pricePercentageAboveDma100" : 4.12,
+      "pricePercentageAboveDma200" : 4.14,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.13,
       "operatingProfitMarginPercentile" : 13.58,
       "netProfitMarginPercentile" : 5.42,
-      "totalTechnicalScore" : 42.33,
+      "totalTechnicalScore" : 42.74,
       "totalFundamentalScore" : 34.13,
-      "totalScore" : 76.46
+      "totalScore" : 76.86
     }
   },
   "attributes" : {
     "companyCode" : "NELCAST",
     "companyName" : "Nelcast",
-    "marketCap" : 1335.00,
-    "peRatio" : 25.40,
+    "marketCap" : 1308.00,
+    "peRatio" : 24.90,
     "description" : "Incorporated in 1982, Nelcast Ltd is in the business of manufacturing Iron Castings[1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 127.84,
     "dma200" : 128.05,
     "volume" : 214374.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 150.34,
+    "dma50" : 135.96,
+    "dma100" : 127.95,
+    "dma200" : 128.27,
+    "volume" : 163838.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 153.49,
-    "dma50" : 135.37,
-    "dma100" : 127.84,
-    "dma200" : 128.05,
-    "volume" : 214374.00
+    "date" : "2026-11-16",
+    "price" : 150.34,
+    "dma50" : 135.96,
+    "dma100" : 127.95,
+    "dma200" : 128.27,
+    "volume" : 163838.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2616,15 +2623,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.33,
-    "pricePercentageAboveDma100" : 4.00,
-    "pricePercentageAboveDma200" : 4.01,
+    "pricePercentageAboveDma50" : 4.47,
+    "pricePercentageAboveDma100" : 4.12,
+    "pricePercentageAboveDma200" : 4.14,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.13,
     "operatingProfitMarginPercentile" : 13.58,
     "netProfitMarginPercentile" : 5.42,
-    "totalTechnicalScore" : 42.33,
+    "totalTechnicalScore" : 42.74,
     "totalFundamentalScore" : 34.13,
-    "totalScore" : 76.46
+    "totalScore" : 76.86
   }
 }

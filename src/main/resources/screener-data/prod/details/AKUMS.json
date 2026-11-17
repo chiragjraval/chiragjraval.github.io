@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "AKUMS",
       "companyName" : "Akums Drugs",
-      "marketCap" : 11664.00,
-      "peRatio" : 30.90,
+      "marketCap" : 11367.00,
+      "peRatio" : 30.10,
       "description" : "Established in 2004, Akums Drugs and Pharmaceuticals Limited is a pharmaceutical contract development and manufacturing organization (CDMO) offering a comprehensive range of pharmaceutical products and services.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 4.91,
-      "pricePercentageAboveDma200" : 4.33,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.04,
+      "pricePercentageAboveDma200" : 4.48,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 17.17,
       "netProfitMarginPercentile" : 9.06,
-      "totalTechnicalScore" : 39.27,
+      "totalTechnicalScore" : 39.67,
       "totalFundamentalScore" : 46.23,
-      "totalScore" : 85.49
+      "totalScore" : 85.90
     }
   },
   "attributes" : {
     "companyCode" : "AKUMS",
     "companyName" : "Akums Drugs",
-    "marketCap" : 11664.00,
-    "peRatio" : 30.90,
+    "marketCap" : 11367.00,
+    "peRatio" : 30.10,
     "description" : "Established in 2004, Akums Drugs and Pharmaceuticals Limited is a pharmaceutical contract development and manufacturing organization (CDMO) offering a comprehensive range of pharmaceutical products and services.[1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 727.62,
     "dma200" : 653.75,
     "volume" : 139102.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 722.20,
+    "dma50" : 743.92,
+    "dma100" : 728.65,
+    "dma200" : 654.43,
+    "volume" : 330447.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 741.05,
-    "dma50" : 744.81,
-    "dma100" : 727.62,
-    "dma200" : 653.75,
-    "volume" : 139102.00
+    "date" : "2026-11-16",
+    "price" : 722.20,
+    "dma50" : 743.92,
+    "dma100" : 728.65,
+    "dma200" : 654.43,
+    "volume" : 330447.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-06-30",
@@ -1931,20 +1938,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 4.91,
-    "pricePercentageAboveDma200" : 4.33,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.04,
+    "pricePercentageAboveDma200" : 4.48,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 17.17,
     "netProfitMarginPercentile" : 9.06,
-    "totalTechnicalScore" : 39.27,
+    "totalTechnicalScore" : 39.67,
     "totalFundamentalScore" : 46.23,
-    "totalScore" : 85.49
+    "totalScore" : 85.90
   }
 }

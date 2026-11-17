@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "BALMLAWRIE",
       "companyName" : "Balmer Lawrie",
-      "marketCap" : 2949.00,
-      "peRatio" : 9.76,
+      "marketCap" : 2893.00,
+      "peRatio" : 9.58,
       "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.76,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 5.06,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 29.76,
+      "totalTechnicalScore" : 25.05,
       "totalFundamentalScore" : 43.03,
-      "totalScore" : 72.79
+      "totalScore" : 68.08
     }
   },
   "attributes" : {
     "companyCode" : "BALMLAWRIE",
     "companyName" : "Balmer Lawrie",
-    "marketCap" : 2949.00,
-    "peRatio" : 9.76,
+    "marketCap" : 2893.00,
+    "peRatio" : 9.58,
     "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 170.24,
     "dma200" : 174.66,
     "volume" : 296186.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 169.18,
+    "dma50" : 164.78,
+    "dma100" : 170.13,
+    "dma200" : 174.60,
+    "volume" : 246186.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 172.44,
-    "dma50" : 164.60,
-    "dma100" : 170.24,
-    "dma200" : 174.66,
-    "volume" : 296186.00
+    "date" : "2026-11-16",
+    "price" : 169.18,
+    "dma50" : 164.78,
+    "dma100" : 170.13,
+    "dma200" : 174.60,
+    "volume" : 246186.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.76,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 5.06,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 29.76,
+    "totalTechnicalScore" : 25.05,
     "totalFundamentalScore" : 43.03,
-    "totalScore" : 72.79
+    "totalScore" : 68.08
   }
 }

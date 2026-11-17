@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SIMPLEXINF",
       "companyName" : "Simplex Infra",
-      "marketCap" : 2368.00,
-      "peRatio" : 39.50,
+      "marketCap" : 2314.00,
+      "peRatio" : 38.60,
       "description" : "Incorporated in 1924, Simplex Infrastructures Ltd is a civil engineering and construction contracting company[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.32,
-      "pricePercentageAboveDma100" : 4.17,
-      "pricePercentageAboveDma200" : 4.04,
+      "pricePercentageAboveDma50" : 4.48,
+      "pricePercentageAboveDma100" : 4.31,
+      "pricePercentageAboveDma200" : 4.18,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 47.53,
+      "totalTechnicalScore" : 47.97,
       "totalFundamentalScore" : 46.76,
-      "totalScore" : 94.30
+      "totalScore" : 94.74
     }
   },
   "attributes" : {
     "companyCode" : "SIMPLEXINF",
     "companyName" : "Simplex Infra",
-    "marketCap" : 2368.00,
-    "peRatio" : 39.50,
+    "marketCap" : 2314.00,
+    "peRatio" : 38.60,
     "description" : "Incorporated in 1924, Simplex Infrastructures Ltd is a civil engineering and construction contracting company[1]"
   },
   "technicalHistory" : [ {
@@ -702,7 +702,7 @@
     "price" : 169.80,
     "dma50" : 193.71,
     "dma100" : null,
-    "dma200" : 241.21,
+    "dma200" : 241.20,
     "volume" : 212028.00
   }, {
     "date" : "2026-04-07",
@@ -737,7 +737,7 @@
     "price" : 211.80,
     "dma50" : 192.79,
     "dma100" : null,
-    "dma200" : 238.62,
+    "dma200" : 238.61,
     "volume" : 962457.00
   }, {
     "date" : "2026-04-15",
@@ -828,7 +828,7 @@
     "price" : 233.49,
     "dma50" : 207.83,
     "dma100" : 219.46,
-    "dma200" : 237.47,
+    "dma200" : 237.46,
     "volume" : 228697.00
   }, {
     "date" : "2026-05-05",
@@ -1017,7 +1017,7 @@
     "price" : 248.45,
     "dma50" : 226.46,
     "dma100" : 212.13,
-    "dma200" : 236.39,
+    "dma200" : 236.38,
     "volume" : 138080.00
   }, {
     "date" : "2026-06-12",
@@ -1768,14 +1768,21 @@
     "dma100" : 256.77,
     "dma200" : 251.12,
     "volume" : 259228.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 292.60,
+    "dma50" : 264.89,
+    "dma100" : 257.19,
+    "dma200" : 251.53,
+    "volume" : 118766.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 299.40,
-    "dma50" : 263.76,
-    "dma100" : 256.77,
-    "dma200" : 251.12,
-    "volume" : 259228.00
+    "date" : "2026-11-16",
+    "price" : 292.60,
+    "dma50" : 264.89,
+    "dma100" : 257.19,
+    "dma200" : 251.53,
+    "volume" : 118766.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.32,
-    "pricePercentageAboveDma100" : 4.17,
-    "pricePercentageAboveDma200" : 4.04,
+    "pricePercentageAboveDma50" : 4.48,
+    "pricePercentageAboveDma100" : 4.31,
+    "pricePercentageAboveDma200" : 4.18,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 47.53,
+    "totalTechnicalScore" : 47.97,
     "totalFundamentalScore" : 46.76,
-    "totalScore" : 94.30
+    "totalScore" : 94.74
   }
 }

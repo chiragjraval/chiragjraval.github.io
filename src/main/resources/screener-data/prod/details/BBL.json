@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BBL",
       "companyName" : "Bharat Bijlee",
-      "marketCap" : 3078.00,
-      "peRatio" : 23.70,
+      "marketCap" : 3025.00,
+      "peRatio" : 23.30,
       "description" : "Established in 1946, Bharat Bijlee is a leading electrical engineering company in India engaged in manufacturing of transformers, electric motors, elevator systems, drives and automation. It also provides turnkey solutions for EHV switchyards, HV and MV substations, Electrical Balance of Plant, etc. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.36,
-      "pricePercentageAboveDma100" : 4.39,
-      "pricePercentageAboveDma200" : 4.65,
+      "pricePercentageAboveDma50" : 4.48,
+      "pricePercentageAboveDma100" : 4.48,
+      "pricePercentageAboveDma200" : 4.74,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 12.18,
       "netProfitMarginPercentile" : 6.78,
-      "totalTechnicalScore" : 33.40,
+      "totalTechnicalScore" : 33.71,
       "totalFundamentalScore" : 37.52,
-      "totalScore" : 70.92
+      "totalScore" : 71.23
     }
   },
   "attributes" : {
     "companyCode" : "BBL",
     "companyName" : "Bharat Bijlee",
-    "marketCap" : 3078.00,
-    "peRatio" : 23.70,
+    "marketCap" : 3025.00,
+    "peRatio" : 23.30,
     "description" : "Established in 1946, Bharat Bijlee is a leading electrical engineering company in India engaged in manufacturing of transformers, electric motors, elevator systems, drives and automation. It also provides turnkey solutions for EHV switchyards, HV and MV substations, Electrical Balance of Plant, etc. [1]"
   },
   "technicalHistory" : [ {
@@ -240,7 +240,7 @@
     "price" : 2706.70,
     "dma50" : 2886.66,
     "dma100" : null,
-    "dma200" : 3063.23,
+    "dma200" : 3063.22,
     "volume" : 13984.00
   }, {
     "date" : "2025-12-29",
@@ -261,7 +261,7 @@
     "price" : 2684.00,
     "dma50" : 2863.86,
     "dma100" : null,
-    "dma200" : 3052.05,
+    "dma200" : 3052.04,
     "volume" : 12495.00
   }, {
     "date" : "2026-01-01",
@@ -919,7 +919,7 @@
     "price" : 2690.00,
     "dma50" : 2661.54,
     "dma100" : 2599.18,
-    "dma200" : 2776.94,
+    "dma200" : 2776.93,
     "volume" : 94050.00
   }, {
     "date" : "2026-05-22",
@@ -1759,7 +1759,7 @@
     "price" : 2734.30,
     "dma50" : 2401.88,
     "dma100" : 2430.18,
-    "dma200" : 2540.75,
+    "dma200" : 2540.74,
     "volume" : 38866.00
   }, {
     "date" : "2026-11-13",
@@ -1768,14 +1768,21 @@
     "dma100" : 2428.41,
     "dma200" : 2542.56,
     "volume" : 44239.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 2676.20,
+    "dma50" : 2424.73,
+    "dma100" : 2426.08,
+    "dma200" : 2543.89,
+    "volume" : 25311.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 2722.90,
-    "dma50" : 2414.47,
-    "dma100" : 2428.41,
-    "dma200" : 2542.56,
-    "volume" : 44239.00
+    "date" : "2026-11-16",
+    "price" : 2676.20,
+    "dma50" : 2424.73,
+    "dma100" : 2426.08,
+    "dma200" : 2543.89,
+    "volume" : 25311.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.36,
-    "pricePercentageAboveDma100" : 4.39,
-    "pricePercentageAboveDma200" : 4.65,
+    "pricePercentageAboveDma50" : 4.48,
+    "pricePercentageAboveDma100" : 4.48,
+    "pricePercentageAboveDma200" : 4.74,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 12.18,
     "netProfitMarginPercentile" : 6.78,
-    "totalTechnicalScore" : 33.40,
+    "totalTechnicalScore" : 33.71,
     "totalFundamentalScore" : 37.52,
-    "totalScore" : 70.92
+    "totalScore" : 71.23
   }
 }

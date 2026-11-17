@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MEDANTA",
       "companyName" : "Global Health",
-      "marketCap" : 39095.00,
-      "peRatio" : 60.40,
+      "marketCap" : 38546.00,
+      "peRatio" : 59.50,
       "description" : "Global Health Limited operates a network of multi-specialty tertiary and quaternary care hospitals under the Medanta brand, primarily across North and East India. The company specialises in cardiac sciences, oncology, neurosciences, digestive and hepatobiliary sciences, orthopaedics, organ transplantation, kidney and urology, and other complex medical procedures. As of June 2026, Medanta operated six hospitals across Gurugram, Lucknow, Patna, Ranchi, Indore and Noida, supported by an expanding diagnostics, pharmacy and outpatient network. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.64,
-      "pricePercentageAboveDma100" : 4.72,
-      "pricePercentageAboveDma200" : 4.42,
+      "pricePercentageAboveDma50" : 4.73,
+      "pricePercentageAboveDma100" : 4.80,
+      "pricePercentageAboveDma200" : 4.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.00,
       "operatingProfitMarginPercentile" : 18.18,
       "netProfitMarginPercentile" : 8.05,
-      "totalTechnicalScore" : 38.79,
+      "totalTechnicalScore" : 39.03,
       "totalFundamentalScore" : 41.22,
-      "totalScore" : 80.01
+      "totalScore" : 80.26
     }
   },
   "attributes" : {
     "companyCode" : "MEDANTA",
     "companyName" : "Global Health",
-    "marketCap" : 39095.00,
-    "peRatio" : 60.40,
+    "marketCap" : 38546.00,
+    "peRatio" : 59.50,
     "description" : "Global Health Limited operates a network of multi-specialty tertiary and quaternary care hospitals under the Medanta brand, primarily across North and East India. The company specialises in cardiac sciences, oncology, neurosciences, digestive and hepatobiliary sciences, orthopaedics, organ transplantation, kidney and urology, and other complex medical procedures. As of June 2026, Medanta operated six hospitals across Gurugram, Lucknow, Patna, Ranchi, Indore and Noida, supported by an expanding diagnostics, pharmacy and outpatient network. [1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 1377.45,
     "dma200" : 1302.97,
     "volume" : 135302.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1433.60,
+    "dma50" : 1359.98,
+    "dma100" : 1378.76,
+    "dma200" : 1304.27,
+    "volume" : 141487.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1454.00,
-    "dma50" : 1356.98,
-    "dma100" : 1377.45,
-    "dma200" : 1302.97,
-    "volume" : 135302.00
+    "date" : "2026-11-16",
+    "price" : 1433.60,
+    "dma50" : 1359.98,
+    "dma100" : 1378.76,
+    "dma200" : 1304.27,
+    "volume" : 141487.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -1996,15 +2003,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.64,
-    "pricePercentageAboveDma100" : 4.72,
-    "pricePercentageAboveDma200" : 4.42,
+    "pricePercentageAboveDma50" : 4.73,
+    "pricePercentageAboveDma100" : 4.80,
+    "pricePercentageAboveDma200" : 4.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.00,
     "operatingProfitMarginPercentile" : 18.18,
     "netProfitMarginPercentile" : 8.05,
-    "totalTechnicalScore" : 38.79,
+    "totalTechnicalScore" : 39.03,
     "totalFundamentalScore" : 41.22,
-    "totalScore" : 80.01
+    "totalScore" : 80.26
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NITINSPIN",
       "companyName" : "Nitin Spinners",
-      "marketCap" : 3771.00,
-      "peRatio" : 14.20,
+      "marketCap" : 3866.00,
+      "peRatio" : 14.60,
       "description" : "Founded in 1992 in Bhilwara of Rajasthan, Nitin Spinners is India’s leading manufacturer of cotton yarn, knitted fabrics and finished woven fabrics."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.67,
-      "pricePercentageAboveDma100" : 4.39,
-      "pricePercentageAboveDma200" : 3.72,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.27,
+      "pricePercentageAboveDma200" : 3.58,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.41,
       "operatingProfitMarginPercentile" : 13.02,
       "netProfitMarginPercentile" : 9.30,
-      "totalTechnicalScore" : 42.78,
+      "totalTechnicalScore" : 42.40,
       "totalFundamentalScore" : 35.74,
-      "totalScore" : 78.52
+      "totalScore" : 78.14
     }
   },
   "attributes" : {
     "companyCode" : "NITINSPIN",
     "companyName" : "Nitin Spinners",
-    "marketCap" : 3771.00,
-    "peRatio" : 14.20,
+    "marketCap" : 3866.00,
+    "peRatio" : 14.60,
     "description" : "Founded in 1992 in Bhilwara of Rajasthan, Nitin Spinners is India’s leading manufacturer of cotton yarn, knitted fabrics and finished woven fabrics."
   },
   "technicalHistory" : [ {
@@ -65,7 +65,7 @@
     "price" : 335.90,
     "dma50" : 333.63,
     "dma100" : null,
-    "dma200" : 355.75,
+    "dma200" : 355.74,
     "volume" : 33605.00
   }, {
     "date" : "2025-11-21",
@@ -86,7 +86,7 @@
     "price" : 326.90,
     "dma50" : 333.26,
     "dma100" : null,
-    "dma200" : 355.00,
+    "dma200" : 354.99,
     "volume" : 147280.00
   }, {
     "date" : "2025-11-26",
@@ -212,7 +212,7 @@
     "price" : 321.85,
     "dma50" : 326.27,
     "dma100" : null,
-    "dma200" : 349.25,
+    "dma200" : 349.24,
     "volume" : 31504.00
   }, {
     "date" : "2025-12-22",
@@ -478,7 +478,7 @@
     "price" : 335.15,
     "dma50" : 328.13,
     "dma100" : null,
-    "dma200" : 341.85,
+    "dma200" : 341.84,
     "volume" : 113527.00
   }, {
     "date" : "2026-02-16",
@@ -646,7 +646,7 @@
     "price" : 368.50,
     "dma50" : 352.21,
     "dma100" : null,
-    "dma200" : 347.26,
+    "dma200" : 347.25,
     "volume" : 56935.00
   }, {
     "date" : "2026-03-23",
@@ -1073,7 +1073,7 @@
     "price" : 545.15,
     "dma50" : 493.56,
     "dma100" : 424.81,
-    "dma200" : 407.82,
+    "dma200" : 407.81,
     "volume" : 70754.00
   }, {
     "date" : "2026-06-24",
@@ -1768,14 +1768,21 @@
     "dma100" : 598.11,
     "dma200" : 534.05,
     "volume" : 51913.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 687.60,
+    "dma50" : 631.46,
+    "dma100" : 599.54,
+    "dma200" : 535.58,
+    "volume" : 173325.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 670.75,
-    "dma50" : 629.17,
-    "dma100" : 598.11,
-    "dma200" : 534.05,
-    "volume" : 51913.00
+    "date" : "2026-11-16",
+    "price" : 687.60,
+    "dma50" : 631.46,
+    "dma100" : 599.54,
+    "dma200" : 535.58,
+    "volume" : 173325.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2663,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.67,
-    "pricePercentageAboveDma100" : 4.39,
-    "pricePercentageAboveDma200" : 3.72,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.27,
+    "pricePercentageAboveDma200" : 3.58,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.41,
     "operatingProfitMarginPercentile" : 13.02,
     "netProfitMarginPercentile" : 9.30,
-    "totalTechnicalScore" : 42.78,
+    "totalTechnicalScore" : 42.40,
     "totalFundamentalScore" : 35.74,
-    "totalScore" : 78.52
+    "totalScore" : 78.14
   }
 }

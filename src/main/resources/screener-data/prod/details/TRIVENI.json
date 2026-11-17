@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "TRIVENI",
       "companyName" : "Triven.Engg.Ind.",
-      "marketCap" : 5544.00,
-      "peRatio" : 16.80,
+      "marketCap" : 5337.00,
+      "peRatio" : 16.20,
       "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 5.07,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 5.26,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.64,
       "operatingProfitMarginPercentile" : 11.55,
       "netProfitMarginPercentile" : 7.16,
-      "totalTechnicalScore" : 34.78,
+      "totalTechnicalScore" : 25.34,
       "totalFundamentalScore" : 28.36,
-      "totalScore" : 63.13
+      "totalScore" : 53.70
     }
   },
   "attributes" : {
     "companyCode" : "TRIVENI",
     "companyName" : "Triven.Engg.Ind.",
-    "marketCap" : 5544.00,
-    "peRatio" : 16.80,
+    "marketCap" : 5337.00,
+    "peRatio" : 16.20,
     "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 255.31,
     "dma200" : 243.59,
     "volume" : 1090616.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 242.18,
+    "dma50" : 245.09,
+    "dma100" : 255.20,
+    "dma200" : 243.57,
+    "volume" : 411603.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 251.60,
-    "dma50" : 245.21,
-    "dma100" : 255.31,
-    "dma200" : 243.59,
-    "volume" : 1090616.00
+    "date" : "2026-11-16",
+    "price" : 242.18,
+    "dma50" : 245.09,
+    "dma100" : 255.20,
+    "dma200" : 243.57,
+    "volume" : 411603.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2667,21 @@
     "netProfit" : 86.53
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 5.07,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 5.26,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.64,
     "operatingProfitMarginPercentile" : 11.55,
     "netProfitMarginPercentile" : 7.16,
-    "totalTechnicalScore" : 34.78,
+    "totalTechnicalScore" : 25.34,
     "totalFundamentalScore" : 28.36,
-    "totalScore" : 63.13
+    "totalScore" : 53.70
   }
 }
