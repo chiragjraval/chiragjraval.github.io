@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KENNAMET",
       "companyName" : "Kennametal India",
-      "marketCap" : 8692.00,
-      "peRatio" : 32.00,
+      "marketCap" : 8576.00,
+      "peRatio" : 31.60,
       "description" : "Kennametal India Ltd was incorporated in 1938, it is a 75% subsidiary of Kennametal Inc. It manufactures carbide tools and special-purpose machines for automotive, defense, railways, infrastructure and General engineering segments. The manufacturing unit is in Bengaluru.[1][2]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 4.63,
-      "pricePercentageAboveDma200" : 4.00,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 4.71,
+      "pricePercentageAboveDma200" : 4.09,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 19.62,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 48.52,
+      "totalTechnicalScore" : 48.76,
       "totalFundamentalScore" : 49.38,
-      "totalScore" : 97.90
+      "totalScore" : 98.14
     }
   },
   "attributes" : {
     "companyCode" : "KENNAMET",
     "companyName" : "Kennametal India",
-    "marketCap" : 8692.00,
-    "peRatio" : 32.00,
+    "marketCap" : 8576.00,
+    "peRatio" : 31.60,
     "description" : "Kennametal India Ltd was incorporated in 1938, it is a 75% subsidiary of Kennametal Inc. It manufactures carbide tools and special-purpose machines for automotive, defense, railways, infrastructure and General engineering segments. The manufacturing unit is in Bengaluru.[1][2]"
   },
   "technicalHistory" : [ {
@@ -135,7 +135,7 @@
     "price" : 2179.80,
     "dma50" : 2203.45,
     "dma100" : null,
-    "dma200" : 2303.02,
+    "dma200" : 2303.01,
     "volume" : 1665.00
   }, {
     "date" : "2025-12-05",
@@ -289,7 +289,7 @@
     "price" : 2116.55,
     "dma50" : 2159.39,
     "dma100" : null,
-    "dma200" : 2269.28,
+    "dma200" : 2269.27,
     "volume" : 1540.00
   }, {
     "date" : "2026-01-07",
@@ -562,14 +562,14 @@
     "price" : 2356.25,
     "dma50" : 2176.96,
     "dma100" : null,
-    "dma200" : 2226.80,
+    "dma200" : 2226.79,
     "volume" : 3309.00
   }, {
     "date" : "2026-03-05",
     "price" : 2289.10,
     "dma50" : 2181.36,
     "dma100" : null,
-    "dma200" : 2227.42,
+    "dma200" : 2227.41,
     "volume" : 3924.00
   }, {
     "date" : "2026-03-06",
@@ -828,7 +828,7 @@
     "price" : 2721.10,
     "dma50" : 2345.30,
     "dma100" : 2201.79,
-    "dma200" : 2262.11,
+    "dma200" : 2262.10,
     "volume" : 4370.00
   }, {
     "date" : "2026-05-05",
@@ -1768,14 +1768,21 @@
     "dma100" : 3682.38,
     "dma200" : 3293.56,
     "volume" : 898787.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 3901.90,
+    "dma50" : 3870.58,
+    "dma100" : 3690.05,
+    "dma200" : 3299.61,
+    "volume" : 110760.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 3954.80,
-    "dma50" : 3869.30,
-    "dma100" : 3682.38,
-    "dma200" : 3293.56,
-    "volume" : 898787.00
+    "date" : "2026-11-16",
+    "price" : 3901.90,
+    "dma50" : 3870.58,
+    "dma100" : 3690.05,
+    "dma200" : 3299.61,
+    "volume" : 110760.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 4.63,
-    "pricePercentageAboveDma200" : 4.00,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 4.71,
+    "pricePercentageAboveDma200" : 4.09,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 19.62,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 48.52,
+    "totalTechnicalScore" : 48.76,
     "totalFundamentalScore" : 49.38,
-    "totalScore" : 97.90
+    "totalScore" : 98.14
   }
 }

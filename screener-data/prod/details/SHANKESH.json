@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHANKESH",
       "companyName" : "Shankesh Jewellers",
-      "marketCap" : 1321.00,
-      "peRatio" : 12.00,
+      "marketCap" : 1292.00,
+      "peRatio" : 11.80,
       "description" : "Incorporated in 2005, Shankesh Jewellers Limited is engaged in the business of manufacturing and providing customised handcrafted gold jewellery.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma50" : 5.27,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.23,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 5.00,
       "netProfitMarginPercentile" : 2.50,
-      "totalTechnicalScore" : 10.41,
+      "totalTechnicalScore" : 10.60,
       "totalFundamentalScore" : 7.50,
-      "totalScore" : 17.91
+      "totalScore" : 18.10
     }
   },
   "attributes" : {
     "companyCode" : "SHANKESH",
     "companyName" : "Shankesh Jewellers",
-    "marketCap" : 1321.00,
-    "peRatio" : 12.00,
+    "marketCap" : 1292.00,
+    "peRatio" : 11.80,
     "description" : "Incorporated in 2005, Shankesh Jewellers Limited is engaged in the business of manufacturing and providing customised handcrafted gold jewellery.[1]"
   },
   "technicalHistory" : [ {
@@ -431,14 +431,21 @@
     "dma100" : null,
     "dma200" : 94.18,
     "volume" : 943829.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 87.89,
+    "dma50" : 92.86,
+    "dma100" : null,
+    "dma200" : 94.12,
+    "volume" : 1085083.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 89.82,
-    "dma50" : 93.06,
+    "date" : "2026-11-16",
+    "price" : 87.89,
+    "dma50" : 92.86,
     "dma100" : null,
-    "dma200" : 94.18,
-    "volume" : 943829.00
+    "dma200" : 94.12,
+    "volume" : 1085083.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -499,15 +506,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma50" : 5.27,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.23,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 5.00,
     "netProfitMarginPercentile" : 2.50,
-    "totalTechnicalScore" : 10.41,
+    "totalTechnicalScore" : 10.60,
     "totalFundamentalScore" : 7.50,
-    "totalScore" : 17.91
+    "totalScore" : 18.10
   }
 }

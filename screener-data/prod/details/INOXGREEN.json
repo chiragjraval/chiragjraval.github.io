@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.68,
-      "pricePercentageAboveDma100" : 6.39,
-      "pricePercentageAboveDma200" : 6.38,
+      "pricePercentageAboveDma50" : 5.66,
+      "pricePercentageAboveDma100" : 6.38,
+      "pricePercentageAboveDma200" : 6.37,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.10,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 23.45,
+      "totalTechnicalScore" : 23.40,
       "totalFundamentalScore" : 42.10,
-      "totalScore" : 65.55
+      "totalScore" : 65.50
     }
   },
   "attributes" : {
@@ -1768,14 +1768,21 @@
     "dma100" : 162.47,
     "dma200" : 161.83,
     "volume" : 1229995.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 117.20,
+    "dma50" : 134.92,
+    "dma100" : 161.70,
+    "dma200" : 161.39,
+    "volume" : 3931179.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 117.21,
-    "dma50" : 135.64,
-    "dma100" : 162.47,
-    "dma200" : 161.83,
-    "volume" : 1229995.00
+    "date" : "2026-11-16",
+    "price" : 117.20,
+    "dma50" : 134.92,
+    "dma100" : 161.70,
+    "dma200" : 161.39,
+    "volume" : 3931179.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2036,15 +2043,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.68,
-    "pricePercentageAboveDma100" : 6.39,
-    "pricePercentageAboveDma200" : 6.38,
+    "pricePercentageAboveDma50" : 5.66,
+    "pricePercentageAboveDma100" : 6.38,
+    "pricePercentageAboveDma200" : 6.37,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.10,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 23.45,
+    "totalTechnicalScore" : 23.40,
     "totalFundamentalScore" : 42.10,
-    "totalScore" : 65.55
+    "totalScore" : 65.50
   }
 }

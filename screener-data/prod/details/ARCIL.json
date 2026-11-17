@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ARCIL",
       "companyName" : "A R C I",
-      "marketCap" : 4200.00,
-      "peRatio" : 10.70,
+      "marketCap" : 4278.00,
+      "peRatio" : 10.90,
       "description" : "ARCIL is India's first and one of the largest asset reconstruction companies, focused on acquiring and resolving non-performing assets (NPAs) and stressed loans from banks and financial institutions"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.14,
+      "pricePercentageAboveDma50" : 5.05,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.26,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 10.40,
+      "totalTechnicalScore" : 10.22,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 60.40
+      "totalScore" : 60.22
     }
   },
   "attributes" : {
     "companyCode" : "ARCIL",
     "companyName" : "A R C I",
-    "marketCap" : 4200.00,
-    "peRatio" : 10.70,
+    "marketCap" : 4278.00,
+    "peRatio" : 10.90,
     "description" : "ARCIL is India's first and one of the largest asset reconstruction companies, focused on acquiring and resolving non-performing assets (NPAs) and stressed loans from banks and financial institutions"
   },
   "technicalHistory" : [ {
@@ -319,14 +319,21 @@
     "dma100" : null,
     "dma200" : 136.25,
     "volume" : 1079375.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 131.68,
+    "dma50" : 133.03,
+    "dma100" : null,
+    "dma200" : 136.21,
+    "volume" : 856443.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 129.28,
-    "dma50" : 133.08,
+    "date" : "2026-11-16",
+    "price" : 131.68,
+    "dma50" : 133.03,
     "dma100" : null,
-    "dma200" : 136.25,
-    "volume" : 1079375.00
+    "dma200" : 136.21,
+    "volume" : 856443.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -397,15 +404,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.14,
+    "pricePercentageAboveDma50" : 5.05,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.26,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 10.40,
+    "totalTechnicalScore" : 10.22,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 60.40
+    "totalScore" : 60.22
   }
 }

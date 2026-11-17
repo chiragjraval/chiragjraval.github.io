@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "LUMINO",
       "companyName" : "Lumino Inds",
-      "marketCap" : 3111.00,
-      "peRatio" : 17.50,
+      "marketCap" : 2983.00,
+      "peRatio" : 16.80,
       "description" : "Lumino Industries Limited, headquartered in Kolkata and equipped with a manufacturing facility in Howrah, has expertise in serving the power and energy sector. It is a leading manufacturer of a wide range of products, including Cables, Conductors and Wires. It offers Engineering, Procurement, and Construction (EPC) major, deliver projects in key infrastructure sectors such as Distribution & Transmission, Railway electrification, Reconductoring with HTLS Conductors, Solar power projects and EHV[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.92,
+      "pricePercentageAboveDma50" : 5.12,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.21,
+      "pricePercentageAboveDma200" : 5.40,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 15.13,
+      "totalTechnicalScore" : 10.52,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 59.13
+      "totalScore" : 54.52
     }
   },
   "attributes" : {
     "companyCode" : "LUMINO",
     "companyName" : "Lumino Inds",
-    "marketCap" : 3111.00,
-    "peRatio" : 17.50,
+    "marketCap" : 2983.00,
+    "peRatio" : 16.80,
     "description" : "Lumino Industries Limited, headquartered in Kolkata and equipped with a manufacturing facility in Howrah, has expertise in serving the power and energy sector. It is a leading manufacturer of a wide range of products, including Cables, Conductors and Wires. It offers Engineering, Procurement, and Construction (EPC) major, deliver projects in key infrastructure sectors such as Distribution & Transmission, Railway electrification, Reconductoring with HTLS Conductors, Solar power projects and EHV[1]"
   },
   "technicalHistory" : [ {
@@ -382,14 +382,21 @@
     "dma100" : null,
     "dma200" : 106.61,
     "volume" : 5268045.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 97.96,
+    "dma50" : 100.36,
+    "dma100" : null,
+    "dma200" : 106.52,
+    "volume" : 2146541.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 102.14,
-    "dma50" : 100.45,
+    "date" : "2026-11-16",
+    "price" : 97.96,
+    "dma50" : 100.36,
     "dma100" : null,
-    "dma200" : 106.61,
-    "volume" : 5268045.00
+    "dma200" : 106.52,
+    "volume" : 2146541.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -454,21 +461,21 @@
     "netProfit" : 53.05
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.92,
+    "pricePercentageAboveDma50" : 5.12,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.21,
+    "pricePercentageAboveDma200" : 5.40,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 15.13,
+    "totalTechnicalScore" : 10.52,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 59.13
+    "totalScore" : 54.52
   }
 }

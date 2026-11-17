@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "PFOCUS",
       "companyName" : "Prime Focus",
-      "marketCap" : 21023.00,
-      "peRatio" : 93.60,
+      "marketCap" : 20840.00,
+      "peRatio" : 92.80,
       "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.32,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 4.97,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.35,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.02,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.75,
       "operatingProfitMarginPercentile" : 13.59,
       "netProfitMarginPercentile" : 1.68,
-      "totalTechnicalScore" : 35.56,
+      "totalTechnicalScore" : 35.68,
       "totalFundamentalScore" : 26.02,
-      "totalScore" : 61.58
+      "totalScore" : 61.70
     }
   },
   "attributes" : {
     "companyCode" : "PFOCUS",
     "companyName" : "Prime Focus",
-    "marketCap" : 21023.00,
-    "peRatio" : 93.60,
+    "marketCap" : 20840.00,
+    "peRatio" : 92.80,
     "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
   },
   "technicalHistory" : [ {
@@ -597,7 +597,7 @@
     "price" : 275.55,
     "dma50" : 251.28,
     "dma100" : null,
-    "dma200" : 196.79,
+    "dma200" : 196.78,
     "volume" : 2799752.00
   }, {
     "date" : "2026-03-12",
@@ -1768,14 +1768,21 @@
     "dma100" : 285.02,
     "dma200" : 268.56,
     "volume" : 3426039.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 267.60,
+    "dma50" : 287.80,
+    "dma100" : 285.56,
+    "dma200" : 268.55,
+    "volume" : 10754824.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 269.95,
-    "dma50" : 288.63,
-    "dma100" : 285.02,
-    "dma200" : 268.56,
-    "volume" : 3426039.00
+    "date" : "2026-11-16",
+    "price" : 267.60,
+    "dma50" : 287.80,
+    "dma100" : 285.56,
+    "dma200" : 268.55,
+    "volume" : 10754824.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2632,19 +2639,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.32,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 4.97,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.35,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.02,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.75,
     "operatingProfitMarginPercentile" : 13.59,
     "netProfitMarginPercentile" : 1.68,
-    "totalTechnicalScore" : 35.56,
+    "totalTechnicalScore" : 35.68,
     "totalFundamentalScore" : 26.02,
-    "totalScore" : 61.58
+    "totalScore" : 61.70
   }
 }

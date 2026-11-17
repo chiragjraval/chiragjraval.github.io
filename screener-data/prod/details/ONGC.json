@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ONGC",
       "companyName" : "O N G C",
-      "marketCap" : 283056.00,
-      "peRatio" : 5.69,
+      "marketCap" : 285560.00,
+      "peRatio" : 5.74,
       "description" : "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.13,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma100" : 5.17,
+      "pricePercentageAboveDma200" : 5.35,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 9.43,
-      "totalTechnicalScore" : 20.74,
+      "totalTechnicalScore" : 20.61,
       "totalFundamentalScore" : 43.06,
-      "totalScore" : 63.81
+      "totalScore" : 63.67
     }
   },
   "attributes" : {
     "companyCode" : "ONGC",
     "companyName" : "O N G C",
-    "marketCap" : 283056.00,
-    "peRatio" : 5.69,
+    "marketCap" : 285560.00,
+    "peRatio" : 5.74,
     "description" : "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 235.23,
     "dma200" : 244.47,
     "volume" : 9602158.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 226.99,
+    "dma50" : 230.80,
+    "dma100" : 235.06,
+    "dma200" : 244.29,
+    "volume" : 11643165.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 225.00,
-    "dma50" : 230.96,
-    "dma100" : 235.23,
-    "dma200" : 244.47,
-    "volume" : 9602158.00
+    "date" : "2026-11-16",
+    "price" : 226.99,
+    "dma50" : 230.80,
+    "dma100" : 235.06,
+    "dma200" : 244.29,
+    "volume" : 11643165.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.13,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma100" : 5.17,
+    "pricePercentageAboveDma200" : 5.35,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 9.43,
-    "totalTechnicalScore" : 20.74,
+    "totalTechnicalScore" : 20.61,
     "totalFundamentalScore" : 43.06,
-    "totalScore" : 63.81
+    "totalScore" : 63.67
   }
 }

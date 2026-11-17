@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTERDM",
       "companyName" : "Aster DM Quality",
-      "marketCap" : 62978.00,
-      "peRatio" : 120.00,
+      "marketCap" : 65375.00,
+      "peRatio" : 125.00,
       "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 4.95,
+      "pricePercentageAboveDma50" : 4.78,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.41,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 6.05,
-      "totalTechnicalScore" : 40.15,
+      "totalTechnicalScore" : 39.60,
       "totalFundamentalScore" : 42.14,
-      "totalScore" : 82.29
+      "totalScore" : 81.74
     }
   },
   "attributes" : {
     "companyCode" : "ASTERDM",
     "companyName" : "Aster DM Quality",
-    "marketCap" : 62978.00,
-    "peRatio" : 120.00,
+    "marketCap" : 65375.00,
+    "peRatio" : 125.00,
     "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
   },
   "technicalHistory" : [ {
@@ -499,7 +499,7 @@
     "price" : 629.20,
     "dma50" : 597.77,
     "dma100" : null,
-    "dma200" : 593.23,
+    "dma200" : 593.22,
     "volume" : 450892.00
   }, {
     "date" : "2026-02-19",
@@ -688,7 +688,7 @@
     "price" : 687.90,
     "dma50" : 635.83,
     "dma100" : null,
-    "dma200" : 607.70,
+    "dma200" : 607.69,
     "volume" : 1032036.00
   }, {
     "date" : "2026-04-02",
@@ -1768,14 +1768,21 @@
     "dma100" : 758.80,
     "dma200" : 715.31,
     "volume" : 1103914.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 750.00,
+    "dma50" : 718.88,
+    "dma100" : 758.65,
+    "dma200" : 715.66,
+    "volume" : 1544238.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 722.50,
-    "dma50" : 717.61,
-    "dma100" : 758.80,
-    "dma200" : 715.31,
-    "volume" : 1103914.00
+    "date" : "2026-11-16",
+    "price" : 750.00,
+    "dma50" : 718.88,
+    "dma100" : 758.65,
+    "dma200" : 715.66,
+    "volume" : 1544238.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2176,15 +2183,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 4.95,
+    "pricePercentageAboveDma50" : 4.78,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.41,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 6.05,
-    "totalTechnicalScore" : 40.15,
+    "totalTechnicalScore" : 39.60,
     "totalFundamentalScore" : 42.14,
-    "totalScore" : 82.29
+    "totalScore" : 81.74
   }
 }

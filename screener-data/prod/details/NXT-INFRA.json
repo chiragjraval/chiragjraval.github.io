@@ -27,7 +27,7 @@
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 2.22,
       "netProfitMarginPercentile" : 1.11,
-      "totalTechnicalScore" : 10.11,
+      "totalTechnicalScore" : 10.10,
       "totalFundamentalScore" : 23.33,
       "totalScore" : 33.44
     }
@@ -389,14 +389,21 @@
     "dma100" : null,
     "dma200" : 99.52,
     "volume" : 25000.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 98.00,
+    "dma50" : 98.57,
+    "dma100" : null,
+    "dma200" : 99.51,
+    "volume" : 325000.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
+    "date" : "2026-11-16",
     "price" : 98.00,
-    "dma50" : 98.59,
+    "dma50" : 98.57,
     "dma100" : null,
-    "dma200" : 99.52,
-    "volume" : 25000.00
+    "dma200" : 99.51,
+    "volume" : 325000.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -514,7 +521,7 @@
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 2.22,
     "netProfitMarginPercentile" : 1.11,
-    "totalTechnicalScore" : 10.11,
+    "totalTechnicalScore" : 10.10,
     "totalFundamentalScore" : 23.33,
     "totalScore" : 33.44
   }

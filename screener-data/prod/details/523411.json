@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "523411",
       "companyName" : "ADC India",
-      "marketCap" : 1068.00,
-      "peRatio" : 39.20,
+      "marketCap" : 1052.00,
+      "peRatio" : 38.60,
       "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 4.95,
-      "pricePercentageAboveDma200" : 4.36,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 4.46,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 44.19,
+      "totalTechnicalScore" : 39.44,
       "totalFundamentalScore" : 45.69,
-      "totalScore" : 89.89
+      "totalScore" : 85.13
     }
   },
   "attributes" : {
     "companyCode" : "523411",
     "companyName" : "ADC India",
-    "marketCap" : 1068.00,
-    "peRatio" : 39.20,
+    "marketCap" : 1052.00,
+    "peRatio" : 38.60,
     "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
   },
   "technicalHistory" : [ {
@@ -79,7 +79,7 @@
     "price" : 1299.00,
     "dma50" : 1503.10,
     "dma100" : null,
-    "dma200" : 1434.21,
+    "dma200" : 1434.20,
     "volume" : 1911.00
   }, {
     "date" : "2025-11-25",
@@ -667,7 +667,7 @@
     "price" : 1241.25,
     "dma50" : 1307.67,
     "dma100" : null,
-    "dma200" : 1369.62,
+    "dma200" : 1369.61,
     "volume" : 2264.00
   }, {
     "date" : "2026-03-27",
@@ -1768,14 +1768,21 @@
     "dma100" : 2301.36,
     "dma200" : 2060.26,
     "volume" : 3112.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 2287.00,
+    "dma50" : 2266.89,
+    "dma100" : 2300.52,
+    "dma200" : 2062.52,
+    "volume" : 2159.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 2322.45,
-    "dma50" : 2266.07,
-    "dma100" : 2301.36,
-    "dma200" : 2060.26,
-    "volume" : 3112.00
+    "date" : "2026-11-16",
+    "price" : 2287.00,
+    "dma50" : 2266.89,
+    "dma100" : 2300.52,
+    "dma200" : 2062.52,
+    "volume" : 2159.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-01-31",
@@ -2661,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.88,
-    "pricePercentageAboveDma100" : 4.95,
-    "pricePercentageAboveDma200" : 4.36,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 4.46,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 44.19,
+    "totalTechnicalScore" : 39.44,
     "totalFundamentalScore" : 45.69,
-    "totalScore" : 89.89
+    "totalScore" : 85.13
   }
 }

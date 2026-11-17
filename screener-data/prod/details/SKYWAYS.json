@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "SKYWAYS",
       "companyName" : "Skyways Air Ser.",
-      "marketCap" : 1689.00,
-      "peRatio" : 31.50,
+      "marketCap" : 1916.00,
+      "peRatio" : 34.10,
       "description" : "Incorporated in 1984, Skyways Air Services Limited (SASL) is a leading air freight forwarding and logistics company in India.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.74,
+      "pricePercentageAboveDma50" : 4.08,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma200" : 4.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 0.00,
-      "operatingProfitMarginPercentile" : 15.39,
-      "netProfitMarginPercentile" : 6.67,
-      "totalTechnicalScore" : 14.88,
-      "totalFundamentalScore" : 22.06,
-      "totalScore" : 36.94
+      "salesGrowthPercentile" : 20.00,
+      "operatingProfitMarginPercentile" : 10.91,
+      "netProfitMarginPercentile" : 10.00,
+      "totalTechnicalScore" : 18.57,
+      "totalFundamentalScore" : 40.91,
+      "totalScore" : 59.48
     }
   },
   "attributes" : {
     "companyCode" : "SKYWAYS",
     "companyName" : "Skyways Air Ser.",
-    "marketCap" : 1689.00,
-    "peRatio" : 31.50,
+    "marketCap" : 1916.00,
+    "peRatio" : 34.10,
     "description" : "Incorporated in 1984, Skyways Air Services Limited (SASL) is a leading air freight forwarding and logistics company in India.[1]"
   },
   "technicalHistory" : [ {
@@ -396,14 +396,21 @@
     "dma100" : null,
     "dma200" : 119.60,
     "volume" : 3586141.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 131.81,
+    "dma50" : 111.31,
+    "dma100" : null,
+    "dma200" : 119.73,
+    "volume" : 29514288.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 116.24,
-    "dma50" : 110.47,
+    "date" : "2026-11-16",
+    "price" : 131.81,
+    "dma50" : 111.31,
     "dma100" : null,
-    "dma200" : 119.60,
-    "volume" : 3586141.00
+    "dma200" : 119.73,
+    "volume" : 29514288.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -415,6 +422,16 @@
     "operatingProfit" : 14.77,
     "netProfitMargin" : 2.06,
     "netProfit" : 6.63
+  }, {
+    "date" : "2025-09-30",
+    "sales" : 342.97,
+    "salesGrowthYoY" : null,
+    "grossProfitMargin" : 100.00,
+    "grossProfit" : 342.97,
+    "operatingProfitMargin" : 4.73,
+    "operatingProfit" : 16.22,
+    "netProfitMargin" : 2.58,
+    "netProfit" : 8.85
   }, {
     "date" : "2026-03-31",
     "sales" : 409.35,
@@ -435,34 +452,44 @@
     "operatingProfit" : 27.64,
     "netProfitMargin" : 2.08,
     "netProfit" : 14.06
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 704.10,
+    "salesGrowthYoY" : 118.81,
+    "grossProfitMargin" : 100.00,
+    "grossProfit" : 704.10,
+    "operatingProfitMargin" : 3.68,
+    "operatingProfit" : 25.91,
+    "netProfitMargin" : 3.21,
+    "netProfit" : 22.60
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 675.86,
-    "salesGrowthYoY" : null,
+    "date" : "2026-09-30",
+    "sales" : 704.10,
+    "salesGrowthYoY" : 118.81,
     "grossProfitMargin" : 100.00,
-    "grossProfit" : 675.86,
-    "operatingProfitMargin" : 4.09,
-    "operatingProfit" : 27.64,
-    "netProfitMargin" : 2.08,
-    "netProfit" : 14.06
+    "grossProfit" : 704.10,
+    "operatingProfitMargin" : 3.68,
+    "operatingProfit" : 25.91,
+    "netProfitMargin" : 3.21,
+    "netProfit" : 22.60
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.74,
+    "pricePercentageAboveDma50" : 4.08,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma200" : 4.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 0.00,
-    "operatingProfitMarginPercentile" : 15.39,
-    "netProfitMarginPercentile" : 6.67,
-    "totalTechnicalScore" : 14.88,
-    "totalFundamentalScore" : 22.06,
-    "totalScore" : 36.94
+    "salesGrowthPercentile" : 20.00,
+    "operatingProfitMarginPercentile" : 10.91,
+    "netProfitMarginPercentile" : 10.00,
+    "totalTechnicalScore" : 18.57,
+    "totalFundamentalScore" : 40.91,
+    "totalScore" : 59.48
   }
 }

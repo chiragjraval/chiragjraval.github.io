@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "TMCV",
       "companyName" : "Tata Motors",
-      "marketCap" : 159669.00,
-      "peRatio" : 22.30,
+      "marketCap" : 157717.00,
+      "peRatio" : 22.10,
       "description" : "Founded in 1945, Tata Motors Ltd is one of India's largest automobile manufacturers and a part of the Tata Group.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 4.99,
-      "pricePercentageAboveDma200" : 4.81,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 4.88,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 6.67,
       "netProfitMarginPercentile" : 7.96,
-      "totalTechnicalScore" : 39.71,
+      "totalTechnicalScore" : 34.90,
       "totalFundamentalScore" : 34.63,
-      "totalScore" : 74.34
+      "totalScore" : 69.54
     }
   },
   "attributes" : {
     "companyCode" : "TMCV",
     "companyName" : "Tata Motors",
-    "marketCap" : 159669.00,
-    "peRatio" : 22.30,
+    "marketCap" : 157717.00,
+    "peRatio" : 22.10,
     "description" : "Founded in 1945, Tata Motors Ltd is one of India's largest automobile manufacturers and a part of the Tata Group.[1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 433.00,
     "dma200" : 418.02,
     "volume" : 7999947.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 428.25,
+    "dma50" : 425.47,
+    "dma100" : 433.28,
+    "dma200" : 418.13,
+    "volume" : 5743384.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 433.55,
-    "dma50" : 425.36,
-    "dma100" : 433.00,
-    "dma200" : 418.02,
-    "volume" : 7999947.00
+    "date" : "2026-11-16",
+    "price" : 428.25,
+    "dma50" : 425.47,
+    "dma100" : 433.28,
+    "dma200" : 418.13,
+    "volume" : 5743384.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1881,20 +1888,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 4.99,
-    "pricePercentageAboveDma200" : 4.81,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 4.88,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 6.67,
     "netProfitMarginPercentile" : 7.96,
-    "totalTechnicalScore" : 39.71,
+    "totalTechnicalScore" : 34.90,
     "totalFundamentalScore" : 34.63,
-    "totalScore" : 74.34
+    "totalScore" : 69.54
   }
 }

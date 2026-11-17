@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JSWCEMENT",
       "companyName" : "JSW Cement",
-      "marketCap" : 17052.00,
-      "peRatio" : 21.60,
+      "marketCap" : 17091.00,
+      "peRatio" : 21.70,
       "description" : "JSW Cement is a leading Indian manufacturer of green cement, known for its sustainability and use in major infrastructure projects"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 5.00,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 4.78,
+      "pricePercentageAboveDma100" : 4.99,
+      "pricePercentageAboveDma200" : 4.98,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.00,
       "netProfitMarginPercentile" : 6.00,
-      "totalTechnicalScore" : 34.77,
+      "totalTechnicalScore" : 34.75,
       "totalFundamentalScore" : 34.00,
-      "totalScore" : 68.77
+      "totalScore" : 68.75
     }
   },
   "attributes" : {
     "companyCode" : "JSWCEMENT",
     "companyName" : "JSW Cement",
-    "marketCap" : 17052.00,
-    "peRatio" : 21.60,
+    "marketCap" : 17091.00,
+    "peRatio" : 21.70,
     "description" : "JSW Cement is a leading Indian manufacturer of green cement, known for its sustainability and use in major infrastructure projects"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 125.07,
     "dma200" : 124.81,
     "volume" : 1731750.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 125.36,
+    "dma50" : 120.14,
+    "dma100" : 125.03,
+    "dma200" : 124.82,
+    "volume" : 1190798.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 125.07,
-    "dma50" : 119.92,
-    "dma100" : 125.07,
-    "dma200" : 124.81,
-    "volume" : 1731750.00
+    "date" : "2026-11-16",
+    "price" : 125.36,
+    "dma50" : 120.14,
+    "dma100" : 125.03,
+    "dma200" : 124.82,
+    "volume" : 1190798.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1896,15 +1903,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 5.00,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 4.78,
+    "pricePercentageAboveDma100" : 4.99,
+    "pricePercentageAboveDma200" : 4.98,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.00,
     "netProfitMarginPercentile" : 6.00,
-    "totalTechnicalScore" : 34.77,
+    "totalTechnicalScore" : 34.75,
     "totalFundamentalScore" : 34.00,
-    "totalScore" : 68.77
+    "totalScore" : 68.75
   }
 }

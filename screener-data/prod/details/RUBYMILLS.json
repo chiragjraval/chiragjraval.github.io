@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "RUBYMILLS",
       "companyName" : "Ruby Mills",
-      "marketCap" : 1583.00,
-      "peRatio" : 19.00,
+      "marketCap" : 1500.00,
+      "peRatio" : 18.00,
       "description" : "Incorporated in 1917, Ruby Mills Ltd is in the business of Textiles and Real estate[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 4.45,
-      "pricePercentageAboveDma200" : 3.52,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 4.75,
+      "pricePercentageAboveDma200" : 3.87,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 0.46,
       "netProfitMarginPercentile" : 9.43,
-      "totalTechnicalScore" : 42.88,
+      "totalTechnicalScore" : 38.80,
       "totalFundamentalScore" : 24.58,
-      "totalScore" : 67.47
+      "totalScore" : 63.38
     }
   },
   "attributes" : {
     "companyCode" : "RUBYMILLS",
     "companyName" : "Ruby Mills",
-    "marketCap" : 1583.00,
-    "peRatio" : 19.00,
+    "marketCap" : 1500.00,
+    "peRatio" : 18.00,
     "description" : "Incorporated in 1917, Ruby Mills Ltd is in the business of Textiles and Real estate[1]"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 426.05,
     "dma200" : 365.14,
     "volume" : 15404.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 448.50,
+    "dma50" : 464.88,
+    "dma100" : 427.16,
+    "dma200" : 365.97,
+    "volume" : 12839.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 473.30,
-    "dma50" : 465.55,
-    "dma100" : 426.05,
-    "dma200" : 365.14,
-    "volume" : 15404.00
+    "date" : "2026-11-16",
+    "price" : 448.50,
+    "dma50" : 464.88,
+    "dma100" : 427.16,
+    "dma200" : 365.97,
+    "volume" : 12839.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2667,21 @@
     "netProfit" : 50.84
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 4.45,
-    "pricePercentageAboveDma200" : 3.52,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 4.75,
+    "pricePercentageAboveDma200" : 3.87,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 0.46,
     "netProfitMarginPercentile" : 9.43,
-    "totalTechnicalScore" : 42.88,
+    "totalTechnicalScore" : 38.80,
     "totalFundamentalScore" : 24.58,
-    "totalScore" : 67.47
+    "totalScore" : 63.38
   }
 }

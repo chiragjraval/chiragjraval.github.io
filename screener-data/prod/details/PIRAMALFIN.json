@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PIRAMALFIN",
       "companyName" : "Piramal Finance.",
-      "marketCap" : 50274.00,
-      "peRatio" : 87.00,
+      "marketCap" : 49930.00,
+      "peRatio" : 86.40,
       "description" : "Piramal Finance Corporation's main business is of providing loans to Retail customers for construction or purchase of residential property, loans against property, etc."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.83,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 4.57,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.00,
+      "pricePercentageAboveDma200" : 4.61,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.24,
       "operatingProfitMarginPercentile" : 19.37,
       "netProfitMarginPercentile" : 8.06,
-      "totalTechnicalScore" : 39.36,
+      "totalTechnicalScore" : 39.48,
       "totalFundamentalScore" : 37.67,
-      "totalScore" : 77.04
+      "totalScore" : 77.16
     }
   },
   "attributes" : {
     "companyCode" : "PIRAMALFIN",
     "companyName" : "Piramal Finance.",
-    "marketCap" : 50274.00,
-    "peRatio" : 87.00,
+    "marketCap" : 49930.00,
+    "peRatio" : 86.40,
     "description" : "Piramal Finance Corporation's main business is of providing loans to Retail customers for construction or purchase of residential property, loans against property, etc."
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 2104.44,
     "dma200" : 1952.41,
     "volume" : 432345.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 2104.70,
+    "dma50" : 2050.25,
+    "dma100" : 2104.36,
+    "dma200" : 1953.92,
+    "volume" : 206716.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 2119.20,
-    "dma50" : 2048.03,
-    "dma100" : 2104.44,
-    "dma200" : 1952.41,
-    "volume" : 432345.00
+    "date" : "2026-11-16",
+    "price" : 2104.70,
+    "dma50" : 2050.25,
+    "dma100" : 2104.36,
+    "dma200" : 1953.92,
+    "volume" : 206716.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2656,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.83,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 4.57,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.00,
+    "pricePercentageAboveDma200" : 4.61,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.24,
     "operatingProfitMarginPercentile" : 19.37,
     "netProfitMarginPercentile" : 8.06,
-    "totalTechnicalScore" : 39.36,
+    "totalTechnicalScore" : 39.48,
     "totalFundamentalScore" : 37.67,
-    "totalScore" : 77.04
+    "totalScore" : 77.16
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KERNEX",
       "companyName" : "Kernex Microsys.",
-      "marketCap" : 2968.00,
-      "peRatio" : 15.60,
+      "marketCap" : 2948.00,
+      "peRatio" : 9.41,
       "description" : "Incorporated in 1991, Kernex Microsystems Ltd manufactures and sells Safety Systems and Software services for Railways[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.91,
-      "pricePercentageAboveDma100" : 5.39,
-      "pricePercentageAboveDma200" : 4.64,
+      "pricePercentageAboveDma50" : 4.95,
+      "pricePercentageAboveDma100" : 5.42,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-      "salesGrowthPercentile" : 17.97,
-      "operatingProfitMarginPercentile" : 19.48,
-      "netProfitMarginPercentile" : 8.92,
-      "totalTechnicalScore" : 34.94,
-      "totalFundamentalScore" : 46.37,
-      "totalScore" : 81.32
+      "salesGrowthPercentile" : 18.00,
+      "operatingProfitMarginPercentile" : 19.52,
+      "netProfitMarginPercentile" : 9.05,
+      "totalTechnicalScore" : 35.05,
+      "totalFundamentalScore" : 46.57,
+      "totalScore" : 81.61
     }
   },
   "attributes" : {
     "companyCode" : "KERNEX",
     "companyName" : "Kernex Microsys.",
-    "marketCap" : 2968.00,
-    "peRatio" : 15.60,
+    "marketCap" : 2948.00,
+    "peRatio" : 9.41,
     "description" : "Incorporated in 1991, Kernex Microsystems Ltd manufactures and sells Safety Systems and Software services for Railways[1]"
   },
   "technicalHistory" : [ {
@@ -716,14 +716,14 @@
     "price" : 1141.30,
     "dma50" : 1050.77,
     "dma100" : null,
-    "dma200" : 1096.55,
+    "dma200" : 1096.54,
     "volume" : 346293.00
   }, {
     "date" : "2026-04-09",
     "price" : 1108.60,
     "dma50" : 1053.03,
     "dma100" : null,
-    "dma200" : 1096.67,
+    "dma200" : 1096.66,
     "volume" : 213540.00
   }, {
     "date" : "2026-04-10",
@@ -1768,14 +1768,21 @@
     "dma100" : 1916.04,
     "dma200" : 1646.55,
     "volume" : 136661.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 1754.10,
+    "dma50" : 1737.27,
+    "dma100" : 1913.97,
+    "dma200" : 1647.62,
+    "volume" : 542003.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 1766.40,
-    "dma50" : 1736.58,
-    "dma100" : 1916.04,
-    "dma200" : 1646.55,
-    "volume" : 136661.00
+    "date" : "2026-11-16",
+    "price" : 1754.10,
+    "dma50" : 1737.27,
+    "dma100" : 1913.97,
+    "dma200" : 1647.62,
+    "volume" : 542003.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2607,17 +2614,27 @@
     "operatingProfit" : 162.56,
     "netProfitMargin" : 21.83,
     "netProfit" : 109.59
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 540.52,
+    "salesGrowthYoY" : 1091.89,
+    "grossProfitMargin" : 43.56,
+    "grossProfit" : 235.45,
+    "operatingProfitMargin" : 35.33,
+    "operatingProfit" : 190.97,
+    "netProfitMargin" : 23.81,
+    "netProfit" : 128.70
   } ],
   "latestQuarterlyResult" : {
-    "date" : "2026-06-30",
-    "sales" : 502.03,
-    "salesGrowthYoY" : 840.13,
-    "grossProfitMargin" : 43.10,
-    "grossProfit" : 216.37,
-    "operatingProfitMargin" : 32.38,
-    "operatingProfit" : 162.56,
-    "netProfitMargin" : 21.83,
-    "netProfit" : 109.59
+    "date" : "2026-09-30",
+    "sales" : 540.52,
+    "salesGrowthYoY" : 1091.89,
+    "grossProfitMargin" : 43.56,
+    "grossProfit" : 235.45,
+    "operatingProfitMargin" : 35.33,
+    "operatingProfit" : 190.97,
+    "netProfitMargin" : 23.81,
+    "netProfit" : 128.70
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
@@ -2626,15 +2643,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.91,
-    "pricePercentageAboveDma100" : 5.39,
-    "pricePercentageAboveDma200" : 4.64,
+    "pricePercentageAboveDma50" : 4.95,
+    "pricePercentageAboveDma100" : 5.42,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
-    "salesGrowthPercentile" : 17.97,
-    "operatingProfitMarginPercentile" : 19.48,
-    "netProfitMarginPercentile" : 8.92,
-    "totalTechnicalScore" : 34.94,
-    "totalFundamentalScore" : 46.37,
-    "totalScore" : 81.32
+    "salesGrowthPercentile" : 18.00,
+    "operatingProfitMarginPercentile" : 19.52,
+    "netProfitMarginPercentile" : 9.05,
+    "totalTechnicalScore" : 35.05,
+    "totalFundamentalScore" : 46.57,
+    "totalScore" : 81.61
   }
 }

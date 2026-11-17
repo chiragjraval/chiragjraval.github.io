@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COSMOFIRST",
       "companyName" : "Cosmo First",
-      "marketCap" : 2183.00,
-      "peRatio" : 9.78,
+      "marketCap" : 2206.00,
+      "peRatio" : 9.88,
       "description" : "Established in 1981, Cosmo Films Limited is engaged in specialty films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.91,
-      "pricePercentageAboveDma100" : 5.13,
-      "pricePercentageAboveDma200" : 4.86,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 4.81,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 4.74,
       "netProfitMarginPercentile" : 4.48,
-      "totalTechnicalScore" : 34.90,
+      "totalTechnicalScore" : 34.75,
       "totalFundamentalScore" : 29.23,
-      "totalScore" : 64.13
+      "totalScore" : 63.98
     }
   },
   "attributes" : {
     "companyCode" : "COSMOFIRST",
     "companyName" : "Cosmo First",
-    "marketCap" : 2183.00,
-    "peRatio" : 9.78,
+    "marketCap" : 2206.00,
+    "peRatio" : 9.88,
     "description" : "Established in 1981, Cosmo Films Limited is engaged in specialty films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films."
   },
   "technicalHistory" : [ {
@@ -226,14 +226,14 @@
     "price" : 681.55,
     "dma50" : 775.29,
     "dma100" : null,
-    "dma200" : 854.45,
+    "dma200" : 854.44,
     "volume" : 33651.00
   }, {
     "date" : "2025-12-24",
     "price" : 672.55,
     "dma50" : 771.26,
     "dma100" : null,
-    "dma200" : 852.64,
+    "dma200" : 852.63,
     "volume" : 40789.00
   }, {
     "date" : "2025-12-26",
@@ -387,7 +387,7 @@
     "price" : 590.60,
     "dma50" : 692.60,
     "dma100" : null,
-    "dma200" : 811.33,
+    "dma200" : 811.32,
     "volume" : 63075.00
   }, {
     "date" : "2026-01-29",
@@ -436,7 +436,7 @@
     "price" : 630.25,
     "dma50" : 672.24,
     "dma100" : null,
-    "dma200" : 797.58,
+    "dma200" : 797.57,
     "volume" : 75823.00
   }, {
     "date" : "2026-02-06",
@@ -478,7 +478,7 @@
     "price" : 739.20,
     "dma50" : 672.05,
     "dma100" : null,
-    "dma200" : 790.11,
+    "dma200" : 790.10,
     "volume" : 574614.00
   }, {
     "date" : "2026-02-16",
@@ -1768,14 +1768,21 @@
     "dma100" : 853.62,
     "dma200" : 809.04,
     "volume" : 137069.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 840.55,
+    "dma50" : 818.76,
+    "dma100" : 853.86,
+    "dma200" : 809.35,
+    "volume" : 143956.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 831.80,
-    "dma50" : 817.88,
-    "dma100" : 853.62,
-    "dma200" : 809.04,
-    "volume" : 137069.00
+    "date" : "2026-11-16",
+    "price" : 840.55,
+    "dma50" : 818.76,
+    "dma100" : 853.86,
+    "dma200" : 809.35,
+    "volume" : 143956.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.91,
-    "pricePercentageAboveDma100" : 5.13,
-    "pricePercentageAboveDma200" : 4.86,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 4.81,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 4.74,
     "netProfitMarginPercentile" : 4.48,
-    "totalTechnicalScore" : 34.90,
+    "totalTechnicalScore" : 34.75,
     "totalFundamentalScore" : 29.23,
-    "totalScore" : 64.13
+    "totalScore" : 63.98
   }
 }

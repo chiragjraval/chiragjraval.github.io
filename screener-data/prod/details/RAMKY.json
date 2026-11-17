@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RAMKY",
       "companyName" : "Ramky Infra",
-      "marketCap" : 2663.00,
-      "peRatio" : 13.10,
+      "marketCap" : 2679.00,
+      "peRatio" : 13.20,
       "description" : "Ramky Infrastructure Limited is a flagship company of the Ramky Group. The Co is engaged in the business of construction, infrastructure development and management. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.17,
-      "pricePercentageAboveDma100" : 4.50,
-      "pricePercentageAboveDma200" : 5.19,
+      "pricePercentageAboveDma50" : 4.18,
+      "pricePercentageAboveDma100" : 4.47,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.94,
       "operatingProfitMarginPercentile" : 16.96,
       "netProfitMarginPercentile" : 8.89,
-      "totalTechnicalScore" : 23.87,
+      "totalTechnicalScore" : 23.81,
       "totalFundamentalScore" : 39.79,
-      "totalScore" : 63.66
+      "totalScore" : 63.60
     }
   },
   "attributes" : {
     "companyCode" : "RAMKY",
     "companyName" : "Ramky Infra",
-    "marketCap" : 2663.00,
-    "peRatio" : 13.10,
+    "marketCap" : 2679.00,
+    "peRatio" : 13.20,
     "description" : "Ramky Infrastructure Limited is a flagship company of the Ramky Group. The Co is engaged in the business of construction, infrastructure development and management. [1]"
   },
   "technicalHistory" : [ {
@@ -114,7 +114,7 @@
     "price" : 581.25,
     "dma50" : 610.14,
     "dma100" : null,
-    "dma200" : 578.51,
+    "dma200" : 578.50,
     "volume" : 31768.00
   }, {
     "date" : "2025-12-02",
@@ -1768,14 +1768,21 @@
     "dma100" : 350.13,
     "dma200" : 400.20,
     "volume" : 83481.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 387.10,
+    "dma50" : 332.42,
+    "dma100" : 349.87,
+    "dma200" : 400.07,
+    "volume" : 71696.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 384.80,
-    "dma50" : 330.19,
-    "dma100" : 350.13,
-    "dma200" : 400.20,
-    "volume" : 83481.00
+    "date" : "2026-11-16",
+    "price" : 387.10,
+    "dma50" : 332.42,
+    "dma100" : 349.87,
+    "dma200" : 400.07,
+    "volume" : 71696.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-06-30",
@@ -2496,15 +2503,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.17,
-    "pricePercentageAboveDma100" : 4.50,
-    "pricePercentageAboveDma200" : 5.19,
+    "pricePercentageAboveDma50" : 4.18,
+    "pricePercentageAboveDma100" : 4.47,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.94,
     "operatingProfitMarginPercentile" : 16.96,
     "netProfitMarginPercentile" : 8.89,
-    "totalTechnicalScore" : 23.87,
+    "totalTechnicalScore" : 23.81,
     "totalFundamentalScore" : 39.79,
-    "totalScore" : 63.66
+    "totalScore" : 63.60
   }
 }

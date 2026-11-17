@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CHALET",
       "companyName" : "Chalet Hotels",
-      "marketCap" : 18059.00,
-      "peRatio" : 30.30,
+      "marketCap" : 18175.00,
+      "peRatio" : 30.50,
       "description" : "Chalet Hotels is engaged in the business of hospitality (hotels), commercial and retail operations and real estate development.(Source : 202003-01 Annual Report Page No:113)"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 5.06,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 5.03,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 4.00,
       "operatingProfitMarginPercentile" : 18.48,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 20.20,
+      "totalTechnicalScore" : 25.11,
       "totalFundamentalScore" : 32.48,
-      "totalScore" : 52.68
+      "totalScore" : 57.58
     }
   },
   "attributes" : {
     "companyCode" : "CHALET",
     "companyName" : "Chalet Hotels",
-    "marketCap" : 18059.00,
-    "peRatio" : 30.30,
+    "marketCap" : 18175.00,
+    "peRatio" : 30.50,
     "description" : "Chalet Hotels is engaged in the business of hospitality (hotels), commercial and retail operations and real estate development.(Source : 202003-01 Annual Report Page No:113)"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 842.26,
     "dma200" : 834.85,
     "volume" : 96160.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 829.95,
+    "dma50" : 830.25,
+    "dma100" : 842.46,
+    "dma200" : 834.80,
+    "volume" : 110915.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 824.65,
-    "dma50" : 830.27,
-    "dma100" : 842.26,
-    "dma200" : 834.85,
-    "volume" : 96160.00
+    "date" : "2026-11-16",
+    "price" : 829.95,
+    "dma50" : 830.25,
+    "dma100" : 842.46,
+    "dma200" : 834.80,
+    "volume" : 110915.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2136,15 +2143,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 5.06,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 5.03,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 4.00,
     "operatingProfitMarginPercentile" : 18.48,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 20.20,
+    "totalTechnicalScore" : 25.11,
     "totalFundamentalScore" : 32.48,
-    "totalScore" : 52.68
+    "totalScore" : 57.58
   }
 }

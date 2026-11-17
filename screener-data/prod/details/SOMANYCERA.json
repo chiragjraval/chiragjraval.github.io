@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "SOMANYCERA",
       "companyName" : "Somany Ceramics",
-      "marketCap" : 2156.00,
-      "peRatio" : 15.60,
+      "marketCap" : 2101.00,
+      "peRatio" : 15.20,
       "description" : "Somany Ceramics Ltd is engaged in manufacturing and trading of complete decor solutions, its products include ceramic wall and floor tiles, polished vitrified tiles, glazed vitrified tiles, sanitary-ware, bath fittings and allied products.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.30,
-      "pricePercentageAboveDma100" : 5.19,
-      "pricePercentageAboveDma200" : 4.92,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.41,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.05,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.29,
       "operatingProfitMarginPercentile" : 15.27,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 35.41,
+      "totalTechnicalScore" : 35.77,
       "totalFundamentalScore" : 37.22,
-      "totalScore" : 72.63
+      "totalScore" : 72.98
     }
   },
   "attributes" : {
     "companyCode" : "SOMANYCERA",
     "companyName" : "Somany Ceramics",
-    "marketCap" : 2156.00,
-    "peRatio" : 15.60,
+    "marketCap" : 2101.00,
+    "peRatio" : 15.20,
     "description" : "Somany Ceramics Ltd is engaged in manufacturing and trading of complete decor solutions, its products include ceramic wall and floor tiles, polished vitrified tiles, glazed vitrified tiles, sanitary-ware, bath fittings and allied products.[1]"
   },
   "technicalHistory" : [ {
@@ -128,7 +128,7 @@
     "price" : 419.50,
     "dma50" : 449.67,
     "dma100" : null,
-    "dma200" : 498.76,
+    "dma200" : 498.75,
     "volume" : 10525.00
   }, {
     "date" : "2025-12-04",
@@ -142,7 +142,7 @@
     "price" : 418.65,
     "dma50" : 447.23,
     "dma100" : null,
-    "dma200" : 497.16,
+    "dma200" : 497.15,
     "volume" : 9047.00
   }, {
     "date" : "2025-12-08",
@@ -163,14 +163,14 @@
     "price" : 419.90,
     "dma50" : 443.82,
     "dma100" : null,
-    "dma200" : 494.79,
+    "dma200" : 494.78,
     "volume" : 26702.00
   }, {
     "date" : "2025-12-11",
     "price" : 419.45,
     "dma50" : 442.86,
     "dma100" : null,
-    "dma200" : 494.04,
+    "dma200" : 494.03,
     "volume" : 8844.00
   }, {
     "date" : "2025-12-12",
@@ -198,7 +198,7 @@
     "price" : 419.65,
     "dma50" : 439.26,
     "dma100" : null,
-    "dma200" : 491.08,
+    "dma200" : 491.07,
     "volume" : 26393.00
   }, {
     "date" : "2025-12-18",
@@ -240,7 +240,7 @@
     "price" : 411.40,
     "dma50" : 433.97,
     "dma100" : null,
-    "dma200" : 486.62,
+    "dma200" : 486.61,
     "volume" : 12895.00
   }, {
     "date" : "2025-12-29",
@@ -597,7 +597,7 @@
     "price" : 370.25,
     "dma50" : 398.51,
     "dma100" : null,
-    "dma200" : 450.90,
+    "dma200" : 450.89,
     "volume" : 134989.00
   }, {
     "date" : "2026-03-12",
@@ -723,7 +723,7 @@
     "price" : 416.25,
     "dma50" : 390.34,
     "dma100" : null,
-    "dma200" : 439.33,
+    "dma200" : 439.32,
     "volume" : 62468.00
   }, {
     "date" : "2026-04-10",
@@ -1073,7 +1073,7 @@
     "price" : 510.50,
     "dma50" : 483.30,
     "dma100" : 437.05,
-    "dma200" : 458.39,
+    "dma200" : 458.38,
     "volume" : 34989.00
   }, {
     "date" : "2026-06-24",
@@ -1290,7 +1290,7 @@
     "price" : 504.00,
     "dma50" : 501.60,
     "dma100" : 473.18,
-    "dma200" : 472.72,
+    "dma200" : 472.71,
     "volume" : 69961.00
   }, {
     "date" : "2026-08-07",
@@ -1768,14 +1768,21 @@
     "dma100" : 546.25,
     "dma200" : 517.55,
     "volume" : 119395.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 512.35,
+    "dma50" : 557.69,
+    "dma100" : 546.27,
+    "dma200" : 517.50,
+    "volume" : 102803.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 525.65,
-    "dma50" : 559.54,
-    "dma100" : 546.25,
-    "dma200" : 517.55,
-    "volume" : 119395.00
+    "date" : "2026-11-16",
+    "price" : 512.35,
+    "dma50" : 557.69,
+    "dma100" : 546.27,
+    "dma200" : 517.50,
+    "volume" : 102803.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.30,
-    "pricePercentageAboveDma100" : 5.19,
-    "pricePercentageAboveDma200" : 4.92,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.41,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.05,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.29,
     "operatingProfitMarginPercentile" : 15.27,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 35.41,
+    "totalTechnicalScore" : 35.77,
     "totalFundamentalScore" : 37.22,
-    "totalScore" : 72.63
+    "totalScore" : 72.98
   }
 }

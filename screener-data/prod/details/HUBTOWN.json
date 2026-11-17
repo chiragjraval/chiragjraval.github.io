@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "HUBTOWN",
       "companyName" : "Hubtown",
-      "marketCap" : 2499.00,
-      "peRatio" : 27.60,
+      "marketCap" : 2413.00,
+      "peRatio" : 26.60,
       "description" : "Incorporated in 1985, Hubtown Ltd is in the business of real estate development"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 5.56,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.37,
+      "pricePercentageAboveDma200" : 5.71,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 5.32,
       "operatingProfitMarginPercentile" : 17.58,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 25.74,
+      "totalTechnicalScore" : 21.21,
       "totalFundamentalScore" : 32.89,
-      "totalScore" : 58.63
+      "totalScore" : 54.10
     }
   },
   "attributes" : {
     "companyCode" : "HUBTOWN",
     "companyName" : "Hubtown",
-    "marketCap" : 2499.00,
-    "peRatio" : 27.60,
+    "marketCap" : 2413.00,
+    "peRatio" : 26.60,
     "description" : "Incorporated in 1985, Hubtown Ltd is in the business of real estate development"
   },
   "technicalHistory" : [ {
@@ -1768,14 +1768,21 @@
     "dma100" : 183.74,
     "dma200" : 198.16,
     "volume" : 312187.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 169.82,
+    "dma50" : 174.39,
+    "dma100" : 183.39,
+    "dma200" : 197.88,
+    "volume" : 579563.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-13",
-    "price" : 175.86,
-    "dma50" : 174.57,
-    "dma100" : 183.74,
-    "dma200" : 198.16,
-    "volume" : 312187.00
+    "date" : "2026-11-16",
+    "price" : 169.82,
+    "dma50" : 174.39,
+    "dma100" : 183.39,
+    "dma200" : 197.88,
+    "volume" : 579563.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-12-31",
@@ -2590,21 +2597,21 @@
     "netProfit" : 34.52
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 5.56,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.37,
+    "pricePercentageAboveDma200" : 5.71,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 5.32,
     "operatingProfitMarginPercentile" : 17.58,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 25.74,
+    "totalTechnicalScore" : 21.21,
     "totalFundamentalScore" : 32.89,
-    "totalScore" : 58.63
+    "totalScore" : 54.10
   }
 }
