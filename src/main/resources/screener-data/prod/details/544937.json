@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "544937",
       "companyName" : "NSE",
-      "marketCap" : 512337.00,
-      "peRatio" : 47.40,
+      "marketCap" : 510308.00,
+      "peRatio" : 47.20,
       "description" : ""
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.34,
+      "pricePercentageAboveDma50" : 4.39,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.30,
+      "pricePercentageAboveDma200" : 4.33,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.02,
       "netProfitMarginPercentile" : 8.40,
-      "totalTechnicalScore" : 28.63,
+      "totalTechnicalScore" : 28.71,
       "totalFundamentalScore" : 47.41,
-      "totalScore" : 76.05
+      "totalScore" : 76.13
     }
   },
   "attributes" : {
     "companyCode" : "544937",
     "companyName" : "NSE",
-    "marketCap" : 512337.00,
-    "peRatio" : 47.40,
+    "marketCap" : 510308.00,
+    "peRatio" : 47.20,
     "description" : ""
   },
   "technicalHistory" : [ {
@@ -291,14 +291,21 @@
     "dma100" : null,
     "dma200" : 1814.73,
     "volume" : 7222259.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 2061.85,
+    "dma50" : 1836.91,
+    "dma100" : null,
+    "dma200" : 1817.19,
+    "volume" : 10524126.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 2070.05,
-    "dma50" : 1827.73,
+    "date" : "2026-11-17",
+    "price" : 2061.85,
+    "dma50" : 1836.91,
     "dma100" : null,
-    "dma200" : 1814.73,
-    "volume" : 7222259.00
+    "dma200" : 1817.19,
+    "volume" : 10524126.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -369,15 +376,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.34,
+    "pricePercentageAboveDma50" : 4.39,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.30,
+    "pricePercentageAboveDma200" : 4.33,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.02,
     "netProfitMarginPercentile" : 8.40,
-    "totalTechnicalScore" : 28.63,
+    "totalTechnicalScore" : 28.71,
     "totalFundamentalScore" : 47.41,
-    "totalScore" : 76.05
+    "totalScore" : 76.13
   }
 }

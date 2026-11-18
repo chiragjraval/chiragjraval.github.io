@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ALEMBICLTD",
       "companyName" : "Alembic",
-      "marketCap" : 2932.00,
-      "peRatio" : 8.26,
+      "marketCap" : 2923.00,
+      "peRatio" : 8.23,
       "description" : "Alembic Limited is engaged in the businesses of Pharmaceuticals, Real Estate, and Power Assets. The company was started in 1907 as the flagship company of the Alembic Group. In 2010, the company demerged its core pharmaceutical business (formulations) into a wholly-owned subsidiary, Alembic Pharma Ltd and after the demerger, APL became the flagship company of the Alembic Group. With its registered office in Vadodra, Alembic Ltd currently holds a 28.41% stake in Alembic Pharma Ltd and a 19.01% stake in another group entity Paushak Limited.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.24,
-      "pricePercentageAboveDma100" : 4.05,
-      "pricePercentageAboveDma200" : 4.06,
+      "pricePercentageAboveDma50" : 4.29,
+      "pricePercentageAboveDma100" : 4.08,
+      "pricePercentageAboveDma200" : 4.09,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 3.51,
       "operatingProfitMarginPercentile" : 11.03,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 42.35,
+      "totalTechnicalScore" : 42.46,
       "totalFundamentalScore" : 24.31,
-      "totalScore" : 66.66
+      "totalScore" : 66.78
     }
   },
   "attributes" : {
     "companyCode" : "ALEMBICLTD",
     "companyName" : "Alembic",
-    "marketCap" : 2932.00,
-    "peRatio" : 8.26,
+    "marketCap" : 2923.00,
+    "peRatio" : 8.23,
     "description" : "Alembic Limited is engaged in the businesses of Pharmaceuticals, Real Estate, and Power Assets. The company was started in 1907 as the flagship company of the Alembic Group. In 2010, the company demerged its core pharmaceutical business (formulations) into a wholly-owned subsidiary, Alembic Pharma Ltd and after the demerger, APL became the flagship company of the Alembic Group. With its registered office in Vadodra, Alembic Ltd currently holds a 28.41% stake in Alembic Pharma Ltd and a 19.01% stake in another group entity Paushak Limited.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 102.03,
-    "dma50" : 102.25,
-    "dma100" : null,
-    "dma200" : 108.24,
-    "volume" : 416686.00
-  }, {
     "date" : "2025-11-18",
     "price" : 99.96,
     "dma50" : 102.16,
@@ -226,7 +219,7 @@
     "price" : 101.84,
     "dma50" : 101.04,
     "dma100" : null,
-    "dma200" : 106.41,
+    "dma200" : 106.40,
     "volume" : 169225.00
   }, {
     "date" : "2025-12-24",
@@ -380,7 +373,7 @@
     "price" : 91.34,
     "dma50" : 98.67,
     "dma100" : null,
-    "dma200" : 104.68,
+    "dma200" : 104.67,
     "volume" : 211489.00
   }, {
     "date" : "2026-01-28",
@@ -548,7 +541,7 @@
     "price" : 91.72,
     "dma50" : 96.21,
     "dma100" : null,
-    "dma200" : 102.58,
+    "dma200" : 102.57,
     "volume" : 233337.00
   }, {
     "date" : "2026-03-02",
@@ -695,7 +688,7 @@
     "price" : 77.87,
     "dma50" : 86.97,
     "dma100" : null,
-    "dma200" : 98.44,
+    "dma200" : 98.43,
     "volume" : 299237.00
   }, {
     "date" : "2026-04-06",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 88.17,
     "dma50" : 86.37,
-    "dma100" : 93.25,
+    "dma100" : null,
     "dma200" : 97.48,
     "volume" : 382103.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 95.93,
     "dma200" : 96.15,
     "volume" : 1456477.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 113.83,
+    "dma50" : 99.74,
+    "dma100" : 96.14,
+    "dma200" : 96.32,
+    "volume" : 896600.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 114.19,
-    "dma50" : 99.16,
-    "dma100" : 95.93,
-    "dma200" : 96.15,
-    "volume" : 1456477.00
+    "date" : "2026-11-17",
+    "price" : 113.83,
+    "dma50" : 99.74,
+    "dma100" : 96.14,
+    "dma200" : 96.32,
+    "volume" : 896600.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.24,
-    "pricePercentageAboveDma100" : 4.05,
-    "pricePercentageAboveDma200" : 4.06,
+    "pricePercentageAboveDma50" : 4.29,
+    "pricePercentageAboveDma100" : 4.08,
+    "pricePercentageAboveDma200" : 4.09,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 3.51,
     "operatingProfitMarginPercentile" : 11.03,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 42.35,
+    "totalTechnicalScore" : 42.46,
     "totalFundamentalScore" : 24.31,
-    "totalScore" : 66.66
+    "totalScore" : 66.78
   }
 }

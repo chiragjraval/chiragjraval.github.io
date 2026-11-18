@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUNSHINE",
       "companyName" : "Sunshine Picture",
-      "marketCap" : 1475.00,
-      "peRatio" : 37.30,
+      "marketCap" : 1486.00,
+      "peRatio" : 37.60,
       "description" : "Incorporated in 2007, Sunshine Pictures Limited is a production company engaged in the business of originating, creating, developing, producing, marketing, and distributing films, TV serials, and web series.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.33,
+      "pricePercentageAboveDma50" : 4.32,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.98,
+      "pricePercentageAboveDma200" : 3.95,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.13,
       "netProfitMarginPercentile" : 9.81,
-      "totalTechnicalScore" : 23.32,
+      "totalTechnicalScore" : 23.28,
       "totalFundamentalScore" : 48.94,
-      "totalScore" : 72.26
+      "totalScore" : 72.22
     }
   },
   "attributes" : {
     "companyCode" : "SUNSHINE",
     "companyName" : "Sunshine Picture",
-    "marketCap" : 1475.00,
-    "peRatio" : 37.30,
+    "marketCap" : 1486.00,
+    "peRatio" : 37.60,
     "description" : "Incorporated in 2007, Sunshine Pictures Limited is a production company engaged in the business of originating, creating, developing, producing, marketing, and distributing films, TV serials, and web series.[1]"
   },
   "technicalHistory" : [ {
@@ -438,14 +438,21 @@
     "dma100" : null,
     "dma200" : 393.62,
     "volume" : 1180749.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 476.95,
+    "dma50" : 420.20,
+    "dma100" : null,
+    "dma200" : 394.45,
+    "volume" : 175721.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 473.60,
-    "dma50" : 417.88,
+    "date" : "2026-11-17",
+    "price" : 476.95,
+    "dma50" : 420.20,
     "dma100" : null,
-    "dma200" : 393.62,
-    "volume" : 1180749.00
+    "dma200" : 394.45,
+    "volume" : 175721.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -516,15 +523,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.33,
+    "pricePercentageAboveDma50" : 4.32,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.98,
+    "pricePercentageAboveDma200" : 3.95,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.13,
     "netProfitMarginPercentile" : 9.81,
-    "totalTechnicalScore" : 23.32,
+    "totalTechnicalScore" : 23.28,
     "totalFundamentalScore" : 48.94,
-    "totalScore" : 72.26
+    "totalScore" : 72.22
   }
 }

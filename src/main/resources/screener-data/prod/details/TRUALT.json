@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "TRUALT",
       "companyName" : "TruAlt Bioenergy",
-      "marketCap" : 2911.00,
+      "marketCap" : 2916.00,
       "peRatio" : 12.70,
       "description" : "Incorporated in 2021, Trualt Bioenergy Limited is engaged in the production of biofuels, with a primary focus on the ethanol sector.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.77,
-      "pricePercentageAboveDma100" : 6.04,
-      "pricePercentageAboveDma200" : 6.10,
+      "pricePercentageAboveDma50" : 5.74,
+      "pricePercentageAboveDma100" : 6.02,
+      "pricePercentageAboveDma200" : 6.08,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 11.66,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 17.91,
+      "totalTechnicalScore" : 17.84,
       "totalFundamentalScore" : 39.37,
-      "totalScore" : 57.27
+      "totalScore" : 57.21
     }
   },
   "attributes" : {
     "companyCode" : "TRUALT",
     "companyName" : "TruAlt Bioenergy",
-    "marketCap" : 2911.00,
+    "marketCap" : 2916.00,
     "peRatio" : 12.70,
     "description" : "Incorporated in 2021, Trualt Bioenergy Limited is engaged in the production of biofuels, with a primary focus on the ethanol sector.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 472.55,
-    "dma50" : 484.79,
-    "dma100" : null,
-    "dma200" : 514.91,
-    "volume" : 674885.00
-  }, {
     "date" : "2025-11-18",
     "price" : 466.15,
     "dma50" : 484.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 408.90,
     "dma50" : 402.60,
-    "dma100" : 402.38,
+    "dma100" : null,
     "dma200" : 442.76,
     "volume" : 217740.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 428.67,
     "dma200" : 435.07,
     "volume" : 105450.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 340.05,
+    "dma50" : 398.73,
+    "dma100" : 427.30,
+    "dma200" : 434.12,
+    "volume" : 149737.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 339.50,
-    "dma50" : 401.13,
-    "dma100" : 428.67,
-    "dma200" : 435.07,
-    "volume" : 105450.00
+    "date" : "2026-11-17",
+    "price" : 340.05,
+    "dma50" : 398.73,
+    "dma100" : 427.30,
+    "dma200" : 434.12,
+    "volume" : 149737.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,15 +1903,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.77,
-    "pricePercentageAboveDma100" : 6.04,
-    "pricePercentageAboveDma200" : 6.10,
+    "pricePercentageAboveDma50" : 5.74,
+    "pricePercentageAboveDma100" : 6.02,
+    "pricePercentageAboveDma200" : 6.08,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 11.66,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 17.91,
+    "totalTechnicalScore" : 17.84,
     "totalFundamentalScore" : 39.37,
-    "totalScore" : 57.27
+    "totalScore" : 57.21
   }
 }

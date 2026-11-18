@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "NDRAUTO",
       "companyName" : "NDR Auto Compon.",
-      "marketCap" : 1696.00,
-      "peRatio" : 24.10,
+      "marketCap" : 1716.00,
+      "peRatio" : 24.40,
       "description" : "Incorporated in 2019, NDR Auto Components manufacturing seat frames and seat trims for passenger cars and utility vehicles[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.30,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.80,
       "operatingProfitMarginPercentile" : 19.83,
       "netProfitMarginPercentile" : 9.53,
-      "totalTechnicalScore" : 15.70,
+      "totalTechnicalScore" : 20.53,
       "totalFundamentalScore" : 34.16,
-      "totalScore" : 49.86
+      "totalScore" : 54.69
     }
   },
   "attributes" : {
     "companyCode" : "NDRAUTO",
     "companyName" : "NDR Auto Compon.",
-    "marketCap" : 1696.00,
-    "peRatio" : 24.10,
+    "marketCap" : 1716.00,
+    "peRatio" : 24.40,
     "description" : "Incorporated in 2019, NDR Auto Components manufacturing seat frames and seat trims for passenger cars and utility vehicles[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 875.70,
-    "dma50" : 981.84,
-    "dma100" : null,
-    "dma200" : 916.22,
-    "volume" : 35168.00
-  }, {
     "date" : "2025-11-18",
     "price" : 858.50,
     "dma50" : 977.00,
@@ -387,7 +380,7 @@
     "price" : 678.65,
     "dma50" : 801.37,
     "dma100" : null,
-    "dma200" : 868.99,
+    "dma200" : 869.00,
     "volume" : 17109.00
   }, {
     "date" : "2026-01-29",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 753.00,
     "dma50" : 716.74,
-    "dma100" : 757.54,
+    "dma100" : null,
     "dma200" : 806.39,
     "volume" : 22369.00
   }, {
@@ -792,7 +785,7 @@
     "date" : "2026-04-24",
     "price" : 723.25,
     "dma50" : 724.44,
-    "dma100" : 750.16,
+    "dma100" : 750.15,
     "dma200" : 802.49,
     "volume" : 11251.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 758.47,
     "dma200" : 766.65,
     "volume" : 14040.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 721.30,
+    "dma50" : 720.66,
+    "dma100" : 757.48,
+    "dma200" : 766.20,
+    "volume" : 11981.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 713.05,
-    "dma50" : 720.64,
-    "dma100" : 758.47,
-    "dma200" : 766.65,
-    "volume" : 14040.00
+    "date" : "2026-11-17",
+    "price" : 721.30,
+    "dma50" : 720.66,
+    "dma100" : 757.48,
+    "dma200" : 766.20,
+    "volume" : 11981.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2087,21 +2087,21 @@
     "netProfit" : 17.61
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.30,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.80,
     "operatingProfitMarginPercentile" : 19.83,
     "netProfitMarginPercentile" : 9.53,
-    "totalTechnicalScore" : 15.70,
+    "totalTechnicalScore" : 20.53,
     "totalFundamentalScore" : 34.16,
-    "totalScore" : 49.86
+    "totalScore" : 54.69
   }
 }

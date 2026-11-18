@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "KSL",
       "companyName" : "Kalyani Steels",
-      "marketCap" : 3767.00,
-      "peRatio" : 13.20,
+      "marketCap" : 3722.00,
+      "peRatio" : 13.10,
       "description" : "Kalyani Steels Ltd, a Kalyani Group specialty-steel company, manufactures forging and engineering-quality carbon /alloy-steel long products through the blast-furnace route. Its integrated Ginigera, Karnataka plant supplies critical grades for automotive, bearings, energy, oil & gas, engineering, seamless tube, defence and railway applications, with group forging companies as key customers.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.17,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 4.96,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 30.34,
+      "totalTechnicalScore" : 25.51,
       "totalFundamentalScore" : 39.39,
-      "totalScore" : 69.73
+      "totalScore" : 64.90
     }
   },
   "attributes" : {
     "companyCode" : "KSL",
     "companyName" : "Kalyani Steels",
-    "marketCap" : 3767.00,
-    "peRatio" : 13.20,
+    "marketCap" : 3722.00,
+    "peRatio" : 13.10,
     "description" : "Kalyani Steels Ltd, a Kalyani Group specialty-steel company, manufactures forging and engineering-quality carbon /alloy-steel long products through the blast-furnace route. Its integrated Ginigera, Karnataka plant supplies critical grades for automotive, bearings, energy, oil & gas, engineering, seamless tube, defence and railway applications, with group forging companies as key customers.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 804.95,
-    "dma50" : 826.59,
-    "dma100" : null,
-    "dma200" : 835.27,
-    "volume" : 29237.00
-  }, {
     "date" : "2025-11-18",
     "price" : 800.35,
     "dma50" : 825.56,
@@ -170,7 +163,7 @@
     "price" : 719.25,
     "dma50" : 790.75,
     "dma100" : null,
-    "dma200" : 822.97,
+    "dma200" : 822.96,
     "volume" : 24151.00
   }, {
     "date" : "2025-12-12",
@@ -618,7 +611,7 @@
     "price" : 649.10,
     "dma50" : 726.64,
     "dma100" : null,
-    "dma200" : 776.19,
+    "dma200" : 776.18,
     "volume" : 41957.00
   }, {
     "date" : "2026-03-17",
@@ -737,13 +730,13 @@
     "price" : 670.65,
     "dma50" : 684.69,
     "dma100" : null,
-    "dma200" : 755.12,
+    "dma200" : 755.11,
     "volume" : 52496.00
   }, {
     "date" : "2026-04-15",
     "price" : 690.30,
     "dma50" : 684.91,
-    "dma100" : 716.83,
+    "dma100" : null,
     "dma200" : 754.47,
     "volume" : 50825.00
   }, {
@@ -919,7 +912,7 @@
     "price" : 812.15,
     "dma50" : 771.80,
     "dma100" : 732.95,
-    "dma200" : 768.83,
+    "dma200" : 768.82,
     "volume" : 22484.00
   }, {
     "date" : "2026-05-22",
@@ -989,7 +982,7 @@
     "price" : 809.50,
     "dma50" : 793.44,
     "dma100" : 742.28,
-    "dma200" : 775.38,
+    "dma200" : 775.37,
     "volume" : 44085.00
   }, {
     "date" : "2026-06-08",
@@ -1775,14 +1768,21 @@
     "dma100" : 900.35,
     "dma200" : 856.37,
     "volume" : 24425.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 852.65,
+    "dma50" : 892.30,
+    "dma100" : 900.62,
+    "dma200" : 856.34,
+    "volume" : 75060.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 863.05,
-    "dma50" : 893.92,
-    "dma100" : 900.35,
-    "dma200" : 856.37,
-    "volume" : 24425.00
+    "date" : "2026-11-17",
+    "price" : 852.65,
+    "dma50" : 892.30,
+    "dma100" : 900.62,
+    "dma200" : 856.34,
+    "volume" : 75060.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.17,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 4.96,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 30.34,
+    "totalTechnicalScore" : 25.51,
     "totalFundamentalScore" : 39.39,
-    "totalScore" : 69.73
+    "totalScore" : 64.90
   }
 }

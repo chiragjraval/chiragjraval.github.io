@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ABLBL",
       "companyName" : "A B Lifestyle",
-      "marketCap" : 9433.00,
-      "peRatio" : 38.80,
+      "marketCap" : 9374.00,
+      "peRatio" : 38.60,
       "description" : "Incorporated in 2025, Aditya Birla Lifestyle Brands Ltd is in the business of premium western wear brands[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.44,
-      "pricePercentageAboveDma200" : 5.91,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 5.93,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 14.00,
       "netProfitMarginPercentile" : 7.00,
-      "totalTechnicalScore" : 16.40,
+      "totalTechnicalScore" : 16.46,
       "totalFundamentalScore" : 41.00,
-      "totalScore" : 57.40
+      "totalScore" : 57.46
     }
   },
   "attributes" : {
     "companyCode" : "ABLBL",
     "companyName" : "A B Lifestyle",
-    "marketCap" : 9433.00,
-    "peRatio" : 38.80,
+    "marketCap" : 9374.00,
+    "peRatio" : 38.60,
     "description" : "Incorporated in 2025, Aditya Birla Lifestyle Brands Ltd is in the business of premium western wear brands[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 138.55,
-    "dma50" : 137.78,
-    "dma100" : null,
-    "dma200" : 147.47,
-    "volume" : 2770647.00
-  }, {
     "date" : "2025-11-18",
     "price" : 139.92,
     "dma50" : 137.86,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 107.21,
     "dma50" : 103.00,
-    "dma100" : 112.95,
+    "dma100" : null,
     "dma200" : 123.51,
     "volume" : 919777.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 84.76,
     "dma200" : 94.56,
     "volume" : 520857.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 76.80,
+    "dma50" : 77.90,
+    "dma100" : 84.52,
+    "dma200" : 94.39,
+    "volume" : 416015.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 77.29,
-    "dma50" : 77.95,
-    "dma100" : 84.76,
-    "dma200" : 94.56,
-    "volume" : 520857.00
+    "date" : "2026-11-17",
+    "price" : 76.80,
+    "dma50" : 77.90,
+    "dma100" : 84.52,
+    "dma200" : 94.39,
+    "volume" : 416015.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,15 +1903,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.44,
-    "pricePercentageAboveDma200" : 5.91,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.46,
+    "pricePercentageAboveDma200" : 5.93,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 14.00,
     "netProfitMarginPercentile" : 7.00,
-    "totalTechnicalScore" : 16.40,
+    "totalTechnicalScore" : 16.46,
     "totalFundamentalScore" : 41.00,
-    "totalScore" : 57.40
+    "totalScore" : 57.46
   }
 }

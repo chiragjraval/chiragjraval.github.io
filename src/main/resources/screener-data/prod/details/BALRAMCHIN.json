@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BALRAMCHIN",
       "companyName" : "Balrampur Chini",
-      "marketCap" : 13755.00,
-      "peRatio" : 32.80,
+      "marketCap" : 13897.00,
+      "peRatio" : 33.10,
       "description" : "Balrampur Chini Mills Limited (BCML) is one of the largest integrated sugar companies in India. The allied businesses of the Company comprise distillery operations and cogeneration of power.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 4.56,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 4.92,
+      "pricePercentageAboveDma200" : 4.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 7.37,
       "netProfitMarginPercentile" : 4.82,
-      "totalTechnicalScore" : 39.60,
+      "totalTechnicalScore" : 39.45,
       "totalFundamentalScore" : 22.55,
-      "totalScore" : 62.15
+      "totalScore" : 62.00
     }
   },
   "attributes" : {
     "companyCode" : "BALRAMCHIN",
     "companyName" : "Balrampur Chini",
-    "marketCap" : 13755.00,
-    "peRatio" : 32.80,
+    "marketCap" : 13897.00,
+    "peRatio" : 33.10,
     "description" : "Balrampur Chini Mills Limited (BCML) is one of the largest integrated sugar companies in India. The allied businesses of the Company comprise distillery operations and cogeneration of power.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 471.90,
-    "dma50" : 483.22,
-    "dma100" : null,
-    "dma200" : 522.32,
-    "volume" : 494128.00
-  }, {
     "date" : "2025-11-18",
     "price" : 461.90,
     "dma50" : 482.38,
@@ -660,7 +653,7 @@
     "price" : 476.95,
     "dma50" : 465.68,
     "dma100" : null,
-    "dma200" : 481.70,
+    "dma200" : 481.71,
     "volume" : 1427261.00
   }, {
     "date" : "2026-03-25",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 485.35,
     "dma50" : 473.50,
-    "dma100" : 453.94,
+    "dma100" : null,
     "dma200" : 482.31,
     "volume" : 806343.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 645.32,
     "dma200" : 597.21,
     "volume" : 346375.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 656.65,
+    "dma50" : 659.41,
+    "dma100" : 646.52,
+    "dma200" : 597.80,
+    "volume" : 351515.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 649.90,
-    "dma50" : 659.52,
-    "dma100" : 645.32,
-    "dma200" : 597.21,
-    "volume" : 346375.00
+    "date" : "2026-11-17",
+    "price" : 656.65,
+    "dma50" : 659.41,
+    "dma100" : 646.52,
+    "dma200" : 597.80,
+    "volume" : 351515.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 4.56,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 4.92,
+    "pricePercentageAboveDma200" : 4.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 7.37,
     "netProfitMarginPercentile" : 4.82,
-    "totalTechnicalScore" : 39.60,
+    "totalTechnicalScore" : 39.45,
     "totalFundamentalScore" : 22.55,
-    "totalScore" : 62.15
+    "totalScore" : 62.00
   }
 }

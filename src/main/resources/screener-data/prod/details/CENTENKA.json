@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CENTENKA",
       "companyName" : "Century Enka",
-      "marketCap" : 1002.00,
-      "peRatio" : 6.91,
+      "marketCap" : 1012.00,
+      "peRatio" : 6.97,
       "description" : "Incorporated in 1965, CenturyEnka Ltd manufactures and sells Synthetic Yarn and related products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.51,
-      "pricePercentageAboveDma100" : 5.80,
-      "pricePercentageAboveDma200" : 5.51,
+      "pricePercentageAboveDma50" : 5.45,
+      "pricePercentageAboveDma100" : 5.75,
+      "pricePercentageAboveDma200" : 5.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 13.89,
       "netProfitMarginPercentile" : 7.26,
-      "totalTechnicalScore" : 21.82,
+      "totalTechnicalScore" : 21.67,
       "totalFundamentalScore" : 39.95,
-      "totalScore" : 61.77
+      "totalScore" : 61.62
     }
   },
   "attributes" : {
     "companyCode" : "CENTENKA",
     "companyName" : "Century Enka",
-    "marketCap" : 1002.00,
-    "peRatio" : 6.91,
+    "marketCap" : 1012.00,
+    "peRatio" : 6.97,
     "description" : "Incorporated in 1965, CenturyEnka Ltd manufactures and sells Synthetic Yarn and related products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 455.75,
-    "dma50" : 474.09,
-    "dma100" : null,
-    "dma200" : 505.46,
-    "volume" : 7890.00
-  }, {
     "date" : "2025-11-18",
     "price" : 458.65,
     "dma50" : 473.48,
@@ -198,7 +191,7 @@
     "price" : 438.50,
     "dma50" : 457.72,
     "dma100" : null,
-    "dma200" : 494.04,
+    "dma200" : 494.03,
     "volume" : 8522.00
   }, {
     "date" : "2025-12-18",
@@ -464,7 +457,7 @@
     "price" : 463.65,
     "dma50" : 448.05,
     "dma100" : null,
-    "dma200" : 477.97,
+    "dma200" : 477.96,
     "volume" : 18358.00
   }, {
     "date" : "2026-02-12",
@@ -485,7 +478,7 @@
     "price" : 448.40,
     "dma50" : 448.33,
     "dma100" : null,
-    "dma200" : 477.16,
+    "dma200" : 477.15,
     "volume" : 13748.00
   }, {
     "date" : "2026-02-17",
@@ -583,7 +576,7 @@
     "price" : 404.10,
     "dma50" : 439.96,
     "dma100" : null,
-    "dma200" : 471.05,
+    "dma200" : 471.04,
     "volume" : 16712.00
   }, {
     "date" : "2026-03-10",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 428.80,
     "dma50" : 420.57,
-    "dma100" : 434.26,
+    "dma100" : null,
     "dma200" : 457.92,
     "volume" : 15711.00
   }, {
@@ -1010,7 +1003,7 @@
     "price" : 502.50,
     "dma50" : 461.60,
     "dma100" : 439.94,
-    "dma200" : 459.74,
+    "dma200" : 459.73,
     "volume" : 40252.00
   }, {
     "date" : "2026-06-11",
@@ -1738,7 +1731,7 @@
     "price" : 445.25,
     "dma50" : 520.51,
     "dma100" : 548.69,
-    "dma200" : 513.57,
+    "dma200" : 513.56,
     "volume" : 9393.00
   }, {
     "date" : "2026-11-09",
@@ -1775,14 +1768,21 @@
     "dma100" : 545.92,
     "dma200" : 511.23,
     "volume" : 17671.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 463.00,
+    "dma50" : 508.70,
+    "dma100" : 545.31,
+    "dma200" : 510.75,
+    "volume" : 28348.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 458.75,
-    "dma50" : 510.56,
-    "dma100" : 545.92,
-    "dma200" : 511.23,
-    "volume" : 17671.00
+    "date" : "2026-11-17",
+    "price" : 463.00,
+    "dma50" : 508.70,
+    "dma100" : 545.31,
+    "dma200" : 510.75,
+    "volume" : 28348.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.51,
-    "pricePercentageAboveDma100" : 5.80,
-    "pricePercentageAboveDma200" : 5.51,
+    "pricePercentageAboveDma50" : 5.45,
+    "pricePercentageAboveDma100" : 5.75,
+    "pricePercentageAboveDma200" : 5.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 13.89,
     "netProfitMarginPercentile" : 7.26,
-    "totalTechnicalScore" : 21.82,
+    "totalTechnicalScore" : 21.67,
     "totalFundamentalScore" : 39.95,
-    "totalScore" : 61.77
+    "totalScore" : 61.62
   }
 }

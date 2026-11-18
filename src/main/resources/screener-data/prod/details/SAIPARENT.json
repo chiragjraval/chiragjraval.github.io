@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "SAIPARENT",
       "companyName" : "Sai Parenteral's",
-      "marketCap" : 2237.00,
-      "peRatio" : 89.70,
+      "marketCap" : 2194.00,
+      "peRatio" : 88.00,
       "description" : "Incorporated in 2001, Sai Parenteral's Ltd. is a diversified pharmaceutical formulations company with expertise in research, development, and manufacturing.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 4.97,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.00,
       "operatingProfitMarginPercentile" : 10.00,
       "netProfitMarginPercentile" : 6.83,
-      "totalTechnicalScore" : 35.03,
+      "totalTechnicalScore" : 30.32,
       "totalFundamentalScore" : 26.83,
-      "totalScore" : 61.87
+      "totalScore" : 57.15
     }
   },
   "attributes" : {
     "companyCode" : "SAIPARENT",
     "companyName" : "Sai Parenteral's",
-    "marketCap" : 2237.00,
-    "peRatio" : 89.70,
+    "marketCap" : 2194.00,
+    "peRatio" : 88.00,
     "description" : "Incorporated in 2001, Sai Parenteral's Ltd. is a diversified pharmaceutical formulations company with expertise in research, development, and manufacturing.[1]"
   },
   "technicalHistory" : [ {
@@ -1124,14 +1124,21 @@
     "dma100" : 529.85,
     "dma200" : 493.44,
     "volume" : 371507.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 496.55,
+    "dma50" : 500.70,
+    "dma100" : 528.91,
+    "dma200" : 493.47,
+    "volume" : 173382.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 506.40,
-    "dma50" : 500.87,
-    "dma100" : 529.85,
-    "dma200" : 493.44,
-    "volume" : 371507.00
+    "date" : "2026-11-17",
+    "price" : 496.55,
+    "dma50" : 500.70,
+    "dma100" : 528.91,
+    "dma200" : 493.47,
+    "volume" : 173382.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -1206,21 +1213,21 @@
     "netProfit" : 6.49
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 4.97,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.00,
     "operatingProfitMarginPercentile" : 10.00,
     "netProfitMarginPercentile" : 6.83,
-    "totalTechnicalScore" : 35.03,
+    "totalTechnicalScore" : 30.32,
     "totalFundamentalScore" : 26.83,
-    "totalScore" : 61.87
+    "totalScore" : 57.15
   }
 }

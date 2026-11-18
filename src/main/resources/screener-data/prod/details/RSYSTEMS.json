@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RSYSTEMS",
       "companyName" : "R Systems Intl.",
-      "marketCap" : 2958.00,
-      "peRatio" : 12.40,
+      "marketCap" : 2946.00,
+      "peRatio" : 12.30,
       "description" : "R Systems is a leading provider of technology, artificial intelligence, analytics and knowledge services. It partners with customers to enable or elevate their digital transformation with diversified digital offerings including product engineering, cloud enablement, quality assurance testing and digital platforms and solutions. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.01,
-      "pricePercentageAboveDma200" : 5.54,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 5.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.94,
       "operatingProfitMarginPercentile" : 17.70,
       "netProfitMarginPercentile" : 6.53,
-      "totalTechnicalScore" : 20.67,
+      "totalTechnicalScore" : 20.72,
       "totalFundamentalScore" : 33.17,
-      "totalScore" : 53.84
+      "totalScore" : 53.89
     }
   },
   "attributes" : {
     "companyCode" : "RSYSTEMS",
     "companyName" : "R Systems Intl.",
-    "marketCap" : 2958.00,
-    "peRatio" : 12.40,
+    "marketCap" : 2946.00,
+    "peRatio" : 12.30,
     "description" : "R Systems is a leading provider of technology, artificial intelligence, analytics and knowledge services. It partners with customers to enable or elevate their digital transformation with diversified digital offerings including product engineering, cloud enablement, quality assurance testing and digital platforms and solutions. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 412.55,
-    "dma50" : 421.10,
-    "dma100" : null,
-    "dma200" : 421.37,
-    "volume" : 147671.00
-  }, {
     "date" : "2025-11-18",
     "price" : 408.25,
     "dma50" : 420.59,
@@ -107,7 +100,7 @@
     "price" : 398.50,
     "dma50" : 415.91,
     "dma100" : null,
-    "dma200" : 419.91,
+    "dma200" : 419.90,
     "volume" : 103399.00
   }, {
     "date" : "2025-12-01",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 269.76,
     "dma50" : 294.79,
-    "dma100" : 348.14,
+    "dma100" : null,
     "dma200" : 364.69,
     "volume" : 300961.00
   }, {
@@ -1626,7 +1619,7 @@
     "price" : 258.05,
     "dma50" : 253.11,
     "dma100" : 250.39,
-    "dma200" : 285.37,
+    "dma200" : 285.36,
     "volume" : 640142.00
   }, {
     "date" : "2026-10-16",
@@ -1775,14 +1768,21 @@
     "dma100" : 250.17,
     "dma200" : 280.01,
     "volume" : 222755.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 248.60,
+    "dma50" : 255.28,
+    "dma100" : 250.16,
+    "dma200" : 279.70,
+    "volume" : 177998.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 249.60,
-    "dma50" : 255.56,
-    "dma100" : 250.17,
-    "dma200" : 280.01,
-    "volume" : 222755.00
+    "date" : "2026-11-17",
+    "price" : 248.60,
+    "dma50" : 255.28,
+    "dma100" : 250.16,
+    "dma200" : 279.70,
+    "volume" : 177998.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.01,
-    "pricePercentageAboveDma200" : 5.54,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 5.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.94,
     "operatingProfitMarginPercentile" : 17.70,
     "netProfitMarginPercentile" : 6.53,
-    "totalTechnicalScore" : 20.67,
+    "totalTechnicalScore" : 20.72,
     "totalFundamentalScore" : 33.17,
-    "totalScore" : 53.84
+    "totalScore" : 53.89
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "REDINGTON",
       "companyName" : "Redington",
-      "marketCap" : 26623.00,
-      "peRatio" : 13.30,
+      "marketCap" : 26823.00,
+      "peRatio" : 13.40,
       "description" : "Established in the year 1993, Redington Limited is a leading distributor of IT and mobility products and a provider of supply chain management solutions and support services in India, the Middle East, Turkey and Africa.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 4.56,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 4.52,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 6.59,
       "netProfitMarginPercentile" : 9.02,
-      "totalTechnicalScore" : 34.85,
+      "totalTechnicalScore" : 34.75,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 70.47
+      "totalScore" : 70.37
     }
   },
   "attributes" : {
     "companyCode" : "REDINGTON",
     "companyName" : "Redington",
-    "marketCap" : 26623.00,
-    "peRatio" : 13.30,
+    "marketCap" : 26823.00,
+    "peRatio" : 13.40,
     "description" : "Established in the year 1993, Redington Limited is a leading distributor of IT and mobility products and a provider of supply chain management solutions and support services in India, the Middle East, Turkey and Africa.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 296.40,
-    "dma50" : 273.50,
-    "dma100" : null,
-    "dma200" : 258.03,
-    "volume" : 1899347.00
-  }, {
     "date" : "2025-11-18",
     "price" : 290.40,
     "dma50" : 274.16,
@@ -114,7 +107,7 @@
     "price" : 282.15,
     "dma50" : 278.05,
     "dma100" : null,
-    "dma200" : 260.85,
+    "dma200" : 260.84,
     "volume" : 2196288.00
   }, {
     "date" : "2025-12-02",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 224.77,
     "dma50" : 235.34,
-    "dma100" : 258.15,
+    "dma100" : null,
     "dma200" : 254.03,
     "volume" : 5932880.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 343.70,
     "dma200" : 312.83,
     "volume" : 2299658.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 343.10,
+    "dma50" : 357.99,
+    "dma100" : 344.30,
+    "dma200" : 313.13,
+    "volume" : 2240956.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 340.55,
-    "dma50" : 358.60,
-    "dma100" : 343.70,
-    "dma200" : 312.83,
-    "volume" : 2299658.00
+    "date" : "2026-11-17",
+    "price" : 343.10,
+    "dma50" : 357.99,
+    "dma100" : 344.30,
+    "dma200" : 313.13,
+    "volume" : 2240956.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2623,15 +2623,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 4.56,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 4.52,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 6.59,
     "netProfitMarginPercentile" : 9.02,
-    "totalTechnicalScore" : 34.85,
+    "totalTechnicalScore" : 34.75,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 70.47
+    "totalScore" : 70.37
   }
 }

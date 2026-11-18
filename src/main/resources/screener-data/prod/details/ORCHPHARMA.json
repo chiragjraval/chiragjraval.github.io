@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ORCHPHARMA",
       "companyName" : "Orchid Pharma",
-      "marketCap" : 5535.00,
+      "marketCap" : 5574.00,
       "peRatio" : 106.00,
       "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.99,
-      "pricePercentageAboveDma100" : 5.25,
-      "pricePercentageAboveDma200" : 4.75,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.21,
+      "pricePercentageAboveDma200" : 4.72,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 14.34,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 39.99,
+      "totalTechnicalScore" : 39.89,
       "totalFundamentalScore" : 35.38,
-      "totalScore" : 75.38
+      "totalScore" : 75.27
     }
   },
   "attributes" : {
     "companyCode" : "ORCHPHARMA",
     "companyName" : "Orchid Pharma",
-    "marketCap" : 5535.00,
+    "marketCap" : 5574.00,
     "peRatio" : 106.00,
     "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 858.35,
-    "dma50" : 758.73,
-    "dma100" : null,
-    "dma200" : 851.37,
-    "volume" : 313508.00
-  }, {
     "date" : "2025-11-18",
     "price" : 842.15,
     "dma50" : 762.00,
@@ -135,7 +128,7 @@
     "price" : 865.15,
     "dma50" : 796.96,
     "dma100" : null,
-    "dma200" : 851.56,
+    "dma200" : 851.55,
     "volume" : 99003.00
   }, {
     "date" : "2025-12-05",
@@ -457,7 +450,7 @@
     "price" : 688.55,
     "dma50" : 738.85,
     "dma100" : null,
-    "dma200" : 812.77,
+    "dma200" : 812.76,
     "volume" : 50924.00
   }, {
     "date" : "2026-02-11",
@@ -471,7 +464,7 @@
     "price" : 672.20,
     "dma50" : 734.39,
     "dma100" : null,
-    "dma200" : 810.16,
+    "dma200" : 810.15,
     "volume" : 237564.00
   }, {
     "date" : "2026-02-13",
@@ -527,7 +520,7 @@
     "price" : 647.90,
     "dma50" : 714.90,
     "dma100" : null,
-    "dma200" : 798.88,
+    "dma200" : 798.87,
     "volume" : 53232.00
   }, {
     "date" : "2026-02-25",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 565.90,
     "dma50" : 586.61,
-    "dma100" : 690.80,
+    "dma100" : null,
     "dma200" : 729.01,
     "volume" : 88118.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 972.80,
     "dma200" : 880.96,
     "volume" : 848860.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 930.85,
+    "dma50" : 922.61,
+    "dma100" : 972.17,
+    "dma200" : 881.45,
+    "volume" : 133607.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 924.25,
-    "dma50" : 922.28,
-    "dma100" : 972.80,
-    "dma200" : 880.96,
-    "volume" : 848860.00
+    "date" : "2026-11-17",
+    "price" : 930.85,
+    "dma50" : 922.61,
+    "dma100" : 972.17,
+    "dma200" : 881.45,
+    "volume" : 133607.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.99,
-    "pricePercentageAboveDma100" : 5.25,
-    "pricePercentageAboveDma200" : 4.75,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.21,
+    "pricePercentageAboveDma200" : 4.72,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 14.34,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 39.99,
+    "totalTechnicalScore" : 39.89,
     "totalFundamentalScore" : 35.38,
-    "totalScore" : 75.38
+    "totalScore" : 75.27
   }
 }

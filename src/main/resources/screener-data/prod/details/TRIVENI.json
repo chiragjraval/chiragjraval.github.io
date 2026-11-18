@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TRIVENI",
       "companyName" : "Triven.Engg.Ind.",
-      "marketCap" : 5337.00,
-      "peRatio" : 16.20,
+      "marketCap" : 5198.00,
+      "peRatio" : 15.80,
       "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.06,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 5.03,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.64,
       "operatingProfitMarginPercentile" : 11.55,
       "netProfitMarginPercentile" : 7.16,
-      "totalTechnicalScore" : 25.34,
+      "totalTechnicalScore" : 25.71,
       "totalFundamentalScore" : 28.36,
-      "totalScore" : 53.70
+      "totalScore" : 54.07
     }
   },
   "attributes" : {
     "companyCode" : "TRIVENI",
     "companyName" : "Triven.Engg.Ind.",
-    "marketCap" : 5337.00,
-    "peRatio" : 16.20,
+    "marketCap" : 5198.00,
+    "peRatio" : 15.80,
     "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 219.98,
-    "dma50" : 215.29,
-    "dma100" : null,
-    "dma200" : 225.09,
-    "volume" : 151874.00
-  }, {
     "date" : "2025-11-18",
     "price" : 219.32,
     "dma50" : 215.44,
@@ -205,7 +198,7 @@
     "price" : 224.02,
     "dma50" : 215.84,
     "dma100" : null,
-    "dma200" : 223.22,
+    "dma200" : 223.21,
     "volume" : 521771.00
   }, {
     "date" : "2025-12-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 234.73,
     "dma50" : 226.61,
-    "dma100" : 222.97,
+    "dma100" : null,
     "dma200" : 224.47,
     "volume" : 948623.00
   }, {
@@ -1101,7 +1094,7 @@
     "price" : 254.81,
     "dma50" : 236.30,
     "dma100" : 232.72,
-    "dma200" : 229.46,
+    "dma200" : 229.45,
     "volume" : 784523.00
   }, {
     "date" : "2026-07-01",
@@ -1339,7 +1332,7 @@
     "price" : 279.64,
     "dma50" : 250.00,
     "dma100" : 243.81,
-    "dma200" : 237.79,
+    "dma200" : 237.78,
     "volume" : 2555212.00
   }, {
     "date" : "2026-08-18",
@@ -1775,14 +1768,21 @@
     "dma100" : 255.20,
     "dma200" : 243.57,
     "volume" : 411603.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 235.89,
+    "dma50" : 244.73,
+    "dma100" : 255.04,
+    "dma200" : 243.50,
+    "volume" : 503167.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 242.18,
-    "dma50" : 245.09,
-    "dma100" : 255.20,
-    "dma200" : 243.57,
-    "volume" : 411603.00
+    "date" : "2026-11-17",
+    "price" : 235.89,
+    "dma50" : 244.73,
+    "dma100" : 255.04,
+    "dma200" : 243.50,
+    "volume" : 503167.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.06,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 5.03,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.64,
     "operatingProfitMarginPercentile" : 11.55,
     "netProfitMarginPercentile" : 7.16,
-    "totalTechnicalScore" : 25.34,
+    "totalTechnicalScore" : 25.71,
     "totalFundamentalScore" : 28.36,
-    "totalScore" : 53.70
+    "totalScore" : 54.07
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CREST",
       "companyName" : "Crest Ventures",
-      "marketCap" : 1031.00,
-      "peRatio" : 26.50,
+      "marketCap" : 1034.00,
+      "peRatio" : 26.60,
       "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 5.04,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 17.33,
       "netProfitMarginPercentile" : 5.40,
-      "totalTechnicalScore" : 25.06,
+      "totalTechnicalScore" : 25.02,
       "totalFundamentalScore" : 33.10,
-      "totalScore" : 58.16
+      "totalScore" : 58.12
     }
   },
   "attributes" : {
     "companyCode" : "CREST",
     "companyName" : "Crest Ventures",
-    "marketCap" : 1031.00,
-    "peRatio" : 26.50,
+    "marketCap" : 1034.00,
+    "peRatio" : 26.60,
     "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 367.30,
-    "dma50" : 372.48,
-    "dma100" : null,
-    "dma200" : 386.90,
-    "volume" : 14191.00
-  }, {
     "date" : "2025-11-18",
     "price" : 358.70,
     "dma50" : 371.94,
@@ -345,7 +338,7 @@
     "price" : 387.50,
     "dma50" : 379.35,
     "dma100" : null,
-    "dma200" : 383.63,
+    "dma200" : 383.62,
     "volume" : 18207.00
   }, {
     "date" : "2026-01-20",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 355.95,
     "dma50" : 342.92,
-    "dma100" : 359.04,
+    "dma100" : null,
     "dma200" : 366.33,
     "volume" : 6893.00
   }, {
@@ -988,7 +981,7 @@
     "date" : "2026-06-05",
     "price" : 361.60,
     "dma50" : 353.92,
-    "dma100" : 354.19,
+    "dma100" : 354.20,
     "dma200" : 364.39,
     "volume" : 163554.00
   }, {
@@ -1219,7 +1212,7 @@
     "date" : "2026-07-23",
     "price" : 372.35,
     "dma50" : 371.46,
-    "dma100" : 358.03,
+    "dma100" : 358.04,
     "dma200" : 368.52,
     "volume" : 861.00
   }, {
@@ -1682,7 +1675,7 @@
     "price" : 347.30,
     "dma50" : 359.32,
     "dma100" : 368.68,
-    "dma200" : 365.39,
+    "dma200" : 365.38,
     "volume" : 2592.00
   }, {
     "date" : "2026-10-29",
@@ -1775,14 +1768,21 @@
     "dma100" : 366.00,
     "dma200" : 365.03,
     "volume" : 3914.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 363.40,
+    "dma50" : 360.81,
+    "dma100" : 365.65,
+    "dma200" : 365.02,
+    "volume" : 4802.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 362.45,
-    "dma50" : 360.71,
-    "dma100" : 366.00,
-    "dma200" : 365.03,
-    "volume" : 3914.00
+    "date" : "2026-11-17",
+    "price" : 363.40,
+    "dma50" : 360.81,
+    "dma100" : 365.65,
+    "dma200" : 365.02,
+    "volume" : 4802.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 5.04,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 17.33,
     "netProfitMarginPercentile" : 5.40,
-    "totalTechnicalScore" : 25.06,
+    "totalTechnicalScore" : 25.02,
     "totalFundamentalScore" : 33.10,
-    "totalScore" : 58.16
+    "totalScore" : 58.12
   }
 }

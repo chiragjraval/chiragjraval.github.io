@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SPLPETRO",
       "companyName" : "Supreme Petroch.",
-      "marketCap" : 13192.00,
-      "peRatio" : 24.60,
+      "marketCap" : 13126.00,
+      "peRatio" : 24.40,
       "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.28,
-      "pricePercentageAboveDma200" : 5.18,
+      "pricePercentageAboveDma50" : 5.26,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.20,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 11.72,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 25.71,
+      "totalTechnicalScore" : 25.77,
       "totalFundamentalScore" : 37.45,
-      "totalScore" : 63.16
+      "totalScore" : 63.22
     }
   },
   "attributes" : {
     "companyCode" : "SPLPETRO",
     "companyName" : "Supreme Petroch.",
-    "marketCap" : 13192.00,
-    "peRatio" : 24.60,
+    "marketCap" : 13126.00,
+    "peRatio" : 24.40,
     "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 655.45,
-    "dma50" : 752.32,
-    "dma100" : null,
-    "dma200" : 747.07,
-    "volume" : 82510.00
-  }, {
     "date" : "2025-11-18",
     "price" : 641.05,
     "dma50" : 747.96,
@@ -198,7 +191,7 @@
     "price" : 639.60,
     "dma50" : 690.55,
     "dma100" : null,
-    "dma200" : 727.25,
+    "dma200" : 727.24,
     "volume" : 16803.00
   }, {
     "date" : "2025-12-18",
@@ -240,7 +233,7 @@
     "price" : 641.25,
     "dma50" : 679.85,
     "dma100" : null,
-    "dma200" : 722.18,
+    "dma200" : 722.17,
     "volume" : 17373.00
   }, {
     "date" : "2025-12-29",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 766.65,
     "dma50" : 681.21,
-    "dma100" : 641.24,
+    "dma100" : null,
     "dma200" : 685.44,
     "volume" : 298578.00
   }, {
@@ -919,7 +912,7 @@
     "price" : 689.15,
     "dma50" : 713.89,
     "dma100" : 665.73,
-    "dma200" : 697.68,
+    "dma200" : 697.67,
     "volume" : 25377.00
   }, {
     "date" : "2026-05-22",
@@ -1234,7 +1227,7 @@
     "price" : 760.90,
     "dma50" : 719.71,
     "dma100" : 716.08,
-    "dma200" : 704.09,
+    "dma200" : 704.08,
     "volume" : 568006.00
   }, {
     "date" : "2026-07-28",
@@ -1775,14 +1768,21 @@
     "dma100" : 743.95,
     "dma200" : 728.08,
     "volume" : 45651.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 698.05,
+    "dma50" : 736.48,
+    "dma100" : 743.41,
+    "dma200" : 727.78,
+    "volume" : 38362.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 701.55,
-    "dma50" : 738.04,
-    "dma100" : 743.95,
-    "dma200" : 728.08,
-    "volume" : 45651.00
+    "date" : "2026-11-17",
+    "price" : 698.05,
+    "dma50" : 736.48,
+    "dma100" : 743.41,
+    "dma200" : 727.78,
+    "volume" : 38362.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.28,
-    "pricePercentageAboveDma200" : 5.18,
+    "pricePercentageAboveDma50" : 5.26,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.20,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 11.72,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 25.71,
+    "totalTechnicalScore" : 25.77,
     "totalFundamentalScore" : 37.45,
-    "totalScore" : 63.16
+    "totalScore" : 63.22
   }
 }

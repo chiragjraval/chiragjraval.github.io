@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BEPL",
       "companyName" : "Bhansali Engg.",
-      "marketCap" : 2753.00,
-      "peRatio" : 12.40,
+      "marketCap" : 2778.00,
+      "peRatio" : 12.50,
       "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 4.97,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 30.54,
+      "totalTechnicalScore" : 30.40,
       "totalFundamentalScore" : 41.56,
-      "totalScore" : 72.10
+      "totalScore" : 71.96
     }
   },
   "attributes" : {
     "companyCode" : "BEPL",
     "companyName" : "Bhansali Engg.",
-    "marketCap" : 2753.00,
-    "peRatio" : 12.40,
+    "marketCap" : 2778.00,
+    "peRatio" : 12.50,
     "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 95.41,
-    "dma50" : 100.66,
-    "dma100" : null,
-    "dma200" : 109.49,
-    "volume" : 292257.00
-  }, {
     "date" : "2025-11-18",
     "price" : 94.90,
     "dma50" : 100.44,
@@ -331,7 +324,7 @@
     "price" : 85.87,
     "dma50" : 91.12,
     "dma100" : null,
-    "dma200" : 102.73,
+    "dma200" : 102.72,
     "volume" : 192238.00
   }, {
     "date" : "2026-01-16",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 94.86,
     "dma50" : 86.02,
-    "dma100" : 86.46,
+    "dma100" : null,
     "dma200" : 94.62,
     "volume" : 730137.00
   }, {
@@ -1304,7 +1297,7 @@
     "price" : 126.14,
     "dma50" : 109.37,
     "dma100" : 99.87,
-    "dma200" : 100.29,
+    "dma200" : 100.28,
     "volume" : 2840085.00
   }, {
     "date" : "2026-08-11",
@@ -1775,14 +1768,21 @@
     "dma100" : 117.95,
     "dma200" : 110.07,
     "volume" : 407736.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 111.65,
+    "dma50" : 116.29,
+    "dma100" : 118.05,
+    "dma200" : 110.09,
+    "volume" : 523853.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 110.63,
-    "dma50" : 116.48,
-    "dma100" : 117.95,
-    "dma200" : 110.07,
-    "volume" : 407736.00
+    "date" : "2026-11-17",
+    "price" : 111.65,
+    "dma50" : 116.29,
+    "dma100" : 118.05,
+    "dma200" : 110.09,
+    "volume" : 523853.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 4.97,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 30.54,
+    "totalTechnicalScore" : 30.40,
     "totalFundamentalScore" : 41.56,
-    "totalScore" : 72.10
+    "totalScore" : 71.96
   }
 }

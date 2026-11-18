@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CMRGREEN",
       "companyName" : "CMR Green Tech.",
-      "marketCap" : 4597.00,
-      "peRatio" : 19.40,
+      "marketCap" : 4653.00,
+      "peRatio" : 19.70,
       "description" : "CMR Green Technologies Limited is a non-ferrous metal recycling company engaged in processing, manufacturing and selling recycled aluminium alloys in ingot and liquid form, zinc alloy ingots, aluminium billets, dross, and segregated furnace-ready scrap of metals such as stainless steel, copper, brass, zinc, lead and magnesium."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.13,
-      "pricePercentageAboveDma100" : 5.25,
-      "pricePercentageAboveDma200" : 5.38,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 5.32,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.82,
       "operatingProfitMarginPercentile" : 11.43,
       "netProfitMarginPercentile" : 4.29,
-      "totalTechnicalScore" : 15.76,
+      "totalTechnicalScore" : 15.57,
       "totalFundamentalScore" : 35.54,
-      "totalScore" : 51.30
+      "totalScore" : 51.11
     }
   },
   "attributes" : {
     "companyCode" : "CMRGREEN",
     "companyName" : "CMR Green Tech.",
-    "marketCap" : 4597.00,
-    "peRatio" : 19.40,
+    "marketCap" : 4653.00,
+    "peRatio" : 19.70,
     "description" : "CMR Green Technologies Limited is a non-ferrous metal recycling company engaged in processing, manufacturing and selling recycled aluminium alloys in ingot and liquid form, zinc alloy ingots, aluminium billets, dross, and segregated furnace-ready scrap of metals such as stainless steel, copper, brass, zinc, lead and magnesium."
   },
   "technicalHistory" : [ {
@@ -809,14 +809,21 @@
     "dma100" : 220.85,
     "dma200" : 227.31,
     "volume" : 334393.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 212.43,
+    "dma50" : 215.43,
+    "dma100" : 220.39,
+    "dma200" : 227.17,
+    "volume" : 223600.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 209.86,
-    "dma50" : 215.56,
-    "dma100" : 220.85,
-    "dma200" : 227.31,
-    "volume" : 334393.00
+    "date" : "2026-11-17",
+    "price" : 212.43,
+    "dma50" : 215.43,
+    "dma100" : 220.39,
+    "dma200" : 227.17,
+    "volume" : 223600.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-03-31",
@@ -907,15 +914,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.13,
-    "pricePercentageAboveDma100" : 5.25,
-    "pricePercentageAboveDma200" : 5.38,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 5.32,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.82,
     "operatingProfitMarginPercentile" : 11.43,
     "netProfitMarginPercentile" : 4.29,
-    "totalTechnicalScore" : 15.76,
+    "totalTechnicalScore" : 15.57,
     "totalFundamentalScore" : 35.54,
-    "totalScore" : 51.30
+    "totalScore" : 51.11
   }
 }

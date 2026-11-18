@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EXIDEIND",
       "companyName" : "Exide Inds.",
-      "marketCap" : 31068.00,
-      "peRatio" : 29.50,
+      "marketCap" : 32313.00,
+      "peRatio" : 30.70,
       "description" : "Exide Industries Ltd is primarily engaged in the manufacturing of storage batteries and allied products in India. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.59,
-      "pricePercentageAboveDma200" : 5.31,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 5.52,
       "netProfitMarginPercentile" : 4.60,
-      "totalTechnicalScore" : 21.15,
+      "totalTechnicalScore" : 20.59,
       "totalFundamentalScore" : 24.33,
-      "totalScore" : 45.48
+      "totalScore" : 44.92
     }
   },
   "attributes" : {
     "companyCode" : "EXIDEIND",
     "companyName" : "Exide Inds.",
-    "marketCap" : 31068.00,
-    "peRatio" : 29.50,
+    "marketCap" : 32313.00,
+    "peRatio" : 30.70,
     "description" : "Exide Industries Ltd is primarily engaged in the manufacturing of storage batteries and allied products in India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 382.70,
-    "dma50" : 390.27,
-    "dma100" : null,
-    "dma200" : 394.17,
-    "volume" : 3798502.00
-  }, {
     "date" : "2025-11-18",
     "price" : 381.50,
     "dma50" : 389.93,
@@ -163,7 +156,7 @@
     "price" : 370.40,
     "dma50" : 382.31,
     "dma100" : null,
-    "dma200" : 391.05,
+    "dma200" : 391.04,
     "volume" : 1233160.00
   }, {
     "date" : "2025-12-11",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 330.00,
     "dma50" : 319.82,
-    "dma100" : 339.98,
+    "dma100" : null,
     "dma200" : 355.63,
     "volume" : 1974776.00
   }, {
@@ -1024,7 +1017,7 @@
     "price" : 391.95,
     "dma50" : 360.14,
     "dma100" : 337.88,
-    "dma200" : 358.49,
+    "dma200" : 358.48,
     "volume" : 1656445.00
   }, {
     "date" : "2026-06-15",
@@ -1775,14 +1768,21 @@
     "dma100" : 414.67,
     "dma200" : 389.89,
     "volume" : 1199042.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 380.15,
+    "dma50" : 384.31,
+    "dma100" : 414.48,
+    "dma200" : 389.80,
+    "volume" : 6265440.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 365.50,
-    "dma50" : 384.48,
-    "dma100" : 414.67,
-    "dma200" : 389.89,
-    "volume" : 1199042.00
+    "date" : "2026-11-17",
+    "price" : 380.15,
+    "dma50" : 384.31,
+    "dma100" : 414.48,
+    "dma200" : 389.80,
+    "volume" : 6265440.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.59,
-    "pricePercentageAboveDma200" : 5.31,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 5.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 5.52,
     "netProfitMarginPercentile" : 4.60,
-    "totalTechnicalScore" : 21.15,
+    "totalTechnicalScore" : 20.59,
     "totalFundamentalScore" : 24.33,
-    "totalScore" : 45.48
+    "totalScore" : 44.92
   }
 }

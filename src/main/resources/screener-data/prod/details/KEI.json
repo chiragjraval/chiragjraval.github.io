@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KEI",
       "companyName" : "KEI Industries",
-      "marketCap" : 38450.00,
-      "peRatio" : 36.40,
+      "marketCap" : 36833.00,
+      "peRatio" : 34.90,
       "description" : "Incorporated in 1968, KEI Industries Ltd manufactures wires and cables (W&C) like EHV cables, HT cables, LT cables, and sells them in India and overseas[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.40,
-      "pricePercentageAboveDma100" : 5.85,
-      "pricePercentageAboveDma200" : 5.68,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.57,
+      "pricePercentageAboveDma100" : 6.01,
+      "pricePercentageAboveDma200" : 5.85,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 13.17,
       "netProfitMarginPercentile" : 8.40,
-      "totalTechnicalScore" : 21.92,
+      "totalTechnicalScore" : 27.43,
       "totalFundamentalScore" : 37.71,
-      "totalScore" : 59.64
+      "totalScore" : 65.14
     }
   },
   "attributes" : {
     "companyCode" : "KEI",
     "companyName" : "KEI Industries",
-    "marketCap" : 38450.00,
-    "peRatio" : 36.40,
+    "marketCap" : 36833.00,
+    "peRatio" : 34.90,
     "description" : "Incorporated in 1968, KEI Industries Ltd manufactures wires and cables (W&C) like EHV cables, HT cables, LT cables, and sells them in India and overseas[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 4150.90,
-    "dma50" : 4066.99,
-    "dma100" : null,
-    "dma200" : 3869.88,
-    "volume" : 196884.00
-  }, {
     "date" : "2025-11-18",
     "price" : 4125.90,
     "dma50" : 4069.30,
@@ -338,7 +331,7 @@
     "price" : 4370.10,
     "dma50" : 4265.40,
     "dma100" : null,
-    "dma200" : 4006.07,
+    "dma200" : 4006.06,
     "volume" : 209205.00
   }, {
     "date" : "2026-01-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 4598.50,
     "dma50" : 4377.02,
-    "dma100" : 4333.29,
+    "dma100" : null,
     "dma200" : 4178.44,
     "volume" : 301001.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 4839.45,
     "dma200" : 4652.07,
     "volume" : 174586.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 3851.00,
+    "dma50" : 4344.79,
+    "dma100" : 4823.77,
+    "dma200" : 4644.10,
+    "volume" : 795662.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 4020.00,
-    "dma50" : 4364.94,
-    "dma100" : 4839.45,
-    "dma200" : 4652.07,
-    "volume" : 174586.00
+    "date" : "2026-11-17",
+    "price" : 3851.00,
+    "dma50" : 4344.79,
+    "dma100" : 4823.77,
+    "dma200" : 4644.10,
+    "volume" : 795662.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.40,
-    "pricePercentageAboveDma100" : 5.85,
-    "pricePercentageAboveDma200" : 5.68,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.57,
+    "pricePercentageAboveDma100" : 6.01,
+    "pricePercentageAboveDma200" : 5.85,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 13.17,
     "netProfitMarginPercentile" : 8.40,
-    "totalTechnicalScore" : 21.92,
+    "totalTechnicalScore" : 27.43,
     "totalFundamentalScore" : 37.71,
-    "totalScore" : 59.64
+    "totalScore" : 65.14
   }
 }

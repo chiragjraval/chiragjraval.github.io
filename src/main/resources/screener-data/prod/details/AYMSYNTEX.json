@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AYMSYNTEX",
       "companyName" : "AYM Syntex",
-      "marketCap" : 1573.00,
-      "peRatio" : 38.60,
+      "marketCap" : 1607.00,
+      "peRatio" : 39.50,
       "description" : "Incorporated in 1985, AYM Syntex Ltd is a manufacturer and exporter of Polyester Filament Yarn, Nylon Filament Yarn and Bulk, Continuous Filament Yarn[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 4.89,
-      "pricePercentageAboveDma200" : 4.44,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.80,
+      "pricePercentageAboveDma200" : 4.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 17.70,
       "netProfitMarginPercentile" : 8.74,
-      "totalTechnicalScore" : 44.30,
+      "totalTechnicalScore" : 43.98,
       "totalFundamentalScore" : 43.06,
-      "totalScore" : 87.36
+      "totalScore" : 87.05
     }
   },
   "attributes" : {
     "companyCode" : "AYMSYNTEX",
     "companyName" : "AYM Syntex",
-    "marketCap" : 1573.00,
-    "peRatio" : 38.60,
+    "marketCap" : 1607.00,
+    "peRatio" : 39.50,
     "description" : "Incorporated in 1985, AYM Syntex Ltd is a manufacturer and exporter of Polyester Filament Yarn, Nylon Filament Yarn and Bulk, Continuous Filament Yarn[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 178.50,
-    "dma50" : 184.37,
-    "dma100" : null,
-    "dma200" : 199.65,
-    "volume" : 13663.00
-  }, {
     "date" : "2025-11-18",
     "price" : 176.06,
     "dma50" : 184.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 191.71,
     "dma50" : 183.51,
-    "dma100" : 174.10,
+    "dma100" : null,
     "dma200" : 185.34,
     "volume" : 10743.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 262.08,
     "dma200" : 240.59,
     "volume" : 14232.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 273.37,
+    "dma50" : 265.96,
+    "dma100" : 262.65,
+    "dma200" : 240.92,
+    "volume" : 46838.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 267.60,
-    "dma50" : 265.65,
-    "dma100" : 262.08,
-    "dma200" : 240.59,
-    "volume" : 14232.00
+    "date" : "2026-11-17",
+    "price" : 273.37,
+    "dma50" : 265.96,
+    "dma100" : 262.65,
+    "dma200" : 240.92,
+    "volume" : 46838.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 4.89,
-    "pricePercentageAboveDma200" : 4.44,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.80,
+    "pricePercentageAboveDma200" : 4.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 17.70,
     "netProfitMarginPercentile" : 8.74,
-    "totalTechnicalScore" : 44.30,
+    "totalTechnicalScore" : 43.98,
     "totalFundamentalScore" : 43.06,
-    "totalScore" : 87.36
+    "totalScore" : 87.05
   }
 }

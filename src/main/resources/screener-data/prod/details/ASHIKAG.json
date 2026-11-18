@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASHIKAG",
       "companyName" : "Ashika Global Securities.",
-      "marketCap" : 2659.00,
-      "peRatio" : 33.30,
+      "marketCap" : 2625.00,
+      "peRatio" : 32.80,
       "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.58,
-      "pricePercentageAboveDma200" : 5.42,
+      "pricePercentageAboveDma50" : 5.39,
+      "pricePercentageAboveDma100" : 5.63,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.02,
       "operatingProfitMarginPercentile" : 16.80,
       "netProfitMarginPercentile" : 6.17,
-      "totalTechnicalScore" : 21.35,
+      "totalTechnicalScore" : 21.50,
       "totalFundamentalScore" : 32.99,
-      "totalScore" : 54.34
+      "totalScore" : 54.49
     }
   },
   "attributes" : {
     "companyCode" : "ASHIKAG",
     "companyName" : "Ashika Global Securities.",
-    "marketCap" : 2659.00,
-    "peRatio" : 33.30,
+    "marketCap" : 2625.00,
+    "peRatio" : 32.80,
     "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 349.55,
-    "dma50" : 360.37,
-    "dma100" : null,
-    "dma200" : 409.00,
-    "volume" : 62041.00
-  }, {
     "date" : "2025-11-18",
     "price" : 348.85,
     "dma50" : 359.92,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 350.85,
     "dma50" : 348.79,
-    "dma100" : 353.85,
+    "dma100" : null,
     "dma200" : 374.13,
     "volume" : 98071.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 406.88,
     "dma200" : 392.77,
     "volume" : 4164.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 355.10,
+    "dma50" : 385.49,
+    "dma100" : 406.49,
+    "dma200" : 392.39,
+    "volume" : 52985.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 359.65,
-    "dma50" : 386.73,
-    "dma100" : 406.88,
-    "dma200" : 392.77,
-    "volume" : 4164.00
+    "date" : "2026-11-17",
+    "price" : 355.10,
+    "dma50" : 385.49,
+    "dma100" : 406.49,
+    "dma200" : 392.39,
+    "volume" : 52985.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.58,
-    "pricePercentageAboveDma200" : 5.42,
+    "pricePercentageAboveDma50" : 5.39,
+    "pricePercentageAboveDma100" : 5.63,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.02,
     "operatingProfitMarginPercentile" : 16.80,
     "netProfitMarginPercentile" : 6.17,
-    "totalTechnicalScore" : 21.35,
+    "totalTechnicalScore" : 21.50,
     "totalFundamentalScore" : 32.99,
-    "totalScore" : 54.34
+    "totalScore" : 54.49
   }
 }

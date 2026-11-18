@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SYMBIOTEC",
       "companyName" : "Symbiotec Pharma",
-      "marketCap" : 10111.00,
-      "peRatio" : 68.40,
+      "marketCap" : 10285.00,
+      "peRatio" : 69.60,
       "description" : "Symbiotec is a research-driven, science- based pharmaceutical and biotechnology company with a strong global leadership position in Corticosteroid and Steroidal Hormone Active Pharmaceutical Ingredients (APIs). It has evolved from a Lab-Scale Steroid manufacturer into a fully integrated global platform.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 3.81,
+      "pricePercentageAboveDma50" : 3.76,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.17,
+      "pricePercentageAboveDma200" : 3.08,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 11.38,
       "netProfitMarginPercentile" : 9.78,
-      "totalTechnicalScore" : 21.97,
+      "totalTechnicalScore" : 21.84,
       "totalFundamentalScore" : 41.16,
-      "totalScore" : 63.13
+      "totalScore" : 63.00
     }
   },
   "attributes" : {
     "companyCode" : "SYMBIOTEC",
     "companyName" : "Symbiotec Pharma",
-    "marketCap" : 10111.00,
-    "peRatio" : 68.40,
+    "marketCap" : 10285.00,
+    "peRatio" : 69.60,
     "description" : "Symbiotec is a research-driven, science- based pharmaceutical and biotechnology company with a strong global leadership position in Corticosteroid and Steroidal Hormone Active Pharmaceutical Ingredients (APIs). It has evolved from a Lab-Scale Steroid manufacturer into a fully integrated global platform.[1]"
   },
   "technicalHistory" : [ {
@@ -403,14 +403,21 @@
     "dma100" : null,
     "dma200" : 1151.74,
     "volume" : 387971.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1600.60,
+    "dma50" : 1283.12,
+    "dma100" : null,
+    "dma200" : 1156.21,
+    "volume" : 179466.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1573.50,
-    "dma50" : 1270.16,
+    "date" : "2026-11-17",
+    "price" : 1600.60,
+    "dma50" : 1283.12,
     "dma100" : null,
-    "dma200" : 1151.74,
-    "volume" : 387971.00
+    "dma200" : 1156.21,
+    "volume" : 179466.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -481,15 +488,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 3.81,
+    "pricePercentageAboveDma50" : 3.76,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.17,
+    "pricePercentageAboveDma200" : 3.08,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 11.38,
     "netProfitMarginPercentile" : 9.78,
-    "totalTechnicalScore" : 21.97,
+    "totalTechnicalScore" : 21.84,
     "totalFundamentalScore" : 41.16,
-    "totalScore" : 63.13
+    "totalScore" : 63.00
   }
 }

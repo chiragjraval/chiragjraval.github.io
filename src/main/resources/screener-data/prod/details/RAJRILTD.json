@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RAJRILTD",
       "companyName" : "Raj Rayon Inds.",
-      "marketCap" : 1232.00,
-      "peRatio" : 24.80,
+      "marketCap" : 1217.00,
+      "peRatio" : 24.50,
       "description" : "Incorporated in 1993, Raj Rayon Ltd manufactures and trades polyester chips, polyester yarn and processed yarn[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.87,
-      "pricePercentageAboveDma200" : 4.91,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.93,
+      "pricePercentageAboveDma200" : 4.97,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 19.90,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 34.57,
+      "totalTechnicalScore" : 34.76,
       "totalFundamentalScore" : 45.32,
-      "totalScore" : 79.88
+      "totalScore" : 80.07
     }
   },
   "attributes" : {
     "companyCode" : "RAJRILTD",
     "companyName" : "Raj Rayon Inds.",
-    "marketCap" : 1232.00,
-    "peRatio" : 24.80,
+    "marketCap" : 1217.00,
+    "peRatio" : 24.50,
     "description" : "Incorporated in 1993, Raj Rayon Ltd manufactures and trades polyester chips, polyester yarn and processed yarn[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 25.23,
-    "dma50" : 25.50,
-    "dma100" : null,
-    "dma200" : 25.44,
-    "volume" : 17083.00
-  }, {
     "date" : "2025-11-18",
     "price" : 24.85,
     "dma50" : 25.47,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 21.32,
     "dma50" : 21.53,
-    "dma100" : 21.98,
+    "dma100" : null,
     "dma200" : 23.16,
     "volume" : 16704.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 21.59,
     "dma200" : 21.76,
     "volume" : 9714.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 21.89,
+    "dma50" : 21.29,
+    "dma100" : 21.58,
+    "dma200" : 21.76,
+    "volume" : 5894.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 22.16,
-    "dma50" : 21.27,
-    "dma100" : 21.59,
+    "date" : "2026-11-17",
+    "price" : 21.89,
+    "dma50" : 21.29,
+    "dma100" : 21.58,
     "dma200" : 21.76,
-    "volume" : 9714.00
+    "volume" : 5894.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.87,
-    "pricePercentageAboveDma200" : 4.91,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.93,
+    "pricePercentageAboveDma200" : 4.97,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 19.90,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 34.57,
+    "totalTechnicalScore" : 34.76,
     "totalFundamentalScore" : 45.32,
-    "totalScore" : 79.88
+    "totalScore" : 80.07
   }
 }
