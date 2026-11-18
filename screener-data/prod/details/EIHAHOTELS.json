@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EIHAHOTELS",
       "companyName" : "EIH Assoc.Hotels",
-      "marketCap" : 1749.00,
-      "peRatio" : 19.20,
+      "marketCap" : 1759.00,
+      "peRatio" : 19.30,
       "description" : "EIH Associated Hotels Ltd is primarily engaged in owning premium luxury hotels under the luxury 'Oberoi' and five-star 'Trident' brands.[1] It is a Joint-Venture between the Oberoi Family and the Rajan Raheja Group.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.37,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 18.86,
       "netProfitMarginPercentile" : 9.49,
-      "totalTechnicalScore" : 20.69,
+      "totalTechnicalScore" : 20.59,
       "totalFundamentalScore" : 44.01,
-      "totalScore" : 64.70
+      "totalScore" : 64.60
     }
   },
   "attributes" : {
     "companyCode" : "EIHAHOTELS",
     "companyName" : "EIH Assoc.Hotels",
-    "marketCap" : 1749.00,
-    "peRatio" : 19.20,
+    "marketCap" : 1759.00,
+    "peRatio" : 19.30,
     "description" : "EIH Associated Hotels Ltd is primarily engaged in owning premium luxury hotels under the luxury 'Oberoi' and five-star 'Trident' brands.[1] It is a Joint-Venture between the Oberoi Family and the Rajan Raheja Group.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 367.95,
-    "dma50" : 381.89,
-    "dma100" : null,
-    "dma200" : 381.65,
-    "volume" : 19962.00
-  }, {
     "date" : "2025-11-18",
     "price" : 370.40,
     "dma50" : 381.44,
@@ -576,7 +569,7 @@
     "price" : 322.25,
     "dma50" : 339.70,
     "dma100" : null,
-    "dma200" : 361.53,
+    "dma200" : 361.52,
     "volume" : 34964.00
   }, {
     "date" : "2026-03-09",
@@ -667,7 +660,7 @@
     "price" : 295.15,
     "dma50" : 324.76,
     "dma100" : null,
-    "dma200" : 354.47,
+    "dma200" : 354.46,
     "volume" : 45696.00
   }, {
     "date" : "2026-03-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 322.50,
     "dma50" : 316.62,
-    "dma100" : 335.70,
+    "dma100" : null,
     "dma200" : 348.84,
     "volume" : 25112.00
   }, {
@@ -1178,7 +1171,7 @@
     "price" : 327.55,
     "dma50" : 318.67,
     "dma100" : 316.50,
-    "dma200" : 334.93,
+    "dma200" : 334.92,
     "volume" : 17780.00
   }, {
     "date" : "2026-07-16",
@@ -1775,14 +1768,21 @@
     "dma100" : 300.53,
     "dma200" : 311.73,
     "volume" : 10358.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 288.70,
+    "dma50" : 290.79,
+    "dma100" : 300.19,
+    "dma200" : 311.50,
+    "volume" : 8520.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 287.05,
-    "dma50" : 290.87,
-    "dma100" : 300.53,
-    "dma200" : 311.73,
-    "volume" : 10358.00
+    "date" : "2026-11-17",
+    "price" : 288.70,
+    "dma50" : 290.79,
+    "dma100" : 300.19,
+    "dma200" : 311.50,
+    "volume" : 8520.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.37,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 18.86,
     "netProfitMarginPercentile" : 9.49,
-    "totalTechnicalScore" : 20.69,
+    "totalTechnicalScore" : 20.59,
     "totalFundamentalScore" : 44.01,
-    "totalScore" : 64.70
+    "totalScore" : 64.60
   }
 }

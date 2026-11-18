@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ONGC",
       "companyName" : "O N G C",
-      "marketCap" : 285560.00,
-      "peRatio" : 5.74,
+      "marketCap" : 281194.00,
+      "peRatio" : 5.65,
       "description" : "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 5.17,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 9.43,
-      "totalTechnicalScore" : 20.61,
+      "totalTechnicalScore" : 20.82,
       "totalFundamentalScore" : 43.06,
-      "totalScore" : 63.67
+      "totalScore" : 63.88
     }
   },
   "attributes" : {
     "companyCode" : "ONGC",
     "companyName" : "O N G C",
-    "marketCap" : 285560.00,
-    "peRatio" : 5.74,
+    "marketCap" : 281194.00,
+    "peRatio" : 5.65,
     "description" : "ONGC is the largest crude oil and natural gas Company in India, contributing around 71 per cent to Indian domestic production"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 248.05,
-    "dma50" : 246.60,
-    "dma100" : null,
-    "dma200" : 245.99,
-    "volume" : 6708609.00
-  }, {
     "date" : "2025-11-18",
     "price" : 246.95,
     "dma50" : 246.61,
@@ -191,7 +184,7 @@
     "price" : 232.21,
     "dma50" : 243.64,
     "dma100" : null,
-    "dma200" : 245.27,
+    "dma200" : 245.26,
     "volume" : 7802227.00
   }, {
     "date" : "2025-12-17",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 287.60,
     "dma50" : 272.26,
-    "dma100" : 257.64,
+    "dma100" : null,
     "dma200" : 256.19,
     "volume" : 17047864.00
   }, {
@@ -870,7 +863,7 @@
     "price" : 294.50,
     "dma50" : 280.26,
     "dma100" : 265.57,
-    "dma200" : 261.39,
+    "dma200" : 261.38,
     "volume" : 55516067.00
   }, {
     "date" : "2026-05-13",
@@ -1003,7 +996,7 @@
     "price" : 259.00,
     "dma50" : 279.04,
     "dma100" : 274.16,
-    "dma200" : 264.66,
+    "dma200" : 264.65,
     "volume" : 11020287.00
   }, {
     "date" : "2026-06-10",
@@ -1241,7 +1234,7 @@
     "price" : 238.91,
     "dma50" : 253.59,
     "dma100" : 268.45,
-    "dma200" : 258.86,
+    "dma200" : 258.85,
     "volume" : 14040945.00
   }, {
     "date" : "2026-07-29",
@@ -1409,7 +1402,7 @@
     "price" : 231.80,
     "dma50" : 243.37,
     "dma100" : 259.74,
-    "dma200" : 254.33,
+    "dma200" : 254.32,
     "volume" : 13067697.00
   }, {
     "date" : "2026-09-01",
@@ -1633,7 +1626,7 @@
     "price" : 222.00,
     "dma50" : 232.64,
     "dma100" : 240.74,
-    "dma200" : 247.66,
+    "dma200" : 247.65,
     "volume" : 11273064.00
   }, {
     "date" : "2026-10-19",
@@ -1775,14 +1768,21 @@
     "dma100" : 235.06,
     "dma200" : 244.29,
     "volume" : 11643165.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 223.52,
+    "dma50" : 230.51,
+    "dma100" : 234.90,
+    "dma200" : 244.09,
+    "volume" : 10853708.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 226.99,
-    "dma50" : 230.80,
-    "dma100" : 235.06,
-    "dma200" : 244.29,
-    "volume" : 11643165.00
+    "date" : "2026-11-17",
+    "price" : 223.52,
+    "dma50" : 230.51,
+    "dma100" : 234.90,
+    "dma200" : 244.09,
+    "volume" : 10853708.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 5.17,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 9.43,
-    "totalTechnicalScore" : 20.61,
+    "totalTechnicalScore" : 20.82,
     "totalFundamentalScore" : 43.06,
-    "totalScore" : 63.67
+    "totalScore" : 63.88
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "SUNCLAY",
       "companyName" : "Sundaram Clayton",
-      "marketCap" : 2423.00,
+      "marketCap" : 2428.00,
       "peRatio" : 0.00,
       "description" : "Incorporated in 1962, Sundaram Clayton Ltd is in the business of manufacturing automotive components[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.22,
-      "pricePercentageAboveDma100" : 5.56,
-      "pricePercentageAboveDma200" : 5.77,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.54,
+      "pricePercentageAboveDma200" : 5.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.78,
       "operatingProfitMarginPercentile" : 12.75,
       "netProfitMarginPercentile" : 8.46,
-      "totalTechnicalScore" : 16.55,
+      "totalTechnicalScore" : 16.50,
       "totalFundamentalScore" : 38.99,
-      "totalScore" : 55.55
+      "totalScore" : 55.50
     }
   },
   "attributes" : {
     "companyCode" : "SUNCLAY",
     "companyName" : "Sundaram Clayton",
-    "marketCap" : 2423.00,
+    "marketCap" : 2428.00,
     "peRatio" : 0.00,
     "description" : "Incorporated in 1962, Sundaram Clayton Ltd is in the business of manufacturing automotive components[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1308.60,
-    "dma50" : 1566.30,
-    "dma100" : null,
-    "dma200" : 1865.56,
-    "volume" : 157223.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1325.30,
     "dma50" : 1556.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1341.00,
     "dma50" : 1297.19,
-    "dma100" : 1273.26,
+    "dma100" : null,
     "dma200" : 1495.48,
     "volume" : 18686.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1237.77,
     "dma200" : 1300.40,
     "volume" : 4578.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1101.40,
+    "dma50" : 1147.90,
+    "dma100" : 1235.65,
+    "dma200" : 1298.42,
+    "volume" : 8844.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1099.10,
-    "dma50" : 1149.80,
-    "dma100" : 1237.77,
-    "dma200" : 1300.40,
-    "volume" : 4578.00
+    "date" : "2026-11-17",
+    "price" : 1101.40,
+    "dma50" : 1147.90,
+    "dma100" : 1235.65,
+    "dma200" : 1298.42,
+    "volume" : 8844.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.22,
-    "pricePercentageAboveDma100" : 5.56,
-    "pricePercentageAboveDma200" : 5.77,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.54,
+    "pricePercentageAboveDma200" : 5.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.78,
     "operatingProfitMarginPercentile" : 12.75,
     "netProfitMarginPercentile" : 8.46,
-    "totalTechnicalScore" : 16.55,
+    "totalTechnicalScore" : 16.50,
     "totalFundamentalScore" : 38.99,
-    "totalScore" : 55.55
+    "totalScore" : 55.50
   }
 }

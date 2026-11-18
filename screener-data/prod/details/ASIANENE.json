@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASIANENE",
       "companyName" : "Asian Energy",
-      "marketCap" : 1920.00,
-      "peRatio" : 24.00,
+      "marketCap" : 1905.00,
+      "peRatio" : 23.80,
       "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.43,
-      "pricePercentageAboveDma100" : 5.40,
-      "pricePercentageAboveDma200" : 4.95,
+      "pricePercentageAboveDma50" : 5.45,
+      "pricePercentageAboveDma100" : 5.44,
+      "pricePercentageAboveDma200" : 4.99,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 19.15,
       "netProfitMarginPercentile" : 9.83,
-      "totalTechnicalScore" : 35.78,
+      "totalTechnicalScore" : 35.88,
       "totalFundamentalScore" : 44.40,
-      "totalScore" : 80.18
+      "totalScore" : 80.28
     }
   },
   "attributes" : {
     "companyCode" : "ASIANENE",
     "companyName" : "Asian Energy",
-    "marketCap" : 1920.00,
-    "peRatio" : 24.00,
+    "marketCap" : 1905.00,
+    "peRatio" : 23.80,
     "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 321.05,
-    "dma50" : 336.96,
-    "dma100" : null,
-    "dma200" : 324.73,
-    "volume" : 217790.00
-  }, {
     "date" : "2025-11-18",
     "price" : 324.05,
     "dma50" : 336.45,
@@ -254,7 +247,7 @@
     "price" : 277.85,
     "dma50" : 303.71,
     "dma100" : null,
-    "dma200" : 315.99,
+    "dma200" : 315.98,
     "volume" : 26657.00
   }, {
     "date" : "2025-12-31",
@@ -387,7 +380,7 @@
     "price" : 257.10,
     "dma50" : 280.07,
     "dma100" : null,
-    "dma200" : 306.58,
+    "dma200" : 306.57,
     "volume" : 365690.00
   }, {
     "date" : "2026-01-29",
@@ -506,7 +499,7 @@
     "price" : 309.15,
     "dma50" : 278.63,
     "dma100" : null,
-    "dma200" : 301.52,
+    "dma200" : 301.51,
     "volume" : 158369.00
   }, {
     "date" : "2026-02-20",
@@ -534,7 +527,7 @@
     "price" : 305.55,
     "dma50" : 283.06,
     "dma100" : null,
-    "dma200" : 301.80,
+    "dma200" : 301.79,
     "volume" : 58067.00
   }, {
     "date" : "2026-02-26",
@@ -667,7 +660,7 @@
     "price" : 263.45,
     "dma50" : 280.84,
     "dma100" : null,
-    "dma200" : 298.05,
+    "dma200" : 298.04,
     "volume" : 146929.00
   }, {
     "date" : "2026-03-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 299.71,
     "dma50" : 279.60,
-    "dma100" : 279.67,
+    "dma100" : null,
     "dma200" : 295.69,
     "volume" : 117090.00
   }, {
@@ -954,7 +947,7 @@
     "price" : 358.10,
     "dma50" : 311.77,
     "dma100" : 288.24,
-    "dma200" : 302.37,
+    "dma200" : 302.36,
     "volume" : 452962.00
   }, {
     "date" : "2026-06-01",
@@ -1185,7 +1178,7 @@
     "price" : 365.15,
     "dma50" : 342.08,
     "dma100" : 318.65,
-    "dma200" : 317.27,
+    "dma200" : 317.26,
     "volume" : 722256.00
   }, {
     "date" : "2026-07-17",
@@ -1775,14 +1768,21 @@
     "dma100" : 425.24,
     "dma200" : 387.32,
     "volume" : 203396.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 388.30,
+    "dma50" : 426.97,
+    "dma100" : 425.41,
+    "dma200" : 387.33,
+    "volume" : 146056.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 391.30,
-    "dma50" : 428.55,
-    "dma100" : 425.24,
-    "dma200" : 387.32,
-    "volume" : 203396.00
+    "date" : "2026-11-17",
+    "price" : 388.30,
+    "dma50" : 426.97,
+    "dma100" : 425.41,
+    "dma200" : 387.33,
+    "volume" : 146056.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.43,
-    "pricePercentageAboveDma100" : 5.40,
-    "pricePercentageAboveDma200" : 4.95,
+    "pricePercentageAboveDma50" : 5.45,
+    "pricePercentageAboveDma100" : 5.44,
+    "pricePercentageAboveDma200" : 4.99,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 19.15,
     "netProfitMarginPercentile" : 9.83,
-    "totalTechnicalScore" : 35.78,
+    "totalTechnicalScore" : 35.88,
     "totalFundamentalScore" : 44.40,
-    "totalScore" : 80.18
+    "totalScore" : 80.28
   }
 }

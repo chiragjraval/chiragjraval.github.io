@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AJAXENGG",
       "companyName" : "Ajax Engineering",
-      "marketCap" : 6590.00,
-      "peRatio" : 27.20,
+      "marketCap" : 6604.00,
+      "peRatio" : 27.30,
       "description" : "Incorporated in July 1992, Ajax Engineering Limited manufactures a wide range of concrete equipment and services across the value chain.[1]"
     },
     "companyScore" : {
@@ -18,35 +18,28 @@
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
-      "dma50HigherThanDma200" : 0.00,
+      "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.90,
+      "pricePercentageAboveDma50" : 4.89,
+      "pricePercentageAboveDma100" : 4.93,
+      "pricePercentageAboveDma200" : 4.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 4.62,
       "netProfitMarginPercentile" : 3.04,
-      "totalTechnicalScore" : 34.75,
+      "totalTechnicalScore" : 39.72,
       "totalFundamentalScore" : 20.99,
-      "totalScore" : 55.73
+      "totalScore" : 60.71
     }
   },
   "attributes" : {
     "companyCode" : "AJAXENGG",
     "companyName" : "Ajax Engineering",
-    "marketCap" : 6590.00,
-    "peRatio" : 27.20,
+    "marketCap" : 6604.00,
+    "peRatio" : 27.30,
     "description" : "Incorporated in July 1992, Ajax Engineering Limited manufactures a wide range of concrete equipment and services across the value chain.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 671.10,
-    "dma50" : 629.00,
-    "dma100" : null,
-    "dma200" : 638.86,
-    "volume" : 616555.00
-  }, {
     "date" : "2025-11-18",
     "price" : 662.55,
     "dma50" : 630.31,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 498.25,
     "dma50" : 485.88,
-    "dma100" : 536.56,
+    "dma100" : null,
     "dma200" : 563.31,
     "volume" : 174691.00
   }, {
@@ -1492,7 +1485,7 @@
     "date" : "2026-09-17",
     "price" : 566.60,
     "dma50" : 573.08,
-    "dma100" : 565.46,
+    "dma100" : 565.45,
     "dma200" : 565.30,
     "volume" : 30957.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 569.20,
     "dma200" : 565.23,
     "volume" : 46016.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 577.25,
+    "dma50" : 565.37,
+    "dma100" : 569.45,
+    "dma200" : 565.35,
+    "volume" : 112873.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 576.00,
-    "dma50" : 564.89,
-    "dma100" : 569.20,
-    "dma200" : 565.23,
-    "volume" : 46016.00
+    "date" : "2026-11-17",
+    "price" : 577.25,
+    "dma50" : 565.37,
+    "dma100" : 569.45,
+    "dma200" : 565.35,
+    "volume" : 112873.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1931,17 +1931,17 @@
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
-    "dma50HigherThanDma200" : 0.00,
+    "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.90,
+    "pricePercentageAboveDma50" : 4.89,
+    "pricePercentageAboveDma100" : 4.93,
+    "pricePercentageAboveDma200" : 4.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 4.62,
     "netProfitMarginPercentile" : 3.04,
-    "totalTechnicalScore" : 34.75,
+    "totalTechnicalScore" : 39.72,
     "totalFundamentalScore" : 20.99,
-    "totalScore" : 55.73
+    "totalScore" : 60.71
   }
 }

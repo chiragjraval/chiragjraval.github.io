@@ -21,15 +21,15 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma100" : 5.35,
       "pricePercentageAboveDma200" : 5.57,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 7.13,
       "netProfitMarginPercentile" : 7.72,
-      "totalTechnicalScore" : 20.88,
+      "totalTechnicalScore" : 20.86,
       "totalFundamentalScore" : 33.40,
-      "totalScore" : 54.28
+      "totalScore" : 54.27
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Bombay Dyeing & Manufacturing Company is currently engaged in the business of Real Estate Development, Polyester Staple Fibre and Retail (Textiles).[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 152.15,
-    "dma50" : 167.05,
-    "dma100" : null,
-    "dma200" : 166.95,
-    "volume" : 709154.00
-  }, {
     "date" : "2025-11-18",
     "price" : 151.10,
     "dma50" : 166.42,
@@ -142,7 +135,7 @@
     "price" : 133.46,
     "dma50" : 156.75,
     "dma100" : null,
-    "dma200" : 163.90,
+    "dma200" : 163.89,
     "volume" : 555080.00
   }, {
     "date" : "2025-12-08",
@@ -212,7 +205,7 @@
     "price" : 131.36,
     "dma50" : 148.06,
     "dma100" : null,
-    "dma200" : 160.71,
+    "dma200" : 160.70,
     "volume" : 777550.00
   }, {
     "date" : "2025-12-22",
@@ -233,14 +226,14 @@
     "price" : 131.67,
     "dma50" : 146.32,
     "dma100" : null,
-    "dma200" : 159.88,
+    "dma200" : 159.87,
     "volume" : 493275.00
   }, {
     "date" : "2025-12-26",
     "price" : 129.72,
     "dma50" : 145.67,
     "dma100" : null,
-    "dma200" : 159.58,
+    "dma200" : 159.57,
     "volume" : 438984.00
   }, {
     "date" : "2025-12-29",
@@ -380,7 +373,7 @@
     "price" : 115.81,
     "dma50" : 132.85,
     "dma100" : null,
-    "dma200" : 153.02,
+    "dma200" : 153.01,
     "volume" : 1537442.00
   }, {
     "date" : "2026-01-28",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 113.59,
     "dma50" : 110.68,
-    "dma100" : 120.76,
+    "dma100" : null,
     "dma200" : 135.51,
     "volume" : 1546004.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 111.57,
     "dma200" : 116.89,
     "volume" : 467767.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 103.48,
+    "dma50" : 102.35,
+    "dma100" : 111.25,
+    "dma200" : 116.76,
+    "volume" : 452725.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 103.49,
-    "dma50" : 102.30,
-    "dma100" : 111.57,
-    "dma200" : 116.89,
-    "volume" : 467767.00
+    "date" : "2026-11-17",
+    "price" : 103.48,
+    "dma50" : 102.35,
+    "dma100" : 111.25,
+    "dma200" : 116.76,
+    "volume" : 452725.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma100" : 5.35,
     "pricePercentageAboveDma200" : 5.57,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 7.13,
     "netProfitMarginPercentile" : 7.72,
-    "totalTechnicalScore" : 20.88,
+    "totalTechnicalScore" : 20.86,
     "totalFundamentalScore" : 33.40,
-    "totalScore" : 54.28
+    "totalScore" : 54.27
   }
 }

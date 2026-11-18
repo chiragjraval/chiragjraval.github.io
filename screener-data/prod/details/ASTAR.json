@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTAR",
       "companyName" : "Asian Star Co.",
-      "marketCap" : 1048.00,
-      "peRatio" : 28.60,
+      "marketCap" : 1025.00,
+      "peRatio" : 28.00,
       "description" : "Incorporated in 1971, Asian Star Company Ltd is in the business of diamond cutting and polishing, jewellery manufacturing and retailing, and wind power generation[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.85,
-      "pricePercentageAboveDma100" : 4.74,
-      "pricePercentageAboveDma200" : 4.88,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 4.86,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 2.46,
       "operatingProfitMarginPercentile" : 8.89,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 34.48,
+      "totalTechnicalScore" : 34.83,
       "totalFundamentalScore" : 20.55,
-      "totalScore" : 55.03
+      "totalScore" : 55.38
     }
   },
   "attributes" : {
     "companyCode" : "ASTAR",
     "companyName" : "Asian Star Co.",
-    "marketCap" : 1048.00,
-    "peRatio" : 28.60,
+    "marketCap" : 1025.00,
+    "peRatio" : 28.00,
     "description" : "Incorporated in 1971, Asian Star Company Ltd is in the business of diamond cutting and polishing, jewellery manufacturing and retailing, and wind power generation[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 729.75,
-    "dma50" : 719.37,
-    "dma100" : null,
-    "dma200" : 743.28,
-    "volume" : 935.00
-  }, {
     "date" : "2025-11-18",
     "price" : 739.00,
     "dma50" : 720.14,
@@ -65,7 +58,7 @@
     "price" : 731.45,
     "dma50" : 721.70,
     "dma100" : null,
-    "dma200" : 743.19,
+    "dma200" : 743.18,
     "volume" : 4.00
   }, {
     "date" : "2025-11-21",
@@ -93,7 +86,7 @@
     "price" : 728.00,
     "dma50" : 721.10,
     "dma100" : null,
-    "dma200" : 742.18,
+    "dma200" : 742.17,
     "volume" : 4.00
   }, {
     "date" : "2025-12-02",
@@ -142,7 +135,7 @@
     "price" : 636.20,
     "dma50" : 709.40,
     "dma100" : null,
-    "dma200" : 737.59,
+    "dma200" : 737.58,
     "volume" : 19.00
   }, {
     "date" : "2025-12-12",
@@ -198,7 +191,7 @@
     "price" : 630.50,
     "dma50" : 692.66,
     "dma100" : null,
-    "dma200" : 730.85,
+    "dma200" : 730.84,
     "volume" : 15.00
   }, {
     "date" : "2025-12-24",
@@ -408,7 +401,7 @@
     "price" : 639.85,
     "dma50" : 638.25,
     "dma100" : null,
-    "dma200" : 701.63,
+    "dma200" : 701.62,
     "volume" : 3.00
   }, {
     "date" : "2026-02-09",
@@ -450,7 +443,7 @@
     "price" : 669.70,
     "dma50" : 643.38,
     "dma100" : null,
-    "dma200" : 699.30,
+    "dma200" : 699.29,
     "volume" : 41.00
   }, {
     "date" : "2026-02-18",
@@ -562,7 +555,7 @@
     "price" : 586.00,
     "dma50" : 627.26,
     "dma100" : null,
-    "dma200" : 686.45,
+    "dma200" : 686.44,
     "volume" : 21.00
   }, {
     "date" : "2026-03-16",
@@ -618,7 +611,7 @@
     "price" : 624.00,
     "dma50" : 621.60,
     "dma100" : null,
-    "dma200" : 680.29,
+    "dma200" : 680.28,
     "volume" : 55.00
   }, {
     "date" : "2026-04-02",
@@ -737,13 +730,13 @@
     "price" : 638.00,
     "dma50" : 620.58,
     "dma100" : null,
-    "dma200" : 670.51,
+    "dma200" : 670.50,
     "volume" : 4.00
   }, {
     "date" : "2026-04-29",
     "price" : 649.95,
     "dma50" : 621.73,
-    "dma100" : 633.72,
+    "dma100" : null,
     "dma200" : 670.30,
     "volume" : 218.00
   }, {
@@ -1591,7 +1584,7 @@
     "price" : 661.55,
     "dma50" : 627.33,
     "dma100" : 619.89,
-    "dma200" : 638.09,
+    "dma200" : 638.08,
     "volume" : 219.00
   }, {
     "date" : "2026-11-08",
@@ -1635,14 +1628,21 @@
     "dma100" : 622.65,
     "dma200" : 639.81,
     "volume" : 101.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 640.10,
+    "dma50" : 636.06,
+    "dma100" : 622.78,
+    "dma200" : 639.81,
+    "volume" : 28.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 654.65,
-    "dma50" : 635.90,
-    "dma100" : 622.65,
+    "date" : "2026-11-17",
+    "price" : 640.10,
+    "dma50" : 636.06,
+    "dma100" : 622.78,
     "dma200" : 639.81,
-    "volume" : 101.00
+    "volume" : 28.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2533,15 +2533,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.85,
-    "pricePercentageAboveDma100" : 4.74,
-    "pricePercentageAboveDma200" : 4.88,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 4.86,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 2.46,
     "operatingProfitMarginPercentile" : 8.89,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 34.48,
+    "totalTechnicalScore" : 34.83,
     "totalFundamentalScore" : 20.55,
-    "totalScore" : 55.03
+    "totalScore" : 55.38
   }
 }

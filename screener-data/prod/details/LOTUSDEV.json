@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LOTUSDEV",
       "companyName" : "Sri Lotus",
-      "marketCap" : 11327.00,
-      "peRatio" : 38.70,
+      "marketCap" : 11365.00,
+      "peRatio" : 38.80,
       "description" : "Incorporated in February 2015, Sri Lotus Developers and Realty Limited is a developer of residential and commercial properties located in Mumbai, specializing in redevelopment projects within the ultra-luxury and luxury segments of the western suburbs.[1]"
     },
     "companyScore" : {
@@ -20,14 +20,14 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.80,
-      "pricePercentageAboveDma100" : 4.11,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 4.12,
       "pricePercentageAboveDma200" : 3.77,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 3.33,
       "operatingProfitMarginPercentile" : 4.00,
       "netProfitMarginPercentile" : 1.00,
-      "totalTechnicalScore" : 42.68,
+      "totalTechnicalScore" : 42.67,
       "totalFundamentalScore" : 8.33,
       "totalScore" : 51.01
     }
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "LOTUSDEV",
     "companyName" : "Sri Lotus",
-    "marketCap" : 11327.00,
-    "peRatio" : 38.70,
+    "marketCap" : 11365.00,
+    "peRatio" : 38.80,
     "description" : "Incorporated in February 2015, Sri Lotus Developers and Realty Limited is a developer of residential and commercial properties located in Mumbai, specializing in redevelopment projects within the ultra-luxury and luxury segments of the western suburbs.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 171.43,
-    "dma50" : 182.44,
-    "dma100" : null,
-    "dma200" : 189.99,
-    "volume" : 574035.00
-  }, {
     "date" : "2025-11-18",
     "price" : 171.05,
     "dma50" : 182.00,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 142.99,
     "dma50" : 132.51,
-    "dma100" : 145.73,
+    "dma100" : null,
     "dma200" : 159.29,
     "volume" : 1187192.00
   }, {
@@ -939,7 +932,7 @@
     "date" : "2026-05-26",
     "price" : 139.30,
     "dma50" : 138.93,
-    "dma100" : 140.51,
+    "dma100" : 140.50,
     "dma200" : 155.19,
     "volume" : 221092.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 196.76,
     "dma200" : 186.05,
     "volume" : 1805314.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 232.55,
+    "dma50" : 223.15,
+    "dma100" : 197.63,
+    "dma200" : 186.51,
+    "volume" : 544539.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 231.77,
-    "dma50" : 222.77,
-    "dma100" : 196.76,
-    "dma200" : 186.05,
-    "volume" : 1805314.00
+    "date" : "2026-11-17",
+    "price" : 232.55,
+    "dma50" : 223.15,
+    "dma100" : 197.63,
+    "dma200" : 186.51,
+    "volume" : 544539.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,14 +1903,14 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.80,
-    "pricePercentageAboveDma100" : 4.11,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 4.12,
     "pricePercentageAboveDma200" : 3.77,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 3.33,
     "operatingProfitMarginPercentile" : 4.00,
     "netProfitMarginPercentile" : 1.00,
-    "totalTechnicalScore" : 42.68,
+    "totalTechnicalScore" : 42.67,
     "totalFundamentalScore" : 8.33,
     "totalScore" : 51.01
   }

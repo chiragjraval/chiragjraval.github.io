@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "FDC",
       "companyName" : "FDC",
-      "marketCap" : 6177.00,
-      "peRatio" : 18.80,
+      "marketCap" : 6120.00,
+      "peRatio" : 18.60,
       "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.81,
-      "pricePercentageAboveDma100" : 4.92,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 5.04,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 6.59,
       "netProfitMarginPercentile" : 2.69,
-      "totalTechnicalScore" : 34.72,
+      "totalTechnicalScore" : 29.86,
       "totalFundamentalScore" : 26.88,
-      "totalScore" : 61.60
+      "totalScore" : 56.74
     }
   },
   "attributes" : {
     "companyCode" : "FDC",
     "companyName" : "FDC",
-    "marketCap" : 6177.00,
-    "peRatio" : 18.80,
+    "marketCap" : 6120.00,
+    "peRatio" : 18.60,
     "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 412.70,
-    "dma50" : 443.57,
-    "dma100" : null,
-    "dma200" : 457.78,
-    "volume" : 141108.00
-  }, {
     "date" : "2025-11-18",
     "price" : 409.75,
     "dma50" : 442.25,
@@ -317,7 +310,7 @@
     "price" : 399.05,
     "dma50" : 419.40,
     "dma100" : null,
-    "dma200" : 443.54,
+    "dma200" : 443.53,
     "volume" : 94138.00
   }, {
     "date" : "2026-01-13",
@@ -478,7 +471,7 @@
     "price" : 376.30,
     "dma50" : 396.12,
     "dma100" : null,
-    "dma200" : 430.58,
+    "dma200" : 430.57,
     "volume" : 70862.00
   }, {
     "date" : "2026-02-16",
@@ -604,7 +597,7 @@
     "price" : 366.90,
     "dma50" : 382.65,
     "dma100" : null,
-    "dma200" : 420.63,
+    "dma200" : 420.62,
     "volume" : 40710.00
   }, {
     "date" : "2026-03-13",
@@ -730,7 +723,7 @@
     "price" : 351.55,
     "dma50" : 358.85,
     "dma100" : null,
-    "dma200" : 406.71,
+    "dma200" : 406.70,
     "volume" : 104409.00
   }, {
     "date" : "2026-04-13",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 356.90,
     "dma50" : 358.57,
-    "dma100" : 383.14,
+    "dma100" : null,
     "dma200" : 405.69,
     "volume" : 88931.00
   }, {
@@ -1156,7 +1149,7 @@
     "date" : "2026-07-10",
     "price" : 432.30,
     "dma50" : 397.69,
-    "dma100" : 374.74,
+    "dma100" : 374.73,
     "dma200" : 399.36,
     "volume" : 179107.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 373.22,
     "dma200" : 378.58,
     "volume" : 141996.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 375.90,
+    "dma50" : 366.04,
+    "dma100" : 372.88,
+    "dma200" : 378.55,
+    "volume" : 102180.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 379.40,
-    "dma50" : 365.64,
-    "dma100" : 373.22,
-    "dma200" : 378.58,
-    "volume" : 141996.00
+    "date" : "2026-11-17",
+    "price" : 375.90,
+    "dma50" : 366.04,
+    "dma100" : 372.88,
+    "dma200" : 378.55,
+    "volume" : 102180.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.81,
-    "pricePercentageAboveDma100" : 4.92,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 5.04,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 6.59,
     "netProfitMarginPercentile" : 2.69,
-    "totalTechnicalScore" : 34.72,
+    "totalTechnicalScore" : 29.86,
     "totalFundamentalScore" : 26.88,
-    "totalScore" : 61.60
+    "totalScore" : 56.74
   }
 }

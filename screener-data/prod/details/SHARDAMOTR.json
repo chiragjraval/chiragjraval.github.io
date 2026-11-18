@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHARDAMOTR",
       "companyName" : "Sharda Motor",
-      "marketCap" : 5424.00,
-      "peRatio" : 15.10,
+      "marketCap" : 5555.00,
+      "peRatio" : 15.40,
       "description" : "Sharda Motor Industries Ltd is primarily engaged in the manufacturing and assembly of Auto Components and White Goods Components.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.67,
-      "pricePercentageAboveDma100" : 4.69,
-      "pricePercentageAboveDma200" : 4.70,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.56,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.44,
       "operatingProfitMarginPercentile" : 16.17,
       "netProfitMarginPercentile" : 8.07,
-      "totalTechnicalScore" : 34.05,
+      "totalTechnicalScore" : 33.70,
       "totalFundamentalScore" : 42.68,
-      "totalScore" : 76.73
+      "totalScore" : 76.37
     }
   },
   "attributes" : {
     "companyCode" : "SHARDAMOTR",
     "companyName" : "Sharda Motor",
-    "marketCap" : 5424.00,
-    "peRatio" : 15.10,
+    "marketCap" : 5555.00,
+    "peRatio" : 15.40,
     "description" : "Sharda Motor Industries Ltd is primarily engaged in the manufacturing and assembly of Auto Components and White Goods Components.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1018.00,
-    "dma50" : 1061.44,
-    "dma100" : null,
-    "dma200" : 1002.38,
-    "volume" : 54986.00
-  }, {
     "date" : "2025-11-18",
     "price" : 980.80,
     "dma50" : 1058.28,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 847.30,
     "dma50" : 837.31,
-    "dma100" : 889.04,
+    "dma100" : null,
     "dma200" : 920.94,
     "volume" : 38918.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 888.80,
     "dma200" : 890.93,
     "volume" : 777648.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 967.70,
+    "dma50" : 889.31,
+    "dma100" : 890.01,
+    "dma200" : 891.70,
+    "volume" : 1054041.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 944.75,
-    "dma50" : 886.12,
-    "dma100" : 888.80,
-    "dma200" : 890.93,
-    "volume" : 777648.00
+    "date" : "2026-11-17",
+    "price" : 967.70,
+    "dma50" : 889.31,
+    "dma100" : 890.01,
+    "dma200" : 891.70,
+    "volume" : 1054041.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-06-30",
@@ -2483,15 +2483,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.67,
-    "pricePercentageAboveDma100" : 4.69,
-    "pricePercentageAboveDma200" : 4.70,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.56,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.44,
     "operatingProfitMarginPercentile" : 16.17,
     "netProfitMarginPercentile" : 8.07,
-    "totalTechnicalScore" : 34.05,
+    "totalTechnicalScore" : 33.70,
     "totalFundamentalScore" : 42.68,
-    "totalScore" : 76.73
+    "totalScore" : 76.37
   }
 }

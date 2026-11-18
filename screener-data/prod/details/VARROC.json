@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VARROC",
       "companyName" : "Varroc Engineer",
-      "marketCap" : 12518.00,
-      "peRatio" : 44.10,
+      "marketCap" : 12771.00,
+      "peRatio" : 45.00,
       "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 4.70,
-      "pricePercentageAboveDma200" : 4.18,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.80,
+      "pricePercentageAboveDma100" : 4.61,
+      "pricePercentageAboveDma200" : 4.08,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.71,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 7.37,
-      "totalTechnicalScore" : 43.78,
+      "totalTechnicalScore" : 48.48,
       "totalFundamentalScore" : 33.83,
-      "totalScore" : 77.61
+      "totalScore" : 82.32
     }
   },
   "attributes" : {
     "companyCode" : "VARROC",
     "companyName" : "Varroc Engineer",
-    "marketCap" : 12518.00,
-    "peRatio" : 44.10,
+    "marketCap" : 12771.00,
+    "peRatio" : 45.00,
     "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 647.25,
-    "dma50" : 612.71,
-    "dma100" : null,
-    "dma200" : 563.40,
-    "volume" : 309031.00
-  }, {
     "date" : "2025-11-18",
     "price" : 638.00,
     "dma50" : 613.70,
@@ -58,7 +51,7 @@
     "price" : 641.20,
     "dma50" : 614.78,
     "dma100" : null,
-    "dma200" : 564.91,
+    "dma200" : 564.90,
     "volume" : 303188.00
   }, {
     "date" : "2025-11-20",
@@ -100,7 +93,7 @@
     "price" : 657.80,
     "dma50" : 624.45,
     "dma100" : null,
-    "dma200" : 570.46,
+    "dma200" : 570.45,
     "volume" : 143255.00
   }, {
     "date" : "2025-11-28",
@@ -394,7 +387,7 @@
     "price" : 549.25,
     "dma50" : 596.00,
     "dma100" : null,
-    "dma200" : 581.24,
+    "dma200" : 581.23,
     "volume" : 92061.00
   }, {
     "date" : "2026-01-30",
@@ -450,7 +443,7 @@
     "price" : 556.55,
     "dma50" : 590.99,
     "dma100" : null,
-    "dma200" : 580.98,
+    "dma200" : 580.97,
     "volume" : 243488.00
   }, {
     "date" : "2026-02-10",
@@ -569,14 +562,14 @@
     "price" : 510.15,
     "dma50" : 569.02,
     "dma100" : null,
-    "dma200" : 575.95,
+    "dma200" : 575.94,
     "volume" : 177433.00
   }, {
     "date" : "2026-03-06",
     "price" : 514.65,
     "dma50" : 566.89,
     "dma100" : null,
-    "dma200" : 575.34,
+    "dma200" : 575.33,
     "volume" : 59920.00
   }, {
     "date" : "2026-03-09",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 539.55,
     "dma50" : 523.38,
-    "dma100" : 570.49,
+    "dma100" : null,
     "dma200" : 558.19,
     "volume" : 155482.00
   }, {
@@ -1570,7 +1563,7 @@
     "price" : 820.00,
     "dma50" : 800.43,
     "dma100" : 708.30,
-    "dma200" : 670.96,
+    "dma200" : 670.95,
     "volume" : 176040.00
   }, {
     "date" : "2026-10-06",
@@ -1775,14 +1768,21 @@
     "dma100" : 772.70,
     "dma200" : 704.31,
     "volume" : 302717.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 835.90,
+    "dma50" : 803.99,
+    "dma100" : 774.89,
+    "dma200" : 705.61,
+    "volume" : 753994.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 819.30,
-    "dma50" : 802.68,
-    "dma100" : 772.70,
-    "dma200" : 704.31,
-    "volume" : 302717.00
+    "date" : "2026-11-17",
+    "price" : 835.90,
+    "dma50" : 803.99,
+    "dma100" : 774.89,
+    "dma200" : 705.61,
+    "volume" : 753994.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 4.70,
-    "pricePercentageAboveDma200" : 4.18,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.80,
+    "pricePercentageAboveDma100" : 4.61,
+    "pricePercentageAboveDma200" : 4.08,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.71,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 7.37,
-    "totalTechnicalScore" : 43.78,
+    "totalTechnicalScore" : 48.48,
     "totalFundamentalScore" : 33.83,
-    "totalScore" : 77.61
+    "totalScore" : 82.32
   }
 }

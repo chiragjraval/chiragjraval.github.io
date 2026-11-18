@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "543542",
       "companyName" : "Kesar India",
-      "marketCap" : 3759.00,
-      "peRatio" : 49.80,
+      "marketCap" : 3903.00,
+      "peRatio" : 51.70,
       "description" : "Incorporated in 2002, Kesar Lands Ltd is in the business of real estate development and constructing residential and commercial projects, industrial buildings, factory buildings, workshop buildings, etc. All the projects are marketed under the brand name, \"Kesar Lands\"."
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 4.93,
+      "pricePercentageAboveDma50" : 4.83,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 4.74,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.55,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.73,
-      "totalTechnicalScore" : 30.09,
+      "totalTechnicalScore" : 39.53,
       "totalFundamentalScore" : 44.27,
-      "totalScore" : 74.37
+      "totalScore" : 83.80
     }
   },
   "attributes" : {
     "companyCode" : "543542",
     "companyName" : "Kesar India",
-    "marketCap" : 3759.00,
-    "peRatio" : 49.80,
+    "marketCap" : 3903.00,
+    "peRatio" : 51.70,
     "description" : "Incorporated in 2002, Kesar Lands Ltd is in the business of real estate development and constructing residential and commercial projects, industrial buildings, factory buildings, workshop buildings, etc. All the projects are marketed under the brand name, \"Kesar Lands\"."
   },
   "technicalHistory" : [ {
@@ -1747,14 +1747,21 @@
     "dma100" : 1190.96,
     "dma200" : 1139.47,
     "volume" : 15000.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1199.75,
+    "dma50" : 1160.79,
+    "dma100" : 1190.47,
+    "dma200" : 1140.07,
+    "volume" : 15500.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1155.50,
-    "dma50" : 1159.20,
-    "dma100" : 1190.96,
-    "dma200" : 1139.47,
-    "volume" : 15000.00
+    "date" : "2026-11-17",
+    "price" : 1199.75,
+    "dma50" : 1160.79,
+    "dma100" : 1190.47,
+    "dma200" : 1140.07,
+    "volume" : 15500.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-03-31",
@@ -1919,21 +1926,21 @@
     "netProfit" : 18.17
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 4.93,
+    "pricePercentageAboveDma50" : 4.83,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 4.74,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.55,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.73,
-    "totalTechnicalScore" : 30.09,
+    "totalTechnicalScore" : 39.53,
     "totalFundamentalScore" : 44.27,
-    "totalScore" : 74.37
+    "totalScore" : 83.80
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "XPROINDIA",
       "companyName" : "XPRO India",
-      "marketCap" : 2804.00,
-      "peRatio" : 79.60,
+      "marketCap" : 2997.00,
+      "peRatio" : 85.10,
       "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.64,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 4.76,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.30,
+      "pricePercentageAboveDma100" : 4.71,
+      "pricePercentageAboveDma200" : 4.41,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 14.02,
       "netProfitMarginPercentile" : 7.47,
-      "totalTechnicalScore" : 29.46,
+      "totalTechnicalScore" : 38.42,
       "totalFundamentalScore" : 39.81,
-      "totalScore" : 69.26
+      "totalScore" : 78.23
     }
   },
   "attributes" : {
     "companyCode" : "XPROINDIA",
     "companyName" : "XPRO India",
-    "marketCap" : 2804.00,
-    "peRatio" : 79.60,
+    "marketCap" : 2997.00,
+    "peRatio" : 85.10,
     "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1027.70,
-    "dma50" : 1107.24,
-    "dma100" : null,
-    "dma200" : 1153.37,
-    "volume" : 24067.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1029.20,
     "dma50" : 1104.18,
@@ -156,7 +149,7 @@
     "price" : 971.00,
     "dma50" : 1057.26,
     "dma100" : null,
-    "dma200" : 1131.31,
+    "dma200" : 1131.30,
     "volume" : 22125.00
   }, {
     "date" : "2025-12-10",
@@ -177,7 +170,7 @@
     "price" : 965.10,
     "dma50" : 1047.08,
     "dma100" : null,
-    "dma200" : 1126.46,
+    "dma200" : 1126.45,
     "volume" : 5980.00
   }, {
     "date" : "2025-12-15",
@@ -191,7 +184,7 @@
     "price" : 985.10,
     "dma50" : 1042.19,
     "dma100" : null,
-    "dma200" : 1123.63,
+    "dma200" : 1123.62,
     "volume" : 12218.00
   }, {
     "date" : "2025-12-17",
@@ -240,7 +233,7 @@
     "price" : 987.10,
     "dma50" : 1027.86,
     "dma100" : null,
-    "dma200" : 1114.12,
+    "dma200" : 1114.11,
     "volume" : 7955.00
   }, {
     "date" : "2025-12-29",
@@ -268,7 +261,7 @@
     "price" : 961.55,
     "dma50" : 1016.59,
     "dma100" : null,
-    "dma200" : 1107.74,
+    "dma200" : 1107.73,
     "volume" : 13030.00
   }, {
     "date" : "2026-01-02",
@@ -464,7 +457,7 @@
     "price" : 967.95,
     "dma50" : 990.90,
     "dma100" : null,
-    "dma200" : 1075.54,
+    "dma200" : 1075.53,
     "volume" : 17218.00
   }, {
     "date" : "2026-02-12",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1062.80,
     "dma50" : 973.98,
-    "dma100" : 965.99,
+    "dma100" : null,
     "dma200" : 1033.65,
     "volume" : 34258.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1208.06,
     "dma200" : 1140.06,
     "volume" : 72908.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1277.10,
+    "dma50" : 1121.13,
+    "dma100" : 1207.36,
+    "dma200" : 1141.42,
+    "volume" : 233816.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1194.80,
-    "dma50" : 1114.76,
-    "dma100" : 1208.06,
-    "dma200" : 1140.06,
-    "volume" : 72908.00
+    "date" : "2026-11-17",
+    "price" : 1277.10,
+    "dma50" : 1121.13,
+    "dma100" : 1207.36,
+    "dma200" : 1141.42,
+    "volume" : 233816.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.64,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 4.76,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.30,
+    "pricePercentageAboveDma100" : 4.71,
+    "pricePercentageAboveDma200" : 4.41,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 14.02,
     "netProfitMarginPercentile" : 7.47,
-    "totalTechnicalScore" : 29.46,
+    "totalTechnicalScore" : 38.42,
     "totalFundamentalScore" : 39.81,
-    "totalScore" : 69.26
+    "totalScore" : 78.23
   }
 }

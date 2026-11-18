@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTERDM",
       "companyName" : "Aster DM Quality",
-      "marketCap" : 65375.00,
-      "peRatio" : 125.00,
+      "marketCap" : 64325.00,
+      "peRatio" : 123.00,
       "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.78,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 4.76,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.13,
+      "pricePercentageAboveDma200" : 4.85,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.41,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 6.05,
-      "totalTechnicalScore" : 39.60,
+      "totalTechnicalScore" : 34.85,
       "totalFundamentalScore" : 42.14,
-      "totalScore" : 81.74
+      "totalScore" : 76.99
     }
   },
   "attributes" : {
     "companyCode" : "ASTERDM",
     "companyName" : "Aster DM Quality",
-    "marketCap" : 65375.00,
-    "peRatio" : 125.00,
+    "marketCap" : 64325.00,
+    "peRatio" : 123.00,
     "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 679.10,
-    "dma50" : 667.11,
-    "dma100" : null,
-    "dma200" : 584.18,
-    "volume" : 529540.00
-  }, {
     "date" : "2025-11-18",
     "price" : 681.05,
     "dma50" : 667.65,
@@ -352,7 +345,7 @@
     "price" : 551.60,
     "dma50" : 622.93,
     "dma100" : null,
-    "dma200" : 597.59,
+    "dma200" : 597.58,
     "volume" : 2118642.00
   }, {
     "date" : "2026-01-21",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 683.00,
     "dma50" : 645.00,
-    "dma100" : 625.40,
+    "dma100" : null,
     "dma200" : 612.40,
     "volume" : 1026347.00
   }, {
@@ -1024,7 +1017,7 @@
     "price" : 814.95,
     "dma50" : 728.14,
     "dma100" : 668.37,
-    "dma200" : 654.39,
+    "dma200" : 654.38,
     "volume" : 1259664.00
   }, {
     "date" : "2026-06-15",
@@ -1775,14 +1768,21 @@
     "dma100" : 758.65,
     "dma200" : 715.66,
     "volume" : 1544238.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 737.95,
+    "dma50" : 719.63,
+    "dma100" : 758.33,
+    "dma200" : 715.88,
+    "volume" : 1003505.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 750.00,
-    "dma50" : 718.88,
-    "dma100" : 758.65,
-    "dma200" : 715.66,
-    "volume" : 1544238.00
+    "date" : "2026-11-17",
+    "price" : 737.95,
+    "dma50" : 719.63,
+    "dma100" : 758.33,
+    "dma200" : 715.88,
+    "volume" : 1003505.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.78,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 4.76,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.13,
+    "pricePercentageAboveDma200" : 4.85,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.41,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 6.05,
-    "totalTechnicalScore" : 39.60,
+    "totalTechnicalScore" : 34.85,
     "totalFundamentalScore" : 42.14,
-    "totalScore" : 81.74
+    "totalScore" : 76.99
   }
 }

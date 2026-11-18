@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TIMKEN",
       "companyName" : "Timken India",
-      "marketCap" : 23456.00,
-      "peRatio" : 53.80,
+      "marketCap" : 23683.00,
+      "peRatio" : 54.30,
       "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 5.10,
+      "pricePercentageAboveDma50" : 4.84,
+      "pricePercentageAboveDma100" : 4.98,
+      "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 13.79,
       "netProfitMarginPercentile" : 6.09,
-      "totalTechnicalScore" : 20.02,
+      "totalTechnicalScore" : 24.87,
       "totalFundamentalScore" : 34.58,
-      "totalScore" : 54.60
+      "totalScore" : 59.45
     }
   },
   "attributes" : {
     "companyCode" : "TIMKEN",
     "companyName" : "Timken India",
-    "marketCap" : 23456.00,
-    "peRatio" : 53.80,
+    "marketCap" : 23683.00,
+    "peRatio" : 54.30,
     "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 3122.60,
-    "dma50" : 3032.46,
-    "dma100" : null,
-    "dma200" : 3066.64,
-    "volume" : 53186.00
-  }, {
     "date" : "2025-11-18",
     "price" : 3098.30,
     "dma50" : 3035.05,
@@ -79,7 +72,7 @@
     "price" : 3134.40,
     "dma50" : 3043.86,
     "dma100" : null,
-    "dma200" : 3068.03,
+    "dma200" : 3068.02,
     "volume" : 70794.00
   }, {
     "date" : "2025-11-25",
@@ -114,7 +107,7 @@
     "price" : 3150.80,
     "dma50" : 3061.79,
     "dma100" : null,
-    "dma200" : 3071.65,
+    "dma200" : 3071.64,
     "volume" : 41641.00
   }, {
     "date" : "2025-12-02",
@@ -163,7 +156,7 @@
     "price" : 3030.20,
     "dma50" : 3064.93,
     "dma100" : null,
-    "dma200" : 3072.03,
+    "dma200" : 3072.02,
     "volume" : 17457.00
   }, {
     "date" : "2025-12-11",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 3571.20,
     "dma50" : 3281.98,
-    "dma100" : 3162.71,
+    "dma100" : null,
     "dma200" : 3148.27,
     "volume" : 107950.00
   }, {
@@ -898,7 +891,7 @@
     "price" : 3435.00,
     "dma50" : 3420.07,
     "dma100" : 3255.79,
-    "dma200" : 3221.27,
+    "dma200" : 3221.26,
     "volume" : 26424.00
   }, {
     "date" : "2026-05-19",
@@ -981,7 +974,7 @@
     "date" : "2026-06-04",
     "price" : 3571.30,
     "dma50" : 3489.37,
-    "dma100" : 3325.24,
+    "dma100" : 3325.23,
     "dma200" : 3264.79,
     "volume" : 24502.00
   }, {
@@ -1128,7 +1121,7 @@
     "date" : "2026-07-06",
     "price" : 3346.70,
     "dma50" : 3530.90,
-    "dma100" : 3439.53,
+    "dma100" : 3439.52,
     "dma200" : 3322.64,
     "volume" : 32509.00
   }, {
@@ -1262,7 +1255,7 @@
     "price" : 3145.40,
     "dma50" : 3319.82,
     "dma100" : 3424.41,
-    "dma200" : 3291.15,
+    "dma200" : 3291.14,
     "volume" : 85122.00
   }, {
     "date" : "2026-08-03",
@@ -1775,14 +1768,21 @@
     "dma100" : 3141.72,
     "dma200" : 3181.24,
     "volume" : 28582.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 3148.50,
+    "dma50" : 3050.62,
+    "dma100" : 3135.60,
+    "dma200" : 3180.92,
+    "volume" : 35199.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 3118.40,
-    "dma50" : 3046.62,
-    "dma100" : 3141.72,
-    "dma200" : 3181.24,
-    "volume" : 28582.00
+    "date" : "2026-11-17",
+    "price" : 3148.50,
+    "dma50" : 3050.62,
+    "dma100" : 3135.60,
+    "dma200" : 3180.92,
+    "volume" : 35199.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.88,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 5.10,
+    "pricePercentageAboveDma50" : 4.84,
+    "pricePercentageAboveDma100" : 4.98,
+    "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 13.79,
     "netProfitMarginPercentile" : 6.09,
-    "totalTechnicalScore" : 20.02,
+    "totalTechnicalScore" : 24.87,
     "totalFundamentalScore" : 34.58,
-    "totalScore" : 54.60
+    "totalScore" : 59.45
   }
 }

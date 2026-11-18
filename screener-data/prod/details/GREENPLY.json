@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GREENPLY",
       "companyName" : "Greenply Industr",
-      "marketCap" : 3457.00,
-      "peRatio" : 25.00,
+      "marketCap" : 3366.00,
+      "peRatio" : 24.30,
       "description" : "Greenply Industries Ltd is an interior-infrastructure company with products spanning plywood and blockboards, MDF and pre-laminated MDF, decorative veneers, flush and PVC/WPC doors, specialty plywood, HDF flooring and furniture fittings. The group sells predominantly in India through a pan-India trade network.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.17,
-      "pricePercentageAboveDma100" : 5.30,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.42,
+      "pricePercentageAboveDma200" : 5.20,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 11.50,
       "netProfitMarginPercentile" : 7.61,
-      "totalTechnicalScore" : 25.54,
+      "totalTechnicalScore" : 25.91,
       "totalFundamentalScore" : 30.91,
-      "totalScore" : 56.45
+      "totalScore" : 56.82
     }
   },
   "attributes" : {
     "companyCode" : "GREENPLY",
     "companyName" : "Greenply Industr",
-    "marketCap" : 3457.00,
-    "peRatio" : 25.00,
+    "marketCap" : 3366.00,
+    "peRatio" : 24.30,
     "description" : "Greenply Industries Ltd is an interior-infrastructure company with products spanning plywood and blockboards, MDF and pre-laminated MDF, decorative veneers, flush and PVC/WPC doors, specialty plywood, HDF flooring and furniture fittings. The group sells predominantly in India through a pan-India trade network.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 297.30,
-    "dma50" : 302.90,
-    "dma100" : null,
-    "dma200" : 305.53,
-    "volume" : 68541.00
-  }, {
     "date" : "2025-11-18",
     "price" : 291.65,
     "dma50" : 302.46,
@@ -506,7 +499,7 @@
     "price" : 223.17,
     "dma50" : 244.46,
     "dma100" : null,
-    "dma200" : 278.64,
+    "dma200" : 278.63,
     "volume" : 193962.00
   }, {
     "date" : "2026-02-20",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 215.37,
     "dma50" : 212.55,
-    "dma100" : 236.44,
+    "dma100" : null,
     "dma200" : 256.61,
     "volume" : 178389.00
   }, {
@@ -1087,7 +1080,7 @@
     "price" : 303.46,
     "dma50" : 267.09,
     "dma100" : 238.58,
-    "dma200" : 261.46,
+    "dma200" : 261.45,
     "volume" : 327611.00
   }, {
     "date" : "2026-06-29",
@@ -1775,14 +1768,21 @@
     "dma100" : 294.63,
     "dma200" : 280.81,
     "volume" : 103973.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 269.45,
+    "dma50" : 285.83,
+    "dma100" : 294.36,
+    "dma200" : 280.69,
+    "volume" : 331731.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 276.80,
-    "dma50" : 286.50,
-    "dma100" : 294.63,
-    "dma200" : 280.81,
-    "volume" : 103973.00
+    "date" : "2026-11-17",
+    "price" : 269.45,
+    "dma50" : 285.83,
+    "dma100" : 294.36,
+    "dma200" : 280.69,
+    "volume" : 331731.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.17,
-    "pricePercentageAboveDma100" : 5.30,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.42,
+    "pricePercentageAboveDma200" : 5.20,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 11.50,
     "netProfitMarginPercentile" : 7.61,
-    "totalTechnicalScore" : 25.54,
+    "totalTechnicalScore" : 25.91,
     "totalFundamentalScore" : 30.91,
-    "totalScore" : 56.45
+    "totalScore" : 56.82
   }
 }

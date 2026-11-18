@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GRAVITA",
       "companyName" : "Gravita India",
-      "marketCap" : 11067.00,
-      "peRatio" : 27.80,
+      "marketCap" : 10998.00,
+      "peRatio" : 27.60,
       "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.41,
-      "pricePercentageAboveDma200" : 5.37,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.43,
+      "pricePercentageAboveDma200" : 5.39,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.33,
       "operatingProfitMarginPercentile" : 16.47,
       "netProfitMarginPercentile" : 7.79,
-      "totalTechnicalScore" : 20.82,
+      "totalTechnicalScore" : 20.89,
       "totalFundamentalScore" : 28.59,
-      "totalScore" : 49.41
+      "totalScore" : 49.49
     }
   },
   "attributes" : {
     "companyCode" : "GRAVITA",
     "companyName" : "Gravita India",
-    "marketCap" : 11067.00,
-    "peRatio" : 27.80,
+    "marketCap" : 10998.00,
+    "peRatio" : 27.60,
     "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1759.70,
-    "dma50" : 1680.59,
-    "dma100" : null,
-    "dma200" : 1751.94,
-    "volume" : 207972.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1729.10,
     "dma50" : 1682.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1617.20,
     "dma50" : 1518.75,
-    "dma100" : 1641.56,
+    "dma100" : null,
     "dma200" : 1658.07,
     "volume" : 244392.00
   }, {
@@ -946,7 +939,7 @@
     "date" : "2026-05-27",
     "price" : 1668.50,
     "dma50" : 1621.92,
-    "dma100" : 1600.86,
+    "dma100" : 1600.87,
     "dma200" : 1660.52,
     "volume" : 178100.00
   }, {
@@ -1297,7 +1290,7 @@
     "price" : 1732.10,
     "dma50" : 1701.33,
     "dma100" : 1632.93,
-    "dma200" : 1677.92,
+    "dma200" : 1677.91,
     "volume" : 136030.00
   }, {
     "date" : "2026-08-10",
@@ -1775,14 +1768,21 @@
     "dma100" : 1631.59,
     "dma200" : 1618.67,
     "volume" : 172438.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1490.10,
+    "dma50" : 1512.51,
+    "dma100" : 1629.35,
+    "dma200" : 1617.39,
+    "volume" : 135157.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1499.40,
-    "dma50" : 1513.42,
-    "dma100" : 1631.59,
-    "dma200" : 1618.67,
-    "volume" : 172438.00
+    "date" : "2026-11-17",
+    "price" : 1490.10,
+    "dma50" : 1512.51,
+    "dma100" : 1629.35,
+    "dma200" : 1617.39,
+    "volume" : 135157.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-12-31",
@@ -2483,15 +2483,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.41,
-    "pricePercentageAboveDma200" : 5.37,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.43,
+    "pricePercentageAboveDma200" : 5.39,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.33,
     "operatingProfitMarginPercentile" : 16.47,
     "netProfitMarginPercentile" : 7.79,
-    "totalTechnicalScore" : 20.82,
+    "totalTechnicalScore" : 20.89,
     "totalFundamentalScore" : 28.59,
-    "totalScore" : 49.41
+    "totalScore" : 49.49
   }
 }

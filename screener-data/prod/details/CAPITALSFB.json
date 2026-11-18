@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CAPITALSFB",
       "companyName" : "Capital Small",
-      "marketCap" : 1263.00,
-      "peRatio" : 7.82,
+      "marketCap" : 1312.00,
+      "peRatio" : 8.13,
       "description" : "Incorporated in 1999, Capital Small Finance Bank Ltd is India's first Small Finance Bank[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 4.99,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.75,
+      "pricePercentageAboveDma100" : 4.89,
+      "pricePercentageAboveDma200" : 4.79,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.57,
       "operatingProfitMarginPercentile" : 15.06,
       "netProfitMarginPercentile" : 9.33,
-      "totalTechnicalScore" : 30.00,
+      "totalTechnicalScore" : 39.43,
       "totalFundamentalScore" : 40.96,
-      "totalScore" : 70.97
+      "totalScore" : 80.40
     }
   },
   "attributes" : {
     "companyCode" : "CAPITALSFB",
     "companyName" : "Capital Small",
-    "marketCap" : 1263.00,
-    "peRatio" : 7.82,
+    "marketCap" : 1312.00,
+    "peRatio" : 8.13,
     "description" : "Incorporated in 1999, Capital Small Finance Bank Ltd is India's first Small Finance Bank[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 271.10,
-    "dma50" : 280.47,
-    "dma100" : null,
-    "dma200" : 291.09,
-    "volume" : 35782.00
-  }, {
     "date" : "2025-11-18",
     "price" : 276.25,
     "dma50" : 280.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 262.89,
     "dma50" : 250.43,
-    "dma100" : 259.34,
+    "dma100" : null,
     "dma200" : 269.20,
     "volume" : 40617.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 282.04,
     "dma200" : 276.77,
     "volume" : 26830.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 288.35,
+    "dma50" : 274.72,
+    "dma100" : 282.11,
+    "dma200" : 276.89,
+    "volume" : 66520.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 277.55,
-    "dma50" : 274.16,
-    "dma100" : 282.04,
-    "dma200" : 276.77,
-    "volume" : 26830.00
+    "date" : "2026-11-17",
+    "price" : 288.35,
+    "dma50" : 274.72,
+    "dma100" : 282.11,
+    "dma200" : 276.89,
+    "volume" : 66520.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-09-30",
@@ -2048,20 +2048,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 4.99,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.75,
+    "pricePercentageAboveDma100" : 4.89,
+    "pricePercentageAboveDma200" : 4.79,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.57,
     "operatingProfitMarginPercentile" : 15.06,
     "netProfitMarginPercentile" : 9.33,
-    "totalTechnicalScore" : 30.00,
+    "totalTechnicalScore" : 39.43,
     "totalFundamentalScore" : 40.96,
-    "totalScore" : 70.97
+    "totalScore" : 80.40
   }
 }

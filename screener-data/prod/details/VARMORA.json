@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VARMORA",
       "companyName" : "Varmora Granito",
-      "marketCap" : 2923.00,
-      "peRatio" : 32.40,
+      "marketCap" : 2996.00,
+      "peRatio" : 33.20,
       "description" : "Varmora Granito Limited, incorporated in 2003, manufactures and markets ceramic and vitrified tiles, including Glazed Vitrified Tiles (GVT), Polished Vitrified Tiles (PVT), and ceramic tiles.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.26,
+      "pricePercentageAboveDma50" : 5.14,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.58,
+      "pricePercentageAboveDma200" : 5.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.19,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 10.84,
+      "totalTechnicalScore" : 10.61,
       "totalFundamentalScore" : 49.19,
-      "totalScore" : 60.04
+      "totalScore" : 59.80
     }
   },
   "attributes" : {
     "companyCode" : "VARMORA",
     "companyName" : "Varmora Granito",
-    "marketCap" : 2923.00,
-    "peRatio" : 32.40,
+    "marketCap" : 2996.00,
+    "peRatio" : 33.20,
     "description" : "Varmora Granito Limited, incorporated in 2003, manufactures and markets ceramic and vitrified tiles, including Glazed Vitrified Tiles (GVT), Polished Vitrified Tiles (PVT), and ceramic tiles.[1]"
   },
   "technicalHistory" : [ {
@@ -270,14 +270,21 @@
     "dma100" : null,
     "dma200" : 146.31,
     "volume" : 136177.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 132.55,
+    "dma50" : 136.34,
+    "dma100" : null,
+    "dma200" : 146.18,
+    "volume" : 1025653.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 129.35,
-    "dma50" : 136.49,
+    "date" : "2026-11-17",
+    "price" : 132.55,
+    "dma50" : 136.34,
     "dma100" : null,
-    "dma200" : 146.31,
-    "volume" : 136177.00
+    "dma200" : 146.18,
+    "volume" : 1025653.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -348,15 +355,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.26,
+    "pricePercentageAboveDma50" : 5.14,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.58,
+    "pricePercentageAboveDma200" : 5.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.19,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 10.84,
+    "totalTechnicalScore" : 10.61,
     "totalFundamentalScore" : 49.19,
-    "totalScore" : 60.04
+    "totalScore" : 59.80
   }
 }

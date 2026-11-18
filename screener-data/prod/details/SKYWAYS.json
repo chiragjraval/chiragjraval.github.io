@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SKYWAYS",
       "companyName" : "Skyways Air Ser.",
-      "marketCap" : 1916.00,
-      "peRatio" : 34.10,
+      "marketCap" : 1899.00,
+      "peRatio" : 33.80,
       "description" : "Incorporated in 1984, Skyways Air Services Limited (SASL) is a leading air freight forwarding and logistics company in India.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.08,
+      "pricePercentageAboveDma50" : 4.17,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.50,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma200" : 4.55,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 10.91,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 18.57,
+      "totalTechnicalScore" : 23.72,
       "totalFundamentalScore" : 40.91,
-      "totalScore" : 59.48
+      "totalScore" : 64.63
     }
   },
   "attributes" : {
     "companyCode" : "SKYWAYS",
     "companyName" : "Skyways Air Ser.",
-    "marketCap" : 1916.00,
-    "peRatio" : 34.10,
+    "marketCap" : 1899.00,
+    "peRatio" : 33.80,
     "description" : "Incorporated in 1984, Skyways Air Services Limited (SASL) is a leading air freight forwarding and logistics company in India.[1]"
   },
   "technicalHistory" : [ {
@@ -403,14 +403,21 @@
     "dma100" : null,
     "dma200" : 119.73,
     "volume" : 29514288.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 130.67,
+    "dma50" : 112.07,
+    "dma100" : null,
+    "dma200" : 119.84,
+    "volume" : 19350075.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 131.81,
-    "dma50" : 111.31,
+    "date" : "2026-11-17",
+    "price" : 130.67,
+    "dma50" : 112.07,
     "dma100" : null,
-    "dma200" : 119.73,
-    "volume" : 29514288.00
+    "dma200" : 119.84,
+    "volume" : 19350075.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -481,15 +488,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.08,
+    "pricePercentageAboveDma50" : 4.17,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.50,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma200" : 4.55,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 10.91,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 18.57,
+    "totalTechnicalScore" : 23.72,
     "totalFundamentalScore" : 40.91,
-    "totalScore" : 59.48
+    "totalScore" : 64.63
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ADANIENSOL",
       "companyName" : "Adani Energy Sol",
-      "marketCap" : 177646.00,
-      "peRatio" : 47.90,
+      "marketCap" : 182673.00,
+      "peRatio" : 49.30,
       "description" : "AESL, part of the Adani portfolio, is a multidimensional organization with presence in various facets of the energy domain, namely power transmission, distribution, smart metering, and cooling solutions. AESL is India's largest private transmission company.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.80,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 4.56,
+      "pricePercentageAboveDma50" : 4.67,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.41,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.00,
       "operatingProfitMarginPercentile" : 19.86,
       "netProfitMarginPercentile" : 7.10,
-      "totalTechnicalScore" : 34.46,
+      "totalTechnicalScore" : 39.04,
       "totalFundamentalScore" : 36.96,
-      "totalScore" : 71.42
+      "totalScore" : 76.00
     }
   },
   "attributes" : {
     "companyCode" : "ADANIENSOL",
     "companyName" : "Adani Energy Sol",
-    "marketCap" : 177646.00,
-    "peRatio" : 47.90,
+    "marketCap" : 182673.00,
+    "peRatio" : 49.30,
     "description" : "AESL, part of the Adani portfolio, is a multidimensional organization with presence in various facets of the energy domain, namely power transmission, distribution, smart metering, and cooling solutions. AESL is India's largest private transmission company.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1021.55,
-    "dma50" : 928.50,
-    "dma100" : null,
-    "dma200" : 881.45,
-    "volume" : 912392.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1026.65,
     "dma50" : 932.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1171.15,
     "dma50" : 1008.79,
-    "dma100" : 988.76,
+    "dma100" : null,
     "dma200" : 951.89,
     "volume" : 2138218.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1483.87,
     "dma200" : 1334.75,
     "volume" : 1040064.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1493.70,
+    "dma50" : 1400.22,
+    "dma100" : 1483.85,
+    "dma200" : 1336.33,
+    "volume" : 1695945.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1452.60,
-    "dma50" : 1396.41,
-    "dma100" : 1483.87,
-    "dma200" : 1334.75,
-    "volume" : 1040064.00
+    "date" : "2026-11-17",
+    "price" : 1493.70,
+    "dma50" : 1400.22,
+    "dma100" : 1483.85,
+    "dma200" : 1336.33,
+    "volume" : 1695945.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-12-31",
@@ -2278,20 +2278,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.80,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 4.56,
+    "pricePercentageAboveDma50" : 4.67,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.41,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.00,
     "operatingProfitMarginPercentile" : 19.86,
     "netProfitMarginPercentile" : 7.10,
-    "totalTechnicalScore" : 34.46,
+    "totalTechnicalScore" : 39.04,
     "totalFundamentalScore" : 36.96,
-    "totalScore" : 71.42
+    "totalScore" : 76.00
   }
 }

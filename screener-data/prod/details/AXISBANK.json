@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "AXISBANK",
       "companyName" : "Axis Bank",
-      "marketCap" : 418087.00,
-      "peRatio" : 14.00,
+      "marketCap" : 426372.00,
+      "peRatio" : 14.20,
       "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.69,
-      "pricePercentageAboveDma100" : 4.69,
-      "pricePercentageAboveDma200" : 4.68,
+      "pricePercentageAboveDma50" : 4.60,
+      "pricePercentageAboveDma100" : 4.58,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.84,
       "operatingProfitMarginPercentile" : 18.04,
       "netProfitMarginPercentile" : 8.42,
-      "totalTechnicalScore" : 44.05,
+      "totalTechnicalScore" : 48.75,
       "totalFundamentalScore" : 37.31,
-      "totalScore" : 81.35
+      "totalScore" : 86.06
     }
   },
   "attributes" : {
     "companyCode" : "AXISBANK",
     "companyName" : "Axis Bank",
-    "marketCap" : 418087.00,
-    "peRatio" : 14.00,
+    "marketCap" : 426372.00,
+    "peRatio" : 14.20,
     "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1249.60,
-    "dma50" : 1189.76,
-    "dma100" : null,
-    "dma200" : 1145.50,
-    "volume" : 4218194.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1265.40,
     "dma50" : 1192.73,
@@ -114,7 +107,7 @@
     "price" : 1275.70,
     "dma50" : 1218.49,
     "dma100" : null,
-    "dma200" : 1157.98,
+    "dma200" : 1157.97,
     "volume" : 4163511.00
   }, {
     "date" : "2025-12-02",
@@ -135,7 +128,7 @@
     "price" : 1280.00,
     "dma50" : 1224.30,
     "dma100" : null,
-    "dma200" : 1161.28,
+    "dma200" : 1161.27,
     "volume" : 3677317.00
   }, {
     "date" : "2025-12-05",
@@ -226,7 +219,7 @@
     "price" : 1225.00,
     "dma50" : 1235.53,
     "dma100" : null,
-    "dma200" : 1172.63,
+    "dma200" : 1172.62,
     "volume" : 2960665.00
   }, {
     "date" : "2025-12-24",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1355.50,
     "dma50" : 1282.86,
-    "dma100" : 1288.52,
+    "dma100" : null,
     "dma200" : 1236.51,
     "volume" : 7127791.00
   }, {
@@ -1052,7 +1045,7 @@
     "price" : 1360.10,
     "dma50" : 1297.89,
     "dma100" : 1302.33,
-    "dma200" : 1258.80,
+    "dma200" : 1258.79,
     "volume" : 5508728.00
   }, {
     "date" : "2026-06-19",
@@ -1304,7 +1297,7 @@
     "price" : 1247.30,
     "dma50" : 1283.06,
     "dma100" : 1287.24,
-    "dma200" : 1268.86,
+    "dma200" : 1268.85,
     "volume" : 3759459.00
   }, {
     "date" : "2026-08-11",
@@ -1381,7 +1374,7 @@
     "price" : 1235.00,
     "dma50" : 1265.78,
     "dma100" : 1290.40,
-    "dma200" : 1265.23,
+    "dma200" : 1265.22,
     "volume" : 3685927.00
   }, {
     "date" : "2026-08-26",
@@ -1775,14 +1768,21 @@
     "dma100" : 1263.22,
     "dma200" : 1260.56,
     "volume" : 5474197.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1369.00,
+    "dma50" : 1267.13,
+    "dma100" : 1263.06,
+    "dma200" : 1261.64,
+    "volume" : 7184023.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1342.40,
-    "dma50" : 1262.98,
-    "dma100" : 1263.22,
-    "dma200" : 1260.56,
-    "volume" : 5474197.00
+    "date" : "2026-11-17",
+    "price" : 1369.00,
+    "dma50" : 1267.13,
+    "dma100" : 1263.06,
+    "dma200" : 1261.64,
+    "volume" : 7184023.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2670,18 +2670,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.69,
-    "pricePercentageAboveDma100" : 4.69,
-    "pricePercentageAboveDma200" : 4.68,
+    "pricePercentageAboveDma50" : 4.60,
+    "pricePercentageAboveDma100" : 4.58,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.84,
     "operatingProfitMarginPercentile" : 18.04,
     "netProfitMarginPercentile" : 8.42,
-    "totalTechnicalScore" : 44.05,
+    "totalTechnicalScore" : 48.75,
     "totalFundamentalScore" : 37.31,
-    "totalScore" : 81.35
+    "totalScore" : 86.06
   }
 }

@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.75,
-      "pricePercentageAboveDma100" : 4.41,
-      "pricePercentageAboveDma200" : 4.14,
+      "pricePercentageAboveDma50" : 4.76,
+      "pricePercentageAboveDma100" : 4.43,
+      "pricePercentageAboveDma200" : 4.15,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 3.22,
       "netProfitMarginPercentile" : 2.07,
-      "totalTechnicalScore" : 48.29,
+      "totalTechnicalScore" : 48.34,
       "totalFundamentalScore" : 21.67,
-      "totalScore" : 69.97
+      "totalScore" : 70.01
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Uflex Ltd is a leading Indian multinational company which is engaged in the manufacturing and sale of flexible packaging products & offers a complete flexible packaging solution to its customers across the globe.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 518.65,
-    "dma50" : 546.04,
-    "dma100" : null,
-    "dma200" : 555.69,
-    "volume" : 16399.00
-  }, {
     "date" : "2025-11-18",
     "price" : 516.60,
     "dma50" : 544.88,
@@ -72,7 +65,7 @@
     "price" : 507.30,
     "dma50" : 541.02,
     "dma100" : null,
-    "dma200" : 553.99,
+    "dma200" : 553.98,
     "volume" : 10804.00
   }, {
     "date" : "2025-11-24",
@@ -93,7 +86,7 @@
     "price" : 498.10,
     "dma50" : 536.32,
     "dma100" : null,
-    "dma200" : 552.38,
+    "dma200" : 552.37,
     "volume" : 10782.00
   }, {
     "date" : "2025-11-27",
@@ -247,7 +240,7 @@
     "price" : 487.90,
     "dma50" : 502.90,
     "dma100" : null,
-    "dma200" : 537.91,
+    "dma200" : 537.90,
     "volume" : 13953.00
   }, {
     "date" : "2025-12-30",
@@ -282,7 +275,7 @@
     "price" : 490.05,
     "dma50" : 501.59,
     "dma100" : null,
-    "dma200" : 535.85,
+    "dma200" : 535.84,
     "volume" : 25616.00
   }, {
     "date" : "2026-01-06",
@@ -331,7 +324,7 @@
     "price" : 471.75,
     "dma50" : 495.96,
     "dma100" : null,
-    "dma200" : 532.00,
+    "dma200" : 531.99,
     "volume" : 16071.00
   }, {
     "date" : "2026-01-16",
@@ -520,7 +513,7 @@
     "price" : 458.10,
     "dma50" : 479.98,
     "dma100" : null,
-    "dma200" : 517.57,
+    "dma200" : 517.56,
     "volume" : 38395.00
   }, {
     "date" : "2026-02-24",
@@ -548,7 +541,7 @@
     "price" : 481.70,
     "dma50" : 478.71,
     "dma100" : null,
-    "dma200" : 515.75,
+    "dma200" : 515.74,
     "volume" : 28386.00
   }, {
     "date" : "2026-03-02",
@@ -611,7 +604,7 @@
     "price" : 443.85,
     "dma50" : 470.60,
     "dma100" : null,
-    "dma200" : 510.28,
+    "dma200" : 510.27,
     "volume" : 17205.00
   }, {
     "date" : "2026-03-16",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 393.55,
     "dma50" : 425.61,
-    "dma100" : 460.12,
+    "dma100" : null,
     "dma200" : 489.41,
     "volume" : 83073.00
   }, {
@@ -842,7 +835,7 @@
     "price" : 439.90,
     "dma50" : 423.22,
     "dma100" : 449.20,
-    "dma200" : 480.10,
+    "dma200" : 480.09,
     "volume" : 24766.00
   }, {
     "date" : "2026-05-07",
@@ -1150,7 +1143,7 @@
     "price" : 434.20,
     "dma50" : 424.39,
     "dma100" : 425.83,
-    "dma200" : 459.80,
+    "dma200" : 459.79,
     "volume" : 21641.00
   }, {
     "date" : "2026-07-10",
@@ -1381,7 +1374,7 @@
     "price" : 606.35,
     "dma50" : 495.04,
     "dma100" : 442.87,
-    "dma200" : 472.65,
+    "dma200" : 472.64,
     "volume" : 98712.00
   }, {
     "date" : "2026-08-26",
@@ -1717,7 +1710,7 @@
     "price" : 581.40,
     "dma50" : 596.51,
     "dma100" : 549.65,
-    "dma200" : 531.72,
+    "dma200" : 531.71,
     "volume" : 120477.00
   }, {
     "date" : "2026-11-05",
@@ -1775,14 +1768,21 @@
     "dma100" : 564.36,
     "dma200" : 537.57,
     "volume" : 753582.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 630.50,
+    "dma50" : 601.16,
+    "dma100" : 566.33,
+    "dma200" : 538.50,
+    "volume" : 183522.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 630.55,
-    "dma50" : 599.96,
-    "dma100" : 564.36,
-    "dma200" : 537.57,
-    "volume" : 753582.00
+    "date" : "2026-11-17",
+    "price" : 630.50,
+    "dma50" : 601.16,
+    "dma100" : 566.33,
+    "dma200" : 538.50,
+    "volume" : 183522.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.75,
-    "pricePercentageAboveDma100" : 4.41,
-    "pricePercentageAboveDma200" : 4.14,
+    "pricePercentageAboveDma50" : 4.76,
+    "pricePercentageAboveDma100" : 4.43,
+    "pricePercentageAboveDma200" : 4.15,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 3.22,
     "netProfitMarginPercentile" : 2.07,
-    "totalTechnicalScore" : 48.29,
+    "totalTechnicalScore" : 48.34,
     "totalFundamentalScore" : 21.67,
-    "totalScore" : 69.97
+    "totalScore" : 70.01
   }
 }

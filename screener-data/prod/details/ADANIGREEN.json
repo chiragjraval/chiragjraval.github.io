@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ADANIGREEN",
       "companyName" : "Adani Green",
-      "marketCap" : 231692.00,
-      "peRatio" : 119.00,
+      "marketCap" : 235530.00,
+      "peRatio" : 121.00,
       "description" : "Adani Green Energy Limited, incorporated in 2015, is a holding company of several subsidiaries carrying business of renewable power generation within the group and is primarily involved in renewable power generation and other ancillary activities. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.73,
-      "pricePercentageAboveDma100" : 4.84,
-      "pricePercentageAboveDma200" : 4.47,
+      "pricePercentageAboveDma50" : 4.66,
+      "pricePercentageAboveDma100" : 4.75,
+      "pricePercentageAboveDma200" : 4.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.76,
       "operatingProfitMarginPercentile" : 16.53,
       "netProfitMarginPercentile" : 6.01,
-      "totalTechnicalScore" : 39.04,
+      "totalTechnicalScore" : 38.79,
       "totalFundamentalScore" : 34.30,
-      "totalScore" : 73.34
+      "totalScore" : 73.10
     }
   },
   "attributes" : {
     "companyCode" : "ADANIGREEN",
     "companyName" : "Adani Green",
-    "marketCap" : 231692.00,
-    "peRatio" : 119.00,
+    "marketCap" : 235530.00,
+    "peRatio" : 121.00,
     "description" : "Adani Green Energy Limited, incorporated in 2015, is a holding company of several subsidiaries carrying business of renewable power generation within the group and is primarily involved in renewable power generation and other ancillary activities. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1088.60,
-    "dma50" : 1044.58,
-    "dma100" : null,
-    "dma200" : 1065.46,
-    "volume" : 3029220.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1077.60,
     "dma50" : 1045.88,
@@ -58,7 +51,7 @@
     "price" : 1069.90,
     "dma50" : 1046.82,
     "dma100" : null,
-    "dma200" : 1065.63,
+    "dma200" : 1065.62,
     "volume" : 2276680.00
   }, {
     "date" : "2025-11-20",
@@ -100,7 +93,7 @@
     "price" : 1031.10,
     "dma50" : 1043.04,
     "dma100" : null,
-    "dma200" : 1063.52,
+    "dma200" : 1063.51,
     "volume" : 1672100.00
   }, {
     "date" : "2025-11-28",
@@ -324,7 +317,7 @@
     "price" : 936.70,
     "dma50" : 1016.32,
     "dma100" : null,
-    "dma200" : 1048.92,
+    "dma200" : 1048.91,
     "volume" : 2265551.00
   }, {
     "date" : "2026-01-14",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1096.05,
     "dma50" : 933.43,
-    "dma100" : 956.01,
+    "dma100" : null,
     "dma200" : 989.46,
     "volume" : 3086237.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1362.60,
     "dma200" : 1270.90,
     "volume" : 2071601.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1429.90,
+    "dma50" : 1339.13,
+    "dma100" : 1361.64,
+    "dma200" : 1272.49,
+    "volume" : 2196638.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1406.60,
-    "dma50" : 1335.43,
-    "dma100" : 1362.60,
-    "dma200" : 1270.90,
-    "volume" : 2071601.00
+    "date" : "2026-11-17",
+    "price" : 1429.90,
+    "dma50" : 1339.13,
+    "dma100" : 1361.64,
+    "dma200" : 1272.49,
+    "volume" : 2196638.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.73,
-    "pricePercentageAboveDma100" : 4.84,
-    "pricePercentageAboveDma200" : 4.47,
+    "pricePercentageAboveDma50" : 4.66,
+    "pricePercentageAboveDma100" : 4.75,
+    "pricePercentageAboveDma200" : 4.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.76,
     "operatingProfitMarginPercentile" : 16.53,
     "netProfitMarginPercentile" : 6.01,
-    "totalTechnicalScore" : 39.04,
+    "totalTechnicalScore" : 38.79,
     "totalFundamentalScore" : 34.30,
-    "totalScore" : 73.34
+    "totalScore" : 73.10
   }
 }

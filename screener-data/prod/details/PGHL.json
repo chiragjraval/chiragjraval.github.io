@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PGHL",
       "companyName" : "P & G Health Ltd",
-      "marketCap" : 9288.00,
-      "peRatio" : 26.10,
+      "marketCap" : 9071.00,
+      "peRatio" : 25.50,
       "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 5.19,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 19.99,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 25.29,
+      "totalTechnicalScore" : 20.62,
       "totalFundamentalScore" : 44.35,
-      "totalScore" : 69.64
+      "totalScore" : 64.97
     }
   },
   "attributes" : {
     "companyCode" : "PGHL",
     "companyName" : "P & G Health Ltd",
-    "marketCap" : 9288.00,
-    "peRatio" : 26.10,
+    "marketCap" : 9071.00,
+    "peRatio" : 25.50,
     "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 5915.50,
-    "dma50" : 6109.32,
-    "dma100" : null,
-    "dma200" : 5838.11,
-    "volume" : 11480.00
-  }, {
     "date" : "2025-11-18",
     "price" : 5890.50,
     "dma50" : 6100.74,
@@ -506,7 +499,7 @@
     "price" : 5017.50,
     "dma50" : 5436.17,
     "dma100" : null,
-    "dma200" : 5676.70,
+    "dma200" : 5676.69,
     "volume" : 11799.00
   }, {
     "date" : "2026-02-20",
@@ -555,7 +548,7 @@
     "price" : 4987.60,
     "dma50" : 5343.11,
     "dma100" : null,
-    "dma200" : 5634.83,
+    "dma200" : 5634.82,
     "volume" : 22662.00
   }, {
     "date" : "2026-03-04",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 4939.20,
     "dma50" : 5028.72,
-    "dma100" : 5328.82,
+    "dma100" : null,
     "dma200" : 5453.10,
     "volume" : 31710.00
   }, {
@@ -806,7 +799,7 @@
     "date" : "2026-04-28",
     "price" : 5112.90,
     "dma50" : 5053.67,
-    "dma100" : 5263.13,
+    "dma100" : 5263.14,
     "dma200" : 5423.36,
     "volume" : 6696.00
   }, {
@@ -1380,7 +1373,7 @@
     "date" : "2026-08-25",
     "price" : 5833.00,
     "dma50" : 6154.95,
-    "dma100" : 5887.25,
+    "dma100" : 5887.26,
     "dma200" : 5827.15,
     "volume" : 9256.00
   }, {
@@ -1485,7 +1478,7 @@
     "date" : "2026-09-16",
     "price" : 5460.00,
     "dma50" : 5902.23,
-    "dma100" : 5987.11,
+    "dma100" : 5987.12,
     "dma200" : 5797.01,
     "volume" : 13834.00
   }, {
@@ -1541,7 +1534,7 @@
     "date" : "2026-09-28",
     "price" : 5399.50,
     "dma50" : 5776.80,
-    "dma100" : 6008.44,
+    "dma100" : 6008.45,
     "dma200" : 5770.04,
     "volume" : 10090.00
   }, {
@@ -1646,7 +1639,7 @@
     "date" : "2026-10-21",
     "price" : 5048.00,
     "dma50" : 5539.17,
-    "dma100" : 5985.24,
+    "dma100" : 5985.25,
     "dma200" : 5699.90,
     "volume" : 6786.00
   }, {
@@ -1758,31 +1751,38 @@
     "date" : "2026-11-12",
     "price" : 5809.00,
     "dma50" : 5562.11,
-    "dma100" : 5882.61,
+    "dma100" : 5882.62,
     "dma200" : 5679.15,
     "volume" : 8556.00
   }, {
     "date" : "2026-11-13",
     "price" : 5809.00,
     "dma50" : 5571.79,
-    "dma100" : 5877.65,
+    "dma100" : 5877.66,
     "dma200" : 5680.44,
     "volume" : 15714.00
   }, {
     "date" : "2026-11-16",
     "price" : 5595.50,
     "dma50" : 5572.72,
-    "dma100" : 5871.57,
+    "dma100" : 5871.58,
     "dma200" : 5679.59,
     "volume" : 8907.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 5464.50,
+    "dma50" : 5568.48,
+    "dma100" : 5863.74,
+    "dma200" : 5677.45,
+    "volume" : 8759.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 5595.50,
-    "dma50" : 5572.72,
-    "dma100" : 5871.57,
-    "dma200" : 5679.59,
-    "volume" : 8907.00
+    "date" : "2026-11-17",
+    "price" : 5464.50,
+    "dma50" : 5568.48,
+    "dma100" : 5863.74,
+    "dma200" : 5677.45,
+    "volume" : 8759.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 111.50
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 5.19,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 19.99,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 25.29,
+    "totalTechnicalScore" : 20.62,
     "totalFundamentalScore" : 44.35,
-    "totalScore" : 69.64
+    "totalScore" : 64.97
   }
 }

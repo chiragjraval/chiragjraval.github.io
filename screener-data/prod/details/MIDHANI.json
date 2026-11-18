@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MIDHANI",
       "companyName" : "Mishra Dhatu Nig",
-      "marketCap" : 7465.00,
-      "peRatio" : 50.00,
+      "marketCap" : 7380.00,
+      "peRatio" : 49.50,
       "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.06,
-      "pricePercentageAboveDma100" : 5.18,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.23,
+      "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.29,
       "operatingProfitMarginPercentile" : 5.77,
       "netProfitMarginPercentile" : 3.14,
-      "totalTechnicalScore" : 35.24,
+      "totalTechnicalScore" : 30.39,
       "totalFundamentalScore" : 27.19,
-      "totalScore" : 62.43
+      "totalScore" : 57.59
     }
   },
   "attributes" : {
     "companyCode" : "MIDHANI",
     "companyName" : "Mishra Dhatu Nig",
-    "marketCap" : 7465.00,
-    "peRatio" : 50.00,
+    "marketCap" : 7380.00,
+    "peRatio" : 49.50,
     "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 361.20,
-    "dma50" : 384.41,
-    "dma100" : null,
-    "dma200" : 378.37,
-    "volume" : 479561.00
-  }, {
     "date" : "2025-11-18",
     "price" : 352.70,
     "dma50" : 383.17,
@@ -352,7 +345,7 @@
     "price" : 345.75,
     "dma50" : 342.93,
     "dma100" : null,
-    "dma200" : 361.16,
+    "dma200" : 361.15,
     "volume" : 1209533.00
   }, {
     "date" : "2026-01-21",
@@ -408,7 +401,7 @@
     "price" : 353.00,
     "dma50" : 346.34,
     "dma100" : null,
-    "dma200" : 360.65,
+    "dma200" : 360.64,
     "volume" : 1684279.00
   }, {
     "date" : "2026-02-02",
@@ -520,7 +513,7 @@
     "price" : 344.10,
     "dma50" : 352.96,
     "dma100" : null,
-    "dma200" : 360.68,
+    "dma200" : 360.67,
     "volume" : 416971.00
   }, {
     "date" : "2026-02-24",
@@ -743,8 +736,8 @@
     "date" : "2026-04-15",
     "price" : 348.65,
     "dma50" : 328.14,
-    "dma100" : 333.84,
-    "dma200" : 349.80,
+    "dma100" : null,
+    "dma200" : 349.79,
     "volume" : 1082302.00
   }, {
     "date" : "2026-04-16",
@@ -1639,7 +1632,7 @@
     "date" : "2026-10-19",
     "price" : 405.15,
     "dma50" : 425.24,
-    "dma100" : 422.89,
+    "dma100" : 422.88,
     "dma200" : 400.68,
     "volume" : 604478.00
   }, {
@@ -1661,7 +1654,7 @@
     "price" : 361.65,
     "dma50" : 419.97,
     "dma100" : 421.81,
-    "dma200" : 400.04,
+    "dma200" : 400.03,
     "volume" : 675976.00
   }, {
     "date" : "2026-10-26",
@@ -1775,14 +1768,21 @@
     "dma100" : 413.69,
     "dma200" : 397.61,
     "volume" : 671179.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 393.95,
+    "dma50" : 403.25,
+    "dma100" : 413.28,
+    "dma200" : 397.58,
+    "volume" : 770337.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 398.45,
-    "dma50" : 403.63,
-    "dma100" : 413.69,
-    "dma200" : 397.61,
-    "volume" : 671179.00
+    "date" : "2026-11-17",
+    "price" : 393.95,
+    "dma50" : 403.25,
+    "dma100" : 413.28,
+    "dma200" : 397.58,
+    "volume" : 770337.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2189,19 +2189,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.06,
-    "pricePercentageAboveDma100" : 5.18,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.23,
+    "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.29,
     "operatingProfitMarginPercentile" : 5.77,
     "netProfitMarginPercentile" : 3.14,
-    "totalTechnicalScore" : 35.24,
+    "totalTechnicalScore" : 30.39,
     "totalFundamentalScore" : 27.19,
-    "totalScore" : 62.43
+    "totalScore" : 57.59
   }
 }

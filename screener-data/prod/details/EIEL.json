@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EIEL",
       "companyName" : "Enviro Infra",
-      "marketCap" : 3010.00,
-      "peRatio" : 17.30,
+      "marketCap" : 2953.00,
+      "peRatio" : 17.00,
       "description" : "Established in 2009, Enviro Infra Engineers is engaged in the design, construction, operation, and maintenance of water and Waste-Water Treatment Plants (WWTPs) and water supply projects (WSSPs) for government agencies/entities.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.30,
-      "pricePercentageAboveDma100" : 5.71,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma50" : 5.37,
+      "pricePercentageAboveDma100" : 5.78,
+      "pricePercentageAboveDma200" : 5.71,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 6.15,
       "netProfitMarginPercentile" : 2.40,
-      "totalTechnicalScore" : 21.64,
+      "totalTechnicalScore" : 21.87,
       "totalFundamentalScore" : 21.89,
-      "totalScore" : 43.53
+      "totalScore" : 43.75
     }
   },
   "attributes" : {
     "companyCode" : "EIEL",
     "companyName" : "Enviro Infra",
-    "marketCap" : 3010.00,
-    "peRatio" : 17.30,
+    "marketCap" : 2953.00,
+    "peRatio" : 17.00,
     "description" : "Established in 2009, Enviro Infra Engineers is engaged in the design, construction, operation, and maintenance of water and Waste-Water Treatment Plants (WWTPs) and water supply projects (WSSPs) for government agencies/entities.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 227.35,
-    "dma50" : 243.34,
-    "dma100" : null,
-    "dma200" : 240.53,
-    "volume" : 649928.00
-  }, {
     "date" : "2025-11-18",
     "price" : 223.35,
     "dma50" : 242.55,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 213.64,
     "dma50" : 166.99,
-    "dma100" : 180.70,
+    "dma100" : null,
     "dma200" : 199.22,
     "volume" : 75060466.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 199.97,
     "dma200" : 196.36,
     "volume" : 1056397.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 168.23,
+    "dma50" : 181.80,
+    "dma100" : 199.45,
+    "dma200" : 196.08,
+    "volume" : 316132.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 171.48,
-    "dma50" : 182.35,
-    "dma100" : 199.97,
-    "dma200" : 196.36,
-    "volume" : 1056397.00
+    "date" : "2026-11-17",
+    "price" : 168.23,
+    "dma50" : 181.80,
+    "dma100" : 199.45,
+    "dma200" : 196.08,
+    "volume" : 316132.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.30,
-    "pricePercentageAboveDma100" : 5.71,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma50" : 5.37,
+    "pricePercentageAboveDma100" : 5.78,
+    "pricePercentageAboveDma200" : 5.71,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 6.15,
     "netProfitMarginPercentile" : 2.40,
-    "totalTechnicalScore" : 21.64,
+    "totalTechnicalScore" : 21.87,
     "totalFundamentalScore" : 21.89,
-    "totalScore" : 43.53
+    "totalScore" : 43.75
   }
 }

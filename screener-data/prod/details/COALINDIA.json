@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COALINDIA",
       "companyName" : "Coal India",
-      "marketCap" : 244968.00,
-      "peRatio" : 7.34,
+      "marketCap" : 241302.00,
+      "peRatio" : 7.23,
       "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.27,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.33,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.29,
       "operatingProfitMarginPercentile" : 18.23,
       "netProfitMarginPercentile" : 8.33,
-      "totalTechnicalScore" : 15.62,
+      "totalTechnicalScore" : 20.82,
       "totalFundamentalScore" : 37.85,
-      "totalScore" : 53.48
+      "totalScore" : 58.68
     }
   },
   "attributes" : {
     "companyCode" : "COALINDIA",
     "companyName" : "Coal India",
-    "marketCap" : 244968.00,
-    "peRatio" : 7.34,
+    "marketCap" : 241302.00,
+    "peRatio" : 7.23,
     "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 387.85,
-    "dma50" : 386.15,
-    "dma100" : null,
-    "dma200" : 392.89,
-    "volume" : 4346670.00
-  }, {
     "date" : "2025-11-18",
     "price" : 383.95,
     "dma50" : 386.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 435.80,
     "dma50" : 439.36,
-    "dma100" : 419.82,
+    "dma100" : null,
     "dma200" : 414.20,
     "volume" : 10789075.00
   }, {
@@ -1226,7 +1219,7 @@
     "date" : "2026-07-24",
     "price" : 427.40,
     "dma50" : 441.13,
-    "dma100" : 449.57,
+    "dma100" : 449.58,
     "dma200" : 431.11,
     "volume" : 5630193.00
   }, {
@@ -1436,7 +1429,7 @@
     "date" : "2026-09-04",
     "price" : 415.35,
     "dma50" : 418.83,
-    "dma100" : 438.12,
+    "dma100" : 438.13,
     "dma200" : 425.61,
     "volume" : 6358508.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 415.79,
     "dma200" : 419.85,
     "volume" : 19419663.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 391.55,
+    "dma50" : 408.13,
+    "dma100" : 415.28,
+    "dma200" : 419.57,
+    "volume" : 26370980.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 397.50,
-    "dma50" : 408.81,
-    "dma100" : 415.79,
-    "dma200" : 419.85,
-    "volume" : 19419663.00
+    "date" : "2026-11-17",
+    "price" : 391.55,
+    "dma50" : 408.13,
+    "dma100" : 415.28,
+    "dma200" : 419.57,
+    "volume" : 26370980.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2463,15 +2463,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.27,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.33,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.29,
     "operatingProfitMarginPercentile" : 18.23,
     "netProfitMarginPercentile" : 8.33,
-    "totalTechnicalScore" : 15.62,
+    "totalTechnicalScore" : 20.82,
     "totalFundamentalScore" : 37.85,
-    "totalScore" : 53.48
+    "totalScore" : 58.68
   }
 }

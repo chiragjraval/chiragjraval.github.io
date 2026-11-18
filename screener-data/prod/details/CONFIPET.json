@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CONFIPET",
       "companyName" : "Confidence Petro",
-      "marketCap" : 2201.00,
-      "peRatio" : 12.00,
+      "marketCap" : 2165.00,
+      "peRatio" : 11.80,
       "description" : "Confidence Petroleum India Ltd is engaged in manufacturing of LPG cylinders and is also a supplier of auto LPG in India with its network of bottling plants and Auto LPG dispensing stations across India. It also supplies packed LPG cylinders and is also engaged in LPG bottling catering to industrial and commercial customers.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.47,
-      "pricePercentageAboveDma100" : 5.71,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 5.53,
+      "pricePercentageAboveDma100" : 5.78,
+      "pricePercentageAboveDma200" : 5.15,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 2.07,
       "netProfitMarginPercentile" : 4.25,
-      "totalTechnicalScore" : 26.25,
+      "totalTechnicalScore" : 26.45,
       "totalFundamentalScore" : 22.71,
-      "totalScore" : 48.96
+      "totalScore" : 49.16
     }
   },
   "attributes" : {
     "companyCode" : "CONFIPET",
     "companyName" : "Confidence Petro",
-    "marketCap" : 2201.00,
-    "peRatio" : 12.00,
+    "marketCap" : 2165.00,
+    "peRatio" : 11.80,
     "description" : "Confidence Petroleum India Ltd is engaged in manufacturing of LPG cylinders and is also a supplier of auto LPG in India with its network of bottling plants and Auto LPG dispensing stations across India. It also supplies packed LPG cylinders and is also engaged in LPG bottling catering to industrial and commercial customers.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 41.13,
-    "dma50" : 43.87,
-    "dma100" : null,
-    "dma200" : 53.53,
-    "volume" : 443036.00
-  }, {
     "date" : "2025-11-18",
     "price" : 40.84,
     "dma50" : 43.75,
@@ -569,7 +562,7 @@
     "price" : 29.18,
     "dma50" : 33.36,
     "dma100" : null,
-    "dma200" : 43.21,
+    "dma200" : 43.20,
     "volume" : 660719.00
   }, {
     "date" : "2026-03-06",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 52.61,
     "dma50" : 39.95,
-    "dma100" : 36.10,
+    "dma100" : null,
     "dma200" : 42.89,
     "volume" : 2995127.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 77.19,
     "dma200" : 67.16,
     "volume" : 5274181.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 65.15,
+    "dma50" : 72.84,
+    "dma100" : 77.11,
+    "dma200" : 67.14,
+    "volume" : 2397720.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 66.24,
-    "dma50" : 73.16,
-    "dma100" : 77.19,
-    "dma200" : 67.16,
-    "volume" : 5274181.00
+    "date" : "2026-11-17",
+    "price" : 65.15,
+    "dma50" : 72.84,
+    "dma100" : 77.11,
+    "dma200" : 67.14,
+    "volume" : 2397720.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.47,
-    "pricePercentageAboveDma100" : 5.71,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 5.53,
+    "pricePercentageAboveDma100" : 5.78,
+    "pricePercentageAboveDma200" : 5.15,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 2.07,
     "netProfitMarginPercentile" : 4.25,
-    "totalTechnicalScore" : 26.25,
+    "totalTechnicalScore" : 26.45,
     "totalFundamentalScore" : 22.71,
-    "totalScore" : 48.96
+    "totalScore" : 49.16
   }
 }

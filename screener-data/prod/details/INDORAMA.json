@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "INDORAMA",
       "companyName" : "Indo Rama Synth.",
-      "marketCap" : 1986.00,
-      "peRatio" : 9.30,
+      "marketCap" : 2004.00,
+      "peRatio" : 9.39,
       "description" : "Incorporated in 1989, Indo Rama Synthetics Ltd is a manufacturer of polyester yarns and fibres[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 4.57,
-      "pricePercentageAboveDma200" : 3.92,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 4.55,
+      "pricePercentageAboveDma200" : 3.88,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 15.63,
       "netProfitMarginPercentile" : 8.41,
-      "totalTechnicalScore" : 38.69,
+      "totalTechnicalScore" : 38.58,
       "totalFundamentalScore" : 36.58,
-      "totalScore" : 75.27
+      "totalScore" : 75.15
     }
   },
   "attributes" : {
     "companyCode" : "INDORAMA",
     "companyName" : "Indo Rama Synth.",
-    "marketCap" : 1986.00,
-    "peRatio" : 9.30,
+    "marketCap" : 2004.00,
+    "peRatio" : 9.39,
     "description" : "Incorporated in 1989, Indo Rama Synthetics Ltd is a manufacturer of polyester yarns and fibres[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 54.06,
-    "dma50" : 60.33,
-    "dma100" : null,
-    "dma200" : 51.54,
-    "volume" : 662132.00
-  }, {
     "date" : "2025-11-18",
     "price" : 52.69,
     "dma50" : 60.03,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 39.16,
     "dma50" : 36.46,
-    "dma100" : 41.55,
+    "dma100" : null,
     "dma200" : 44.10,
     "volume" : 211821.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 70.07,
     "dma200" : 62.51,
     "volume" : 292032.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 76.74,
+    "dma50" : 79.15,
+    "dma100" : 70.38,
+    "dma200" : 62.65,
+    "volume" : 360721.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 76.05,
-    "dma50" : 79.24,
-    "dma100" : 70.07,
-    "dma200" : 62.51,
-    "volume" : 292032.00
+    "date" : "2026-11-17",
+    "price" : 76.74,
+    "dma50" : 79.15,
+    "dma100" : 70.38,
+    "dma200" : 62.65,
+    "volume" : 360721.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 4.57,
-    "pricePercentageAboveDma200" : 3.92,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 4.55,
+    "pricePercentageAboveDma200" : 3.88,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 15.63,
     "netProfitMarginPercentile" : 8.41,
-    "totalTechnicalScore" : 38.69,
+    "totalTechnicalScore" : 38.58,
     "totalFundamentalScore" : 36.58,
-    "totalScore" : 75.27
+    "totalScore" : 75.15
   }
 }

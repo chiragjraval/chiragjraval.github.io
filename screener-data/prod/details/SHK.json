@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHK",
       "companyName" : "S H Kelkar & Co.",
-      "marketCap" : 1770.00,
-      "peRatio" : 33.00,
+      "marketCap" : 1781.00,
+      "peRatio" : 33.20,
       "description" : "S H Kelkar and Company Limited is engaged in manufacture, supply and exports of fragrances and aroma ingredients[1] It is the largest domestic fragrance producer in India and the only company of Indian origin to file patents in the field of Fragrance & Novel aroma molecules."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.51,
-      "pricePercentageAboveDma200" : 5.71,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.48,
+      "pricePercentageAboveDma200" : 5.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.73,
       "operatingProfitMarginPercentile" : 3.96,
       "netProfitMarginPercentile" : 1.70,
-      "totalTechnicalScore" : 16.50,
+      "totalTechnicalScore" : 16.41,
       "totalFundamentalScore" : 18.39,
-      "totalScore" : 34.89
+      "totalScore" : 34.79
     }
   },
   "attributes" : {
     "companyCode" : "SHK",
     "companyName" : "S H Kelkar & Co.",
-    "marketCap" : 1770.00,
-    "peRatio" : 33.00,
+    "marketCap" : 1781.00,
+    "peRatio" : 33.20,
     "description" : "S H Kelkar and Company Limited is engaged in manufacture, supply and exports of fragrances and aroma ingredients[1] It is the largest domestic fragrance producer in India and the only company of Indian origin to file patents in the field of Fragrance & Novel aroma molecules."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 176.09,
-    "dma50" : 219.26,
-    "dma100" : null,
-    "dma200" : 226.57,
-    "volume" : 1188946.00
-  }, {
     "date" : "2025-11-18",
     "price" : 178.08,
     "dma50" : 217.64,
@@ -639,7 +632,7 @@
     "price" : 124.40,
     "dma50" : 150.19,
     "dma100" : null,
-    "dma200" : 186.79,
+    "dma200" : 186.78,
     "volume" : 392242.00
   }, {
     "date" : "2026-03-20",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 142.85,
     "dma50" : 140.49,
-    "dma100" : 155.31,
+    "dma100" : null,
     "dma200" : 178.58,
     "volume" : 394996.00
   }, {
@@ -905,7 +898,7 @@
     "price" : 125.85,
     "dma50" : 142.03,
     "dma100" : 149.54,
-    "dma200" : 171.47,
+    "dma200" : 171.46,
     "volume" : 584095.00
   }, {
     "date" : "2026-05-20",
@@ -1752,7 +1745,7 @@
     "price" : 132.32,
     "dma50" : 136.57,
     "dma100" : 142.54,
-    "dma200" : 149.56,
+    "dma200" : 149.55,
     "volume" : 418771.00
   }, {
     "date" : "2026-11-12",
@@ -1775,14 +1768,21 @@
     "dma100" : 142.27,
     "dma200" : 148.97,
     "volume" : 271410.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 128.64,
+    "dma50" : 135.52,
+    "dma100" : 142.21,
+    "dma200" : 148.77,
+    "volume" : 123694.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 127.90,
-    "dma50" : 135.80,
-    "dma100" : 142.27,
-    "dma200" : 148.97,
-    "volume" : 271410.00
+    "date" : "2026-11-17",
+    "price" : 128.64,
+    "dma50" : 135.52,
+    "dma100" : 142.21,
+    "dma200" : 148.77,
+    "volume" : 123694.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-12-31",
@@ -2283,15 +2283,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.51,
-    "pricePercentageAboveDma200" : 5.71,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.48,
+    "pricePercentageAboveDma200" : 5.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.73,
     "operatingProfitMarginPercentile" : 3.96,
     "netProfitMarginPercentile" : 1.70,
-    "totalTechnicalScore" : 16.50,
+    "totalTechnicalScore" : 16.41,
     "totalFundamentalScore" : 18.39,
-    "totalScore" : 34.89
+    "totalScore" : 34.79
   }
 }

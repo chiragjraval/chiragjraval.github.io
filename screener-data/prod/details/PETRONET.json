@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "PETRONET",
       "companyName" : "Petronet LNG",
-      "marketCap" : 48900.00,
+      "marketCap" : 49215.00,
       "peRatio" : 10.60,
       "description" : "Petronet LNG Ltd was formed to develop, design, construct, own and operate Liquefied Natural Gas (LNG) Import and regasification terminals in India.[1] It was incorporated in 1998 as a Joint Venture among GAIL, Indian Oil, Bharat Petroleum & ONGC holding 12.5% each.[2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.35,
-      "pricePercentageAboveDma200" : 4.34,
+      "pricePercentageAboveDma50" : 4.54,
+      "pricePercentageAboveDma100" : 4.32,
+      "pricePercentageAboveDma200" : 4.31,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 2.43,
       "operatingProfitMarginPercentile" : 19.77,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 48.24,
+      "totalTechnicalScore" : 48.17,
       "totalFundamentalScore" : 32.09,
-      "totalScore" : 80.33
+      "totalScore" : 80.26
     }
   },
   "attributes" : {
     "companyCode" : "PETRONET",
     "companyName" : "Petronet LNG",
-    "marketCap" : 48900.00,
+    "marketCap" : 49215.00,
     "peRatio" : 10.60,
     "description" : "Petronet LNG Ltd was formed to develop, design, construct, own and operate Liquefied Natural Gas (LNG) Import and regasification terminals in India.[1] It was incorporated in 1998 as a Joint Venture among GAIL, Indian Oil, Bharat Petroleum & ONGC holding 12.5% each.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 276.05,
-    "dma50" : 279.77,
-    "dma100" : null,
-    "dma200" : 292.66,
-    "volume" : 4759002.00
-  }, {
     "date" : "2025-11-18",
     "price" : 274.85,
     "dma50" : 279.57,
@@ -639,7 +632,7 @@
     "price" : 270.85,
     "dma50" : 291.21,
     "dma100" : null,
-    "dma200" : 289.78,
+    "dma200" : 289.77,
     "volume" : 5887346.00
   }, {
     "date" : "2026-03-20",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 271.05,
     "dma50" : 276.38,
-    "dma100" : 281.24,
+    "dma100" : null,
     "dma200" : 285.24,
     "volume" : 3252135.00
   }, {
@@ -947,7 +940,7 @@
     "price" : 278.80,
     "dma50" : 275.24,
     "dma100" : 281.81,
-    "dma200" : 282.67,
+    "dma200" : 282.66,
     "volume" : 1252805.00
   }, {
     "date" : "2026-05-29",
@@ -1766,7 +1759,7 @@
     "price" : 324.05,
     "dma50" : 298.30,
     "dma100" : 288.11,
-    "dma200" : 287.47,
+    "dma200" : 287.46,
     "volume" : 8712934.00
   }, {
     "date" : "2026-11-16",
@@ -1775,14 +1768,21 @@
     "dma100" : 288.52,
     "dma200" : 287.85,
     "volume" : 2097981.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 328.10,
+    "dma50" : 300.51,
+    "dma100" : 288.92,
+    "dma200" : 288.25,
+    "volume" : 2236648.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 326.00,
-    "dma50" : 299.39,
-    "dma100" : 288.52,
-    "dma200" : 287.85,
-    "volume" : 2097981.00
+    "date" : "2026-11-17",
+    "price" : 328.10,
+    "dma50" : 300.51,
+    "dma100" : 288.92,
+    "dma200" : 288.25,
+    "volume" : 2236648.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.35,
-    "pricePercentageAboveDma200" : 4.34,
+    "pricePercentageAboveDma50" : 4.54,
+    "pricePercentageAboveDma100" : 4.32,
+    "pricePercentageAboveDma200" : 4.31,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 2.43,
     "operatingProfitMarginPercentile" : 19.77,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 48.24,
+    "totalTechnicalScore" : 48.17,
     "totalFundamentalScore" : 32.09,
-    "totalScore" : 80.33
+    "totalScore" : 80.26
   }
 }

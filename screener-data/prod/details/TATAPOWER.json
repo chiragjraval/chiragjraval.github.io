@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TATAPOWER",
       "companyName" : "Tata Power Co.",
-      "marketCap" : 110399.00,
-      "peRatio" : 25.80,
+      "marketCap" : 110079.00,
+      "peRatio" : 25.70,
       "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.16,
-      "pricePercentageAboveDma100" : 5.28,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.41,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 5.47,
       "netProfitMarginPercentile" : 4.71,
-      "totalTechnicalScore" : 20.83,
+      "totalTechnicalScore" : 20.86,
       "totalFundamentalScore" : 29.94,
-      "totalScore" : 50.77
+      "totalScore" : 50.80
     }
   },
   "attributes" : {
     "companyCode" : "TATAPOWER",
     "companyName" : "Tata Power Co.",
-    "marketCap" : 110399.00,
-    "peRatio" : 25.80,
+    "marketCap" : 110079.00,
+    "peRatio" : 25.70,
     "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 392.75,
-    "dma50" : 394.24,
-    "dma100" : null,
-    "dma200" : 392.15,
-    "volume" : 6481018.00
-  }, {
     "date" : "2025-11-18",
     "price" : 386.25,
     "dma50" : 393.93,
@@ -205,7 +198,7 @@
     "price" : 374.95,
     "dma50" : 387.33,
     "dma100" : null,
-    "dma200" : 390.37,
+    "dma200" : 390.36,
     "volume" : 3681632.00
   }, {
     "date" : "2025-12-19",
@@ -520,7 +513,7 @@
     "price" : 379.25,
     "dma50" : 373.28,
     "dma100" : null,
-    "dma200" : 383.22,
+    "dma200" : 383.21,
     "volume" : 3460211.00
   }, {
     "date" : "2026-02-24",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 421.85,
     "dma50" : 385.91,
-    "dma100" : 379.35,
+    "dma100" : null,
     "dma200" : 384.74,
     "volume" : 18413579.00
   }, {
@@ -1072,7 +1065,7 @@
     "date" : "2026-06-23",
     "price" : 398.30,
     "dma50" : 408.14,
-    "dma100" : 398.78,
+    "dma100" : 398.79,
     "dma200" : 396.99,
     "volume" : 5240286.00
   }, {
@@ -1108,7 +1101,7 @@
     "price" : 375.45,
     "dma50" : 404.05,
     "dma100" : 400.18,
-    "dma200" : 396.45,
+    "dma200" : 396.44,
     "volume" : 10980834.00
   }, {
     "date" : "2026-07-02",
@@ -1775,14 +1768,21 @@
     "dma100" : 365.99,
     "dma200" : 375.32,
     "volume" : 7063664.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 344.50,
+    "dma50" : 356.14,
+    "dma100" : 365.50,
+    "dma200" : 375.02,
+    "volume" : 6999789.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 345.50,
-    "dma50" : 356.62,
-    "dma100" : 365.99,
-    "dma200" : 375.32,
-    "volume" : 7063664.00
+    "date" : "2026-11-17",
+    "price" : 344.50,
+    "dma50" : 356.14,
+    "dma100" : 365.50,
+    "dma200" : 375.02,
+    "volume" : 6999789.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.16,
-    "pricePercentageAboveDma100" : 5.28,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.41,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 5.47,
     "netProfitMarginPercentile" : 4.71,
-    "totalTechnicalScore" : 20.83,
+    "totalTechnicalScore" : 20.86,
     "totalFundamentalScore" : 29.94,
-    "totalScore" : 50.77
+    "totalScore" : 50.80
   }
 }

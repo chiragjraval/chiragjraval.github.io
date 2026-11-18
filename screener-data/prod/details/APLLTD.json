@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "APLLTD",
       "companyName" : "Alembic Pharma",
-      "marketCap" : 20779.00,
-      "peRatio" : 23.20,
+      "marketCap" : 20652.00,
+      "peRatio" : 23.00,
       "description" : "Alembic Pharmaceuticals is in the business of development, manufacturing, and marketing of Pharmaceuticals products i.e. Formulations and Active Pharmaceutical Ingredients. The company has 3 R&D and 5 manufacturing facilities."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.89,
-      "pricePercentageAboveDma100" : 3.65,
-      "pricePercentageAboveDma200" : 3.61,
+      "pricePercentageAboveDma50" : 3.98,
+      "pricePercentageAboveDma100" : 3.71,
+      "pricePercentageAboveDma200" : 3.66,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.14,
       "netProfitMarginPercentile" : 7.78,
-      "totalTechnicalScore" : 46.15,
+      "totalTechnicalScore" : 46.35,
       "totalFundamentalScore" : 43.23,
-      "totalScore" : 89.37
+      "totalScore" : 89.58
     }
   },
   "attributes" : {
     "companyCode" : "APLLTD",
     "companyName" : "Alembic Pharma",
-    "marketCap" : 20779.00,
-    "peRatio" : 23.20,
+    "marketCap" : 20652.00,
+    "peRatio" : 23.00,
     "description" : "Alembic Pharmaceuticals is in the business of development, manufacturing, and marketing of Pharmaceuticals products i.e. Formulations and Active Pharmaceutical Ingredients. The company has 3 R&D and 5 manufacturing facilities."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 948.85,
-    "dma50" : 930.62,
-    "dma100" : null,
-    "dma200" : 950.30,
-    "volume" : 283553.00
-  }, {
     "date" : "2025-11-18",
     "price" : 913.55,
     "dma50" : 929.95,
@@ -65,7 +58,7 @@
     "price" : 899.45,
     "dma50" : 927.86,
     "dma100" : null,
-    "dma200" : 949.01,
+    "dma200" : 949.00,
     "volume" : 61586.00
   }, {
     "date" : "2025-11-21",
@@ -198,7 +191,7 @@
     "price" : 847.10,
     "dma50" : 906.16,
     "dma100" : null,
-    "dma200" : 938.80,
+    "dma200" : 938.79,
     "volume" : 30563.00
   }, {
     "date" : "2025-12-18",
@@ -233,7 +226,7 @@
     "price" : 857.20,
     "dma50" : 896.96,
     "dma100" : null,
-    "dma200" : 934.73,
+    "dma200" : 934.72,
     "volume" : 41787.00
   }, {
     "date" : "2025-12-26",
@@ -254,7 +247,7 @@
     "price" : 836.65,
     "dma50" : 890.84,
     "dma100" : null,
-    "dma200" : 932.02,
+    "dma200" : 932.01,
     "volume" : 26279.00
   }, {
     "date" : "2025-12-31",
@@ -359,7 +352,7 @@
     "price" : 761.80,
     "dma50" : 850.13,
     "dma100" : null,
-    "dma200" : 914.21,
+    "dma200" : 914.20,
     "volume" : 74247.00
   }, {
     "date" : "2026-01-22",
@@ -513,14 +506,14 @@
     "price" : 763.05,
     "dma50" : 809.78,
     "dma100" : null,
-    "dma200" : 887.93,
+    "dma200" : 887.92,
     "volume" : 20793.00
   }, {
     "date" : "2026-02-23",
     "price" : 769.35,
     "dma50" : 808.20,
     "dma100" : null,
-    "dma200" : 886.75,
+    "dma200" : 886.74,
     "volume" : 23873.00
   }, {
     "date" : "2026-02-24",
@@ -534,7 +527,7 @@
     "price" : 739.90,
     "dma50" : 803.36,
     "dma100" : null,
-    "dma200" : 883.95,
+    "dma200" : 883.94,
     "volume" : 145756.00
   }, {
     "date" : "2026-02-26",
@@ -625,7 +618,7 @@
     "price" : 670.00,
     "dma50" : 760.99,
     "dma100" : null,
-    "dma200" : 861.57,
+    "dma200" : 861.56,
     "volume" : 36307.00
   }, {
     "date" : "2026-03-18",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 734.80,
     "dma50" : 726.04,
-    "dma100" : 787.48,
+    "dma100" : null,
     "dma200" : 834.28,
     "volume" : 103266.00
   }, {
@@ -1094,7 +1087,7 @@
     "price" : 786.65,
     "dma50" : 752.21,
     "dma100" : 742.76,
-    "dma200" : 803.88,
+    "dma200" : 803.87,
     "volume" : 201701.00
   }, {
     "date" : "2026-06-30",
@@ -1775,14 +1768,21 @@
     "dma100" : 832.64,
     "dma200" : 826.72,
     "volume" : 477686.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1050.65,
+    "dma50" : 872.13,
+    "dma100" : 835.34,
+    "dma200" : 828.95,
+    "volume" : 214431.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1057.10,
-    "dma50" : 864.84,
-    "dma100" : 832.64,
-    "dma200" : 826.72,
-    "volume" : 477686.00
+    "date" : "2026-11-17",
+    "price" : 1050.65,
+    "dma50" : 872.13,
+    "dma100" : 835.34,
+    "dma200" : 828.95,
+    "volume" : 214431.00
   },
   "quarterlyResults" : [ {
     "date" : "2011-03-31",
@@ -2433,15 +2433,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.89,
-    "pricePercentageAboveDma100" : 3.65,
-    "pricePercentageAboveDma200" : 3.61,
+    "pricePercentageAboveDma50" : 3.98,
+    "pricePercentageAboveDma100" : 3.71,
+    "pricePercentageAboveDma200" : 3.66,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.14,
     "netProfitMarginPercentile" : 7.78,
-    "totalTechnicalScore" : 46.15,
+    "totalTechnicalScore" : 46.35,
     "totalFundamentalScore" : 43.23,
-    "totalScore" : 89.37
+    "totalScore" : 89.58
   }
 }

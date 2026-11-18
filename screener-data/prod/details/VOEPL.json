@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VOEPL",
       "companyName" : "Virtuoso Optoel.",
-      "marketCap" : 1682.00,
-      "peRatio" : 69.70,
+      "marketCap" : 1651.00,
+      "peRatio" : 68.40,
       "description" : "Incorporated in 2015, Virtuoso Optoelectronics Ltd is a manufacturer of White Goods and also offers Electronics Manufacturing Services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.27,
-      "pricePercentageAboveDma200" : 4.90,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.35,
+      "pricePercentageAboveDma200" : 4.99,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 13.85,
       "netProfitMarginPercentile" : 5.09,
-      "totalTechnicalScore" : 30.41,
+      "totalTechnicalScore" : 30.66,
       "totalFundamentalScore" : 32.27,
-      "totalScore" : 62.68
+      "totalScore" : 62.94
     }
   },
   "attributes" : {
     "companyCode" : "VOEPL",
     "companyName" : "Virtuoso Optoel.",
-    "marketCap" : 1682.00,
-    "peRatio" : 69.70,
+    "marketCap" : 1651.00,
+    "peRatio" : 68.40,
     "description" : "Incorporated in 2015, Virtuoso Optoelectronics Ltd is a manufacturer of White Goods and also offers Electronics Manufacturing Services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 427.40,
-    "dma50" : 496.42,
-    "dma100" : null,
-    "dma200" : 493.25,
-    "volume" : 161750.00
-  }, {
     "date" : "2025-11-18",
     "price" : 430.00,
     "dma50" : 493.82,
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 321.60,
     "dma50" : 332.95,
-    "dma100" : 378.43,
+    "dma100" : null,
     "dma200" : 411.76,
     "volume" : 34750.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 494.16,
     "dma200" : 458.68,
     "volume" : 102565.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 459.40,
+    "dma50" : 490.45,
+    "dma100" : 494.45,
+    "dma200" : 458.68,
+    "volume" : 111827.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 467.85,
-    "dma50" : 491.71,
-    "dma100" : 494.16,
+    "date" : "2026-11-17",
+    "price" : 459.40,
+    "dma50" : 490.45,
+    "dma100" : 494.45,
     "dma200" : 458.68,
-    "volume" : 102565.00
+    "volume" : 111827.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.27,
-    "pricePercentageAboveDma200" : 4.90,
+    "pricePercentageAboveDma50" : 5.32,
+    "pricePercentageAboveDma100" : 5.35,
+    "pricePercentageAboveDma200" : 4.99,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 13.85,
     "netProfitMarginPercentile" : 5.09,
-    "totalTechnicalScore" : 30.41,
+    "totalTechnicalScore" : 30.66,
     "totalFundamentalScore" : 32.27,
-    "totalScore" : 62.68
+    "totalScore" : 62.94
   }
 }

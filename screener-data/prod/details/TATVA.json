@@ -21,15 +21,15 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.09,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.44,
+      "pricePercentageAboveDma100" : 4.95,
+      "pricePercentageAboveDma200" : 4.45,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.18,
       "operatingProfitMarginPercentile" : 8.46,
       "netProfitMarginPercentile" : 3.85,
-      "totalTechnicalScore" : 39.46,
+      "totalTechnicalScore" : 39.48,
       "totalFundamentalScore" : 30.49,
-      "totalScore" : 69.95
+      "totalScore" : 69.97
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Tatva Chintan Pharma Chem Limited was incorporated in 1996 and it is a manufacturer of a diverse portfolio of structure Directing Agents, Phase Transfer Catalysts, electrolyte salts for batteries, and Pharmaceutical and Agrochemical Intermediates and other Speciality chemicals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1588.70,
-    "dma50" : 1273.99,
-    "dma100" : null,
-    "dma200" : 1057.21,
-    "volume" : 621948.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1559.00,
     "dma50" : 1285.16,
@@ -65,7 +58,7 @@
     "price" : 1532.10,
     "dma50" : 1304.20,
     "dma100" : null,
-    "dma200" : 1071.52,
+    "dma200" : 1071.53,
     "volume" : 99466.00
   }, {
     "date" : "2025-11-21",
@@ -100,7 +93,7 @@
     "price" : 1492.80,
     "dma50" : 1330.73,
     "dma100" : null,
-    "dma200" : 1089.96,
+    "dma200" : 1089.97,
     "volume" : 207229.00
   }, {
     "date" : "2025-11-28",
@@ -121,7 +114,7 @@
     "price" : 1430.90,
     "dma50" : 1343.23,
     "dma100" : null,
-    "dma200" : 1100.35,
+    "dma200" : 1100.36,
     "volume" : 105615.00
   }, {
     "date" : "2025-12-03",
@@ -513,7 +506,7 @@
     "price" : 1194.40,
     "dma50" : 1257.80,
     "dma100" : null,
-    "dma200" : 1179.26,
+    "dma200" : 1179.27,
     "volume" : 67257.00
   }, {
     "date" : "2026-02-23",
@@ -576,7 +569,7 @@
     "price" : 1137.60,
     "dma50" : 1235.02,
     "dma100" : null,
-    "dma200" : 1179.80,
+    "dma200" : 1179.81,
     "volume" : 48837.00
   }, {
     "date" : "2026-03-09",
@@ -632,7 +625,7 @@
     "price" : 1176.40,
     "dma50" : 1212.26,
     "dma100" : null,
-    "dma200" : 1177.57,
+    "dma200" : 1177.58,
     "volume" : 60591.00
   }, {
     "date" : "2026-03-19",
@@ -716,7 +709,7 @@
     "price" : 1202.30,
     "dma50" : 1181.32,
     "dma100" : null,
-    "dma200" : 1172.26,
+    "dma200" : 1172.27,
     "volume" : 52140.00
   }, {
     "date" : "2026-04-09",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1246.80,
     "dma50" : 1185.97,
-    "dma100" : 1272.02,
+    "dma100" : null,
     "dma200" : 1173.82,
     "volume" : 45056.00
   }, {
@@ -758,7 +751,7 @@
     "price" : 1278.30,
     "dma50" : 1193.28,
     "dma100" : 1266.72,
-    "dma200" : 1175.94,
+    "dma200" : 1175.95,
     "volume" : 92760.00
   }, {
     "date" : "2026-04-20",
@@ -828,7 +821,7 @@
     "price" : 1307.20,
     "dma50" : 1230.34,
     "dma100" : 1251.87,
-    "dma200" : 1188.25,
+    "dma200" : 1188.26,
     "volume" : 56616.00
   }, {
     "date" : "2026-05-05",
@@ -1290,7 +1283,7 @@
     "price" : 1731.10,
     "dma50" : 1457.86,
     "dma100" : 1296.28,
-    "dma200" : 1277.75,
+    "dma200" : 1277.76,
     "volume" : 39157.00
   }, {
     "date" : "2026-08-07",
@@ -1703,7 +1696,7 @@
     "price" : 1661.80,
     "dma50" : 1708.09,
     "dma100" : 1591.38,
-    "dma200" : 1476.45,
+    "dma200" : 1476.46,
     "volume" : 60735.00
   }, {
     "date" : "2026-11-03",
@@ -1775,14 +1768,21 @@
     "dma100" : 1638.80,
     "dma200" : 1493.46,
     "volume" : 28940.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1660.80,
+    "dma50" : 1689.63,
+    "dma100" : 1643.35,
+    "dma200" : 1495.13,
+    "volume" : 45755.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
+    "date" : "2026-11-17",
     "price" : 1660.80,
-    "dma50" : 1690.81,
-    "dma100" : 1638.80,
-    "dma200" : 1493.46,
-    "volume" : 28940.00
+    "dma50" : 1689.63,
+    "dma100" : 1643.35,
+    "dma200" : 1495.13,
+    "volume" : 45755.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-06-30",
@@ -2064,14 +2064,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.09,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.44,
+    "pricePercentageAboveDma100" : 4.95,
+    "pricePercentageAboveDma200" : 4.45,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.18,
     "operatingProfitMarginPercentile" : 8.46,
     "netProfitMarginPercentile" : 3.85,
-    "totalTechnicalScore" : 39.46,
+    "totalTechnicalScore" : 39.48,
     "totalFundamentalScore" : 30.49,
-    "totalScore" : 69.95
+    "totalScore" : 69.97
   }
 }

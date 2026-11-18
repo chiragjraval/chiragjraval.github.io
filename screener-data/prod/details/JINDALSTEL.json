@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "JINDALSTEL",
       "companyName" : "Jindal Steel",
-      "marketCap" : 116188.00,
+      "marketCap" : 116035.00,
       "peRatio" : 36.00,
       "description" : "Jindal Steel & Power Ltd is one of the India's leading steel producers with significant presence in sectors like steel and mining. The group has global presence through subsidiaries, mainly in Australia, Botswana, Indonesia, Mauritius, Mozambique, Madagascar, Namibia, South Africa, Tanzania and Zambia.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.85,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.85,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.81,
+      "pricePercentageAboveDma200" : 4.86,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 0.69,
       "netProfitMarginPercentile" : 4.15,
-      "totalTechnicalScore" : 34.50,
+      "totalTechnicalScore" : 34.53,
       "totalFundamentalScore" : 18.09,
-      "totalScore" : 52.59
+      "totalScore" : 52.62
     }
   },
   "attributes" : {
     "companyCode" : "JINDALSTEL",
     "companyName" : "Jindal Steel",
-    "marketCap" : 116188.00,
+    "marketCap" : 116035.00,
     "peRatio" : 36.00,
     "description" : "Jindal Steel & Power Ltd is one of the India's leading steel producers with significant presence in sectors like steel and mining. The group has global presence through subsidiaries, mainly in Australia, Botswana, Indonesia, Mauritius, Mozambique, Madagascar, Namibia, South Africa, Tanzania and Zambia.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-17",
-    "price" : 1080.00,
-    "dma50" : 1040.68,
-    "dma100" : null,
-    "dma200" : 977.81,
-    "volume" : 743552.00
-  }, {
     "date" : "2025-11-18",
     "price" : 1066.30,
     "dma50" : 1041.69,
@@ -338,7 +331,7 @@
     "price" : 1042.90,
     "dma50" : 1031.44,
     "dma100" : null,
-    "dma200" : 995.17,
+    "dma200" : 995.16,
     "volume" : 1531353.00
   }, {
     "date" : "2026-01-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-15",
     "price" : 1221.30,
     "dma50" : 1159.70,
-    "dma100" : 1108.43,
+    "dma100" : null,
     "dma200" : 1071.72,
     "volume" : 1218789.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1094.84,
     "dma200" : 1106.82,
     "volume" : 760062.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 1137.50,
+    "dma50" : 1106.77,
+    "dma100" : 1095.32,
+    "dma200" : 1107.13,
+    "volume" : 1412937.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-16",
-    "price" : 1139.00,
-    "dma50" : 1105.52,
-    "dma100" : 1094.84,
-    "dma200" : 1106.82,
-    "volume" : 760062.00
+    "date" : "2026-11-17",
+    "price" : 1137.50,
+    "dma50" : 1106.77,
+    "dma100" : 1095.32,
+    "dma200" : 1107.13,
+    "volume" : 1412937.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.85,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.85,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.81,
+    "pricePercentageAboveDma200" : 4.86,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 0.69,
     "netProfitMarginPercentile" : 4.15,
-    "totalTechnicalScore" : 34.50,
+    "totalTechnicalScore" : 34.53,
     "totalFundamentalScore" : 18.09,
-    "totalScore" : 52.59
+    "totalScore" : 52.62
   }
 }
