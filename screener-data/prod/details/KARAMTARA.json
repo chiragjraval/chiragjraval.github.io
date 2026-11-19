@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KARAMTARA",
       "companyName" : "Karamtara Engg.",
-      "marketCap" : 11761.00,
-      "peRatio" : 46.10,
+      "marketCap" : 11796.00,
+      "peRatio" : 46.20,
       "description" : "Incorporated in 1996, Karamtara Engineering Limited manufactures products for renewable energy and transmission lines.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma50" : 5.05,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.96,
       "netProfitMarginPercentile" : 4.59,
-      "totalTechnicalScore" : 19.99,
+      "totalTechnicalScore" : 19.96,
       "totalFundamentalScore" : 33.54,
-      "totalScore" : 53.53
+      "totalScore" : 53.50
     }
   },
   "attributes" : {
     "companyCode" : "KARAMTARA",
     "companyName" : "Karamtara Engg.",
-    "marketCap" : 11761.00,
-    "peRatio" : 46.10,
+    "marketCap" : 11796.00,
+    "peRatio" : 46.20,
     "description" : "Incorporated in 1996, Karamtara Engineering Limited manufactures products for renewable energy and transmission lines.[1]"
   },
   "technicalHistory" : [ {
@@ -333,14 +333,21 @@
     "dma100" : null,
     "dma200" : 359.90,
     "volume" : 304997.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 366.55,
+    "dma50" : 370.06,
+    "dma100" : null,
+    "dma200" : 359.97,
+    "volume" : 262232.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 365.45,
-    "dma50" : 370.21,
+    "date" : "2026-11-18",
+    "price" : 366.55,
+    "dma50" : 370.06,
     "dma100" : null,
-    "dma200" : 359.90,
-    "volume" : 304997.00
+    "dma200" : 359.97,
+    "volume" : 262232.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -411,15 +418,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma50" : 5.05,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.96,
     "netProfitMarginPercentile" : 4.59,
-    "totalTechnicalScore" : 19.99,
+    "totalTechnicalScore" : 19.96,
     "totalFundamentalScore" : 33.54,
-    "totalScore" : 53.53
+    "totalScore" : 53.50
   }
 }

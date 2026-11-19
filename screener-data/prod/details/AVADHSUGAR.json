@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "AVADHSUGAR",
       "companyName" : "Avadh Sugar",
-      "marketCap" : 1689.00,
-      "peRatio" : 20.10,
+      "marketCap" : 1621.00,
+      "peRatio" : 19.30,
       "description" : "Incorporated in 2015, Avadh Sugar & Energy Ltd manufactures and sells sugar and its by-products, spirits and power[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 4.21,
-      "pricePercentageAboveDma200" : 3.46,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 4.47,
+      "pricePercentageAboveDma200" : 3.74,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.84,
       "operatingProfitMarginPercentile" : 5.74,
       "netProfitMarginPercentile" : 4.18,
-      "totalTechnicalScore" : 42.57,
+      "totalTechnicalScore" : 38.31,
       "totalFundamentalScore" : 16.76,
-      "totalScore" : 59.33
+      "totalScore" : 55.07
     }
   },
   "attributes" : {
     "companyCode" : "AVADHSUGAR",
     "companyName" : "Avadh Sugar",
-    "marketCap" : 1689.00,
-    "peRatio" : 20.10,
+    "marketCap" : 1621.00,
+    "peRatio" : 19.30,
     "description" : "Incorporated in 2015, Avadh Sugar & Energy Ltd manufactures and sells sugar and its by-products, spirits and power[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 378.10,
-    "dma50" : 421.86,
-    "dma100" : null,
-    "dma200" : 472.37,
-    "volume" : 40660.00
-  }, {
     "date" : "2025-11-19",
     "price" : 384.30,
     "dma50" : 420.39,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 472.95,
     "dma50" : 419.11,
-    "dma100" : 380.14,
+    "dma100" : null,
     "dma200" : 419.37,
     "volume" : 71678.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 729.00,
     "dma200" : 645.24,
     "volume" : 44412.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 809.80,
+    "dma50" : 825.25,
+    "dma100" : 732.64,
+    "dma200" : 646.87,
+    "volume" : 60923.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 843.75,
-    "dma50" : 825.88,
-    "dma100" : 729.00,
-    "dma200" : 645.24,
-    "volume" : 44412.00
+    "date" : "2026-11-18",
+    "price" : 809.80,
+    "dma50" : 825.25,
+    "dma100" : 732.64,
+    "dma200" : 646.87,
+    "volume" : 60923.00
   },
   "quarterlyResults" : [ {
     "date" : "2016-06-30",
@@ -2217,21 +2217,21 @@
     "netProfit" : 10.03
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 4.21,
-    "pricePercentageAboveDma200" : 3.46,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 4.47,
+    "pricePercentageAboveDma200" : 3.74,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.84,
     "operatingProfitMarginPercentile" : 5.74,
     "netProfitMarginPercentile" : 4.18,
-    "totalTechnicalScore" : 42.57,
+    "totalTechnicalScore" : 38.31,
     "totalFundamentalScore" : 16.76,
-    "totalScore" : 59.33
+    "totalScore" : 55.07
   }
 }

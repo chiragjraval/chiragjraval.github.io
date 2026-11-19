@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DIVISLAB",
       "companyName" : "Divi's Lab.",
-      "marketCap" : 295997.00,
-      "peRatio" : 86.60,
+      "marketCap" : 293316.00,
+      "peRatio" : 85.80,
       "description" : "Incorporated in 1990, Divis Laboratories Ltd manufactures and exports API's, Intermediates and Nutraceutical ingredients[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.29,
-      "pricePercentageAboveDma100" : 3.66,
-      "pricePercentageAboveDma200" : 3.12,
+      "pricePercentageAboveDma50" : 4.37,
+      "pricePercentageAboveDma100" : 3.74,
+      "pricePercentageAboveDma200" : 3.20,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 46.06,
+      "totalTechnicalScore" : 46.32,
       "totalFundamentalScore" : 41.54,
-      "totalScore" : 87.60
+      "totalScore" : 87.85
     }
   },
   "attributes" : {
     "companyCode" : "DIVISLAB",
     "companyName" : "Divi's Lab.",
-    "marketCap" : 295997.00,
-    "peRatio" : 86.60,
+    "marketCap" : 293316.00,
+    "peRatio" : 85.80,
     "description" : "Incorporated in 1990, Divis Laboratories Ltd manufactures and exports API's, Intermediates and Nutraceutical ingredients[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 6473.50,
-    "dma50" : 6424.74,
-    "dma100" : null,
-    "dma200" : 6161.00,
-    "volume" : 166348.00
-  }, {
     "date" : "2025-11-19",
     "price" : 6454.00,
     "dma50" : 6425.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 6293.50,
     "dma50" : 6138.03,
-    "dma100" : 6257.54,
+    "dma100" : null,
     "dma200" : 6198.74,
     "volume" : 440721.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 8788.34,
     "dma200" : 8097.90,
     "volume" : 753065.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 11049.00,
+    "dma50" : 9812.18,
+    "dma100" : 8831.70,
+    "dma200" : 8127.26,
+    "volume" : 489302.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 11150.00,
-    "dma50" : 9761.69,
-    "dma100" : 8788.34,
-    "dma200" : 8097.90,
-    "volume" : 753065.00
+    "date" : "2026-11-18",
+    "price" : 11049.00,
+    "dma50" : 9812.18,
+    "dma100" : 8831.70,
+    "dma200" : 8127.26,
+    "volume" : 489302.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.29,
-    "pricePercentageAboveDma100" : 3.66,
-    "pricePercentageAboveDma200" : 3.12,
+    "pricePercentageAboveDma50" : 4.37,
+    "pricePercentageAboveDma100" : 3.74,
+    "pricePercentageAboveDma200" : 3.20,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 46.06,
+    "totalTechnicalScore" : 46.32,
     "totalFundamentalScore" : 41.54,
-    "totalScore" : 87.60
+    "totalScore" : 87.85
   }
 }

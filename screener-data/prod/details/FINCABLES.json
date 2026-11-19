@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "FINCABLES",
       "companyName" : "Finolex Cables",
-      "marketCap" : 18818.00,
-      "peRatio" : 20.70,
+      "marketCap" : 18139.00,
+      "peRatio" : 19.90,
       "description" : "Finolex Cables Limited is a leading manufacturer of electrical and telecommunication cables in India. Operating for more than 50 years, Finolex has been able to maintain its leadership position as one of the most diversified wires and cables companies in the country. Besides manufacturing a wide variety of wires and cables, Finolex has also forayed into the manufacturing of Fast-Moving Electrical Goods (FMEG) and home appliances. Over the years, the Company has established itself as a preferred electrical solutions provider for retail and institutional markets in India and created a strong brand name. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.10,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 4.53,
+      "pricePercentageAboveDma50" : 5.27,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 4.73,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 16.32,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 44.59,
+      "totalTechnicalScore" : 40.14,
       "totalFundamentalScore" : 44.81,
-      "totalScore" : 89.40
+      "totalScore" : 84.95
     }
   },
   "attributes" : {
     "companyCode" : "FINCABLES",
     "companyName" : "Finolex Cables",
-    "marketCap" : 18818.00,
-    "peRatio" : 20.70,
+    "marketCap" : 18139.00,
+    "peRatio" : 19.90,
     "description" : "Finolex Cables Limited is a leading manufacturer of electrical and telecommunication cables in India. Operating for more than 50 years, Finolex has been able to maintain its leadership position as one of the most diversified wires and cables companies in the country. Besides manufacturing a wide variety of wires and cables, Finolex has also forayed into the manufacturing of Fast-Moving Electrical Goods (FMEG) and home appliances. Over the years, the Company has established itself as a preferred electrical solutions provider for retail and institutional markets in India and created a strong brand name. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 785.15,
-    "dma50" : 808.97,
-    "dma100" : null,
-    "dma200" : 908.46,
-    "volume" : 150849.00
-  }, {
     "date" : "2025-11-19",
     "price" : 775.70,
     "dma50" : 807.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 913.55,
     "dma50" : 833.08,
-    "dma100" : 794.80,
+    "dma100" : null,
     "dma200" : 844.04,
     "volume" : 855826.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1220.39,
     "dma200" : 1124.25,
     "volume" : 857804.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1186.00,
+    "dma50" : 1253.94,
+    "dma100" : 1221.09,
+    "dma200" : 1124.86,
+    "volume" : 872668.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1230.40,
-    "dma50" : 1256.72,
-    "dma100" : 1220.39,
-    "dma200" : 1124.25,
-    "volume" : 857804.00
+    "date" : "2026-11-18",
+    "price" : 1186.00,
+    "dma50" : 1253.94,
+    "dma100" : 1221.09,
+    "dma200" : 1124.86,
+    "volume" : 872668.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.10,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 4.53,
+    "pricePercentageAboveDma50" : 5.27,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 4.73,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 16.32,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 44.59,
+    "totalTechnicalScore" : 40.14,
     "totalFundamentalScore" : 44.81,
-    "totalScore" : 89.40
+    "totalScore" : 84.95
   }
 }

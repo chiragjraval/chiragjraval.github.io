@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "OPTIEMUS",
       "companyName" : "Optiemus Infra.",
-      "marketCap" : 7221.00,
-      "peRatio" : 93.90,
+      "marketCap" : 7482.00,
+      "peRatio" : 97.30,
       "description" : "Optiemus Infracom Ltd is primarily engaged in the distribution of mobile handsets of reputed brands like Nokia and Samsung for last 25 years. The group first started distribution of Nokia handsets in Delhi General Trade market in 1995.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.55,
-      "pricePercentageAboveDma100" : 3.86,
-      "pricePercentageAboveDma200" : 3.31,
+      "pricePercentageAboveDma50" : 4.38,
+      "pricePercentageAboveDma100" : 3.67,
+      "pricePercentageAboveDma200" : 3.09,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 2.41,
       "operatingProfitMarginPercentile" : 11.58,
       "netProfitMarginPercentile" : 6.96,
-      "totalTechnicalScore" : 46.71,
+      "totalTechnicalScore" : 46.14,
       "totalFundamentalScore" : 20.95,
-      "totalScore" : 67.66
+      "totalScore" : 67.09
     }
   },
   "attributes" : {
     "companyCode" : "OPTIEMUS",
     "companyName" : "Optiemus Infra.",
-    "marketCap" : 7221.00,
-    "peRatio" : 93.90,
+    "marketCap" : 7482.00,
+    "peRatio" : 97.30,
     "description" : "Optiemus Infracom Ltd is primarily engaged in the distribution of mobile handsets of reputed brands like Nokia and Samsung for last 25 years. The group first started distribution of Nokia handsets in Delhi General Trade market in 1995.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 584.10,
-    "dma50" : 605.45,
-    "dma100" : null,
-    "dma200" : 589.17,
-    "volume" : 96600.00
-  }, {
     "date" : "2025-11-19",
     "price" : 581.55,
     "dma50" : 604.51,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 406.25,
     "dma50" : 379.53,
-    "dma100" : 438.19,
+    "dma100" : null,
     "dma200" : 480.82,
     "volume" : 162252.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 651.83,
     "dma200" : 598.18,
     "volume" : 1194231.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 829.85,
+    "dma50" : 738.07,
+    "dma100" : 655.43,
+    "dma200" : 600.49,
+    "volume" : 326786.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 800.85,
-    "dma50" : 734.32,
-    "dma100" : 651.83,
-    "dma200" : 598.18,
-    "volume" : 1194231.00
+    "date" : "2026-11-18",
+    "price" : 829.85,
+    "dma50" : 738.07,
+    "dma100" : 655.43,
+    "dma200" : 600.49,
+    "volume" : 326786.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.55,
-    "pricePercentageAboveDma100" : 3.86,
-    "pricePercentageAboveDma200" : 3.31,
+    "pricePercentageAboveDma50" : 4.38,
+    "pricePercentageAboveDma100" : 3.67,
+    "pricePercentageAboveDma200" : 3.09,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 2.41,
     "operatingProfitMarginPercentile" : 11.58,
     "netProfitMarginPercentile" : 6.96,
-    "totalTechnicalScore" : 46.71,
+    "totalTechnicalScore" : 46.14,
     "totalFundamentalScore" : 20.95,
-    "totalScore" : 67.66
+    "totalScore" : 67.09
   }
 }

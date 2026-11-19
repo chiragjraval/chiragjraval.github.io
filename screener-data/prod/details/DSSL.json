@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DSSL",
       "companyName" : "Dynacons Sys.",
-      "marketCap" : 1421.00,
-      "peRatio" : 15.40,
+      "marketCap" : 1384.00,
+      "peRatio" : 15.00,
       "description" : "Dynacons Systems & Solutions Ltd is a Mumbai-based digital-infrastructure/system-integration company delivering data-centre & cloud, network/cybersecurity, digital-workplace and managed-services solutions, mainly to BFSI, government/PSUs and large enterprises. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.64,
-      "pricePercentageAboveDma100" : 4.99,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 19.08,
       "netProfitMarginPercentile" : 8.85,
-      "totalTechnicalScore" : 39.55,
+      "totalTechnicalScore" : 29.94,
       "totalFundamentalScore" : 45.28,
-      "totalScore" : 84.83
+      "totalScore" : 75.22
     }
   },
   "attributes" : {
     "companyCode" : "DSSL",
     "companyName" : "Dynacons Sys.",
-    "marketCap" : 1421.00,
-    "peRatio" : 15.40,
+    "marketCap" : 1384.00,
+    "peRatio" : 15.00,
     "description" : "Dynacons Systems & Solutions Ltd is a Mumbai-based digital-infrastructure/system-integration company delivering data-centre & cloud, network/cybersecurity, digital-workplace and managed-services solutions, mainly to BFSI, government/PSUs and large enterprises. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 983.55,
-    "dma50" : 946.09,
-    "dma100" : null,
-    "dma200" : 1036.63,
-    "volume" : 31324.00
-  }, {
     "date" : "2025-11-19",
     "price" : 971.75,
     "dma50" : 947.10,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1054.05,
     "dma50" : 937.40,
-    "dma100" : 941.22,
+    "dma100" : null,
     "dma200" : 975.18,
     "volume" : 49156.00
   }, {
@@ -932,7 +925,7 @@
     "date" : "2026-05-26",
     "price" : 1731.50,
     "dma50" : 1228.51,
-    "dma100" : 1041.96,
+    "dma100" : 1041.97,
     "dma200" : 1057.66,
     "volume" : 388559.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1112.22,
     "dma200" : 1097.88,
     "volume" : 61581.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1086.95,
+    "dma50" : 1042.92,
+    "dma100" : 1109.30,
+    "dma200" : 1097.77,
+    "volume" : 55405.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1115.40,
-    "dma50" : 1041.13,
-    "dma100" : 1112.22,
-    "dma200" : 1097.88,
-    "volume" : 61581.00
+    "date" : "2026-11-18",
+    "price" : 1086.95,
+    "dma50" : 1042.92,
+    "dma100" : 1109.30,
+    "dma200" : 1097.77,
+    "volume" : 55405.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.64,
-    "pricePercentageAboveDma100" : 4.99,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 19.08,
     "netProfitMarginPercentile" : 8.85,
-    "totalTechnicalScore" : 39.55,
+    "totalTechnicalScore" : 29.94,
     "totalFundamentalScore" : 45.28,
-    "totalScore" : 84.83
+    "totalScore" : 75.22
   }
 }

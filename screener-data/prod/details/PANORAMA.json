@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PANORAMA",
       "companyName" : "Panorama Studios",
-      "marketCap" : 1486.00,
-      "peRatio" : 48.30,
+      "marketCap" : 1482.00,
+      "peRatio" : 48.20,
       "description" : "Panorama Studios International Limited was incorporated in 1980. It is engaged within the Indian media and entertainment industry and is primarily engaged in the business of production and distribution of Media Entertainment & Content. [1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 4.63,
-      "pricePercentageAboveDma200" : 4.42,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.44,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.96,
       "operatingProfitMarginPercentile" : 10.80,
       "netProfitMarginPercentile" : 4.60,
-      "totalTechnicalScore" : 44.10,
+      "totalTechnicalScore" : 44.16,
       "totalFundamentalScore" : 32.36,
-      "totalScore" : 76.46
+      "totalScore" : 76.52
     }
   },
   "attributes" : {
     "companyCode" : "PANORAMA",
     "companyName" : "Panorama Studios",
-    "marketCap" : 1486.00,
-    "peRatio" : 48.30,
+    "marketCap" : 1482.00,
+    "peRatio" : 48.20,
     "description" : "Panorama Studios International Limited was incorporated in 1980. It is engaged within the Indian media and entertainment industry and is primarily engaged in the business of production and distribution of Media Entertainment & Content. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 51.13,
-    "dma50" : 51.86,
-    "dma100" : null,
-    "dma200" : 52.90,
-    "volume" : 28021.00
-  }, {
     "date" : "2025-11-19",
     "price" : 48.99,
     "dma50" : 51.75,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 43.98,
     "dma50" : 41.93,
-    "dma100" : 42.36,
+    "dma100" : null,
     "dma200" : 46.08,
     "volume" : 137277.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 53.13,
     "dma200" : 51.13,
     "volume" : 290760.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 56.89,
+    "dma50" : 57.59,
+    "dma100" : 53.23,
+    "dma200" : 51.18,
+    "volume" : 425582.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 57.05,
-    "dma50" : 57.61,
-    "dma100" : 53.13,
-    "dma200" : 51.13,
-    "volume" : 290760.00
+    "date" : "2026-11-18",
+    "price" : 56.89,
+    "dma50" : 57.59,
+    "dma100" : 53.23,
+    "dma200" : 51.18,
+    "volume" : 425582.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-06-30",
@@ -2303,15 +2303,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 4.63,
-    "pricePercentageAboveDma200" : 4.42,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.44,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.96,
     "operatingProfitMarginPercentile" : 10.80,
     "netProfitMarginPercentile" : 4.60,
-    "totalTechnicalScore" : 44.10,
+    "totalTechnicalScore" : 44.16,
     "totalFundamentalScore" : 32.36,
-    "totalScore" : 76.46
+    "totalScore" : 76.52
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SAIL",
       "companyName" : "S A I L",
-      "marketCap" : 70760.00,
-      "peRatio" : 11.80,
+      "marketCap" : 67741.00,
+      "peRatio" : 11.30,
       "description" : "Steel Authority of India Limited (SAIL) is one of the largest steel-making companies in India and one of the Maharatnas of the countrys Central Public Sector Enterprises. SAIL produces iron and steel at five integrated plants and three special steel plants, located principally in the eastern and central regions of India and situated close to domestic sources of raw materials. SAIL manufactures and sells a broad range of steel products.(Source : Company Web-Site)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.07,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.28,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 10.80,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 30.04,
+      "totalTechnicalScore" : 25.67,
       "totalFundamentalScore" : 31.74,
-      "totalScore" : 61.78
+      "totalScore" : 57.41
     }
   },
   "attributes" : {
     "companyCode" : "SAIL",
     "companyName" : "S A I L",
-    "marketCap" : 70760.00,
-    "peRatio" : 11.80,
+    "marketCap" : 67741.00,
+    "peRatio" : 11.30,
     "description" : "Steel Authority of India Limited (SAIL) is one of the largest steel-making companies in India and one of the Maharatnas of the countrys Central Public Sector Enterprises. SAIL produces iron and steel at five integrated plants and three special steel plants, located principally in the eastern and central regions of India and situated close to domestic sources of raw materials. SAIL manufactures and sells a broad range of steel products.(Source : Company Web-Site)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 138.90,
-    "dma50" : 134.88,
-    "dma100" : null,
-    "dma200" : 127.84,
-    "volume" : 16857648.00
-  }, {
     "date" : "2025-11-19",
     "price" : 139.99,
     "dma50" : 135.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 171.32,
     "dma50" : 155.74,
-    "dma100" : 148.41,
+    "dma100" : null,
     "dma200" : 142.48,
     "volume" : 32570377.00
   }, {
@@ -1002,7 +995,7 @@
     "date" : "2026-06-10",
     "price" : 181.72,
     "dma50" : 184.02,
-    "dma100" : 168.41,
+    "dma100" : 168.42,
     "dma200" : 157.37,
     "volume" : 11542094.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 173.77,
     "dma200" : 168.58,
     "volume" : 11576119.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 164.00,
+    "dma50" : 172.69,
+    "dma100" : 173.70,
+    "dma200" : 168.54,
+    "volume" : 23944511.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 171.31,
-    "dma50" : 173.04,
-    "dma100" : 173.77,
-    "dma200" : 168.58,
-    "volume" : 11576119.00
+    "date" : "2026-11-18",
+    "price" : 164.00,
+    "dma50" : 172.69,
+    "dma100" : 173.70,
+    "dma200" : 168.54,
+    "volume" : 23944511.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.07,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.28,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 10.80,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 30.04,
+    "totalTechnicalScore" : 25.67,
     "totalFundamentalScore" : 31.74,
-    "totalScore" : 61.78
+    "totalScore" : 57.41
   }
 }

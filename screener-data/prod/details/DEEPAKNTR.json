@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DEEPAKNTR",
       "companyName" : "Deepak Nitrite",
-      "marketCap" : 21688.00,
-      "peRatio" : 20.20,
+      "marketCap" : 21317.00,
+      "peRatio" : 19.90,
       "description" : "Incorporated in 1970, Deepak Nitrite Ltd manufactures Basic Intermediates, Fine & Speciality Chemicals, Performance Products, and Phenolics[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 5.17,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.21,
+      "pricePercentageAboveDma200" : 5.25,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 6.67,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 20.26,
+      "totalTechnicalScore" : 15.51,
       "totalFundamentalScore" : 32.29,
-      "totalScore" : 52.56
+      "totalScore" : 47.80
     }
   },
   "attributes" : {
     "companyCode" : "DEEPAKNTR",
     "companyName" : "Deepak Nitrite",
-    "marketCap" : 21688.00,
-    "peRatio" : 20.20,
+    "marketCap" : 21317.00,
+    "peRatio" : 19.90,
     "description" : "Incorporated in 1970, Deepak Nitrite Ltd manufactures Basic Intermediates, Fine & Speciality Chemicals, Performance Products, and Phenolics[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1706.50,
-    "dma50" : 1773.02,
-    "dma100" : null,
-    "dma200" : 1958.10,
-    "volume" : 133608.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1711.40,
     "dma50" : 1770.61,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1533.70,
     "dma50" : 1488.59,
-    "dma100" : 1561.76,
+    "dma100" : null,
     "dma200" : 1694.81,
     "volume" : 202429.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1630.50,
     "dma200" : 1647.56,
     "volume" : 95980.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1562.90,
+    "dma50" : 1578.47,
+    "dma100" : 1629.91,
+    "dma200" : 1646.72,
+    "volume" : 293010.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1590.10,
-    "dma50" : 1579.10,
-    "dma100" : 1630.50,
-    "dma200" : 1647.56,
-    "volume" : 95980.00
+    "date" : "2026-11-18",
+    "price" : 1562.90,
+    "dma50" : 1578.47,
+    "dma100" : 1629.91,
+    "dma200" : 1646.72,
+    "volume" : 293010.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 143.76
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 5.17,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.21,
+    "pricePercentageAboveDma200" : 5.25,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 6.67,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 20.26,
+    "totalTechnicalScore" : 15.51,
     "totalFundamentalScore" : 32.29,
-    "totalScore" : 52.56
+    "totalScore" : 47.80
   }
 }

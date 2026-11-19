@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ADANIENT",
       "companyName" : "Adani Enterp.",
-      "marketCap" : 371530.00,
-      "peRatio" : 116.00,
+      "marketCap" : 363288.00,
+      "peRatio" : 113.00,
       "description" : "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.29,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.39,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.01,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 30.22,
+      "totalTechnicalScore" : 25.54,
       "totalFundamentalScore" : 42.32,
-      "totalScore" : 72.54
+      "totalScore" : 67.86
     }
   },
   "attributes" : {
     "companyCode" : "ADANIENT",
     "companyName" : "Adani Enterp.",
-    "marketCap" : 371530.00,
-    "peRatio" : 116.00,
+    "marketCap" : 363288.00,
+    "peRatio" : 113.00,
     "description" : "Adani Enterprises Ltd has business interests in various economic areas such as mining, integrated resources management (IRM), infrastructure such as airports, roads, rail/ metro, water, data centres, solar manufacturing, agro and defence.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2436.80,
-    "dma50" : 2399.64,
-    "dma100" : null,
-    "dma200" : 2416.35,
-    "volume" : 1323310.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2433.10,
     "dma50" : 2400.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2203.70,
     "dma50" : 2045.69,
-    "dma100" : 2138.19,
+    "dma100" : null,
     "dma200" : 2220.96,
     "volume" : 2404309.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2915.78,
     "dma200" : 2701.14,
     "volume" : 2085803.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2684.20,
+    "dma50" : 2747.77,
+    "dma100" : 2912.24,
+    "dma200" : 2700.97,
+    "volume" : 1461716.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2745.10,
-    "dma50" : 2750.36,
-    "dma100" : 2915.78,
-    "dma200" : 2701.14,
-    "volume" : 2085803.00
+    "date" : "2026-11-18",
+    "price" : 2684.20,
+    "dma50" : 2747.77,
+    "dma100" : 2912.24,
+    "dma200" : 2700.97,
+    "volume" : 1461716.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.29,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.39,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.01,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 30.22,
+    "totalTechnicalScore" : 25.54,
     "totalFundamentalScore" : 42.32,
-    "totalScore" : 72.54
+    "totalScore" : 67.86
   }
 }

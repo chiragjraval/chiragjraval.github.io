@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GLAXO",
       "companyName" : "Glaxosmi. Pharma",
-      "marketCap" : 45530.00,
-      "peRatio" : 40.20,
+      "marketCap" : 44693.00,
+      "peRatio" : 39.40,
       "description" : "GlaxoSmithKline Pharmaceuticals research, manufacture and make available a broad range of medicines and vaccines that benefit people.(Source : Company Web-site)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 4.95,
-      "pricePercentageAboveDma200" : 4.82,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.04,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 17.81,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 39.66,
+      "totalTechnicalScore" : 34.95,
       "totalFundamentalScore" : 46.87,
-      "totalScore" : 86.53
+      "totalScore" : 81.82
     }
   },
   "attributes" : {
     "companyCode" : "GLAXO",
     "companyName" : "Glaxosmi. Pharma",
-    "marketCap" : 45530.00,
-    "peRatio" : 40.20,
+    "marketCap" : 44693.00,
+    "peRatio" : 39.40,
     "description" : "GlaxoSmithKline Pharmaceuticals research, manufacture and make available a broad range of medicines and vaccines that benefit people.(Source : Company Web-site)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2487.90,
-    "dma50" : 2685.25,
-    "dma100" : null,
-    "dma200" : 2757.34,
-    "volume" : 69987.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2519.00,
     "dma50" : 2678.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2419.80,
     "dma50" : 2429.81,
-    "dma100" : 2467.93,
+    "dma100" : null,
     "dma200" : 2567.71,
     "volume" : 36640.00
   }, {
@@ -1149,7 +1142,7 @@
     "date" : "2026-07-10",
     "price" : 2438.20,
     "dma50" : 2346.95,
-    "dma100" : 2394.69,
+    "dma100" : 2394.68,
     "dma200" : 2466.71,
     "volume" : 24594.00
   }, {
@@ -1219,7 +1212,7 @@
     "date" : "2026-07-24",
     "price" : 2514.30,
     "dma50" : 2394.40,
-    "dma100" : 2381.71,
+    "dma100" : 2381.70,
     "dma200" : 2468.81,
     "volume" : 66857.00
   }, {
@@ -1492,7 +1485,7 @@
     "date" : "2026-09-18",
     "price" : 2838.80,
     "dma50" : 2756.41,
-    "dma100" : 2531.35,
+    "dma100" : 2531.34,
     "dma200" : 2582.99,
     "volume" : 131698.00
   }, {
@@ -1576,7 +1569,7 @@
     "date" : "2026-10-07",
     "price" : 2634.00,
     "dma50" : 2769.74,
-    "dma100" : 2578.14,
+    "dma100" : 2578.13,
     "dma200" : 2607.29,
     "volume" : 132227.00
   }, {
@@ -1702,7 +1695,7 @@
     "date" : "2026-11-03",
     "price" : 2575.10,
     "dma50" : 2633.48,
-    "dma100" : 2621.77,
+    "dma100" : 2621.76,
     "dma200" : 2590.48,
     "volume" : 68954.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2659.04,
     "dma200" : 2593.48,
     "volume" : 81143.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2638.20,
+    "dma50" : 2631.66,
+    "dma100" : 2661.87,
+    "dma200" : 2593.92,
+    "volume" : 93286.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2687.60,
-    "dma50" : 2631.39,
-    "dma100" : 2659.04,
-    "dma200" : 2593.48,
-    "volume" : 81143.00
+    "date" : "2026-11-18",
+    "price" : 2638.20,
+    "dma50" : 2631.66,
+    "dma100" : 2661.87,
+    "dma200" : 2593.92,
+    "volume" : 93286.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 4.95,
-    "pricePercentageAboveDma200" : 4.82,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.04,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 17.81,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 39.66,
+    "totalTechnicalScore" : 34.95,
     "totalFundamentalScore" : 46.87,
-    "totalScore" : 86.53
+    "totalScore" : 81.82
   }
 }

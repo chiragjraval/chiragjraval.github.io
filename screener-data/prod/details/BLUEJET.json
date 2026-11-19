@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BLUEJET",
       "companyName" : "Blue Jet Health",
-      "marketCap" : 9664.00,
-      "peRatio" : 33.90,
+      "marketCap" : 9813.00,
+      "peRatio" : 34.40,
       "description" : "Incorporated in 1968, Blue Jet Healthcare (earlier called Jet Chemicals Pvt Ltd) is a pharmaceutical and healthcare ingredient & intermediate company and the first manufacturer of saccharin and its salts (artificial sweeteners) in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.45,
-      "pricePercentageAboveDma200" : 5.25,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.89,
       "netProfitMarginPercentile" : 7.22,
-      "totalTechnicalScore" : 20.92,
+      "totalTechnicalScore" : 20.70,
       "totalFundamentalScore" : 36.11,
-      "totalScore" : 57.03
+      "totalScore" : 56.81
     }
   },
   "attributes" : {
     "companyCode" : "BLUEJET",
     "companyName" : "Blue Jet Health",
-    "marketCap" : 9664.00,
-    "peRatio" : 33.90,
+    "marketCap" : 9813.00,
+    "peRatio" : 34.40,
     "description" : "Incorporated in 1968, Blue Jet Healthcare (earlier called Jet Chemicals Pvt Ltd) is a pharmaceutical and healthcare ingredient & intermediate company and the first manufacturer of saccharin and its salts (artificial sweeteners) in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 571.30,
-    "dma50" : 654.41,
-    "dma100" : null,
-    "dma200" : 705.15,
-    "volume" : 161720.00
-  }, {
     "date" : "2025-11-19",
     "price" : 567.85,
     "dma50" : 651.01,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 416.75,
     "dma50" : 396.54,
-    "dma100" : 452.49,
+    "dma100" : null,
     "dma200" : 532.53,
     "volume" : 468322.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 560.62,
     "dma200" : 537.04,
     "volume" : 648109.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 518.45,
+    "dma50" : 534.73,
+    "dma100" : 560.52,
+    "dma200" : 536.85,
+    "volume" : 261218.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 510.60,
-    "dma50" : 535.39,
-    "dma100" : 560.62,
-    "dma200" : 537.04,
-    "volume" : 648109.00
+    "date" : "2026-11-18",
+    "price" : 518.45,
+    "dma50" : 534.73,
+    "dma100" : 560.52,
+    "dma200" : 536.85,
+    "volume" : 261218.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.45,
-    "pricePercentageAboveDma200" : 5.25,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.89,
     "netProfitMarginPercentile" : 7.22,
-    "totalTechnicalScore" : 20.92,
+    "totalTechnicalScore" : 20.70,
     "totalFundamentalScore" : 36.11,
-    "totalScore" : 57.03
+    "totalScore" : 56.81
   }
 }

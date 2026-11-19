@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANINFRA",
       "companyName" : "Man Infra",
-      "marketCap" : 4383.00,
-      "peRatio" : 19.60,
+      "marketCap" : 4262.00,
+      "peRatio" : 19.00,
       "description" : "Man Infraconstruction Limited (MICL) is an integrated EPC (Engineering, Procurement & Construction) company with experience and execution capabilities in Port, Residential, Commercial & Industrial and Road construction segments. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.10,
       "operatingProfitMarginPercentile" : 19.18,
       "netProfitMarginPercentile" : 5.62,
-      "totalTechnicalScore" : 20.71,
+      "totalTechnicalScore" : 21.09,
       "totalFundamentalScore" : 41.90,
-      "totalScore" : 62.60
+      "totalScore" : 62.98
     }
   },
   "attributes" : {
     "companyCode" : "MANINFRA",
     "companyName" : "Man Infra",
-    "marketCap" : 4383.00,
-    "peRatio" : 19.60,
+    "marketCap" : 4262.00,
+    "peRatio" : 19.00,
     "description" : "Man Infraconstruction Limited (MICL) is an integrated EPC (Engineering, Procurement & Construction) company with experience and execution capabilities in Port, Residential, Commercial & Industrial and Road construction segments. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 130.07,
-    "dma50" : 146.46,
-    "dma100" : null,
-    "dma200" : 163.88,
-    "volume" : 721527.00
-  }, {
     "date" : "2025-11-19",
     "price" : 127.90,
     "dma50" : 145.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 97.28,
     "dma50" : 99.82,
-    "dma100" : 112.47,
+    "dma100" : null,
     "dma200" : 128.84,
     "volume" : 327359.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 112.00,
     "dma200" : 116.87,
     "volume" : 499125.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 105.57,
+    "dma50" : 112.78,
+    "dma100" : 112.01,
+    "dma200" : 116.76,
+    "volume" : 664357.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 108.58,
-    "dma50" : 113.07,
-    "dma100" : 112.00,
-    "dma200" : 116.87,
-    "volume" : 499125.00
+    "date" : "2026-11-18",
+    "price" : 105.57,
+    "dma50" : 112.78,
+    "dma100" : 112.01,
+    "dma200" : 116.76,
+    "volume" : 664357.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-03-31",
@@ -2533,15 +2533,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.32,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.10,
     "operatingProfitMarginPercentile" : 19.18,
     "netProfitMarginPercentile" : 5.62,
-    "totalTechnicalScore" : 20.71,
+    "totalTechnicalScore" : 21.09,
     "totalFundamentalScore" : 41.90,
-    "totalScore" : 62.60
+    "totalScore" : 62.98
   }
 }

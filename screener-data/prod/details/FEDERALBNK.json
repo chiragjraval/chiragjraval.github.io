@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "FEDERALBNK",
       "companyName" : "Federal Bank",
-      "marketCap" : 90472.00,
-      "peRatio" : 17.40,
+      "marketCap" : 89124.00,
+      "peRatio" : 17.20,
       "description" : "The Federal Bank Limited (‘the Bank’) was incorporated in 1931 as Travancore Federal Bank Limited. It provides retail and corporate banking, para banking activities such as debit card, third party product distribution etc., treasury and foreign exchange business.[1].It is the second-largest bank and the largest private sector bank in Kerala[2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.65,
-      "pricePercentageAboveDma100" : 4.66,
-      "pricePercentageAboveDma200" : 4.19,
+      "pricePercentageAboveDma50" : 4.74,
+      "pricePercentageAboveDma100" : 4.74,
+      "pricePercentageAboveDma200" : 4.28,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 10.55,
       "netProfitMarginPercentile" : 9.31,
-      "totalTechnicalScore" : 38.50,
+      "totalTechnicalScore" : 43.77,
       "totalFundamentalScore" : 30.22,
-      "totalScore" : 68.72
+      "totalScore" : 73.99
     }
   },
   "attributes" : {
     "companyCode" : "FEDERALBNK",
     "companyName" : "Federal Bank",
-    "marketCap" : 90472.00,
-    "peRatio" : 17.40,
+    "marketCap" : 89124.00,
+    "peRatio" : 17.20,
     "description" : "The Federal Bank Limited (‘the Bank’) was incorporated in 1931 as Travancore Federal Bank Limited. It provides retail and corporate banking, para banking activities such as debit card, third party product distribution etc., treasury and foreign exchange business.[1].It is the second-largest bank and the largest private sector bank in Kerala[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 244.51,
-    "dma50" : 220.21,
-    "dma100" : null,
-    "dma200" : 204.27,
-    "volume" : 24938275.00
-  }, {
     "date" : "2025-11-19",
     "price" : 246.02,
     "dma50" : 221.22,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 284.40,
     "dma50" : 275.97,
-    "dma100" : 272.01,
+    "dma100" : null,
     "dma200" : 248.42,
     "volume" : 11165290.00
   }, {
@@ -1338,7 +1331,7 @@
     "date" : "2026-08-18",
     "price" : 357.80,
     "dma50" : 338.88,
-    "dma100" : 312.51,
+    "dma100" : 312.50,
     "dma200" : 292.54,
     "volume" : 2945573.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 342.35,
     "dma200" : 314.79,
     "volume" : 5895890.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 360.35,
+    "dma50" : 342.85,
+    "dma100" : 342.72,
+    "dma200" : 315.25,
+    "volume" : 5860192.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 365.80,
-    "dma50" : 342.14,
-    "dma100" : 342.35,
-    "dma200" : 314.79,
-    "volume" : 5895890.00
+    "date" : "2026-11-18",
+    "price" : 360.35,
+    "dma50" : 342.85,
+    "dma100" : 342.72,
+    "dma200" : 315.25,
+    "volume" : 5860192.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2670,18 +2670,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.65,
-    "pricePercentageAboveDma100" : 4.66,
-    "pricePercentageAboveDma200" : 4.19,
+    "pricePercentageAboveDma50" : 4.74,
+    "pricePercentageAboveDma100" : 4.74,
+    "pricePercentageAboveDma200" : 4.28,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 10.55,
     "netProfitMarginPercentile" : 9.31,
-    "totalTechnicalScore" : 38.50,
+    "totalTechnicalScore" : 43.77,
     "totalFundamentalScore" : 30.22,
-    "totalScore" : 68.72
+    "totalScore" : 73.99
   }
 }

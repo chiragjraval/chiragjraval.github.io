@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PANACHE",
       "companyName" : "Panache Digilife",
-      "marketCap" : 1262.00,
-      "peRatio" : 45.70,
+      "marketCap" : 1287.00,
+      "peRatio" : 46.60,
       "description" : "Panache Digilife Ltd is a Bhiwandi-based electronics system design and manufacturing company providing design-led/contract-led manufacturing, product engineering, integration, deployment and lifecycle support for ICT/IoT hardware. [1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.71,
-      "pricePercentageAboveDma100" : 2.67,
-      "pricePercentageAboveDma200" : 1.75,
+      "pricePercentageAboveDma50" : 3.66,
+      "pricePercentageAboveDma100" : 2.57,
+      "pricePercentageAboveDma200" : 1.64,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.84,
       "operatingProfitMarginPercentile" : 11.90,
       "netProfitMarginPercentile" : 7.62,
-      "totalTechnicalScore" : 43.13,
+      "totalTechnicalScore" : 42.87,
       "totalFundamentalScore" : 36.37,
-      "totalScore" : 79.50
+      "totalScore" : 79.24
     }
   },
   "attributes" : {
     "companyCode" : "PANACHE",
     "companyName" : "Panache Digilife",
-    "marketCap" : 1262.00,
-    "peRatio" : 45.70,
+    "marketCap" : 1287.00,
+    "peRatio" : 46.60,
     "description" : "Panache Digilife Ltd is a Bhiwandi-based electronics system design and manufacturing company providing design-led/contract-led manufacturing, product engineering, integration, deployment and lifecycle support for ICT/IoT hardware. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 422.15,
-    "dma50" : 386.27,
-    "dma100" : null,
-    "dma200" : 291.65,
-    "volume" : 78336.00
-  }, {
     "date" : "2025-11-19",
     "price" : 408.20,
     "dma50" : 387.13,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 305.30,
     "dma50" : 312.67,
-    "dma100" : 324.47,
+    "dma100" : null,
     "dma200" : 309.44,
     "volume" : 13850.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 537.21,
     "dma200" : 477.37,
     "volume" : 2063.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 803.60,
+    "dma50" : 633.70,
+    "dma100" : 540.90,
+    "dma200" : 480.61,
+    "volume" : 4638.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 787.85,
-    "dma50" : 626.76,
-    "dma100" : 537.21,
-    "dma200" : 477.37,
-    "volume" : 2063.00
+    "date" : "2026-11-18",
+    "price" : 803.60,
+    "dma50" : 633.70,
+    "dma100" : 540.90,
+    "dma200" : 480.61,
+    "volume" : 4638.00
   },
   "quarterlyResults" : [ {
     "date" : "2016-06-30",
@@ -2223,15 +2223,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.71,
-    "pricePercentageAboveDma100" : 2.67,
-    "pricePercentageAboveDma200" : 1.75,
+    "pricePercentageAboveDma50" : 3.66,
+    "pricePercentageAboveDma100" : 2.57,
+    "pricePercentageAboveDma200" : 1.64,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.84,
     "operatingProfitMarginPercentile" : 11.90,
     "netProfitMarginPercentile" : 7.62,
-    "totalTechnicalScore" : 43.13,
+    "totalTechnicalScore" : 42.87,
     "totalFundamentalScore" : 36.37,
-    "totalScore" : 79.50
+    "totalScore" : 79.24
   }
 }

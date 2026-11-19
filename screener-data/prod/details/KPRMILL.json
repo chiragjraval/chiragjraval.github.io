@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KPRMILL",
       "companyName" : "K P R Mill Ltd",
-      "marketCap" : 41602.00,
-      "peRatio" : 40.00,
+      "marketCap" : 41274.00,
+      "peRatio" : 39.70,
       "description" : "K.P.R. Mill is engaged in one of the largest vertically integrated apparel manufacturing Companies in India. The Company produces Yarn, Knitted Fabric, Readymade Garments and Wind power.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.54,
-      "pricePercentageAboveDma200" : 4.27,
+      "pricePercentageAboveDma50" : 4.62,
+      "pricePercentageAboveDma100" : 4.58,
+      "pricePercentageAboveDma200" : 4.32,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.43,
       "operatingProfitMarginPercentile" : 19.28,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 43.37,
+      "totalTechnicalScore" : 43.53,
       "totalFundamentalScore" : 43.71,
-      "totalScore" : 87.08
+      "totalScore" : 87.24
     }
   },
   "attributes" : {
     "companyCode" : "KPRMILL",
     "companyName" : "K P R Mill Ltd",
-    "marketCap" : 41602.00,
-    "peRatio" : 40.00,
+    "marketCap" : 41274.00,
+    "peRatio" : 39.70,
     "description" : "K.P.R. Mill is engaged in one of the largest vertically integrated apparel manufacturing Companies in India. The Company produces Yarn, Knitted Fabric, Readymade Garments and Wind power.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1121.60,
-    "dma50" : 1064.66,
-    "dma100" : null,
-    "dma200" : 1039.28,
-    "volume" : 871882.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1109.70,
     "dma50" : 1066.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 893.85,
     "dma50" : 875.28,
-    "dma100" : 915.53,
+    "dma100" : null,
     "dma200" : 951.40,
     "volume" : 246971.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1114.43,
     "dma200" : 1061.87,
     "volume" : 583319.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1207.50,
+    "dma50" : 1123.09,
+    "dma100" : 1114.59,
+    "dma200" : 1063.32,
+    "volume" : 436298.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1217.10,
-    "dma50" : 1119.64,
-    "dma100" : 1114.43,
-    "dma200" : 1061.87,
-    "volume" : 583319.00
+    "date" : "2026-11-18",
+    "price" : 1207.50,
+    "dma50" : 1123.09,
+    "dma100" : 1114.59,
+    "dma200" : 1063.32,
+    "volume" : 436298.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-03-31",
@@ -2633,15 +2633,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.54,
-    "pricePercentageAboveDma200" : 4.27,
+    "pricePercentageAboveDma50" : 4.62,
+    "pricePercentageAboveDma100" : 4.58,
+    "pricePercentageAboveDma200" : 4.32,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.43,
     "operatingProfitMarginPercentile" : 19.28,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 43.37,
+    "totalTechnicalScore" : 43.53,
     "totalFundamentalScore" : 43.71,
-    "totalScore" : 87.08
+    "totalScore" : 87.24
   }
 }

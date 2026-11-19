@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "AARTIIND",
       "companyName" : "Aarti Industries",
-      "marketCap" : 17078.00,
-      "peRatio" : 28.20,
+      "marketCap" : 16779.00,
+      "peRatio" : 27.70,
       "description" : "Aarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.00,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 4.94,
+      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 1.38,
       "netProfitMarginPercentile" : 2.64,
-      "totalTechnicalScore" : 35.09,
+      "totalTechnicalScore" : 25.35,
       "totalFundamentalScore" : 23.78,
-      "totalScore" : 58.87
+      "totalScore" : 49.13
     }
   },
   "attributes" : {
     "companyCode" : "AARTIIND",
     "companyName" : "Aarti Industries",
-    "marketCap" : 17078.00,
-    "peRatio" : 28.20,
+    "marketCap" : 16779.00,
+    "peRatio" : 27.70,
     "description" : "Aarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 389.80,
-    "dma50" : 388.23,
-    "dma100" : null,
-    "dma200" : 424.44,
-    "volume" : 430545.00
-  }, {
     "date" : "2025-11-19",
     "price" : 390.20,
     "dma50" : 388.31,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 437.90,
     "dma50" : 418.25,
-    "dma100" : 399.52,
+    "dma100" : null,
     "dma200" : 412.84,
     "volume" : 940739.00
   }, {
@@ -1275,7 +1268,7 @@
     "date" : "2026-08-05",
     "price" : 485.95,
     "dma50" : 477.55,
-    "dma100" : 463.44,
+    "dma100" : 463.45,
     "dma200" : 447.33,
     "volume" : 511676.00
   }, {
@@ -1387,7 +1380,7 @@
     "date" : "2026-08-27",
     "price" : 538.90,
     "dma50" : 501.19,
-    "dma100" : 480.13,
+    "dma100" : 480.14,
     "dma200" : 458.96,
     "volume" : 578422.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 485.79,
     "dma200" : 465.03,
     "volume" : 343968.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 462.55,
+    "dma50" : 470.28,
+    "dma100" : 485.76,
+    "dma200" : 465.01,
+    "volume" : 306943.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 470.80,
-    "dma50" : 470.60,
-    "dma100" : 485.79,
-    "dma200" : 465.03,
-    "volume" : 343968.00
+    "date" : "2026-11-18",
+    "price" : 462.55,
+    "dma50" : 470.28,
+    "dma100" : 485.76,
+    "dma200" : 465.01,
+    "volume" : 306943.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 190.00
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.00,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 4.94,
+    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 1.38,
     "netProfitMarginPercentile" : 2.64,
-    "totalTechnicalScore" : 35.09,
+    "totalTechnicalScore" : 25.35,
     "totalFundamentalScore" : 23.78,
-    "totalScore" : 58.87
+    "totalScore" : 49.13
   }
 }

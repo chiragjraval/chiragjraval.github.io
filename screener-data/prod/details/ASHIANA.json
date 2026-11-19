@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASHIANA",
       "companyName" : "Ashiana Housing",
-      "marketCap" : 3567.00,
-      "peRatio" : 25.20,
+      "marketCap" : 3607.00,
+      "peRatio" : 25.40,
       "description" : "Ashiana Housing is principal business activity of the company is Real Estate Development."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.09,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 4.97,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 13.49,
       "netProfitMarginPercentile" : 5.64,
-      "totalTechnicalScore" : 30.26,
+      "totalTechnicalScore" : 30.09,
       "totalFundamentalScore" : 37.68,
-      "totalScore" : 67.94
+      "totalScore" : 67.77
     }
   },
   "attributes" : {
     "companyCode" : "ASHIANA",
     "companyName" : "Ashiana Housing",
-    "marketCap" : 3567.00,
-    "peRatio" : 25.20,
+    "marketCap" : 3607.00,
+    "peRatio" : 25.40,
     "description" : "Ashiana Housing is principal business activity of the company is Real Estate Development."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 291.85,
-    "dma50" : 294.45,
-    "dma100" : null,
-    "dma200" : 308.17,
-    "volume" : 72104.00
-  }, {
     "date" : "2025-11-19",
     "price" : 295.85,
     "dma50" : 294.51,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 335.50,
     "dma50" : 308.99,
-    "dma100" : 302.42,
+    "dma100" : null,
     "dma200" : 305.88,
     "volume" : 210973.00
   }, {
@@ -1128,7 +1121,7 @@
     "date" : "2026-07-07",
     "price" : 379.30,
     "dma50" : 365.56,
-    "dma100" : 341.83,
+    "dma100" : 341.82,
     "dma200" : 331.49,
     "volume" : 41001.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 370.04,
     "dma200" : 352.51,
     "volume" : 27649.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 358.80,
+    "dma50" : 361.00,
+    "dma100" : 369.78,
+    "dma200" : 352.57,
+    "volume" : 31629.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 354.85,
-    "dma50" : 361.09,
-    "dma100" : 370.04,
-    "dma200" : 352.51,
-    "volume" : 27649.00
+    "date" : "2026-11-18",
+    "price" : 358.80,
+    "dma50" : 361.00,
+    "dma100" : 369.78,
+    "dma200" : 352.57,
+    "volume" : 31629.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.09,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 4.97,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 13.49,
     "netProfitMarginPercentile" : 5.64,
-    "totalTechnicalScore" : 30.26,
+    "totalTechnicalScore" : 30.09,
     "totalFundamentalScore" : 37.68,
-    "totalScore" : 67.94
+    "totalScore" : 67.77
   }
 }

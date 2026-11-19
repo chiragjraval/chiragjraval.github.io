@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CLSEL",
       "companyName" : "Chamanlal Setia",
-      "marketCap" : 1411.00,
-      "peRatio" : 8.68,
+      "marketCap" : 1388.00,
+      "peRatio" : 8.54,
       "description" : "Chaman Lal Setia Exports Limited (CLSE) was incorporated in Amritsar, Punjab in 1994 by Mr. Chaman Lal Setia and his sons. [1] It’s one of the oldest Rice Millers cum Exporters of Basmati rice of all varieties from India. [2] The company is engaged in the business of milling and processing basmati rice. The company has been involved in export operations since 1982 and was recognized as an export house by the Ministry of Commerce in 1989, at present the company is a ‘Star Export House’. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.00,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 4.96,
+      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma100" : 5.12,
+      "pricePercentageAboveDma200" : 5.04,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 40.00,
+      "totalTechnicalScore" : 30.24,
       "totalFundamentalScore" : 42.05,
-      "totalScore" : 82.05
+      "totalScore" : 72.29
     }
   },
   "attributes" : {
     "companyCode" : "CLSEL",
     "companyName" : "Chamanlal Setia",
-    "marketCap" : 1411.00,
-    "peRatio" : 8.68,
+    "marketCap" : 1388.00,
+    "peRatio" : 8.54,
     "description" : "Chaman Lal Setia Exports Limited (CLSE) was incorporated in Amritsar, Punjab in 1994 by Mr. Chaman Lal Setia and his sons. [1] It’s one of the oldest Rice Millers cum Exporters of Basmati rice of all varieties from India. [2] The company is engaged in the business of milling and processing basmati rice. The company has been involved in export operations since 1982 and was recognized as an export house by the Ministry of Commerce in 1989, at present the company is a ‘Star Export House’. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 268.45,
-    "dma50" : 276.43,
-    "dma100" : null,
-    "dma200" : 298.29,
-    "volume" : 43452.00
-  }, {
     "date" : "2025-11-19",
     "price" : 266.75,
     "dma50" : 276.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 271.13,
     "dma50" : 251.76,
-    "dma100" : 255.92,
+    "dma100" : null,
     "dma200" : 270.68,
     "volume" : 78282.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 286.00,
     "dma200" : 281.51,
     "volume" : 95382.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 279.05,
+    "dma50" : 283.34,
+    "dma100" : 285.94,
+    "dma200" : 281.49,
+    "volume" : 65459.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 283.70,
-    "dma50" : 283.52,
-    "dma100" : 286.00,
-    "dma200" : 281.51,
-    "volume" : 95382.00
+    "date" : "2026-11-18",
+    "price" : 279.05,
+    "dma50" : 283.34,
+    "dma100" : 285.94,
+    "dma200" : 281.49,
+    "volume" : 65459.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 56.29
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.00,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 4.96,
+    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma100" : 5.12,
+    "pricePercentageAboveDma200" : 5.04,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 40.00,
+    "totalTechnicalScore" : 30.24,
     "totalFundamentalScore" : 42.05,
-    "totalScore" : 82.05
+    "totalScore" : 72.29
   }
 }

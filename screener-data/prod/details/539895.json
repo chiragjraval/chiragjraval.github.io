@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "539895",
       "companyName" : "Spice LoungeFood",
-      "marketCap" : 1572.00,
-      "peRatio" : 70.40,
+      "marketCap" : 1650.00,
+      "peRatio" : 73.90,
       "description" : "Incorporated in 1981, Spice Lounge Food Works Ltd operates in food, beverage, and IT services sector[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.61,
-      "pricePercentageAboveDma200" : 5.83,
+      "pricePercentageAboveDma50" : 4.98,
+      "pricePercentageAboveDma100" : 5.39,
+      "pricePercentageAboveDma200" : 5.62,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.78,
       "operatingProfitMarginPercentile" : 17.11,
       "netProfitMarginPercentile" : 8.03,
-      "totalTechnicalScore" : 21.66,
+      "totalTechnicalScore" : 25.99,
       "totalFundamentalScore" : 42.91,
-      "totalScore" : 64.57
+      "totalScore" : 68.90
     }
   },
   "attributes" : {
     "companyCode" : "539895",
     "companyName" : "Spice LoungeFood",
-    "marketCap" : 1572.00,
-    "peRatio" : 70.40,
+    "marketCap" : 1650.00,
+    "peRatio" : 73.90,
     "description" : "Incorporated in 1981, Spice Lounge Food Works Ltd operates in food, beverage, and IT services sector[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 59.44,
-    "dma50" : 45.70,
-    "dma100" : null,
-    "dma200" : 31.34,
-    "volume" : 217630.00
-  }, {
     "date" : "2025-11-19",
     "price" : 62.41,
     "dma50" : 46.35,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 29.93,
     "dma50" : 31.45,
-    "dma100" : 38.33,
+    "dma100" : null,
     "dma200" : 34.17,
     "volume" : 18406.00
   }, {
@@ -1450,7 +1443,7 @@
     "date" : "2026-09-09",
     "price" : 29.89,
     "dma50" : 25.59,
-    "dma100" : 24.20,
+    "dma100" : 24.19,
     "dma200" : 28.10,
     "volume" : 1504333.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 25.71,
     "dma200" : 27.06,
     "volume" : 436929.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 23.67,
+    "dma50" : 23.56,
+    "dma100" : 25.69,
+    "dma200" : 27.02,
+    "volume" : 306305.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 22.55,
+    "date" : "2026-11-18",
+    "price" : 23.67,
     "dma50" : 23.56,
-    "dma100" : 25.71,
-    "dma200" : 27.06,
-    "volume" : 436929.00
+    "dma100" : 25.69,
+    "dma200" : 27.02,
+    "volume" : 306305.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2557,21 +2557,21 @@
     "netProfit" : 0.05
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.61,
-    "pricePercentageAboveDma200" : 5.83,
+    "pricePercentageAboveDma50" : 4.98,
+    "pricePercentageAboveDma100" : 5.39,
+    "pricePercentageAboveDma200" : 5.62,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.78,
     "operatingProfitMarginPercentile" : 17.11,
     "netProfitMarginPercentile" : 8.03,
-    "totalTechnicalScore" : 21.66,
+    "totalTechnicalScore" : 25.99,
     "totalFundamentalScore" : 42.91,
-    "totalScore" : 64.57
+    "totalScore" : 68.90
   }
 }

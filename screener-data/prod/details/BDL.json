@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BDL",
       "companyName" : "Bharat Dynamics",
-      "marketCap" : 37650.00,
-      "peRatio" : 77.10,
+      "marketCap" : 37147.00,
+      "peRatio" : 76.10,
       "description" : "Bharat Dynamics (BDL), is a Government of India Enterprise. It is engaged in the manufacturing of guided missiles and allied defence equipments [1] [2]."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.74,
-      "pricePercentageAboveDma200" : 5.89,
+      "pricePercentageAboveDma50" : 5.40,
+      "pricePercentageAboveDma100" : 5.79,
+      "pricePercentageAboveDma200" : 5.93,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.43,
       "operatingProfitMarginPercentile" : 18.42,
       "netProfitMarginPercentile" : 9.19,
-      "totalTechnicalScore" : 21.99,
+      "totalTechnicalScore" : 22.12,
       "totalFundamentalScore" : 43.04,
-      "totalScore" : 65.03
+      "totalScore" : 65.17
     }
   },
   "attributes" : {
     "companyCode" : "BDL",
     "companyName" : "Bharat Dynamics",
-    "marketCap" : 37650.00,
-    "peRatio" : 77.10,
+    "marketCap" : 37147.00,
+    "peRatio" : 76.10,
     "description" : "Bharat Dynamics (BDL), is a Government of India Enterprise. It is engaged in the manufacturing of guided missiles and allied defence equipments [1] [2]."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1558.20,
-    "dma50" : 1541.08,
-    "dma100" : null,
-    "dma200" : 1510.31,
-    "volume" : 902009.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1536.80,
     "dma50" : 1540.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1359.40,
     "dma50" : 1303.09,
-    "dma100" : 1377.03,
+    "dma100" : null,
     "dma200" : 1410.39,
     "volume" : 1858266.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1206.73,
     "dma200" : 1248.64,
     "volume" : 990034.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1013.40,
+    "dma50" : 1101.81,
+    "dma100" : 1203.18,
+    "dma200" : 1246.30,
+    "volume" : 883028.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1027.10,
-    "dma50" : 1105.41,
-    "dma100" : 1206.73,
-    "dma200" : 1248.64,
-    "volume" : 990034.00
+    "date" : "2026-11-18",
+    "price" : 1013.40,
+    "dma50" : 1101.81,
+    "dma100" : 1203.18,
+    "dma200" : 1246.30,
+    "volume" : 883028.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2193,15 +2193,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.74,
-    "pricePercentageAboveDma200" : 5.89,
+    "pricePercentageAboveDma50" : 5.40,
+    "pricePercentageAboveDma100" : 5.79,
+    "pricePercentageAboveDma200" : 5.93,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.43,
     "operatingProfitMarginPercentile" : 18.42,
     "netProfitMarginPercentile" : 9.19,
-    "totalTechnicalScore" : 21.99,
+    "totalTechnicalScore" : 22.12,
     "totalFundamentalScore" : 43.04,
-    "totalScore" : 65.03
+    "totalScore" : 65.17
   }
 }

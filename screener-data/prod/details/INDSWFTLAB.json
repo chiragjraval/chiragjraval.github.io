@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "INDSWFTLAB",
       "companyName" : "Ind-Swift Labs.",
-      "marketCap" : 2886.00,
-      "peRatio" : 31.40,
+      "marketCap" : 2928.00,
+      "peRatio" : 31.90,
       "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.28,
-      "pricePercentageAboveDma100" : 4.78,
-      "pricePercentageAboveDma200" : 3.55,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 4.73,
+      "pricePercentageAboveDma200" : 3.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 19.51,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 38.61,
+      "totalTechnicalScore" : 38.41,
       "totalFundamentalScore" : 47.48,
-      "totalScore" : 86.09
+      "totalScore" : 85.89
     }
   },
   "attributes" : {
     "companyCode" : "INDSWFTLAB",
     "companyName" : "Ind-Swift Labs.",
-    "marketCap" : 2886.00,
-    "peRatio" : 31.40,
+    "marketCap" : 2928.00,
+    "peRatio" : 31.90,
     "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 96.60,
-    "dma50" : 102.29,
-    "dma100" : null,
-    "dma200" : 101.67,
-    "volume" : 151290.00
-  }, {
     "date" : "2025-11-19",
     "price" : 95.44,
     "dma50" : 102.02,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 145.41,
     "dma50" : 134.35,
-    "dma100" : 117.36,
+    "dma100" : null,
     "dma200" : 115.11,
     "volume" : 2355281.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 317.89,
     "dma200" : 257.44,
     "volume" : 585458.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 336.75,
+    "dma50" : 350.99,
+    "dma100" : 319.24,
+    "dma200" : 258.23,
+    "volume" : 422874.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 331.90,
-    "dma50" : 351.57,
-    "dma100" : 317.89,
-    "dma200" : 257.44,
-    "volume" : 585458.00
+    "date" : "2026-11-18",
+    "price" : 336.75,
+    "dma50" : 350.99,
+    "dma100" : 319.24,
+    "dma200" : 258.23,
+    "volume" : 422874.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.28,
-    "pricePercentageAboveDma100" : 4.78,
-    "pricePercentageAboveDma200" : 3.55,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 4.73,
+    "pricePercentageAboveDma200" : 3.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 19.51,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 38.61,
+    "totalTechnicalScore" : 38.41,
     "totalFundamentalScore" : 47.48,
-    "totalScore" : 86.09
+    "totalScore" : 85.89
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "LT",
       "companyName" : "Larsen & Toubro",
-      "marketCap" : 571762.00,
+      "marketCap" : 572244.00,
       "peRatio" : 30.30,
       "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
     },
@@ -17,36 +17,29 @@
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.70,
+      "pricePercentageAboveDma50" : 4.71,
       "pricePercentageAboveDma100" : 4.70,
       "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 4.46,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 39.08,
+      "totalTechnicalScore" : 44.08,
       "totalFundamentalScore" : 25.88,
-      "totalScore" : 64.96
+      "totalScore" : 69.96
     }
   },
   "attributes" : {
     "companyCode" : "LT",
     "companyName" : "Larsen & Toubro",
-    "marketCap" : 571762.00,
+    "marketCap" : 572244.00,
     "peRatio" : 30.30,
     "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 3999.60,
-    "dma50" : 3828.54,
-    "dma100" : null,
-    "dma200" : 3635.74,
-    "volume" : 1774454.00
-  }, {
     "date" : "2025-11-19",
     "price" : 4019.60,
     "dma50" : 3836.03,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 4119.80,
     "dma50" : 3861.97,
-    "dma100" : 3962.94,
+    "dma100" : null,
     "dma200" : 3825.84,
     "volume" : 5526361.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3920.60,
     "dma200" : 3907.77,
     "volume" : 1995427.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 4159.00,
+    "dma50" : 3928.07,
+    "dma100" : 3920.02,
+    "dma200" : 3910.27,
+    "volume" : 1224085.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 4155.50,
-    "dma50" : 3918.65,
-    "dma100" : 3920.60,
-    "dma200" : 3907.77,
-    "volume" : 1995427.00
+    "date" : "2026-11-18",
+    "price" : 4159.00,
+    "dma50" : 3928.07,
+    "dma100" : 3920.02,
+    "dma200" : 3910.27,
+    "volume" : 1224085.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2670,18 +2670,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.70,
+    "pricePercentageAboveDma50" : 4.71,
     "pricePercentageAboveDma100" : 4.70,
     "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 4.46,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 39.08,
+    "totalTechnicalScore" : 44.08,
     "totalFundamentalScore" : 25.88,
-    "totalScore" : 64.96
+    "totalScore" : 69.96
   }
 }

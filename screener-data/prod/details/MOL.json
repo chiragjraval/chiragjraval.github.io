@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MOL",
       "companyName" : "Meghmani Organi.",
-      "marketCap" : 1375.00,
-      "peRatio" : 15.90,
+      "marketCap" : 1349.00,
+      "peRatio" : 15.60,
       "description" : "Founded in 1986 as M/s Gujarat Industries, the company was incorporated in 1995 as Meghmani Organics Limited. The company manufactures Pigments and Agrochemicals through its 6 manufacturing facilities located in Gujarat. The company is amongst the top 3 Phthalocyanine based pigment players in the world and amongst the top 10 producers of pesticides in India.[1]Meghmani Organics Ltd (MOL) manufactures green and blue pigment products, which are used to manufacture printing ink, plastic, paints, textiles, leather, and rubber. It also manufactures a wide variety of commonly used pesticides for crop and non-crop applications, this include insect control in wood preservation and food grain storage."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.32,
+      "pricePercentageAboveDma50" : 5.28,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.41,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.30,
       "operatingProfitMarginPercentile" : 10.49,
       "netProfitMarginPercentile" : 6.02,
-      "totalTechnicalScore" : 15.72,
+      "totalTechnicalScore" : 15.98,
       "totalFundamentalScore" : 27.82,
-      "totalScore" : 43.54
+      "totalScore" : 43.80
     }
   },
   "attributes" : {
     "companyCode" : "MOL",
     "companyName" : "Meghmani Organi.",
-    "marketCap" : 1375.00,
-    "peRatio" : 15.90,
+    "marketCap" : 1349.00,
+    "peRatio" : 15.60,
     "description" : "Founded in 1986 as M/s Gujarat Industries, the company was incorporated in 1995 as Meghmani Organics Limited. The company manufactures Pigments and Agrochemicals through its 6 manufacturing facilities located in Gujarat. The company is amongst the top 3 Phthalocyanine based pigment players in the world and amongst the top 10 producers of pesticides in India.[1]Meghmani Organics Ltd (MOL) manufactures green and blue pigment products, which are used to manufacture printing ink, plastic, paints, textiles, leather, and rubber. It also manufactures a wide variety of commonly used pesticides for crop and non-crop applications, this include insect control in wood preservation and food grain storage."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 71.69,
-    "dma50" : 79.74,
-    "dma100" : null,
-    "dma200" : 83.33,
-    "volume" : 361540.00
-  }, {
     "date" : "2025-11-19",
     "price" : 69.59,
     "dma50" : 79.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 52.80,
     "dma50" : 49.57,
-    "dma100" : 56.12,
+    "dma100" : null,
     "dma200" : 64.71,
     "volume" : 2616826.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 56.32,
     "dma200" : 57.77,
     "volume" : 232650.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 53.04,
+    "dma50" : 56.19,
+    "dma100" : 56.36,
+    "dma200" : 57.72,
+    "volume" : 258519.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 54.07,
-    "dma50" : 56.32,
-    "dma100" : 56.32,
-    "dma200" : 57.77,
-    "volume" : 232650.00
+    "date" : "2026-11-18",
+    "price" : 53.04,
+    "dma50" : 56.19,
+    "dma100" : 56.36,
+    "dma200" : 57.72,
+    "volume" : 258519.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2073,15 +2073,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.32,
+    "pricePercentageAboveDma50" : 5.28,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.41,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.30,
     "operatingProfitMarginPercentile" : 10.49,
     "netProfitMarginPercentile" : 6.02,
-    "totalTechnicalScore" : 15.72,
+    "totalTechnicalScore" : 15.98,
     "totalFundamentalScore" : 27.82,
-    "totalScore" : 43.54
+    "totalScore" : 43.80
   }
 }

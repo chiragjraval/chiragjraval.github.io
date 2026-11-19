@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HPL",
       "companyName" : "HPL Electric",
-      "marketCap" : 1635.00,
-      "peRatio" : 17.00,
+      "marketCap" : 1601.00,
+      "peRatio" : 16.60,
       "description" : "HPL Electric & Power Limited is a leading electrical equipment manufacturer in India operating for the past 40 years. The Company has significant presence across five key product verticals of electric equipment – metering solutions, modular switches, switchgears, LED lighting and wires and cables. It caters to a wide spectrum of customer segments, such as power utilities, government agencies, and retail and institutional customers, with a strong brand recall as a trusted electrical brand. [1] It exports its finest engineering goods to more than 42 countries in regions of Asia, Africa, Europe, UK and Indian Sub-continent through the overseas logistic partners. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.75,
-      "pricePercentageAboveDma200" : 6.06,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.82,
+      "pricePercentageAboveDma200" : 6.14,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.14,
       "operatingProfitMarginPercentile" : 10.71,
       "netProfitMarginPercentile" : 9.01,
-      "totalTechnicalScore" : 17.05,
+      "totalTechnicalScore" : 17.27,
       "totalFundamentalScore" : 36.86,
-      "totalScore" : 53.91
+      "totalScore" : 54.13
     }
   },
   "attributes" : {
     "companyCode" : "HPL",
     "companyName" : "HPL Electric",
-    "marketCap" : 1635.00,
-    "peRatio" : 17.00,
+    "marketCap" : 1601.00,
+    "peRatio" : 16.60,
     "description" : "HPL Electric & Power Limited is a leading electrical equipment manufacturer in India operating for the past 40 years. The Company has significant presence across five key product verticals of electric equipment – metering solutions, modular switches, switchgears, LED lighting and wires and cables. It caters to a wide spectrum of customer segments, such as power utilities, government agencies, and retail and institutional customers, with a strong brand recall as a trusted electrical brand. [1] It exports its finest engineering goods to more than 42 countries in regions of Asia, Africa, Europe, UK and Indian Sub-continent through the overseas logistic partners. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 452.80,
-    "dma50" : 461.34,
-    "dma100" : null,
-    "dma200" : 484.46,
-    "volume" : 138168.00
-  }, {
     "date" : "2025-11-19",
     "price" : 448.15,
     "dma50" : 460.83,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 345.35,
     "dma50" : 322.51,
-    "dma100" : 352.43,
+    "dma100" : null,
     "dma200" : 394.26,
     "volume" : 262464.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 298.72,
     "dma200" : 322.92,
     "volume" : 52236.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 249.02,
+    "dma50" : 266.18,
+    "dma100" : 297.55,
+    "dma200" : 322.19,
+    "volume" : 57655.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 254.20,
-    "dma50" : 266.88,
-    "dma100" : 298.72,
-    "dma200" : 322.92,
-    "volume" : 52236.00
+    "date" : "2026-11-18",
+    "price" : 249.02,
+    "dma50" : 266.18,
+    "dma100" : 297.55,
+    "dma200" : 322.19,
+    "volume" : 57655.00
   },
   "quarterlyResults" : [ {
     "date" : "2015-06-30",
@@ -2263,15 +2263,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.75,
-    "pricePercentageAboveDma200" : 6.06,
+    "pricePercentageAboveDma50" : 5.32,
+    "pricePercentageAboveDma100" : 5.82,
+    "pricePercentageAboveDma200" : 6.14,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.14,
     "operatingProfitMarginPercentile" : 10.71,
     "netProfitMarginPercentile" : 9.01,
-    "totalTechnicalScore" : 17.05,
+    "totalTechnicalScore" : 17.27,
     "totalFundamentalScore" : 36.86,
-    "totalScore" : 53.91
+    "totalScore" : 54.13
   }
 }

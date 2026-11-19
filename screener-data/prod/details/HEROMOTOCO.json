@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "HEROMOTOCO",
       "companyName" : "Hero Motocorp",
-      "marketCap" : 106666.00,
-      "peRatio" : 17.50,
+      "marketCap" : 105145.00,
+      "peRatio" : 17.30,
       "description" : "Hero Moto Corp earlier also known as “Hero Honda” is one of India’s first motorcycle manufacturers. The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles. In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp. [1] [2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.95,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 13.32,
       "netProfitMarginPercentile" : 6.23,
-      "totalTechnicalScore" : 44.82,
+      "totalTechnicalScore" : 35.04,
       "totalFundamentalScore" : 35.45,
-      "totalScore" : 80.28
+      "totalScore" : 70.50
     }
   },
   "attributes" : {
     "companyCode" : "HEROMOTOCO",
     "companyName" : "Hero Motocorp",
-    "marketCap" : 106666.00,
-    "peRatio" : 17.50,
+    "marketCap" : 105145.00,
+    "peRatio" : 17.30,
     "description" : "Hero Moto Corp earlier also known as “Hero Honda” is one of India’s first motorcycle manufacturers. The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles. In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 5799.50,
-    "dma50" : 5398.83,
-    "dma100" : null,
-    "dma200" : 4839.08,
-    "volume" : 1224989.00
-  }, {
     "date" : "2025-11-19",
     "price" : 5876.50,
     "dma50" : 5417.56,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 5159.50,
     "dma50" : 5395.03,
-    "dma100" : 5653.62,
+    "dma100" : null,
     "dma200" : 5304.84,
     "volume" : 951290.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5270.75,
     "dma200" : 5249.48,
     "volume" : 578689.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 5253.00,
+    "dma50" : 5280.35,
+    "dma100" : 5274.32,
+    "dma200" : 5249.51,
+    "volume" : 556134.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 5329.00,
-    "dma50" : 5281.46,
-    "dma100" : 5270.75,
-    "dma200" : 5249.48,
-    "volume" : 578689.00
+    "date" : "2026-11-18",
+    "price" : 5253.00,
+    "dma50" : 5280.35,
+    "dma100" : 5274.32,
+    "dma200" : 5249.51,
+    "volume" : 556134.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 1455.52
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.95,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 13.32,
     "netProfitMarginPercentile" : 6.23,
-    "totalTechnicalScore" : 44.82,
+    "totalTechnicalScore" : 35.04,
     "totalFundamentalScore" : 35.45,
-    "totalScore" : 80.28
+    "totalScore" : 70.50
   }
 }

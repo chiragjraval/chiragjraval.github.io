@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SUBROS",
       "companyName" : "Subros",
-      "marketCap" : 3999.00,
-      "peRatio" : 22.80,
+      "marketCap" : 4522.00,
+      "peRatio" : 25.70,
       "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.30,
-      "pricePercentageAboveDma100" : 5.75,
-      "pricePercentageAboveDma200" : 5.81,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 5.26,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 17.49,
       "netProfitMarginPercentile" : 9.47,
-      "totalTechnicalScore" : 16.86,
+      "totalTechnicalScore" : 25.14,
       "totalFundamentalScore" : 46.00,
-      "totalScore" : 62.86
+      "totalScore" : 71.14
     }
   },
   "attributes" : {
     "companyCode" : "SUBROS",
     "companyName" : "Subros",
-    "marketCap" : 3999.00,
-    "peRatio" : 22.80,
+    "marketCap" : 4522.00,
+    "peRatio" : 25.70,
     "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 884.00,
-    "dma50" : 1000.41,
-    "dma100" : null,
-    "dma200" : 861.85,
-    "volume" : 89430.00
-  }, {
     "date" : "2025-11-19",
     "price" : 876.20,
     "dma50" : 995.54,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 778.25,
     "dma50" : 741.90,
-    "dma100" : 794.51,
+    "dma100" : null,
     "dma200" : 808.32,
     "volume" : 61741.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 721.28,
     "dma200" : 732.08,
     "volume" : 76028.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 693.25,
+    "dma50" : 653.17,
+    "dma100" : 719.86,
+    "dma200" : 731.69,
+    "volume" : 6213032.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 612.95,
-    "dma50" : 651.53,
-    "dma100" : 721.28,
-    "dma200" : 732.08,
-    "volume" : 76028.00
+    "date" : "2026-11-18",
+    "price" : 693.25,
+    "dma50" : 653.17,
+    "dma100" : 719.86,
+    "dma200" : 731.69,
+    "volume" : 6213032.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 44.60
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.30,
-    "pricePercentageAboveDma100" : 5.75,
-    "pricePercentageAboveDma200" : 5.81,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 5.26,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 17.49,
     "netProfitMarginPercentile" : 9.47,
-    "totalTechnicalScore" : 16.86,
+    "totalTechnicalScore" : 25.14,
     "totalFundamentalScore" : 46.00,
-    "totalScore" : 62.86
+    "totalScore" : 71.14
   }
 }

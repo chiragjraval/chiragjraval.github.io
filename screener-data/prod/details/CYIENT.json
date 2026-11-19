@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "CYIENT",
       "companyName" : "Cyient",
-      "marketCap" : 12073.00,
+      "marketCap" : 12076.00,
       "peRatio" : 29.30,
       "description" : "Cyient (formerly Infotech Enterprises Limited) is an Indian multinational technology company that is focused on engineering, manufacturing, data analytics, and networks and operations. Infotech Enterprises Ltd. was established in 1991 in Hyderabad.[1]"
     },
@@ -21,13 +21,13 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.06,
-      "pricePercentageAboveDma100" : 4.61,
-      "pricePercentageAboveDma200" : 4.76,
+      "pricePercentageAboveDma100" : 4.62,
+      "pricePercentageAboveDma200" : 4.77,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 13.60,
       "netProfitMarginPercentile" : 2.53,
-      "totalTechnicalScore" : 34.44,
+      "totalTechnicalScore" : 34.45,
       "totalFundamentalScore" : 28.18,
       "totalScore" : 62.62
     }
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "CYIENT",
     "companyName" : "Cyient",
-    "marketCap" : 12073.00,
+    "marketCap" : 12076.00,
     "peRatio" : 29.30,
     "description" : "Cyient (formerly Infotech Enterprises Limited) is an Indian multinational technology company that is focused on engineering, manufacturing, data analytics, and networks and operations. Infotech Enterprises Ltd. was established in 1991 in Hyderabad.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1127.90,
-    "dma50" : 1175.61,
-    "dma100" : null,
-    "dma200" : 1307.86,
-    "volume" : 297201.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1152.60,
     "dma50" : 1174.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 967.30,
     "dma50" : 926.36,
-    "dma100" : 1037.16,
+    "dma100" : null,
     "dma200" : 1115.67,
     "volume" : 460808.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1008.17,
     "dma200" : 1037.25,
     "volume" : 302478.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1086.40,
+    "dma50" : 1098.96,
+    "dma100" : 1010.18,
+    "dma200" : 1037.74,
+    "volume" : 282156.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1086.10,
-    "dma50" : 1099.47,
-    "dma100" : 1008.17,
-    "dma200" : 1037.25,
-    "volume" : 302478.00
+    "date" : "2026-11-18",
+    "price" : 1086.40,
+    "dma50" : 1098.96,
+    "dma100" : 1010.18,
+    "dma200" : 1037.74,
+    "volume" : 282156.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,13 +2674,13 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.06,
-    "pricePercentageAboveDma100" : 4.61,
-    "pricePercentageAboveDma200" : 4.76,
+    "pricePercentageAboveDma100" : 4.62,
+    "pricePercentageAboveDma200" : 4.77,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 13.60,
     "netProfitMarginPercentile" : 2.53,
-    "totalTechnicalScore" : 34.44,
+    "totalTechnicalScore" : 34.45,
     "totalFundamentalScore" : 28.18,
     "totalScore" : 62.62
   }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "STEELXIND",
       "companyName" : "Steel Exchange",
-      "marketCap" : 1441.00,
-      "peRatio" : 30.50,
+      "marketCap" : 1409.00,
+      "peRatio" : 29.80,
       "description" : "Incorporated in 1999, Steel Exchange India Ltd manufactures steel products, trading of related products and generation and sale of power[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.23,
-      "pricePercentageAboveDma200" : 4.95,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.33,
+      "pricePercentageAboveDma200" : 5.06,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 16.55,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 30.20,
+      "totalTechnicalScore" : 25.52,
       "totalFundamentalScore" : 42.18,
-      "totalScore" : 72.38
+      "totalScore" : 67.70
     }
   },
   "attributes" : {
     "companyCode" : "STEELXIND",
     "companyName" : "Steel Exchange",
-    "marketCap" : 1441.00,
-    "peRatio" : 30.50,
+    "marketCap" : 1409.00,
+    "peRatio" : 29.80,
     "description" : "Incorporated in 1999, Steel Exchange India Ltd manufactures steel products, trading of related products and generation and sale of power[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 8.74,
-    "dma50" : 9.66,
-    "dma100" : null,
-    "dma200" : 9.84,
-    "volume" : 1588717.00
-  }, {
     "date" : "2025-11-19",
     "price" : 9.00,
     "dma50" : 9.64,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 8.84,
     "dma50" : 8.12,
-    "dma100" : 8.30,
+    "dma100" : null,
     "dma200" : 8.81,
     "volume" : 1370899.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 11.14,
     "dma200" : 10.52,
     "volume" : 1791108.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 10.39,
+    "dma50" : 10.67,
+    "dma100" : 11.12,
+    "dma200" : 10.52,
+    "volume" : 1222444.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 10.63,
-    "dma50" : 10.68,
-    "dma100" : 11.14,
+    "date" : "2026-11-18",
+    "price" : 10.39,
+    "dma50" : 10.67,
+    "dma100" : 11.12,
     "dma200" : 10.52,
-    "volume" : 1791108.00
+    "volume" : 1222444.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.23,
-    "pricePercentageAboveDma200" : 4.95,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.33,
+    "pricePercentageAboveDma200" : 5.06,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 16.55,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 30.20,
+    "totalTechnicalScore" : 25.52,
     "totalFundamentalScore" : 42.18,
-    "totalScore" : 72.38
+    "totalScore" : 67.70
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TRANSRAILL",
       "companyName" : "Transrail Light",
-      "marketCap" : 5923.00,
-      "peRatio" : 13.80,
+      "marketCap" : 5794.00,
+      "peRatio" : 13.40,
       "description" : "Incorporated in 2008, Transrail Lighting Ltd is an integrated transmission & distribution, and pole manufacturing company[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 5.57,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma200" : 5.66,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.89,
       "operatingProfitMarginPercentile" : 3.08,
       "netProfitMarginPercentile" : 1.54,
-      "totalTechnicalScore" : 15.95,
+      "totalTechnicalScore" : 16.24,
       "totalFundamentalScore" : 13.50,
-      "totalScore" : 29.46
+      "totalScore" : 29.74
     }
   },
   "attributes" : {
     "companyCode" : "TRANSRAILL",
     "companyName" : "Transrail Light",
-    "marketCap" : 5923.00,
-    "peRatio" : 13.80,
+    "marketCap" : 5794.00,
+    "peRatio" : 13.40,
     "description" : "Incorporated in 2008, Transrail Lighting Ltd is an integrated transmission & distribution, and pole manufacturing company[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 631.45,
-    "dma50" : 714.46,
-    "dma100" : null,
-    "dma200" : 668.54,
-    "volume" : 617409.00
-  }, {
     "date" : "2025-11-19",
     "price" : 632.05,
     "dma50" : 711.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 559.10,
     "dma50" : 526.08,
-    "dma100" : 544.88,
+    "dma100" : null,
     "dma200" : 585.07,
     "volume" : 654544.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 464.92,
     "dma200" : 497.26,
     "volume" : 254131.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 430.70,
+    "dma50" : 450.12,
+    "dma100" : 464.11,
+    "dma200" : 496.60,
+    "volume" : 243451.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 440.35,
-    "dma50" : 450.91,
-    "dma100" : 464.92,
-    "dma200" : 497.26,
-    "volume" : 254131.00
+    "date" : "2026-11-18",
+    "price" : 430.70,
+    "dma50" : 450.12,
+    "dma100" : 464.11,
+    "dma200" : 496.60,
+    "volume" : 243451.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 5.57,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma200" : 5.66,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.89,
     "operatingProfitMarginPercentile" : 3.08,
     "netProfitMarginPercentile" : 1.54,
-    "totalTechnicalScore" : 15.95,
+    "totalTechnicalScore" : 16.24,
     "totalFundamentalScore" : 13.50,
-    "totalScore" : 29.46
+    "totalScore" : 29.74
   }
 }

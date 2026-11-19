@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUNDRMFAST",
       "companyName" : "Sundram Fasten.",
-      "marketCap" : 22042.00,
-      "peRatio" : 34.30,
+      "marketCap" : 21645.00,
+      "peRatio" : 33.70,
       "description" : "Sundaram fasteners ltd, a part of the TVS Group of Companies, is engaged in manufacturing critical, high precision components such as fasteners, power train components etc for the automotive, infrastructure, windmill, and aviation sectors. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 4.91,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.30,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.07,
       "operatingProfitMarginPercentile" : 13.48,
       "netProfitMarginPercentile" : 6.66,
-      "totalTechnicalScore" : 35.35,
+      "totalTechnicalScore" : 35.60,
       "totalFundamentalScore" : 38.22,
-      "totalScore" : 73.56
+      "totalScore" : 73.82
     }
   },
   "attributes" : {
     "companyCode" : "SUNDRMFAST",
     "companyName" : "Sundram Fasten.",
-    "marketCap" : 22042.00,
-    "peRatio" : 34.30,
+    "marketCap" : 21645.00,
+    "peRatio" : 33.70,
     "description" : "Sundaram fasteners ltd, a part of the TVS Group of Companies, is engaged in manufacturing critical, high precision components such as fasteners, power train components etc for the automotive, infrastructure, windmill, and aviation sectors. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 984.75,
-    "dma50" : 979.90,
-    "dma100" : null,
-    "dma200" : 1016.34,
-    "volume" : 1775666.00
-  }, {
     "date" : "2025-11-19",
     "price" : 960.05,
     "dma50" : 979.12,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 813.70,
     "dma50" : 838.93,
-    "dma100" : 896.91,
+    "dma100" : null,
     "dma200" : 930.61,
     "volume" : 43674.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1094.96,
     "dma200" : 1029.46,
     "volume" : 60455.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1030.10,
+    "dma50" : 1097.46,
+    "dma100" : 1095.97,
+    "dma200" : 1029.47,
+    "volume" : 50926.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1049.00,
-    "dma50" : 1100.21,
-    "dma100" : 1094.96,
-    "dma200" : 1029.46,
-    "volume" : 60455.00
+    "date" : "2026-11-18",
+    "price" : 1030.10,
+    "dma50" : 1097.46,
+    "dma100" : 1095.97,
+    "dma200" : 1029.47,
+    "volume" : 50926.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 4.91,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.30,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.07,
     "operatingProfitMarginPercentile" : 13.48,
     "netProfitMarginPercentile" : 6.66,
-    "totalTechnicalScore" : 35.35,
+    "totalTechnicalScore" : 35.60,
     "totalFundamentalScore" : 38.22,
-    "totalScore" : 73.56
+    "totalScore" : 73.82
   }
 }

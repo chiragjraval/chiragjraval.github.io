@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "PILANIINVS",
       "companyName" : "Pilani Invest.",
-      "marketCap" : 4442.00,
+      "marketCap" : 4448.00,
       "peRatio" : 13.20,
       "description" : "Pilani Investment and Industries Corporation Limited is registered as a non-deposit-taking NBFC with the Reserve Bank of India. It functions as a core investment company with main activity being investment in shares and securities of the Birla group companies and providing finance to them. [1]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma100" : 5.21,
+      "pricePercentageAboveDma200" : 5.39,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.46,
       "operatingProfitMarginPercentile" : 12.65,
       "netProfitMarginPercentile" : 7.86,
-      "totalTechnicalScore" : 15.65,
+      "totalTechnicalScore" : 15.63,
       "totalFundamentalScore" : 34.97,
-      "totalScore" : 50.62
+      "totalScore" : 50.60
     }
   },
   "attributes" : {
     "companyCode" : "PILANIINVS",
     "companyName" : "Pilani Invest.",
-    "marketCap" : 4442.00,
+    "marketCap" : 4448.00,
     "peRatio" : 13.20,
     "description" : "Pilani Investment and Industries Corporation Limited is registered as a non-deposit-taking NBFC with the Reserve Bank of India. It functions as a core investment company with main activity being investment in shares and securities of the Birla group companies and providing finance to them. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 5222.00,
-    "dma50" : 5325.40,
-    "dma100" : null,
-    "dma200" : 5064.47,
-    "volume" : 4424.00
-  }, {
     "date" : "2025-11-19",
     "price" : 5241.50,
     "dma50" : 5322.11,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 4807.50,
     "dma50" : 4599.09,
-    "dma100" : 4799.19,
+    "dma100" : null,
     "dma200" : 4849.97,
     "volume" : 2243.00
   }, {
@@ -1761,14 +1754,21 @@
     "dma100" : 4196.47,
     "dma200" : 4361.52,
     "volume" : 614.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 4017.20,
+    "dma50" : 4039.51,
+    "dma100" : 4193.28,
+    "dma200" : 4358.09,
+    "volume" : 1344.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 4012.20,
-    "dma50" : 4040.42,
-    "dma100" : 4196.47,
-    "dma200" : 4361.52,
-    "volume" : 614.00
+    "date" : "2026-11-18",
+    "price" : 4017.20,
+    "dma50" : 4039.51,
+    "dma100" : 4193.28,
+    "dma200" : 4358.09,
+    "volume" : 1344.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,14 +2660,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma100" : 5.21,
+    "pricePercentageAboveDma200" : 5.39,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.46,
     "operatingProfitMarginPercentile" : 12.65,
     "netProfitMarginPercentile" : 7.86,
-    "totalTechnicalScore" : 15.65,
+    "totalTechnicalScore" : 15.63,
     "totalFundamentalScore" : 34.97,
-    "totalScore" : 50.62
+    "totalScore" : 50.60
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UFLEX",
       "companyName" : "Uflex",
-      "marketCap" : 4553.00,
-      "peRatio" : 5.20,
+      "marketCap" : 4525.00,
+      "peRatio" : 5.17,
       "description" : "Uflex Ltd is a leading Indian multinational company which is engaged in the manufacturing and sale of flexible packaging products & offers a complete flexible packaging solution to its customers across the globe.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.76,
-      "pricePercentageAboveDma100" : 4.43,
-      "pricePercentageAboveDma200" : 4.15,
+      "pricePercentageAboveDma50" : 4.80,
+      "pricePercentageAboveDma100" : 4.49,
+      "pricePercentageAboveDma200" : 4.19,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 3.22,
       "netProfitMarginPercentile" : 2.07,
-      "totalTechnicalScore" : 48.34,
+      "totalTechnicalScore" : 48.47,
       "totalFundamentalScore" : 21.67,
-      "totalScore" : 70.01
+      "totalScore" : 70.15
     }
   },
   "attributes" : {
     "companyCode" : "UFLEX",
     "companyName" : "Uflex",
-    "marketCap" : 4553.00,
-    "peRatio" : 5.20,
+    "marketCap" : 4525.00,
+    "peRatio" : 5.17,
     "description" : "Uflex Ltd is a leading Indian multinational company which is engaged in the manufacturing and sale of flexible packaging products & offers a complete flexible packaging solution to its customers across the globe.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 516.60,
-    "dma50" : 544.88,
-    "dma100" : null,
-    "dma200" : 555.30,
-    "volume" : 19263.00
-  }, {
     "date" : "2025-11-19",
     "price" : 514.75,
     "dma50" : 543.70,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 403.35,
     "dma50" : 424.74,
-    "dma100" : 458.99,
+    "dma100" : null,
     "dma200" : 488.56,
     "volume" : 78750.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 566.33,
     "dma200" : 538.50,
     "volume" : 183522.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 626.70,
+    "dma50" : 602.16,
+    "dma100" : 568.33,
+    "dma200" : 539.38,
+    "volume" : 119287.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 630.50,
-    "dma50" : 601.16,
-    "dma100" : 566.33,
-    "dma200" : 538.50,
-    "volume" : 183522.00
+    "date" : "2026-11-18",
+    "price" : 626.70,
+    "dma50" : 602.16,
+    "dma100" : 568.33,
+    "dma200" : 539.38,
+    "volume" : 119287.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.76,
-    "pricePercentageAboveDma100" : 4.43,
-    "pricePercentageAboveDma200" : 4.15,
+    "pricePercentageAboveDma50" : 4.80,
+    "pricePercentageAboveDma100" : 4.49,
+    "pricePercentageAboveDma200" : 4.19,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 3.22,
     "netProfitMarginPercentile" : 2.07,
-    "totalTechnicalScore" : 48.34,
+    "totalTechnicalScore" : 48.47,
     "totalFundamentalScore" : 21.67,
-    "totalScore" : 70.01
+    "totalScore" : 70.15
   }
 }

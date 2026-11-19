@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IKS",
       "companyName" : "Inventurus Knowl",
-      "marketCap" : 27983.00,
-      "peRatio" : 35.00,
+      "marketCap" : 27639.00,
+      "peRatio" : 34.50,
       "description" : "Incorporated in 2006, Inventurus Knowledge Solutions Ltd provides healthcare solutions through its care enablement platform[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.40,
-      "pricePercentageAboveDma200" : 5.19,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.45,
+      "pricePercentageAboveDma200" : 5.25,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.00,
       "operatingProfitMarginPercentile" : 3.33,
       "netProfitMarginPercentile" : 1.67,
-      "totalTechnicalScore" : 25.84,
+      "totalTechnicalScore" : 26.00,
       "totalFundamentalScore" : 10.00,
-      "totalScore" : 35.84
+      "totalScore" : 36.00
     }
   },
   "attributes" : {
     "companyCode" : "IKS",
     "companyName" : "Inventurus Knowl",
-    "marketCap" : 27983.00,
-    "peRatio" : 35.00,
+    "marketCap" : 27639.00,
+    "peRatio" : 34.50,
     "description" : "Incorporated in 2006, Inventurus Knowledge Solutions Ltd provides healthcare solutions through its care enablement platform[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1600.60,
-    "dma50" : 1578.90,
-    "dma100" : null,
-    "dma200" : 1626.96,
-    "volume" : 92308.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1594.60,
     "dma50" : 1579.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1522.40,
     "dma50" : 1462.31,
-    "dma100" : 1565.30,
+    "dma100" : null,
     "dma200" : 1568.61,
     "volume" : 240411.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1771.09,
     "dma200" : 1696.21,
     "volume" : 75190.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1610.10,
+    "dma50" : 1711.00,
+    "dma100" : 1770.15,
+    "dma200" : 1695.35,
+    "volume" : 80676.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1630.10,
-    "dma50" : 1715.12,
-    "dma100" : 1771.09,
-    "dma200" : 1696.21,
-    "volume" : 75190.00
+    "date" : "2026-11-18",
+    "price" : 1610.10,
+    "dma50" : 1711.00,
+    "dma100" : 1770.15,
+    "dma200" : 1695.35,
+    "volume" : 80676.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-12-31",
@@ -1923,15 +1923,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.40,
-    "pricePercentageAboveDma200" : 5.19,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.45,
+    "pricePercentageAboveDma200" : 5.25,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.00,
     "operatingProfitMarginPercentile" : 3.33,
     "netProfitMarginPercentile" : 1.67,
-    "totalTechnicalScore" : 25.84,
+    "totalTechnicalScore" : 26.00,
     "totalFundamentalScore" : 10.00,
-    "totalScore" : 35.84
+    "totalScore" : 36.00
   }
 }

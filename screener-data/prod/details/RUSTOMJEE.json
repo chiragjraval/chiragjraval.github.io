@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RUSTOMJEE",
       "companyName" : "Keystone Realtor",
-      "marketCap" : 4644.00,
-      "peRatio" : 22.20,
+      "marketCap" : 4592.00,
+      "peRatio" : 22.00,
       "description" : "Incorporated in 1995, Keystone Realtors Limited is one of the prominent real estate developers. The company is engaged primarily in the business of real estate construction, development, and other related activities in India[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.85,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 5.46,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 5.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 3.75,
       "operatingProfitMarginPercentile" : 6.00,
       "netProfitMarginPercentile" : 1.00,
-      "totalTechnicalScore" : 20.41,
+      "totalTechnicalScore" : 20.57,
       "totalFundamentalScore" : 10.75,
-      "totalScore" : 31.16
+      "totalScore" : 31.32
     }
   },
   "attributes" : {
     "companyCode" : "RUSTOMJEE",
     "companyName" : "Keystone Realtor",
-    "marketCap" : 4644.00,
-    "peRatio" : 22.20,
+    "marketCap" : 4592.00,
+    "peRatio" : 22.00,
     "description" : "Incorporated in 1995, Keystone Realtors Limited is one of the prominent real estate developers. The company is engaged primarily in the business of real estate construction, development, and other related activities in India[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 540.50,
-    "dma50" : 578.25,
-    "dma100" : null,
-    "dma200" : 595.60,
-    "volume" : 244763.00
-  }, {
     "date" : "2025-11-19",
     "price" : 536.25,
     "dma50" : 576.61,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 400.00,
     "dma50" : 421.15,
-    "dma100" : 472.58,
+    "dma100" : null,
     "dma200" : 507.52,
     "volume" : 44255.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 375.18,
     "dma200" : 404.49,
     "volume" : 53384.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 363.45,
+    "dma50" : 357.14,
+    "dma100" : 374.97,
+    "dma200" : 404.08,
+    "volume" : 23049.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 367.50,
-    "dma50" : 356.88,
-    "dma100" : 375.18,
-    "dma200" : 404.49,
-    "volume" : 53384.00
+    "date" : "2026-11-18",
+    "price" : 363.45,
+    "dma50" : 357.14,
+    "dma100" : 374.97,
+    "dma200" : 404.08,
+    "volume" : 23049.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -2003,15 +2003,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.85,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 5.46,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 5.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 3.75,
     "operatingProfitMarginPercentile" : 6.00,
     "netProfitMarginPercentile" : 1.00,
-    "totalTechnicalScore" : 20.41,
+    "totalTechnicalScore" : 20.57,
     "totalFundamentalScore" : 10.75,
-    "totalScore" : 31.16
+    "totalScore" : 31.32
   }
 }

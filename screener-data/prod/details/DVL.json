@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DVL",
       "companyName" : "Dhunseri Vent.",
-      "marketCap" : 1118.00,
-      "peRatio" : 3.68,
+      "marketCap" : 1106.00,
+      "peRatio" : 3.64,
       "description" : "Incorporated in 1916, Dhunseri Ventures Ltd is in the business of Treasury Operations and Trading activities[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.34,
-      "pricePercentageAboveDma100" : 4.08,
-      "pricePercentageAboveDma200" : 4.14,
+      "pricePercentageAboveDma50" : 4.42,
+      "pricePercentageAboveDma100" : 4.16,
+      "pricePercentageAboveDma200" : 4.21,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.87,
       "operatingProfitMarginPercentile" : 19.12,
       "netProfitMarginPercentile" : 8.12,
-      "totalTechnicalScore" : 42.56,
+      "totalTechnicalScore" : 42.79,
       "totalFundamentalScore" : 44.10,
-      "totalScore" : 86.66
+      "totalScore" : 86.89
     }
   },
   "attributes" : {
     "companyCode" : "DVL",
     "companyName" : "Dhunseri Vent.",
-    "marketCap" : 1118.00,
-    "peRatio" : 3.68,
+    "marketCap" : 1106.00,
+    "peRatio" : 3.64,
     "description" : "Incorporated in 1916, Dhunseri Ventures Ltd is in the business of Treasury Operations and Trading activities[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 304.70,
-    "dma50" : 336.20,
-    "dma100" : null,
-    "dma200" : 348.87,
-    "volume" : 13092.00
-  }, {
     "date" : "2025-11-19",
     "price" : 304.85,
     "dma50" : 334.97,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 241.05,
     "dma50" : 233.23,
-    "dma100" : 256.78,
+    "dma100" : null,
     "dma200" : 285.69,
     "volume" : 16770.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 269.48,
     "dma200" : 272.42,
     "volume" : 88903.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 315.90,
+    "dma50" : 283.14,
+    "dma100" : 270.28,
+    "dma200" : 272.85,
+    "volume" : 27270.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 319.20,
-    "dma50" : 281.81,
-    "dma100" : 269.48,
-    "dma200" : 272.42,
-    "volume" : 88903.00
+    "date" : "2026-11-18",
+    "price" : 315.90,
+    "dma50" : 283.14,
+    "dma100" : 270.28,
+    "dma200" : 272.85,
+    "volume" : 27270.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.34,
-    "pricePercentageAboveDma100" : 4.08,
-    "pricePercentageAboveDma200" : 4.14,
+    "pricePercentageAboveDma50" : 4.42,
+    "pricePercentageAboveDma100" : 4.16,
+    "pricePercentageAboveDma200" : 4.21,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.87,
     "operatingProfitMarginPercentile" : 19.12,
     "netProfitMarginPercentile" : 8.12,
-    "totalTechnicalScore" : 42.56,
+    "totalTechnicalScore" : 42.79,
     "totalFundamentalScore" : 44.10,
-    "totalScore" : 86.66
+    "totalScore" : 86.89
   }
 }

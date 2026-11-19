@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TATACOMM",
       "companyName" : "Tata Comm",
-      "marketCap" : 51388.00,
-      "peRatio" : 42.40,
+      "marketCap" : 50393.00,
+      "peRatio" : 41.60,
       "description" : "Tata Communications was incorporated on March 19, 1986 as VSNL. In February 2002, the Government of India, as per their disinvestments plan, sold 25% of their holding in the company to the strategic partner. Consequently, the company was taken over under the administrative control of TATA. [1] It is the leading global digital ecosystem enabler. It has a leadership position in emerging markets, and an infrastructure that spans the globe. It delivers managed solutions to multinational companies and service providers. It partners with 300 of the Fortune 500 companies with their state-of the-art solutions, including a wide range of communication, collaboration, cloud, mobility, connected solutions, network and data center services. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.78,
-      "pricePercentageAboveDma100" : 4.86,
-      "pricePercentageAboveDma200" : 4.78,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.89,
+      "pricePercentageAboveDma100" : 4.95,
+      "pricePercentageAboveDma200" : 4.88,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.23,
       "operatingProfitMarginPercentile" : 14.25,
       "netProfitMarginPercentile" : 5.54,
-      "totalTechnicalScore" : 44.42,
+      "totalTechnicalScore" : 39.72,
       "totalFundamentalScore" : 30.03,
-      "totalScore" : 74.45
+      "totalScore" : 69.75
     }
   },
   "attributes" : {
     "companyCode" : "TATACOMM",
     "companyName" : "Tata Comm",
-    "marketCap" : 51388.00,
-    "peRatio" : 42.40,
+    "marketCap" : 50393.00,
+    "peRatio" : 41.60,
     "description" : "Tata Communications was incorporated on March 19, 1986 as VSNL. In February 2002, the Government of India, as per their disinvestments plan, sold 25% of their holding in the company to the strategic partner. Consequently, the company was taken over under the administrative control of TATA. [1] It is the leading global digital ecosystem enabler. It has a leadership position in emerging markets, and an infrastructure that spans the globe. It delivers managed solutions to multinational companies and service providers. It partners with 300 of the Fortune 500 companies with their state-of the-art solutions, including a wide range of communication, collaboration, cloud, mobility, connected solutions, network and data center services. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1880.90,
-    "dma50" : 1800.21,
-    "dma100" : null,
-    "dma200" : 1717.00,
-    "volume" : 134233.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1875.50,
     "dma50" : 1803.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1561.40,
     "dma50" : 1524.14,
-    "dma100" : 1649.78,
+    "dma100" : null,
     "dma200" : 1648.60,
     "volume" : 254856.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1751.44,
     "dma200" : 1726.96,
     "volume" : 476652.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1767.30,
+    "dma50" : 1728.60,
+    "dma100" : 1749.19,
+    "dma200" : 1727.36,
+    "volume" : 158414.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1802.20,
-    "dma50" : 1727.02,
-    "dma100" : 1751.44,
-    "dma200" : 1726.96,
-    "volume" : 476652.00
+    "date" : "2026-11-18",
+    "price" : 1767.30,
+    "dma50" : 1728.60,
+    "dma100" : 1749.19,
+    "dma200" : 1727.36,
+    "volume" : 158414.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.78,
-    "pricePercentageAboveDma100" : 4.86,
-    "pricePercentageAboveDma200" : 4.78,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.89,
+    "pricePercentageAboveDma100" : 4.95,
+    "pricePercentageAboveDma200" : 4.88,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.23,
     "operatingProfitMarginPercentile" : 14.25,
     "netProfitMarginPercentile" : 5.54,
-    "totalTechnicalScore" : 44.42,
+    "totalTechnicalScore" : 39.72,
     "totalFundamentalScore" : 30.03,
-    "totalScore" : 74.45
+    "totalScore" : 69.75
   }
 }

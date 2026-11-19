@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "WSTCSTPAPR",
       "companyName" : "West Coast Paper",
-      "marketCap" : 4381.00,
+      "marketCap" : 4380.00,
       "peRatio" : 13.60,
       "description" : "West Coast Paper Mills Ltd is one of the oldest and the largest producers of paper for printing, writing, and packaging in India. Established in 1955, the Mill is located at Dandeli in Uttara Kannada district in Karnataka. The global quality paper produced by the Company serves the needs of innumerable industries in printing, writing, publishing, stationary, notebooks and packaging sectors in India, in the process contributing to the development of the nation. [1]"
     },
@@ -20,8 +20,8 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.49,
-      "pricePercentageAboveDma100" : 5.01,
+      "pricePercentageAboveDma50" : 5.48,
+      "pricePercentageAboveDma100" : 5.02,
       "pricePercentageAboveDma200" : 4.55,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.11,
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "WSTCSTPAPR",
     "companyName" : "West Coast Paper",
-    "marketCap" : 4381.00,
+    "marketCap" : 4380.00,
     "peRatio" : 13.60,
     "description" : "West Coast Paper Mills Ltd is one of the oldest and the largest producers of paper for printing, writing, and packaging in India. Established in 1955, the Mill is located at Dandeli in Uttara Kannada district in Karnataka. The global quality paper produced by the Company serves the needs of innumerable industries in printing, writing, publishing, stationary, notebooks and packaging sectors in India, in the process contributing to the development of the nation. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 425.70,
-    "dma50" : 463.90,
-    "dma100" : null,
-    "dma200" : 495.88,
-    "volume" : 27012.00
-  }, {
     "date" : "2025-11-19",
     "price" : 428.80,
     "dma50" : 462.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 501.85,
     "dma50" : 428.55,
-    "dma100" : 417.18,
+    "dma100" : null,
     "dma200" : 447.46,
     "volume" : 171184.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 664.68,
     "dma200" : 608.20,
     "volume" : 263432.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 663.10,
+    "dma50" : 732.88,
+    "dma100" : 666.34,
+    "dma200" : 608.75,
+    "volume" : 267653.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 663.30,
-    "dma50" : 735.72,
-    "dma100" : 664.68,
-    "dma200" : 608.20,
-    "volume" : 263432.00
+    "date" : "2026-11-18",
+    "price" : 663.10,
+    "dma50" : 732.88,
+    "dma100" : 666.34,
+    "dma200" : 608.75,
+    "volume" : 267653.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,8 +2673,8 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.49,
-    "pricePercentageAboveDma100" : 5.01,
+    "pricePercentageAboveDma50" : 5.48,
+    "pricePercentageAboveDma100" : 5.02,
     "pricePercentageAboveDma200" : 4.55,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.11,

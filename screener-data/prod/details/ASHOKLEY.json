@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ASHOKLEY",
       "companyName" : "Ashok Leyland",
-      "marketCap" : 94275.00,
-      "peRatio" : 24.90,
+      "marketCap" : 95421.00,
+      "peRatio" : 25.20,
       "description" : "Ashok Leyland is the flagship Company of the Hinduja group, having a long-standing presence in the domestic medium and heavy commercial vehicle (M&HCV) segment. The company has a strong brand and well-diversified distribution and service network across the country and has a presence in 50 countries, it is one of the most fully-integrated manufacturing companies. Its headquarter is in Chennai [1] They manage driver training institutes across India and have trained over 8,00,000 drivers since inception. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.02,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 4.90,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 18.51,
       "netProfitMarginPercentile" : 9.18,
-      "totalTechnicalScore" : 34.97,
+      "totalTechnicalScore" : 39.79,
       "totalFundamentalScore" : 43.59,
-      "totalScore" : 78.56
+      "totalScore" : 83.38
     }
   },
   "attributes" : {
     "companyCode" : "ASHOKLEY",
     "companyName" : "Ashok Leyland",
-    "marketCap" : 94275.00,
-    "peRatio" : 24.90,
+    "marketCap" : 95421.00,
+    "peRatio" : 25.20,
     "description" : "Ashok Leyland is the flagship Company of the Hinduja group, having a long-standing presence in the domestic medium and heavy commercial vehicle (M&HCV) segment. The company has a strong brand and well-diversified distribution and service network across the country and has a presence in 50 countries, it is one of the most fully-integrated manufacturing companies. Its headquarter is in Chennai [1] They manage driver training institutes across India and have trained over 8,00,000 drivers since inception. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 147.23,
-    "dma50" : 138.82,
-    "dma100" : null,
-    "dma200" : 125.74,
-    "volume" : 11760353.00
-  }, {
     "date" : "2025-11-19",
     "price" : 145.46,
     "dma50" : 139.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 176.73,
     "dma50" : 178.02,
-    "dma100" : 180.10,
+    "dma100" : null,
     "dma200" : 160.80,
     "volume" : 15766474.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 161.28,
     "dma200" : 160.15,
     "volume" : 56335301.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 162.45,
+    "dma50" : 159.22,
+    "dma100" : 161.30,
+    "dma200" : 160.18,
+    "volume" : 34022154.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 160.50,
-    "dma50" : 159.09,
-    "dma100" : 161.28,
-    "dma200" : 160.15,
-    "volume" : 56335301.00
+    "date" : "2026-11-18",
+    "price" : 162.45,
+    "dma50" : 159.22,
+    "dma100" : 161.30,
+    "dma200" : 160.18,
+    "volume" : 34022154.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.02,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 4.90,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 18.51,
     "netProfitMarginPercentile" : 9.18,
-    "totalTechnicalScore" : 34.97,
+    "totalTechnicalScore" : 39.79,
     "totalFundamentalScore" : 43.59,
-    "totalScore" : 78.56
+    "totalScore" : 83.38
   }
 }
