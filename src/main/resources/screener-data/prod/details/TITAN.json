@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TITAN",
       "companyName" : "Titan Company",
-      "marketCap" : 435725.00,
-      "peRatio" : 61.30,
+      "marketCap" : 412652.00,
+      "peRatio" : 58.00,
       "description" : "Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.84,
-      "pricePercentageAboveDma200" : 4.53,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 5.12,
+      "pricePercentageAboveDma200" : 4.82,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.89,
       "operatingProfitMarginPercentile" : 19.77,
       "netProfitMarginPercentile" : 9.38,
-      "totalTechnicalScore" : 39.15,
+      "totalTechnicalScore" : 30.00,
       "totalFundamentalScore" : 35.04,
-      "totalScore" : 74.19
+      "totalScore" : 65.04
     }
   },
   "attributes" : {
     "companyCode" : "TITAN",
     "companyName" : "Titan Company",
-    "marketCap" : 435725.00,
-    "peRatio" : 61.30,
+    "marketCap" : 412652.00,
+    "peRatio" : 58.00,
     "description" : "Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 3879.20,
-    "dma50" : 3667.85,
-    "dma100" : null,
-    "dma200" : 3515.45,
-    "volume" : 872979.00
-  }, {
     "date" : "2025-11-19",
     "price" : 3933.10,
     "dma50" : 3678.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 4461.40,
     "dma50" : 4185.64,
-    "dma100" : 4087.30,
+    "dma100" : null,
     "dma200" : 3898.39,
     "volume" : 1362192.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 4756.35,
     "dma200" : 4484.50,
     "volume" : 458654.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 4648.10,
+    "dma50" : 4704.51,
+    "dma100" : 4759.92,
+    "dma200" : 4486.13,
+    "volume" : 1377729.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 4908.00,
-    "dma50" : 4706.81,
-    "dma100" : 4756.35,
-    "dma200" : 4484.50,
-    "volume" : 458654.00
+    "date" : "2026-11-18",
+    "price" : 4648.10,
+    "dma50" : 4704.51,
+    "dma100" : 4759.92,
+    "dma200" : 4486.13,
+    "volume" : 1377729.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 1572.61
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.84,
-    "pricePercentageAboveDma200" : 4.53,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 5.12,
+    "pricePercentageAboveDma200" : 4.82,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.89,
     "operatingProfitMarginPercentile" : 19.77,
     "netProfitMarginPercentile" : 9.38,
-    "totalTechnicalScore" : 39.15,
+    "totalTechnicalScore" : 30.00,
     "totalFundamentalScore" : 35.04,
-    "totalScore" : 74.19
+    "totalScore" : 65.04
   }
 }

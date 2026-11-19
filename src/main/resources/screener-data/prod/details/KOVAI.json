@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KOVAI",
       "companyName" : "Kovai Medical",
-      "marketCap" : 7212.00,
-      "peRatio" : 26.30,
+      "marketCap" : 7101.00,
+      "peRatio" : 25.90,
       "description" : "Kovai Medical Center & Hospital Ltd is a Coimbatore-based company which is in the business of advanced healthcare services. It also forayed into education services in 2019 with the commencement of its new Medical College in Coimbatore.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.54,
-      "pricePercentageAboveDma100" : 4.51,
-      "pricePercentageAboveDma200" : 4.38,
+      "pricePercentageAboveDma50" : 4.64,
+      "pricePercentageAboveDma100" : 4.60,
+      "pricePercentageAboveDma200" : 4.48,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 48.43,
+      "totalTechnicalScore" : 48.71,
       "totalFundamentalScore" : 40.93,
-      "totalScore" : 89.36
+      "totalScore" : 89.64
     }
   },
   "attributes" : {
     "companyCode" : "KOVAI",
     "companyName" : "Kovai Medical",
-    "marketCap" : 7212.00,
-    "peRatio" : 26.30,
+    "marketCap" : 7101.00,
+    "peRatio" : 25.90,
     "description" : "Kovai Medical Center & Hospital Ltd is a Coimbatore-based company which is in the business of advanced healthcare services. It also forayed into education services in 2019 with the commencement of its new Medical College in Coimbatore.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 6056.10,
-    "dma50" : 6312.92,
-    "dma100" : null,
-    "dma200" : 5985.17,
-    "volume" : 6616.00
-  }, {
     "date" : "2025-11-19",
     "price" : 5970.75,
     "dma50" : 6299.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 5434.10,
     "dma50" : 5324.01,
-    "dma100" : 5504.47,
+    "dma100" : null,
     "dma200" : 5636.25,
     "volume" : 5414.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5999.61,
     "dma200" : 5868.29,
     "volume" : 12683.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 6490.50,
+    "dma50" : 6053.45,
+    "dma100" : 6004.32,
+    "dma200" : 5874.48,
+    "volume" : 6104.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 6592.00,
-    "dma50" : 6035.61,
-    "dma100" : 5999.61,
-    "dma200" : 5868.29,
-    "volume" : 12683.00
+    "date" : "2026-11-18",
+    "price" : 6490.50,
+    "dma50" : 6053.45,
+    "dma100" : 6004.32,
+    "dma200" : 5874.48,
+    "volume" : 6104.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.54,
-    "pricePercentageAboveDma100" : 4.51,
-    "pricePercentageAboveDma200" : 4.38,
+    "pricePercentageAboveDma50" : 4.64,
+    "pricePercentageAboveDma100" : 4.60,
+    "pricePercentageAboveDma200" : 4.48,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 48.43,
+    "totalTechnicalScore" : 48.71,
     "totalFundamentalScore" : 40.93,
-    "totalScore" : 89.36
+    "totalScore" : 89.64
   }
 }

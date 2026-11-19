@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SOTL",
       "companyName" : "Savita Oil Tech",
-      "marketCap" : 4461.00,
-      "peRatio" : 7.44,
+      "marketCap" : 4296.00,
+      "peRatio" : 7.17,
       "description" : "Savita Oil Technologies Limited, established in 1961, is a specialty petroleum products company engaged in manufacturing Transformer Oils, White Oils etc. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.27,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 4.42,
+      "pricePercentageAboveDma50" : 5.43,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 4.63,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 19.08,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 34.84,
+      "totalTechnicalScore" : 35.40,
       "totalFundamentalScore" : 48.38,
-      "totalScore" : 83.22
+      "totalScore" : 83.78
     }
   },
   "attributes" : {
     "companyCode" : "SOTL",
     "companyName" : "Savita Oil Tech",
-    "marketCap" : 4461.00,
-    "peRatio" : 7.44,
+    "marketCap" : 4296.00,
+    "peRatio" : 7.17,
     "description" : "Savita Oil Technologies Limited, established in 1961, is a specialty petroleum products company engaged in manufacturing Transformer Oils, White Oils etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 385.00,
-    "dma50" : 398.29,
-    "dma100" : null,
-    "dma200" : 419.38,
-    "volume" : 12576.00
-  }, {
     "date" : "2025-11-19",
     "price" : 380.05,
     "dma50" : 397.58,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 364.95,
     "dma50" : 345.07,
-    "dma100" : 357.40,
+    "dma100" : null,
     "dma200" : 377.85,
     "volume" : 27392.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 671.59,
     "dma200" : 582.77,
     "volume" : 86464.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 626.60,
+    "dma50" : 685.36,
+    "dma100" : 672.58,
+    "dma200" : 583.21,
+    "volume" : 78663.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 650.60,
-    "dma50" : 687.76,
-    "dma100" : 671.59,
-    "dma200" : 582.77,
-    "volume" : 86464.00
+    "date" : "2026-11-18",
+    "price" : 626.60,
+    "dma50" : 685.36,
+    "dma100" : 672.58,
+    "dma200" : 583.21,
+    "volume" : 78663.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.27,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 4.42,
+    "pricePercentageAboveDma50" : 5.43,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 4.63,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 19.08,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 34.84,
+    "totalTechnicalScore" : 35.40,
     "totalFundamentalScore" : 48.38,
-    "totalScore" : 83.22
+    "totalScore" : 83.78
   }
 }

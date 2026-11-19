@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HESTERBIO",
       "companyName" : "Hester Bios",
-      "marketCap" : 1978.00,
-      "peRatio" : 33.70,
+      "marketCap" : 1997.00,
+      "peRatio" : 34.00,
       "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.84,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.40,
+      "pricePercentageAboveDma50" : 4.80,
+      "pricePercentageAboveDma100" : 4.88,
+      "pricePercentageAboveDma200" : 4.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.18,
       "operatingProfitMarginPercentile" : 9.30,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 39.18,
+      "totalTechnicalScore" : 39.03,
       "totalFundamentalScore" : 30.92,
-      "totalScore" : 70.09
+      "totalScore" : 69.95
     }
   },
   "attributes" : {
     "companyCode" : "HESTERBIO",
     "companyName" : "Hester Bios",
-    "marketCap" : 1978.00,
-    "peRatio" : 33.70,
+    "marketCap" : 1997.00,
+    "peRatio" : 34.00,
     "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1686.80,
-    "dma50" : 1760.48,
-    "dma100" : null,
-    "dma200" : 1874.14,
-    "volume" : 3162.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1670.90,
     "dma50" : 1756.97,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1482.80,
     "dma50" : 1462.93,
-    "dma100" : 1524.46,
+    "dma100" : null,
     "dma200" : 1640.07,
     "volume" : 2853.00
   }, {
@@ -995,7 +988,7 @@
     "date" : "2026-06-09",
     "price" : 1942.40,
     "dma50" : 1744.48,
-    "dma100" : 1578.21,
+    "dma100" : 1578.20,
     "dma200" : 1683.10,
     "volume" : 9744.00
   }, {
@@ -1366,7 +1359,7 @@
     "date" : "2026-08-24",
     "price" : 2364.50,
     "dma50" : 2304.30,
-    "dma100" : 2014.73,
+    "dma100" : 2014.72,
     "dma200" : 1949.27,
     "volume" : 1816.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2292.98,
     "dma200" : 2075.49,
     "volume" : 4070.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2348.00,
+    "dma50" : 2258.29,
+    "dma100" : 2294.15,
+    "dma200" : 2078.20,
+    "volume" : 1561.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2324.60,
-    "dma50" : 2254.63,
-    "dma100" : 2292.98,
-    "dma200" : 2075.49,
-    "volume" : 4070.00
+    "date" : "2026-11-18",
+    "price" : 2348.00,
+    "dma50" : 2258.29,
+    "dma100" : 2294.15,
+    "dma200" : 2078.20,
+    "volume" : 1561.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.84,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.40,
+    "pricePercentageAboveDma50" : 4.80,
+    "pricePercentageAboveDma100" : 4.88,
+    "pricePercentageAboveDma200" : 4.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.18,
     "operatingProfitMarginPercentile" : 9.30,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 39.18,
+    "totalTechnicalScore" : 39.03,
     "totalFundamentalScore" : 30.92,
-    "totalScore" : 70.09
+    "totalScore" : 69.95
   }
 }

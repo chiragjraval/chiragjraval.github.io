@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "STALLION",
       "companyName" : "Stallion India",
-      "marketCap" : 2072.00,
-      "peRatio" : 48.10,
+      "marketCap" : 2084.00,
+      "peRatio" : 48.40,
       "description" : "Incorporated in 2002, Stallion India Fluorochemicals Limited is engaged in selling Refrigerant and Industrial Gases and related products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.62,
-      "pricePercentageAboveDma100" : 5.87,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.57,
+      "pricePercentageAboveDma100" : 5.84,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.46,
       "operatingProfitMarginPercentile" : 2.00,
       "netProfitMarginPercentile" : 2.00,
-      "totalTechnicalScore" : 26.84,
+      "totalTechnicalScore" : 26.74,
       "totalFundamentalScore" : 17.46,
-      "totalScore" : 44.30
+      "totalScore" : 44.20
     }
   },
   "attributes" : {
     "companyCode" : "STALLION",
     "companyName" : "Stallion India",
-    "marketCap" : 2072.00,
-    "peRatio" : 48.10,
+    "marketCap" : 2084.00,
+    "peRatio" : 48.40,
     "description" : "Incorporated in 2002, Stallion India Fluorochemicals Limited is engaged in selling Refrigerant and Industrial Gases and related products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 183.04,
-    "dma50" : 209.62,
-    "dma100" : null,
-    "dma200" : 142.87,
-    "volume" : 576717.00
-  }, {
     "date" : "2025-11-19",
     "price" : 174.20,
     "dma50" : 208.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 147.03,
     "dma50" : 133.11,
-    "dma100" : 153.08,
+    "dma100" : null,
     "dma200" : 145.33,
     "volume" : 2263466.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 216.01,
     "dma200" : 192.11,
     "volume" : 1356743.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 179.51,
+    "dma50" : 202.76,
+    "dma100" : 215.98,
+    "dma200" : 191.99,
+    "volume" : 513992.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 178.52,
-    "dma50" : 203.71,
-    "dma100" : 216.01,
-    "dma200" : 192.11,
-    "volume" : 1356743.00
+    "date" : "2026-11-18",
+    "price" : 179.51,
+    "dma50" : 202.76,
+    "dma100" : 215.98,
+    "dma200" : 191.99,
+    "volume" : 513992.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,15 +1903,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.62,
-    "pricePercentageAboveDma100" : 5.87,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.57,
+    "pricePercentageAboveDma100" : 5.84,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.46,
     "operatingProfitMarginPercentile" : 2.00,
     "netProfitMarginPercentile" : 2.00,
-    "totalTechnicalScore" : 26.84,
+    "totalTechnicalScore" : 26.74,
     "totalFundamentalScore" : 17.46,
-    "totalScore" : 44.30
+    "totalScore" : 44.20
   }
 }

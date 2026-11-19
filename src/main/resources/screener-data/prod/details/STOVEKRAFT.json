@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "STOVEKRAFT",
       "companyName" : "Stove Kraft",
-      "marketCap" : 2548.00,
-      "peRatio" : 45.20,
+      "marketCap" : 2567.00,
+      "peRatio" : 45.50,
       "description" : "StoveKraft Ltd was incorporated in 1999 by Mr. Rajendra Gandhi. [1] It manufactures a wide range of kitchen solutions under Pigeon (value), Gilma (semi-premium) brands and acts as an exclusive partner for kitchen appliances of the BLACK + DECKER (premium) brand. The products comprise cookware and cooking appliances, while the home solutions consist of various household utilities, including the recently introduced LED bulbs, oxymeters, etc. [2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.19,
-      "pricePercentageAboveDma200" : 4.69,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.16,
+      "pricePercentageAboveDma200" : 4.65,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.17,
       "operatingProfitMarginPercentile" : 18.57,
       "netProfitMarginPercentile" : 7.86,
-      "totalTechnicalScore" : 35.08,
+      "totalTechnicalScore" : 29.96,
       "totalFundamentalScore" : 40.60,
-      "totalScore" : 75.67
+      "totalScore" : 70.56
     }
   },
   "attributes" : {
     "companyCode" : "STOVEKRAFT",
     "companyName" : "Stove Kraft",
-    "marketCap" : 2548.00,
-    "peRatio" : 45.20,
+    "marketCap" : 2567.00,
+    "peRatio" : 45.50,
     "description" : "StoveKraft Ltd was incorporated in 1999 by Mr. Rajendra Gandhi. [1] It manufactures a wide range of kitchen solutions under Pigeon (value), Gilma (semi-premium) brands and acts as an exclusive partner for kitchen appliances of the BLACK + DECKER (premium) brand. The products comprise cookware and cooking appliances, while the home solutions consist of various household utilities, including the recently introduced LED bulbs, oxymeters, etc. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 631.15,
-    "dma50" : 675.70,
-    "dma100" : null,
-    "dma200" : 669.21,
-    "volume" : 73610.00
-  }, {
     "date" : "2025-11-19",
     "price" : 616.15,
     "dma50" : 673.36,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 561.80,
     "dma50" : 517.81,
-    "dma100" : 538.65,
+    "dma100" : null,
     "dma200" : 580.60,
     "volume" : 170807.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 800.42,
     "dma200" : 724.62,
     "volume" : 38425.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 775.45,
+    "dma50" : 800.06,
+    "dma100" : 800.38,
+    "dma200" : 725.13,
+    "volume" : 62644.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 769.55,
-    "dma50" : 801.06,
-    "dma100" : 800.42,
-    "dma200" : 724.62,
-    "volume" : 38425.00
+    "date" : "2026-11-18",
+    "price" : 775.45,
+    "dma50" : 800.06,
+    "dma100" : 800.38,
+    "dma200" : 725.13,
+    "volume" : 62644.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-12-31",
@@ -2080,18 +2080,18 @@
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.19,
-    "pricePercentageAboveDma200" : 4.69,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.16,
+    "pricePercentageAboveDma200" : 4.65,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.17,
     "operatingProfitMarginPercentile" : 18.57,
     "netProfitMarginPercentile" : 7.86,
-    "totalTechnicalScore" : 35.08,
+    "totalTechnicalScore" : 29.96,
     "totalFundamentalScore" : 40.60,
-    "totalScore" : 75.67
+    "totalScore" : 70.56
   }
 }

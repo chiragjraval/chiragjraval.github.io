@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "NAVA",
       "companyName" : "Nava",
-      "marketCap" : 15503.00,
-      "peRatio" : 16.40,
+      "marketCap" : 15253.00,
+      "peRatio" : 16.20,
       "description" : "Nava Bharat Ventures Ltd was established in 1972 as an Indian ferro alloys manufacturer, Nava Bharat is now a multinational company, operating in India, South East Asia and Africa with businesses in metals manufacturing, power, mining, agribusiness and healthcare. [1] It owns Ferro Alloy facilities which are situated in Paloncha (Telangana) and Kharagprasad (Odisha). It also owns power generation capacity of 434 MW from its 8 thermal power plants located in different states of India. [2] Its 65% owned subsidiary Maamba Collieries Ltd is Zambia’s largest coal mine concessionaire, which also led to the development of a 300 MW power plant in Zambia which represents 10% of Zambia’s total installed power generation capacity. [2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 5.18,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 5.25,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.57,
       "operatingProfitMarginPercentile" : 13.56,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 25.24,
+      "totalTechnicalScore" : 20.47,
       "totalFundamentalScore" : 31.57,
-      "totalScore" : 56.81
+      "totalScore" : 52.04
     }
   },
   "attributes" : {
     "companyCode" : "NAVA",
     "companyName" : "Nava",
-    "marketCap" : 15503.00,
-    "peRatio" : 16.40,
+    "marketCap" : 15253.00,
+    "peRatio" : 16.20,
     "description" : "Nava Bharat Ventures Ltd was established in 1972 as an Indian ferro alloys manufacturer, Nava Bharat is now a multinational company, operating in India, South East Asia and Africa with businesses in metals manufacturing, power, mining, agribusiness and healthcare. [1] It owns Ferro Alloy facilities which are situated in Paloncha (Telangana) and Kharagprasad (Odisha). It also owns power generation capacity of 434 MW from its 8 thermal power plants located in different states of India. [2] Its 65% owned subsidiary Maamba Collieries Ltd is Zambia’s largest coal mine concessionaire, which also led to the development of a 300 MW power plant in Zambia which represents 10% of Zambia’s total installed power generation capacity. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 546.90,
-    "dma50" : 609.97,
-    "dma100" : null,
-    "dma200" : 564.60,
-    "volume" : 164100.00
-  }, {
     "date" : "2025-11-19",
     "price" : 535.85,
     "dma50" : 607.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 626.50,
     "dma50" : 571.34,
-    "dma100" : 560.66,
+    "dma100" : null,
     "dma200" : 563.96,
     "volume" : 292929.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 559.65,
     "dma200" : 567.01,
     "volume" : 192920.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 538.35,
+    "dma50" : 542.29,
+    "dma100" : 558.97,
+    "dma200" : 566.73,
+    "volume" : 141071.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 547.15,
-    "dma50" : 542.46,
-    "dma100" : 559.65,
-    "dma200" : 567.01,
-    "volume" : 192920.00
+    "date" : "2026-11-18",
+    "price" : 538.35,
+    "dma50" : 542.29,
+    "dma100" : 558.97,
+    "dma200" : 566.73,
+    "volume" : 141071.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 111.85
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 5.18,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 5.25,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.57,
     "operatingProfitMarginPercentile" : 13.56,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 25.24,
+    "totalTechnicalScore" : 20.47,
     "totalFundamentalScore" : 31.57,
-    "totalScore" : 56.81
+    "totalScore" : 52.04
   }
 }

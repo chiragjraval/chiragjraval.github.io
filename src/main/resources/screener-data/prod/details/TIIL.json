@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TIIL",
       "companyName" : "Technocraf.Inds.",
-      "marketCap" : 6472.00,
-      "peRatio" : 17.10,
+      "marketCap" : 6370.00,
+      "peRatio" : 16.80,
       "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 4.91,
-      "pricePercentageAboveDma200" : 4.67,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.00,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.95,
       "operatingProfitMarginPercentile" : 13.94,
       "netProfitMarginPercentile" : 7.62,
-      "totalTechnicalScore" : 44.46,
+      "totalTechnicalScore" : 44.71,
       "totalFundamentalScore" : 35.51,
-      "totalScore" : 79.96
+      "totalScore" : 80.22
     }
   },
   "attributes" : {
     "companyCode" : "TIIL",
     "companyName" : "Technocraf.Inds.",
-    "marketCap" : 6472.00,
-    "peRatio" : 17.10,
+    "marketCap" : 6370.00,
+    "peRatio" : 16.80,
     "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2438.50,
-    "dma50" : 2469.01,
-    "dma100" : null,
-    "dma200" : 2658.30,
-    "volume" : 8062.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2412.30,
     "dma50" : 2466.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2527.80,
     "dma50" : 2251.01,
-    "dma100" : 2230.65,
+    "dma100" : null,
     "dma200" : 2387.51,
     "volume" : 16571.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2806.21,
     "dma200" : 2677.13,
     "volume" : 44084.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2809.60,
+    "dma50" : 2785.75,
+    "dma100" : 2808.72,
+    "dma200" : 2678.45,
+    "volume" : 33534.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2854.60,
-    "dma50" : 2784.77,
-    "dma100" : 2806.21,
-    "dma200" : 2677.13,
-    "volume" : 44084.00
+    "date" : "2026-11-18",
+    "price" : 2809.60,
+    "dma50" : 2785.75,
+    "dma100" : 2808.72,
+    "dma200" : 2678.45,
+    "volume" : 33534.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2603,15 +2603,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 4.91,
-    "pricePercentageAboveDma200" : 4.67,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.00,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.95,
     "operatingProfitMarginPercentile" : 13.94,
     "netProfitMarginPercentile" : 7.62,
-    "totalTechnicalScore" : 44.46,
+    "totalTechnicalScore" : 44.71,
     "totalFundamentalScore" : 35.51,
-    "totalScore" : 79.96
+    "totalScore" : 80.22
   }
 }

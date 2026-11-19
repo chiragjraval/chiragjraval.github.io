@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "JGCHEM",
       "companyName" : "J.G.Chemicals",
-      "marketCap" : 2225.00,
-      "peRatio" : 25.40,
+      "marketCap" : 2160.00,
+      "peRatio" : 24.70,
       "description" : "Incorporated in 2001, J.G Chemicals is a leading Zinc Oxide Manufacturer having the capability to produce up to 80 grades of Zinc oxide[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.18,
-      "pricePercentageAboveDma100" : 4.97,
-      "pricePercentageAboveDma200" : 4.41,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.13,
+      "pricePercentageAboveDma200" : 4.58,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 6.49,
-      "totalTechnicalScore" : 39.55,
+      "totalTechnicalScore" : 35.01,
       "totalFundamentalScore" : 42.49,
-      "totalScore" : 82.04
+      "totalScore" : 77.50
     }
   },
   "attributes" : {
     "companyCode" : "JGCHEM",
     "companyName" : "J.G.Chemicals",
-    "marketCap" : 2225.00,
-    "peRatio" : 25.40,
+    "marketCap" : 2160.00,
+    "peRatio" : 24.70,
     "description" : "Incorporated in 2001, J.G Chemicals is a leading Zinc Oxide Manufacturer having the capability to produce up to 80 grades of Zinc oxide[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 389.15,
-    "dma50" : 430.28,
-    "dma100" : null,
-    "dma200" : 410.93,
-    "volume" : 119219.00
-  }, {
     "date" : "2025-11-19",
     "price" : 387.95,
     "dma50" : 428.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 374.15,
     "dma50" : 349.77,
-    "dma100" : 354.09,
+    "dma100" : null,
     "dma200" : 373.41,
     "volume" : 75923.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 564.08,
     "dma200" : 507.73,
     "volume" : 77573.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 551.10,
+    "dma50" : 587.52,
+    "dma100" : 565.42,
+    "dma200" : 508.16,
+    "volume" : 115974.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 567.85,
-    "dma50" : 589.01,
-    "dma100" : 564.08,
-    "dma200" : 507.73,
-    "volume" : 77573.00
+    "date" : "2026-11-18",
+    "price" : 551.10,
+    "dma50" : 587.52,
+    "dma100" : 565.42,
+    "dma200" : 508.16,
+    "volume" : 115974.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-03-31",
@@ -1948,20 +1948,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.18,
-    "pricePercentageAboveDma100" : 4.97,
-    "pricePercentageAboveDma200" : 4.41,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.13,
+    "pricePercentageAboveDma200" : 4.58,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 6.49,
-    "totalTechnicalScore" : 39.55,
+    "totalTechnicalScore" : 35.01,
     "totalFundamentalScore" : 42.49,
-    "totalScore" : 82.04
+    "totalScore" : 77.50
   }
 }

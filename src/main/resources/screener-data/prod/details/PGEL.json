@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PGEL",
       "companyName" : "PG Electroplast",
-      "marketCap" : 15284.00,
-      "peRatio" : 70.50,
+      "marketCap" : 15462.00,
+      "peRatio" : 71.40,
       "description" : "PG Electroplast Limited (PGEL) is the flagship company of PG Group. While the PG Group had started its journey in 1977, PG Electroplast was formally set up in 2003 and is a leading, diversified Indian Electronic Manufacturing Service provider. It specializes in Original Design Manufacturing (ODM), Original Equipment Manufacturing (OEM) and Plastic Injection Molding, catering to 50+ leading Indian and Global brands.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.23,
-      "pricePercentageAboveDma200" : 5.20,
+      "pricePercentageAboveDma50" : 4.98,
+      "pricePercentageAboveDma100" : 5.17,
+      "pricePercentageAboveDma200" : 5.14,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.86,
       "operatingProfitMarginPercentile" : 17.03,
       "netProfitMarginPercentile" : 8.40,
-      "totalTechnicalScore" : 20.46,
+      "totalTechnicalScore" : 25.29,
       "totalFundamentalScore" : 41.30,
-      "totalScore" : 61.76
+      "totalScore" : 66.59
     }
   },
   "attributes" : {
     "companyCode" : "PGEL",
     "companyName" : "PG Electroplast",
-    "marketCap" : 15284.00,
-    "peRatio" : 70.50,
+    "marketCap" : 15462.00,
+    "peRatio" : 71.40,
     "description" : "PG Electroplast Limited (PGEL) is the flagship company of PG Group. While the PG Group had started its journey in 1977, PG Electroplast was formally set up in 2003 and is a leading, diversified Indian Electronic Manufacturing Service provider. It specializes in Original Design Manufacturing (ODM), Original Equipment Manufacturing (OEM) and Plastic Injection Molding, catering to 50+ leading Indian and Global brands.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 582.90,
-    "dma50" : 572.95,
-    "dma100" : null,
-    "dma200" : 653.40,
-    "volume" : 3487738.00
-  }, {
     "date" : "2025-11-19",
     "price" : 579.80,
     "dma50" : 573.22,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 557.65,
     "dma50" : 534.16,
-    "dma100" : 563.21,
+    "dma100" : null,
     "dma200" : 592.12,
     "volume" : 6852093.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 558.43,
     "dma200" : 555.03,
     "volume" : 806564.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 539.20,
+    "dma50" : 536.97,
+    "dma100" : 558.36,
+    "dma200" : 554.87,
+    "volume" : 801284.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 533.00,
-    "dma50" : 536.88,
-    "dma100" : 558.43,
-    "dma200" : 555.03,
-    "volume" : 806564.00
+    "date" : "2026-11-18",
+    "price" : 539.20,
+    "dma50" : 536.97,
+    "dma100" : 558.36,
+    "dma200" : 554.87,
+    "volume" : 801284.00
   },
   "quarterlyResults" : [ {
     "date" : "2011-06-30",
@@ -2417,21 +2417,21 @@
     "netProfit" : 25.88
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.23,
-    "pricePercentageAboveDma200" : 5.20,
+    "pricePercentageAboveDma50" : 4.98,
+    "pricePercentageAboveDma100" : 5.17,
+    "pricePercentageAboveDma200" : 5.14,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.86,
     "operatingProfitMarginPercentile" : 17.03,
     "netProfitMarginPercentile" : 8.40,
-    "totalTechnicalScore" : 20.46,
+    "totalTechnicalScore" : 25.29,
     "totalFundamentalScore" : 41.30,
-    "totalScore" : 61.76
+    "totalScore" : 66.59
   }
 }

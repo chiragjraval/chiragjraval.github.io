@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PNBGILTS",
       "companyName" : "PNB Gilts",
-      "marketCap" : 1420.00,
-      "peRatio" : 7.41,
+      "marketCap" : 1446.00,
+      "peRatio" : 7.55,
       "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.85,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 5.08,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 4.99,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.72,
       "operatingProfitMarginPercentile" : 18.62,
       "netProfitMarginPercentile" : 8.90,
-      "totalTechnicalScore" : 19.99,
+      "totalTechnicalScore" : 29.72,
       "totalFundamentalScore" : 36.23,
-      "totalScore" : 56.22
+      "totalScore" : 65.95
     }
   },
   "attributes" : {
     "companyCode" : "PNBGILTS",
     "companyName" : "PNB Gilts",
-    "marketCap" : 1420.00,
-    "peRatio" : 7.41,
+    "marketCap" : 1446.00,
+    "peRatio" : 7.55,
     "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 86.74,
-    "dma50" : 93.69,
-    "dma100" : null,
-    "dma200" : 98.39,
-    "volume" : 255776.00
-  }, {
     "date" : "2025-11-19",
     "price" : 86.76,
     "dma50" : 93.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 75.94,
     "dma50" : 73.13,
-    "dma100" : 77.79,
+    "dma100" : null,
     "dma200" : 84.49,
     "volume" : 420795.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 79.76,
     "dma200" : 80.22,
     "volume" : 602722.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 80.34,
+    "dma50" : 76.76,
+    "dma100" : 79.66,
+    "dma200" : 80.22,
+    "volume" : 1525991.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 78.91,
-    "dma50" : 76.62,
-    "dma100" : 79.76,
+    "date" : "2026-11-18",
+    "price" : 80.34,
+    "dma50" : 76.76,
+    "dma100" : 79.66,
     "dma200" : 80.22,
-    "volume" : 602722.00
+    "volume" : 1525991.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.85,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 5.08,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 4.99,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.72,
     "operatingProfitMarginPercentile" : 18.62,
     "netProfitMarginPercentile" : 8.90,
-    "totalTechnicalScore" : 19.99,
+    "totalTechnicalScore" : 29.72,
     "totalFundamentalScore" : 36.23,
-    "totalScore" : 56.22
+    "totalScore" : 65.95
   }
 }

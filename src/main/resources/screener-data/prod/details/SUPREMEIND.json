@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUPREMEIND",
       "companyName" : "Supreme Inds.",
-      "marketCap" : 41046.00,
-      "peRatio" : 36.30,
+      "marketCap" : 40026.00,
+      "peRatio" : 35.40,
       "description" : "Supreme Industries Limited is India’s leading plastics product manufacturer, offering a wide and comprehensive range of plastic products in India. The company operates in various product categories viz. Plastic Piping System, Cross Laminated Films & Products, Protective Packaging Products, Industrial Moulded Components, Moulded Furniture, Storage & Material Handling Products, Performance Packaging Films and Composite LPG Cylinders.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.29,
-      "pricePercentageAboveDma200" : 5.44,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.40,
+      "pricePercentageAboveDma200" : 5.55,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 8.09,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 15.95,
+      "totalTechnicalScore" : 16.28,
       "totalFundamentalScore" : 34.05,
-      "totalScore" : 50.00
+      "totalScore" : 50.33
     }
   },
   "attributes" : {
     "companyCode" : "SUPREMEIND",
     "companyName" : "Supreme Inds.",
-    "marketCap" : 41046.00,
-    "peRatio" : 36.30,
+    "marketCap" : 40026.00,
+    "peRatio" : 35.40,
     "description" : "Supreme Industries Limited is India’s leading plastics product manufacturer, offering a wide and comprehensive range of plastic products in India. The company operates in various product categories viz. Plastic Piping System, Cross Laminated Films & Products, Protective Packaging Products, Industrial Moulded Components, Moulded Furniture, Storage & Material Handling Products, Performance Packaging Films and Composite LPG Cylinders.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 3618.40,
-    "dma50" : 4059.21,
-    "dma100" : null,
-    "dma200" : 4185.87,
-    "volume" : 190429.00
-  }, {
     "date" : "2025-11-19",
     "price" : 3591.00,
     "dma50" : 4040.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 3663.80,
     "dma50" : 3778.20,
-    "dma100" : 3622.61,
+    "dma100" : null,
     "dma200" : 3862.77,
     "volume" : 618483.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3426.90,
     "dma200" : 3543.86,
     "volume" : 165343.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 3151.00,
+    "dma50" : 3374.69,
+    "dma100" : 3424.19,
+    "dma200" : 3539.95,
+    "volume" : 131338.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 3231.30,
-    "dma50" : 3383.82,
-    "dma100" : 3426.90,
-    "dma200" : 3543.86,
-    "volume" : 165343.00
+    "date" : "2026-11-18",
+    "price" : 3151.00,
+    "dma50" : 3374.69,
+    "dma100" : 3424.19,
+    "dma200" : 3539.95,
+    "volume" : 131338.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.29,
-    "pricePercentageAboveDma200" : 5.44,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.40,
+    "pricePercentageAboveDma200" : 5.55,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 8.09,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 15.95,
+    "totalTechnicalScore" : 16.28,
     "totalFundamentalScore" : 34.05,
-    "totalScore" : 50.00
+    "totalScore" : 50.33
   }
 }

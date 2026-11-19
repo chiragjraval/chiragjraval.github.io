@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FORCEMOT",
       "companyName" : "Force Motors",
-      "marketCap" : 26280.00,
-      "peRatio" : 25.20,
+      "marketCap" : 26468.00,
+      "peRatio" : 25.40,
       "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.46,
-      "pricePercentageAboveDma100" : 4.41,
-      "pricePercentageAboveDma200" : 4.51,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.45,
+      "pricePercentageAboveDma100" : 4.38,
+      "pricePercentageAboveDma200" : 4.48,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 38.38,
+      "totalTechnicalScore" : 33.30,
       "totalFundamentalScore" : 45.48,
-      "totalScore" : 83.86
+      "totalScore" : 78.78
     }
   },
   "attributes" : {
     "companyCode" : "FORCEMOT",
     "companyName" : "Force Motors",
-    "marketCap" : 26280.00,
-    "peRatio" : 25.20,
+    "marketCap" : 26468.00,
+    "peRatio" : 25.40,
     "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 17440.00,
-    "dma50" : 17380.81,
-    "dma100" : null,
-    "dma200" : 14344.85,
-    "volume" : 39964.00
-  }, {
     "date" : "2025-11-19",
     "price" : 17618.00,
     "dma50" : 17390.11,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 22538.00,
     "dma50" : 21486.55,
-    "dma100" : 20407.59,
+    "dma100" : null,
     "dma200" : 18458.83,
     "volume" : 142823.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 17841.45,
     "dma200" : 18174.20,
     "volume" : 91705.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 20088.00,
+    "dma50" : 18081.57,
+    "dma100" : 17858.42,
+    "dma200" : 18193.24,
+    "volume" : 63668.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 19945.00,
-    "dma50" : 17999.68,
-    "dma100" : 17841.45,
-    "dma200" : 18174.20,
-    "volume" : 91705.00
+    "date" : "2026-11-18",
+    "price" : 20088.00,
+    "dma50" : 18081.57,
+    "dma100" : 17858.42,
+    "dma200" : 18193.24,
+    "volume" : 63668.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.46,
-    "pricePercentageAboveDma100" : 4.41,
-    "pricePercentageAboveDma200" : 4.51,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.45,
+    "pricePercentageAboveDma100" : 4.38,
+    "pricePercentageAboveDma200" : 4.48,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 38.38,
+    "totalTechnicalScore" : 33.30,
     "totalFundamentalScore" : 45.48,
-    "totalScore" : 83.86
+    "totalScore" : 78.78
   }
 }

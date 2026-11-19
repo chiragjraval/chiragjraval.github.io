@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DIXON",
       "companyName" : "Dixon Technolog.",
-      "marketCap" : 80067.00,
-      "peRatio" : 51.60,
+      "marketCap" : 77214.00,
+      "peRatio" : 49.80,
       "description" : "Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered a JV with Imagine Marketing Private Limited for designing and manufacturing wireless audio solutions in India.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 5.09,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 5.26,
+      "pricePercentageAboveDma200" : 5.10,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.11,
       "operatingProfitMarginPercentile" : 13.33,
       "netProfitMarginPercentile" : 9.05,
-      "totalTechnicalScore" : 29.86,
+      "totalTechnicalScore" : 20.40,
       "totalFundamentalScore" : 34.49,
-      "totalScore" : 64.35
+      "totalScore" : 54.89
     }
   },
   "attributes" : {
     "companyCode" : "DIXON",
     "companyName" : "Dixon Technolog.",
-    "marketCap" : 80067.00,
-    "peRatio" : 51.60,
+    "marketCap" : 77214.00,
+    "peRatio" : 49.80,
     "description" : "Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered a JV with Imagine Marketing Private Limited for designing and manufacturing wireless audio solutions in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 15697.00,
-    "dma50" : 16141.02,
-    "dma100" : null,
-    "dma200" : 15652.93,
-    "volume" : 200172.00
-  }, {
     "date" : "2025-11-19",
     "price" : 15540.00,
     "dma50" : 16117.45,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 11287.00,
     "dma50" : 10788.38,
-    "dma100" : 11655.24,
+    "dma100" : null,
     "dma200" : 12906.06,
     "volume" : 1129935.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 13311.50,
     "dma200" : 12875.42,
     "volume" : 395801.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 12615.00,
+    "dma50" : 12713.33,
+    "dma100" : 13317.52,
+    "dma200" : 12872.83,
+    "volume" : 274872.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 13081.00,
-    "dma50" : 12717.34,
-    "dma100" : 13311.50,
-    "dma200" : 12875.42,
-    "volume" : 395801.00
+    "date" : "2026-11-18",
+    "price" : 12615.00,
+    "dma50" : 12713.33,
+    "dma100" : 13317.52,
+    "dma200" : 12872.83,
+    "volume" : 274872.00
   },
   "quarterlyResults" : [ {
     "date" : "2016-06-30",
@@ -2217,21 +2217,21 @@
     "netProfit" : 123.47
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 5.09,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 5.26,
+    "pricePercentageAboveDma200" : 5.10,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.11,
     "operatingProfitMarginPercentile" : 13.33,
     "netProfitMarginPercentile" : 9.05,
-    "totalTechnicalScore" : 29.86,
+    "totalTechnicalScore" : 20.40,
     "totalFundamentalScore" : 34.49,
-    "totalScore" : 64.35
+    "totalScore" : 54.89
   }
 }

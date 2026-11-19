@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NBCC",
       "companyName" : "NBCC",
-      "marketCap" : 21198.00,
-      "peRatio" : 28.80,
+      "marketCap" : 20876.00,
+      "peRatio" : 28.30,
       "description" : "NBCC (India) Limited is a Government of India Navratna Enterprise under the Ministry of Housing and Urban Affairs. The Co. operates in three major segments - Project Management Consultancy, Engineering Procurement & Construction, and Real Estate. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.45,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma50" : 5.11,
+      "pricePercentageAboveDma100" : 5.50,
+      "pricePercentageAboveDma200" : 5.69,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.21,
       "operatingProfitMarginPercentile" : 17.67,
       "netProfitMarginPercentile" : 9.49,
-      "totalTechnicalScore" : 16.12,
+      "totalTechnicalScore" : 16.31,
       "totalFundamentalScore" : 45.37,
-      "totalScore" : 61.50
+      "totalScore" : 61.68
     }
   },
   "attributes" : {
     "companyCode" : "NBCC",
     "companyName" : "NBCC",
-    "marketCap" : 21198.00,
-    "peRatio" : 28.80,
+    "marketCap" : 20876.00,
+    "peRatio" : 28.30,
     "description" : "NBCC (India) Limited is a Government of India Navratna Enterprise under the Ministry of Housing and Urban Affairs. The Co. operates in three major segments - Project Management Consultancy, Engineering Procurement & Construction, and Real Estate. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 114.96,
-    "dma50" : 111.79,
-    "dma100" : null,
-    "dma200" : 106.46,
-    "volume" : 10044288.00
-  }, {
     "date" : "2025-11-19",
     "price" : 113.04,
     "dma50" : 111.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 93.05,
     "dma50" : 90.85,
-    "dma100" : 100.93,
+    "dma100" : null,
     "dma200" : 100.91,
     "volume" : 13482294.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 86.26,
     "dma200" : 89.92,
     "volume" : 6161173.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 77.32,
+    "dma50" : 79.07,
+    "dma100" : 85.96,
+    "dma200" : 89.80,
+    "volume" : 9541565.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 78.51,
-    "dma50" : 79.15,
-    "dma100" : 86.26,
-    "dma200" : 89.92,
-    "volume" : 6161173.00
+    "date" : "2026-11-18",
+    "price" : 77.32,
+    "dma50" : 79.07,
+    "dma100" : 85.96,
+    "dma200" : 89.80,
+    "volume" : 9541565.00
   },
   "quarterlyResults" : [ {
     "date" : "2011-12-31",
@@ -2403,15 +2403,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.45,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma50" : 5.11,
+    "pricePercentageAboveDma100" : 5.50,
+    "pricePercentageAboveDma200" : 5.69,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.21,
     "operatingProfitMarginPercentile" : 17.67,
     "netProfitMarginPercentile" : 9.49,
-    "totalTechnicalScore" : 16.12,
+    "totalTechnicalScore" : 16.31,
     "totalFundamentalScore" : 45.37,
-    "totalScore" : 61.50
+    "totalScore" : 61.68
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTRAZEN",
       "companyName" : "Astrazeneca Phar",
-      "marketCap" : 15420.00,
-      "peRatio" : 81.90,
+      "marketCap" : 15109.00,
+      "peRatio" : 80.30,
       "description" : "AstraZeneca Pharma India Ltd is engaged in the business of manufacture, distribution and marketing of pharmaceutical products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.22,
-      "pricePercentageAboveDma100" : 5.65,
-      "pricePercentageAboveDma200" : 5.88,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.73,
+      "pricePercentageAboveDma200" : 5.96,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.87,
       "operatingProfitMarginPercentile" : 14.83,
       "netProfitMarginPercentile" : 7.87,
-      "totalTechnicalScore" : 21.76,
+      "totalTechnicalScore" : 21.99,
       "totalFundamentalScore" : 39.57,
-      "totalScore" : 61.33
+      "totalScore" : 61.56
     }
   },
   "attributes" : {
     "companyCode" : "ASTRAZEN",
     "companyName" : "Astrazeneca Phar",
-    "marketCap" : 15420.00,
-    "peRatio" : 81.90,
+    "marketCap" : 15109.00,
+    "peRatio" : 80.30,
     "description" : "AstraZeneca Pharma India Ltd is engaged in the business of manufacture, distribution and marketing of pharmaceutical products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 9037.50,
-    "dma50" : 9158.13,
-    "dma100" : null,
-    "dma200" : 8560.95,
-    "volume" : 29083.00
-  }, {
     "date" : "2025-11-19",
     "price" : 9118.50,
     "dma50" : 9156.57,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 8528.00,
     "dma50" : 8438.11,
-    "dma100" : 8666.90,
+    "dma100" : null,
     "dma200" : 8583.25,
     "volume" : 8875.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 7092.50,
     "dma200" : 7486.43,
     "volume" : 17827.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 6043.50,
+    "dma50" : 6441.59,
+    "dma100" : 7069.02,
+    "dma200" : 7472.07,
+    "volume" : 29421.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 6168.00,
-    "dma50" : 6457.84,
-    "dma100" : 7092.50,
-    "dma200" : 7486.43,
-    "volume" : 17827.00
+    "date" : "2026-11-18",
+    "price" : 6043.50,
+    "dma50" : 6441.59,
+    "dma100" : 7069.02,
+    "dma200" : 7472.07,
+    "volume" : 29421.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.22,
-    "pricePercentageAboveDma100" : 5.65,
-    "pricePercentageAboveDma200" : 5.88,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.73,
+    "pricePercentageAboveDma200" : 5.96,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.87,
     "operatingProfitMarginPercentile" : 14.83,
     "netProfitMarginPercentile" : 7.87,
-    "totalTechnicalScore" : 21.76,
+    "totalTechnicalScore" : 21.99,
     "totalFundamentalScore" : 39.57,
-    "totalScore" : 61.33
+    "totalScore" : 61.56
   }
 }

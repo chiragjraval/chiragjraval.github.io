@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "NTPC",
       "companyName" : "NTPC",
-      "marketCap" : 312039.00,
-      "peRatio" : 10.50,
+      "marketCap" : 310681.00,
+      "peRatio" : 10.40,
       "description" : "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.00,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 5.28,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.17,
+      "pricePercentageAboveDma200" : 5.30,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 14.60,
       "netProfitMarginPercentile" : 2.26,
-      "totalTechnicalScore" : 20.43,
+      "totalTechnicalScore" : 15.48,
       "totalFundamentalScore" : 31.56,
-      "totalScore" : 51.99
+      "totalScore" : 47.04
     }
   },
   "attributes" : {
     "companyCode" : "NTPC",
     "companyName" : "NTPC",
-    "marketCap" : 312039.00,
-    "peRatio" : 10.50,
+    "marketCap" : 310681.00,
+    "peRatio" : 10.40,
     "description" : "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 328.45,
-    "dma50" : 335.00,
-    "dma100" : null,
-    "dma200" : 339.65,
-    "volume" : 7014589.00
-  }, {
     "date" : "2025-11-19",
     "price" : 326.60,
     "dma50" : 334.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 390.80,
     "dma50" : 370.80,
-    "dma100" : 352.87,
+    "dma100" : null,
     "dma200" : 351.80,
     "volume" : 10966414.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 331.84,
     "dma200" : 340.77,
     "volume" : 7746638.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 320.40,
+    "dma50" : 321.69,
+    "dma100" : 331.53,
+    "dma200" : 340.57,
+    "volume" : 10851121.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 321.80,
-    "dma50" : 321.75,
-    "dma100" : 331.84,
-    "dma200" : 340.77,
-    "volume" : 7746638.00
+    "date" : "2026-11-18",
+    "price" : 320.40,
+    "dma50" : 321.69,
+    "dma100" : 331.53,
+    "dma200" : 340.57,
+    "volume" : 10851121.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 5320.96
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.00,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 5.28,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.17,
+    "pricePercentageAboveDma200" : 5.30,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 14.60,
     "netProfitMarginPercentile" : 2.26,
-    "totalTechnicalScore" : 20.43,
+    "totalTechnicalScore" : 15.48,
     "totalFundamentalScore" : 31.56,
-    "totalScore" : 51.99
+    "totalScore" : 47.04
   }
 }

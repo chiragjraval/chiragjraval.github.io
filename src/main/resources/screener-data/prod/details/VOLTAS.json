@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VOLTAS",
       "companyName" : "Voltas",
-      "marketCap" : 38015.00,
-      "peRatio" : 78.30,
+      "marketCap" : 37542.00,
+      "peRatio" : 77.40,
       "description" : "Voltas is engaged in the business of air conditioning, refrigeration, electro - mechanical projects as an EPC contractor both in domestic and international geographies (Middle East and Singapore) and engineering product services for mining, water management and treatment, construction equipments and textile industry. Voltas was created 6 decades ago when Tata Sons joined hands with a swiss company Volkart Brothers. Voltas is also one of the most reputed engineering solution providers specializing in project management. [1] The company has 5,000+ Customer sites actively managed across India [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.34,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.85,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.39,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 3.80,
       "netProfitMarginPercentile" : 0.49,
-      "totalTechnicalScore" : 25.25,
+      "totalTechnicalScore" : 20.43,
       "totalFundamentalScore" : 20.43,
-      "totalScore" : 45.68
+      "totalScore" : 40.86
     }
   },
   "attributes" : {
     "companyCode" : "VOLTAS",
     "companyName" : "Voltas",
-    "marketCap" : 38015.00,
-    "peRatio" : 78.30,
+    "marketCap" : 37542.00,
+    "peRatio" : 77.40,
     "description" : "Voltas is engaged in the business of air conditioning, refrigeration, electro - mechanical projects as an EPC contractor both in domestic and international geographies (Middle East and Singapore) and engineering product services for mining, water management and treatment, construction equipments and textile industry. Voltas was created 6 decades ago when Tata Sons joined hands with a swiss company Volkart Brothers. Voltas is also one of the most reputed engineering solution providers specializing in project management. [1] The company has 5,000+ Customer sites actively managed across India [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1384.20,
-    "dma50" : 1374.78,
-    "dma100" : null,
-    "dma200" : 1382.73,
-    "volume" : 806788.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1401.80,
     "dma50" : 1375.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1408.80,
     "dma50" : 1378.52,
-    "dma100" : 1398.42,
+    "dma100" : null,
     "dma200" : 1391.79,
     "volume" : 1343158.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1181.50,
     "dma200" : 1232.06,
     "volume" : 602524.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1134.60,
+    "dma50" : 1100.73,
+    "dma100" : 1179.82,
+    "dma200" : 1231.09,
+    "volume" : 294320.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1148.90,
-    "dma50" : 1099.35,
-    "dma100" : 1181.50,
-    "dma200" : 1232.06,
-    "volume" : 602524.00
+    "date" : "2026-11-18",
+    "price" : 1134.60,
+    "dma50" : 1100.73,
+    "dma100" : 1179.82,
+    "dma200" : 1231.09,
+    "volume" : 294320.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.34,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.85,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.39,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 3.80,
     "netProfitMarginPercentile" : 0.49,
-    "totalTechnicalScore" : 25.25,
+    "totalTechnicalScore" : 20.43,
     "totalFundamentalScore" : 20.43,
-    "totalScore" : 45.68
+    "totalScore" : 40.86
   }
 }

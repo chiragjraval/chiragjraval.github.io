@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ORIENTELEC",
       "companyName" : "Orient Electric",
-      "marketCap" : 4307.00,
-      "peRatio" : 32.10,
+      "marketCap" : 4236.00,
+      "peRatio" : 31.60,
       "description" : "Orient Electric is one of the leading consumer electrical brands in India with a diverse portfolio of fans, lighting, home appliances and switch-gears. The company takes pride in its R&D capabilities, spirit of continuous innovation and commitment to manufacturing cutting-edge lifestyle electrical products that meet the needs and expectations of modern consumers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.53,
-      "pricePercentageAboveDma100" : 4.36,
-      "pricePercentageAboveDma200" : 4.47,
+      "pricePercentageAboveDma50" : 4.64,
+      "pricePercentageAboveDma100" : 4.45,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.47,
       "operatingProfitMarginPercentile" : 14.13,
       "netProfitMarginPercentile" : 7.75,
-      "totalTechnicalScore" : 38.36,
+      "totalTechnicalScore" : 38.66,
       "totalFundamentalScore" : 38.35,
-      "totalScore" : 76.71
+      "totalScore" : 77.01
     }
   },
   "attributes" : {
     "companyCode" : "ORIENTELEC",
     "companyName" : "Orient Electric",
-    "marketCap" : 4307.00,
-    "peRatio" : 32.10,
+    "marketCap" : 4236.00,
+    "peRatio" : 31.60,
     "description" : "Orient Electric is one of the leading consumer electrical brands in India with a diverse portfolio of fans, lighting, home appliances and switch-gears. The company takes pride in its R&D capabilities, spirit of continuous innovation and commitment to manufacturing cutting-edge lifestyle electrical products that meet the needs and expectations of modern consumers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 200.10,
-    "dma50" : 208.33,
-    "dma100" : null,
-    "dma200" : 216.98,
-    "volume" : 329253.00
-  }, {
     "date" : "2025-11-19",
     "price" : 189.35,
     "dma50" : 207.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 169.98,
     "dma50" : 169.78,
-    "dma100" : 174.58,
+    "dma100" : null,
     "dma200" : 189.19,
     "volume" : 239511.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 178.79,
     "dma200" : 182.58,
     "volume" : 260803.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 198.51,
+    "dma50" : 185.18,
+    "dma100" : 178.99,
+    "dma200" : 182.74,
+    "volume" : 130097.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 201.84,
-    "dma50" : 184.63,
-    "dma100" : 178.79,
-    "dma200" : 182.58,
-    "volume" : 260803.00
+    "date" : "2026-11-18",
+    "price" : 198.51,
+    "dma50" : 185.18,
+    "dma100" : 178.99,
+    "dma200" : 182.74,
+    "volume" : 130097.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.53,
-    "pricePercentageAboveDma100" : 4.36,
-    "pricePercentageAboveDma200" : 4.47,
+    "pricePercentageAboveDma50" : 4.64,
+    "pricePercentageAboveDma100" : 4.45,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.47,
     "operatingProfitMarginPercentile" : 14.13,
     "netProfitMarginPercentile" : 7.75,
-    "totalTechnicalScore" : 38.36,
+    "totalTechnicalScore" : 38.66,
     "totalFundamentalScore" : 38.35,
-    "totalScore" : 76.71
+    "totalScore" : 77.01
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ROSSTECH",
       "companyName" : "Rossell Techsys",
-      "marketCap" : 6264.00,
-      "peRatio" : 206.00,
+      "marketCap" : 6168.00,
+      "peRatio" : 202.00,
       "description" : "Incorporated in 2020, Rossell Techsys Inc Ltd is in the business of aerospace and defence[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.43,
-      "pricePercentageAboveDma100" : 3.67,
-      "pricePercentageAboveDma200" : 2.91,
+      "pricePercentageAboveDma50" : 4.54,
+      "pricePercentageAboveDma100" : 3.80,
+      "pricePercentageAboveDma200" : 3.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.00,
       "operatingProfitMarginPercentile" : 15.32,
       "netProfitMarginPercentile" : 8.47,
-      "totalTechnicalScore" : 41.01,
+      "totalTechnicalScore" : 41.38,
       "totalFundamentalScore" : 28.79,
-      "totalScore" : 69.80
+      "totalScore" : 70.17
     }
   },
   "attributes" : {
     "companyCode" : "ROSSTECH",
     "companyName" : "Rossell Techsys",
-    "marketCap" : 6264.00,
-    "peRatio" : 206.00,
+    "marketCap" : 6168.00,
+    "peRatio" : 202.00,
     "description" : "Incorporated in 2020, Rossell Techsys Inc Ltd is in the business of aerospace and defence[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 671.25,
-    "dma50" : 666.69,
-    "dma100" : null,
-    "dma200" : 556.56,
-    "volume" : 46970.00
-  }, {
     "date" : "2025-11-19",
     "price" : 714.40,
     "dma50" : 668.57,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 959.70,
     "dma50" : 739.94,
-    "dma100" : 696.12,
+    "dma100" : null,
     "dma200" : 650.64,
     "volume" : 63047.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1229.17,
     "dma200" : 1097.26,
     "volume" : 62369.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1531.60,
+    "dma50" : 1401.40,
+    "dma100" : 1235.16,
+    "dma200" : 1101.58,
+    "volume" : 54182.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1555.60,
-    "dma50" : 1396.09,
-    "dma100" : 1229.17,
-    "dma200" : 1097.26,
-    "volume" : 62369.00
+    "date" : "2026-11-18",
+    "price" : 1531.60,
+    "dma50" : 1401.40,
+    "dma100" : 1235.16,
+    "dma200" : 1101.58,
+    "volume" : 54182.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-12-31",
@@ -1923,15 +1923,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.43,
-    "pricePercentageAboveDma100" : 3.67,
-    "pricePercentageAboveDma200" : 2.91,
+    "pricePercentageAboveDma50" : 4.54,
+    "pricePercentageAboveDma100" : 3.80,
+    "pricePercentageAboveDma200" : 3.05,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.00,
     "operatingProfitMarginPercentile" : 15.32,
     "netProfitMarginPercentile" : 8.47,
-    "totalTechnicalScore" : 41.01,
+    "totalTechnicalScore" : 41.38,
     "totalFundamentalScore" : 28.79,
-    "totalScore" : 69.80
+    "totalScore" : 70.17
   }
 }

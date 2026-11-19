@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HINDALCO",
       "companyName" : "Hindalco Inds.",
-      "marketCap" : 208486.00,
-      "peRatio" : 8.95,
+      "marketCap" : 202250.00,
+      "peRatio" : 8.69,
       "description" : "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is also engaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 5.10,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.35,
+      "pricePercentageAboveDma200" : 5.24,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 25.38,
+      "totalTechnicalScore" : 25.80,
       "totalFundamentalScore" : 45.18,
-      "totalScore" : 70.55
+      "totalScore" : 70.98
     }
   },
   "attributes" : {
     "companyCode" : "HINDALCO",
     "companyName" : "Hindalco Inds.",
-    "marketCap" : 208486.00,
-    "peRatio" : 8.95,
+    "marketCap" : 202250.00,
+    "peRatio" : 8.69,
     "description" : "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is also engaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 797.15,
-    "dma50" : 780.16,
-    "dma100" : null,
-    "dma200" : 709.27,
-    "volume" : 7469254.00
-  }, {
     "date" : "2025-11-19",
     "price" : 790.95,
     "dma50" : 780.58,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1039.90,
     "dma50" : 930.62,
-    "dma100" : 903.70,
+    "dma100" : null,
     "dma200" : 838.99,
     "volume" : 11313313.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 967.63,
     "dma200" : 945.95,
     "volume" : 7015911.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 900.00,
+    "dma50" : 940.05,
+    "dma100" : 967.10,
+    "dma200" : 945.49,
+    "volume" : 8389785.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 927.75,
-    "dma50" : 941.69,
-    "dma100" : 967.63,
-    "dma200" : 945.95,
-    "volume" : 7015911.00
+    "date" : "2026-11-18",
+    "price" : 900.00,
+    "dma50" : 940.05,
+    "dma100" : 967.10,
+    "dma200" : 945.49,
+    "volume" : 8389785.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 5.10,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.35,
+    "pricePercentageAboveDma200" : 5.24,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 25.38,
+    "totalTechnicalScore" : 25.80,
     "totalFundamentalScore" : 45.18,
-    "totalScore" : 70.55
+    "totalScore" : 70.98
   }
 }

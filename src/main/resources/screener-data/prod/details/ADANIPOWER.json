@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ADANIPOWER",
       "companyName" : "Adani Power",
-      "marketCap" : 401257.00,
-      "peRatio" : 22.00,
+      "marketCap" : 395915.00,
+      "peRatio" : 21.70,
       "description" : "Adani Power (APL), a part of the diversified Adani Group, is the largest private thermal power producer in India. The co along with its subsidiaries sell power generated from these projects under a combination of long term Power Purchase Agreements, Short term PPA and on merchant basis. [1][2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.81,
-      "pricePercentageAboveDma100" : 4.95,
-      "pricePercentageAboveDma200" : 4.59,
+      "pricePercentageAboveDma50" : 4.88,
+      "pricePercentageAboveDma100" : 5.01,
+      "pricePercentageAboveDma200" : 4.66,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.64,
       "operatingProfitMarginPercentile" : 17.12,
       "netProfitMarginPercentile" : 9.14,
-      "totalTechnicalScore" : 39.35,
+      "totalTechnicalScore" : 34.56,
       "totalFundamentalScore" : 39.90,
-      "totalScore" : 79.25
+      "totalScore" : 74.46
     }
   },
   "attributes" : {
     "companyCode" : "ADANIPOWER",
     "companyName" : "Adani Power",
-    "marketCap" : 401257.00,
-    "peRatio" : 22.00,
+    "marketCap" : 395915.00,
+    "peRatio" : 21.70,
     "description" : "Adani Power (APL), a part of the diversified Adani Group, is the largest private thermal power producer in India. The co along with its subsidiaries sell power generated from these projects under a combination of long term Power Purchase Agreements, Short term PPA and on merchant basis. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 149.55,
-    "dma50" : 148.50,
-    "dma100" : null,
-    "dma200" : 127.93,
-    "volume" : 24433138.00
-  }, {
     "date" : "2025-11-19",
     "price" : 151.61,
     "dma50" : 148.63,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 193.19,
     "dma50" : 154.86,
-    "dma100" : 147.07,
+    "dma100" : null,
     "dma200" : 141.05,
     "volume" : 72919102.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 206.03,
     "dma200" : 192.27,
     "volume" : 16040108.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 205.30,
+    "dma50" : 200.60,
+    "dma100" : 205.79,
+    "dma200" : 192.40,
+    "volume" : 13775476.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 208.07,
-    "dma50" : 200.41,
-    "dma100" : 206.03,
-    "dma200" : 192.27,
-    "volume" : 16040108.00
+    "date" : "2026-11-18",
+    "price" : 205.30,
+    "dma50" : 200.60,
+    "dma100" : 205.79,
+    "dma200" : 192.40,
+    "volume" : 13775476.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-06-30",
@@ -2498,20 +2498,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.81,
-    "pricePercentageAboveDma100" : 4.95,
-    "pricePercentageAboveDma200" : 4.59,
+    "pricePercentageAboveDma50" : 4.88,
+    "pricePercentageAboveDma100" : 5.01,
+    "pricePercentageAboveDma200" : 4.66,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.64,
     "operatingProfitMarginPercentile" : 17.12,
     "netProfitMarginPercentile" : 9.14,
-    "totalTechnicalScore" : 39.35,
+    "totalTechnicalScore" : 34.56,
     "totalFundamentalScore" : 39.90,
-    "totalScore" : 79.25
+    "totalScore" : 74.46
   }
 }

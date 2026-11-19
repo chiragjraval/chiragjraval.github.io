@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NETWEB",
       "companyName" : "Netweb Technol.",
-      "marketCap" : 24096.00,
-      "peRatio" : 65.90,
+      "marketCap" : 24482.00,
+      "peRatio" : 66.90,
       "description" : "Incorporated in 1999, Netweb Technologies India (NTI) is one of India‘s leading high-end computing solutions (HCS) providers, with fully integrated design and manufacturing capabilities.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.43,
-      "pricePercentageAboveDma100" : 5.62,
-      "pricePercentageAboveDma200" : 5.18,
+      "pricePercentageAboveDma50" : 5.34,
+      "pricePercentageAboveDma100" : 5.55,
+      "pricePercentageAboveDma200" : 5.10,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 15.56,
       "netProfitMarginPercentile" : 6.11,
-      "totalTechnicalScore" : 26.23,
+      "totalTechnicalScore" : 25.99,
       "totalFundamentalScore" : 41.67,
-      "totalScore" : 67.90
+      "totalScore" : 67.66
     }
   },
   "attributes" : {
     "companyCode" : "NETWEB",
     "companyName" : "Netweb Technol.",
-    "marketCap" : 24096.00,
-    "peRatio" : 65.90,
+    "marketCap" : 24482.00,
+    "peRatio" : 66.90,
     "description" : "Incorporated in 1999, Netweb Technologies India (NTI) is one of India‘s leading high-end computing solutions (HCS) providers, with fully integrated design and manufacturing capabilities.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 3259.60,
-    "dma50" : 3439.39,
-    "dma100" : null,
-    "dma200" : 2630.90,
-    "volume" : 906059.00
-  }, {
     "date" : "2025-11-19",
     "price" : 3288.00,
     "dma50" : 3433.45,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 3708.40,
     "dma50" : 3303.35,
-    "dma100" : 3260.38,
+    "dma100" : null,
     "dma200" : 3036.03,
     "volume" : 3327474.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 4630.93,
     "dma200" : 4202.94,
     "volume" : 704257.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 4118.20,
+    "dma50" : 4421.77,
+    "dma100" : 4622.67,
+    "dma200" : 4202.10,
+    "volume" : 945969.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 4053.40,
-    "dma50" : 4434.16,
-    "dma100" : 4630.93,
-    "dma200" : 4202.94,
-    "volume" : 704257.00
+    "date" : "2026-11-18",
+    "price" : 4118.20,
+    "dma50" : 4421.77,
+    "dma100" : 4622.67,
+    "dma200" : 4202.10,
+    "volume" : 945969.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.43,
-    "pricePercentageAboveDma100" : 5.62,
-    "pricePercentageAboveDma200" : 5.18,
+    "pricePercentageAboveDma50" : 5.34,
+    "pricePercentageAboveDma100" : 5.55,
+    "pricePercentageAboveDma200" : 5.10,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 15.56,
     "netProfitMarginPercentile" : 6.11,
-    "totalTechnicalScore" : 26.23,
+    "totalTechnicalScore" : 25.99,
     "totalFundamentalScore" : 41.67,
-    "totalScore" : 67.90
+    "totalScore" : 67.66
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANAKCOAT",
       "companyName" : "Manaksia Coated",
-      "marketCap" : 1954.00,
-      "peRatio" : 42.90,
+      "marketCap" : 1920.00,
+      "peRatio" : 42.20,
       "description" : "Incorporated in 2010, Manaksia Coated Metals & Industries Ltd specializes in manufacturing and exporting high-performance coated metal products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.14,
-      "pricePercentageAboveDma100" : 3.59,
-      "pricePercentageAboveDma200" : 3.46,
+      "pricePercentageAboveDma50" : 4.27,
+      "pricePercentageAboveDma100" : 3.73,
+      "pricePercentageAboveDma200" : 3.60,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.02,
       "operatingProfitMarginPercentile" : 17.25,
       "netProfitMarginPercentile" : 9.80,
-      "totalTechnicalScore" : 46.19,
+      "totalTechnicalScore" : 46.60,
       "totalFundamentalScore" : 44.08,
-      "totalScore" : 90.27
+      "totalScore" : 90.68
     }
   },
   "attributes" : {
     "companyCode" : "MANAKCOAT",
     "companyName" : "Manaksia Coated",
-    "marketCap" : 1954.00,
-    "peRatio" : 42.90,
+    "marketCap" : 1920.00,
+    "peRatio" : 42.20,
     "description" : "Incorporated in 2010, Manaksia Coated Metals & Industries Ltd specializes in manufacturing and exporting high-performance coated metal products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 141.92,
-    "dma50" : 148.00,
-    "dma100" : null,
-    "dma200" : 125.83,
-    "volume" : 209583.00
-  }, {
     "date" : "2025-11-19",
     "price" : 138.29,
     "dma50" : 147.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 105.95,
     "dma50" : 113.75,
-    "dma100" : 123.99,
+    "dma100" : null,
     "dma200" : 122.67,
     "volume" : 252935.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 128.44,
     "dma200" : 125.98,
     "volume" : 706590.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 161.82,
+    "dma50" : 141.31,
+    "dma100" : 129.01,
+    "dma200" : 126.34,
+    "volume" : 263886.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 164.67,
-    "dma50" : 140.47,
-    "dma100" : 128.44,
-    "dma200" : 125.98,
-    "volume" : 706590.00
+    "date" : "2026-11-18",
+    "price" : 161.82,
+    "dma50" : 141.31,
+    "dma100" : 129.01,
+    "dma200" : 126.34,
+    "volume" : 263886.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-03-31",
@@ -2313,15 +2313,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.14,
-    "pricePercentageAboveDma100" : 3.59,
-    "pricePercentageAboveDma200" : 3.46,
+    "pricePercentageAboveDma50" : 4.27,
+    "pricePercentageAboveDma100" : 3.73,
+    "pricePercentageAboveDma200" : 3.60,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.02,
     "operatingProfitMarginPercentile" : 17.25,
     "netProfitMarginPercentile" : 9.80,
-    "totalTechnicalScore" : 46.19,
+    "totalTechnicalScore" : 46.60,
     "totalFundamentalScore" : 44.08,
-    "totalScore" : 90.27
+    "totalScore" : 90.68
   }
 }

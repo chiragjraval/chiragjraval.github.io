@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EPIGRAL",
       "companyName" : "Epigral",
-      "marketCap" : 4088.00,
-      "peRatio" : 14.40,
+      "marketCap" : 4074.00,
+      "peRatio" : 14.30,
       "description" : "Epigral Limited, formerly known as Meghmani Finechem Ltd, incorporated in 2007, is a leading integrated manufacturer of chemicals.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.53,
-      "pricePercentageAboveDma200" : 5.80,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 5.54,
+      "pricePercentageAboveDma200" : 5.81,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.43,
       "operatingProfitMarginPercentile" : 1.48,
       "netProfitMarginPercentile" : 1.48,
-      "totalTechnicalScore" : 16.54,
+      "totalTechnicalScore" : 16.57,
       "totalFundamentalScore" : 13.40,
-      "totalScore" : 29.94
+      "totalScore" : 29.97
     }
   },
   "attributes" : {
     "companyCode" : "EPIGRAL",
     "companyName" : "Epigral",
-    "marketCap" : 4088.00,
-    "peRatio" : 14.40,
+    "marketCap" : 4074.00,
+    "peRatio" : 14.30,
     "description" : "Epigral Limited, formerly known as Meghmani Finechem Ltd, incorporated in 2007, is a leading integrated manufacturer of chemicals.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1482.90,
-    "dma50" : 1676.53,
-    "dma100" : null,
-    "dma200" : 1759.19,
-    "volume" : 10931.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1467.00,
     "dma50" : 1668.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1208.55,
     "dma50" : 995.06,
-    "dma100" : 1120.48,
+    "dma100" : null,
     "dma200" : 1322.80,
     "volume" : 129173.00
   }, {
@@ -890,7 +883,7 @@
     "date" : "2026-05-18",
     "price" : 1203.90,
     "dma50" : 1141.66,
-    "dma100" : 1077.53,
+    "dma100" : 1077.52,
     "dma200" : 1308.84,
     "volume" : 39268.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1059.88,
     "dma200" : 1127.91,
     "volume" : 26727.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 944.30,
+    "dma50" : 988.34,
+    "dma100" : 1058.26,
+    "dma200" : 1126.08,
+    "volume" : 12993.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 947.60,
-    "dma50" : 990.14,
-    "dma100" : 1059.88,
-    "dma200" : 1127.91,
-    "volume" : 26727.00
+    "date" : "2026-11-18",
+    "price" : 944.30,
+    "dma50" : 988.34,
+    "dma100" : 1058.26,
+    "dma200" : 1126.08,
+    "volume" : 12993.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2073,15 +2073,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.53,
-    "pricePercentageAboveDma200" : 5.80,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 5.54,
+    "pricePercentageAboveDma200" : 5.81,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.43,
     "operatingProfitMarginPercentile" : 1.48,
     "netProfitMarginPercentile" : 1.48,
-    "totalTechnicalScore" : 16.54,
+    "totalTechnicalScore" : 16.57,
     "totalFundamentalScore" : 13.40,
-    "totalScore" : 29.94
+    "totalScore" : 29.97
   }
 }

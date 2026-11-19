@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BALAMINES",
       "companyName" : "Balaji Amines",
-      "marketCap" : 6255.00,
-      "peRatio" : 26.40,
+      "marketCap" : 6150.00,
+      "peRatio" : 26.00,
       "description" : "Incorporate in 1989, Balaji Amines Ltd is engaged in manufacturing of specialty chemicals, aliphatic amines, and derivatives, along with ownership of a five-star hotel in Solapur, Maharashtra.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.46,
-      "pricePercentageAboveDma200" : 4.80,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.53,
+      "pricePercentageAboveDma200" : 4.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 16.78,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 30.38,
+      "totalTechnicalScore" : 30.62,
       "totalFundamentalScore" : 42.37,
-      "totalScore" : 72.75
+      "totalScore" : 72.99
     }
   },
   "attributes" : {
     "companyCode" : "BALAMINES",
     "companyName" : "Balaji Amines",
-    "marketCap" : 6255.00,
-    "peRatio" : 26.40,
+    "marketCap" : 6150.00,
+    "peRatio" : 26.00,
     "description" : "Incorporate in 1989, Balaji Amines Ltd is engaged in manufacturing of specialty chemicals, aliphatic amines, and derivatives, along with ownership of a five-star hotel in Solapur, Maharashtra.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1194.70,
-    "dma50" : 1396.84,
-    "dma100" : null,
-    "dma200" : 1548.71,
-    "volume" : 82372.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1189.80,
     "dma50" : 1388.72,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1146.65,
     "dma50" : 1080.73,
-    "dma100" : 1109.93,
+    "dma100" : null,
     "dma200" : 1264.75,
     "volume" : 77838.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2125.42,
     "dma200" : 1857.11,
     "volume" : 238652.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1898.20,
+    "dma50" : 1974.65,
+    "dma100" : 2124.52,
+    "dma200" : 1857.52,
+    "volume" : 81517.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1930.50,
-    "dma50" : 1977.77,
-    "dma100" : 2125.42,
-    "dma200" : 1857.11,
-    "volume" : 238652.00
+    "date" : "2026-11-18",
+    "price" : 1898.20,
+    "dma50" : 1974.65,
+    "dma100" : 2124.52,
+    "dma200" : 1857.52,
+    "volume" : 81517.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.46,
-    "pricePercentageAboveDma200" : 4.80,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.53,
+    "pricePercentageAboveDma200" : 4.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 16.78,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 30.38,
+    "totalTechnicalScore" : 30.62,
     "totalFundamentalScore" : 42.37,
-    "totalScore" : 72.75
+    "totalScore" : 72.99
   }
 }

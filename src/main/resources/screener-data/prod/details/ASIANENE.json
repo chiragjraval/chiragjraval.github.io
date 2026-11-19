@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ASIANENE",
       "companyName" : "Asian Energy",
-      "marketCap" : 1905.00,
-      "peRatio" : 23.80,
+      "marketCap" : 1849.00,
+      "peRatio" : 23.10,
       "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 0.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.45,
-      "pricePercentageAboveDma100" : 5.44,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 5.57,
+      "pricePercentageAboveDma100" : 5.57,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 19.15,
       "netProfitMarginPercentile" : 9.83,
-      "totalTechnicalScore" : 35.88,
+      "totalTechnicalScore" : 26.27,
       "totalFundamentalScore" : 44.40,
-      "totalScore" : 80.28
+      "totalScore" : 70.67
     }
   },
   "attributes" : {
     "companyCode" : "ASIANENE",
     "companyName" : "Asian Energy",
-    "marketCap" : 1905.00,
-    "peRatio" : 23.80,
+    "marketCap" : 1849.00,
+    "peRatio" : 23.10,
     "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 324.05,
-    "dma50" : 336.45,
-    "dma100" : null,
-    "dma200" : 324.73,
-    "volume" : 64314.00
-  }, {
     "date" : "2025-11-19",
     "price" : 314.75,
     "dma50" : 335.60,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 296.08,
     "dma50" : 280.24,
-    "dma100" : 279.39,
+    "dma100" : null,
     "dma200" : 295.70,
     "volume" : 97078.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 425.41,
     "dma200" : 387.33,
     "volume" : 146056.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 376.85,
+    "dma50" : 425.00,
+    "dma100" : 425.49,
+    "dma200" : 387.22,
+    "volume" : 198968.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 388.30,
-    "dma50" : 426.97,
-    "dma100" : 425.41,
-    "dma200" : 387.33,
-    "volume" : 146056.00
+    "date" : "2026-11-18",
+    "price" : 376.85,
+    "dma50" : 425.00,
+    "dma100" : 425.49,
+    "dma200" : 387.22,
+    "volume" : 198968.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 0.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.45,
-    "pricePercentageAboveDma100" : 5.44,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 5.57,
+    "pricePercentageAboveDma100" : 5.57,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 19.15,
     "netProfitMarginPercentile" : 9.83,
-    "totalTechnicalScore" : 35.88,
+    "totalTechnicalScore" : 26.27,
     "totalFundamentalScore" : 44.40,
-    "totalScore" : 80.28
+    "totalScore" : 70.67
   }
 }

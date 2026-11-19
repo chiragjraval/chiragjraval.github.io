@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "KSCL",
       "companyName" : "Kaveri Seed Co.",
-      "marketCap" : 3670.00,
-      "peRatio" : 14.30,
+      "marketCap" : 3829.00,
+      "peRatio" : 14.90,
       "description" : "Incorporated in 1976, Kaveri Seed Company Ltd is in the business of research, production, processing and marketing of various high quality hybrid seeds[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.34,
-      "pricePercentageAboveDma200" : 5.65,
+      "pricePercentageAboveDma50" : 4.84,
+      "pricePercentageAboveDma100" : 5.12,
+      "pricePercentageAboveDma200" : 5.46,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.08,
       "operatingProfitMarginPercentile" : 11.93,
       "netProfitMarginPercentile" : 6.06,
-      "totalTechnicalScore" : 16.03,
+      "totalTechnicalScore" : 20.42,
       "totalFundamentalScore" : 31.06,
-      "totalScore" : 47.09
+      "totalScore" : 51.48
     }
   },
   "attributes" : {
     "companyCode" : "KSCL",
     "companyName" : "Kaveri Seed Co.",
-    "marketCap" : 3670.00,
-    "peRatio" : 14.30,
+    "marketCap" : 3829.00,
+    "peRatio" : 14.90,
     "description" : "Incorporated in 1976, Kaveri Seed Company Ltd is in the business of research, production, processing and marketing of various high quality hybrid seeds[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1062.40,
-    "dma50" : 1074.97,
-    "dma100" : null,
-    "dma200" : 1115.86,
-    "volume" : 95314.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1003.30,
     "dma50" : 1072.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 920.25,
     "dma50" : 852.97,
-    "dma100" : 888.82,
+    "dma100" : null,
     "dma200" : 962.41,
     "volume" : 94827.00
   }, {
@@ -757,7 +750,7 @@
     "date" : "2026-04-20",
     "price" : 933.60,
     "dma50" : 858.79,
-    "dma100" : 887.17,
+    "dma100" : 887.16,
     "dma200" : 961.74,
     "volume" : 145550.00
   }, {
@@ -792,14 +785,14 @@
     "date" : "2026-04-27",
     "price" : 927.05,
     "dma50" : 873.14,
-    "dma100" : 884.85,
+    "dma100" : 884.84,
     "dma200" : 960.59,
     "volume" : 109491.00
   }, {
     "date" : "2026-04-28",
     "price" : 934.20,
     "dma50" : 875.54,
-    "dma100" : 884.25,
+    "dma100" : 884.24,
     "dma200" : 960.33,
     "volume" : 85345.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 765.06,
     "dma200" : 820.21,
     "volume" : 49051.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 744.30,
+    "dma50" : 720.65,
+    "dma100" : 763.25,
+    "dma200" : 819.46,
+    "volume" : 117059.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 713.50,
-    "dma50" : 719.69,
-    "dma100" : 765.06,
-    "dma200" : 820.21,
-    "volume" : 49051.00
+    "date" : "2026-11-18",
+    "price" : 744.30,
+    "dma50" : 720.65,
+    "dma100" : 763.25,
+    "dma200" : 819.46,
+    "volume" : 117059.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2617,21 +2617,21 @@
     "netProfit" : -3.21
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.34,
-    "pricePercentageAboveDma200" : 5.65,
+    "pricePercentageAboveDma50" : 4.84,
+    "pricePercentageAboveDma100" : 5.12,
+    "pricePercentageAboveDma200" : 5.46,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.08,
     "operatingProfitMarginPercentile" : 11.93,
     "netProfitMarginPercentile" : 6.06,
-    "totalTechnicalScore" : 16.03,
+    "totalTechnicalScore" : 20.42,
     "totalFundamentalScore" : 31.06,
-    "totalScore" : 47.09
+    "totalScore" : 51.48
   }
 }

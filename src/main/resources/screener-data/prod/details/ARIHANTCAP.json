@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ARIHANTCAP",
       "companyName" : "Arihant Capital",
-      "marketCap" : 1043.00,
-      "peRatio" : 21.80,
+      "marketCap" : 1024.00,
+      "peRatio" : 21.40,
       "description" : "Incorporated in 1992, Arihant Capital Markets Ltd provides Stock & Commodities Broking, PMS, Financial Services, Real Estate, Insurance Broking and other related activities[1]"
     },
     "companyScore" : {
@@ -19,34 +19,27 @@
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.67,
-      "pricePercentageAboveDma100" : 4.24,
-      "pricePercentageAboveDma200" : 4.24,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 4.78,
+      "pricePercentageAboveDma100" : 4.36,
+      "pricePercentageAboveDma200" : 4.36,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 38.15,
+      "totalTechnicalScore" : 43.50,
       "totalFundamentalScore" : 40.00,
-      "totalScore" : 78.16
+      "totalScore" : 83.51
     }
   },
   "attributes" : {
     "companyCode" : "ARIHANTCAP",
     "companyName" : "Arihant Capital",
-    "marketCap" : 1043.00,
-    "peRatio" : 21.80,
+    "marketCap" : 1024.00,
+    "peRatio" : 21.40,
     "description" : "Incorporated in 1992, Arihant Capital Markets Ltd provides Stock & Commodities Broking, PMS, Financial Services, Real Estate, Insurance Broking and other related activities[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 99.95,
-    "dma50" : 103.56,
-    "dma100" : null,
-    "dma200" : 94.34,
-    "volume" : 769729.00
-  }, {
     "date" : "2025-11-19",
     "price" : 97.84,
     "dma50" : 103.33,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 70.83,
     "dma50" : 73.22,
-    "dma100" : 82.28,
+    "dma100" : null,
     "dma200" : 84.82,
     "volume" : 597743.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 82.58,
     "dma200" : 82.66,
     "volume" : 515060.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 93.38,
+    "dma50" : 89.50,
+    "dma100" : 82.81,
+    "dma200" : 82.77,
+    "volume" : 185755.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 95.17,
-    "dma50" : 89.34,
-    "dma100" : 82.58,
-    "dma200" : 82.66,
-    "volume" : 515060.00
+    "date" : "2026-11-18",
+    "price" : 93.38,
+    "dma50" : 89.50,
+    "dma100" : 82.81,
+    "dma200" : 82.77,
+    "volume" : 185755.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2672,16 +2672,16 @@
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
-    "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.67,
-    "pricePercentageAboveDma100" : 4.24,
-    "pricePercentageAboveDma200" : 4.24,
+    "dma100HigherThanDma200" : 5.00,
+    "pricePercentageAboveDma50" : 4.78,
+    "pricePercentageAboveDma100" : 4.36,
+    "pricePercentageAboveDma200" : 4.36,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 38.15,
+    "totalTechnicalScore" : 43.50,
     "totalFundamentalScore" : 40.00,
-    "totalScore" : 78.16
+    "totalScore" : 83.51
   }
 }

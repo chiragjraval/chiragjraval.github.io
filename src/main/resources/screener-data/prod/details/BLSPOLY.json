@@ -1,0 +1,195 @@
+{
+  "metadata" : {
+    "screenerCompanyId" : "1286270",
+    "companyCode" : "BLSPOLY",
+    "companyName" : "BLS Polymers",
+    "screenerCompanyLink" : "https://www.screener.in/company/BLSPOLY/",
+    "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/1286270/chart/?q=Price-DMA50-DMA200-Volume&days=365",
+    "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/1286270/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
+    "attributes" : {
+      "companyCode" : "BLSPOLY",
+      "companyName" : "BLS Polymers",
+      "marketCap" : 1737.00,
+      "peRatio" : 52.70,
+      "description" : ""
+    },
+    "companyScore" : {
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma200" : 0.00,
+      "dma100HigherThanDma200" : 0.00,
+      "pricePercentageAboveDma50" : 4.70,
+      "pricePercentageAboveDma100" : 0.00,
+      "pricePercentageAboveDma200" : 4.76,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "salesGrowthPercentile" : 0.00,
+      "operatingProfitMarginPercentile" : 16.27,
+      "netProfitMarginPercentile" : 7.60,
+      "totalTechnicalScore" : 24.46,
+      "totalFundamentalScore" : 23.86,
+      "totalScore" : 48.32
+    }
+  },
+  "attributes" : {
+    "companyCode" : "BLSPOLY",
+    "companyName" : "BLS Polymers",
+    "marketCap" : 1737.00,
+    "peRatio" : 52.70,
+    "description" : ""
+  },
+  "technicalHistory" : [ {
+    "date" : "2026-11-03",
+    "price" : 268.80,
+    "dma50" : 268.80,
+    "dma100" : null,
+    "dma200" : 268.80,
+    "volume" : 87074586.00
+  }, {
+    "date" : "2026-11-04",
+    "price" : 255.94,
+    "dma50" : 268.30,
+    "dma100" : null,
+    "dma200" : 268.67,
+    "volume" : 49144138.00
+  }, {
+    "date" : "2026-11-05",
+    "price" : 250.20,
+    "dma50" : 267.59,
+    "dma100" : null,
+    "dma200" : 268.49,
+    "volume" : 23773349.00
+  }, {
+    "date" : "2026-11-06",
+    "price" : 235.79,
+    "dma50" : 266.34,
+    "dma100" : null,
+    "dma200" : 268.16,
+    "volume" : 9580692.00
+  }, {
+    "date" : "2026-11-08",
+    "price" : 241.08,
+    "dma50" : 265.35,
+    "dma100" : null,
+    "dma200" : 267.89,
+    "volume" : 2027123.00
+  }, {
+    "date" : "2026-11-09",
+    "price" : 237.45,
+    "dma50" : 264.25,
+    "dma100" : null,
+    "dma200" : 267.59,
+    "volume" : 4715427.00
+  }, {
+    "date" : "2026-11-11",
+    "price" : 237.79,
+    "dma50" : 263.22,
+    "dma100" : null,
+    "dma200" : 267.29,
+    "volume" : 3114389.00
+  }, {
+    "date" : "2026-11-12",
+    "price" : 234.75,
+    "dma50" : 262.10,
+    "dma100" : null,
+    "dma200" : 266.97,
+    "volume" : 1993267.00
+  }, {
+    "date" : "2026-11-13",
+    "price" : 271.23,
+    "dma50" : 262.46,
+    "dma100" : null,
+    "dma200" : 267.01,
+    "volume" : 65157582.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 271.07,
+    "dma50" : 262.80,
+    "dma100" : null,
+    "dma200" : 267.05,
+    "volume" : 13943839.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 275.50,
+    "dma50" : 263.29,
+    "dma100" : null,
+    "dma200" : 267.14,
+    "volume" : 27878956.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 279.98,
+    "dma50" : 263.95,
+    "dma100" : null,
+    "dma200" : 267.26,
+    "volume" : 29167703.00
+  } ],
+  "latestTechnicalAttributes" : {
+    "date" : "2026-11-18",
+    "price" : 279.98,
+    "dma50" : 263.95,
+    "dma100" : null,
+    "dma200" : 267.26,
+    "volume" : 29167703.00
+  },
+  "quarterlyResults" : [ {
+    "date" : "2025-09-30",
+    "sales" : 97.39,
+    "salesGrowthYoY" : null,
+    "grossProfitMargin" : 18.09,
+    "grossProfit" : 17.62,
+    "operatingProfitMargin" : 6.64,
+    "operatingProfit" : 6.47,
+    "netProfitMargin" : 4.69,
+    "netProfit" : 4.57
+  }, {
+    "date" : "2026-06-30",
+    "sales" : 107.03,
+    "salesGrowthYoY" : null,
+    "grossProfitMargin" : 23.39,
+    "grossProfit" : 25.03,
+    "operatingProfitMargin" : 14.46,
+    "operatingProfit" : 15.48,
+    "netProfitMargin" : 9.56,
+    "netProfit" : 10.23
+  }, {
+    "date" : "2026-09-30",
+    "sales" : 125.56,
+    "salesGrowthYoY" : null,
+    "grossProfitMargin" : 21.48,
+    "grossProfit" : 26.97,
+    "operatingProfitMargin" : 13.00,
+    "operatingProfit" : 16.32,
+    "netProfitMargin" : 8.39,
+    "netProfit" : 10.53
+  } ],
+  "latestQuarterlyResult" : {
+    "date" : "2026-09-30",
+    "sales" : 125.56,
+    "salesGrowthYoY" : null,
+    "grossProfitMargin" : 21.48,
+    "grossProfit" : 26.97,
+    "operatingProfitMargin" : 13.00,
+    "operatingProfit" : 16.32,
+    "netProfitMargin" : 8.39,
+    "netProfit" : 10.53
+  },
+  "companyScore" : {
+    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 5.00,
+    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma200" : 0.00,
+    "dma100HigherThanDma200" : 0.00,
+    "pricePercentageAboveDma50" : 4.70,
+    "pricePercentageAboveDma100" : 0.00,
+    "pricePercentageAboveDma200" : 4.76,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "salesGrowthPercentile" : 0.00,
+    "operatingProfitMarginPercentile" : 16.27,
+    "netProfitMarginPercentile" : 7.60,
+    "totalTechnicalScore" : 24.46,
+    "totalFundamentalScore" : 23.86,
+    "totalScore" : 48.32
+  }
+}

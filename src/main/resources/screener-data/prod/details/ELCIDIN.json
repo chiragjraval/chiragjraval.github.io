@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.25,
-      "pricePercentageAboveDma200" : 5.38,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 5.36,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 19.97,
       "netProfitMarginPercentile" : 3.91,
-      "totalTechnicalScore" : 15.66,
+      "totalTechnicalScore" : 15.62,
       "totalFundamentalScore" : 38.10,
-      "totalScore" : 53.76
+      "totalScore" : 53.72
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Incorporated in 1981, Elcid Investments Ltd is a non-banking financial company (NBFC) registered with the Reserve Bank of India (RBI) under the category of Investment Company. Its business is to make investments in shares, debentures, mutual funds etc.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 132801.00,
-    "dma50" : 132674.52,
-    "dma100" : null,
-    "dma200" : 128120.63,
-    "volume" : 31.00
-  }, {
     "date" : "2025-11-19",
     "price" : 133250.00,
     "dma50" : 132697.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 123995.05,
     "dma50" : 104608.87,
-    "dma100" : 115191.44,
+    "dma100" : null,
     "dma200" : 117736.07,
     "volume" : 249.00
   }, {
@@ -1705,13 +1698,20 @@
     "dma100" : 108439.13,
     "dma200" : 111347.76,
     "volume" : 0.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 103200.00,
+    "dma50" : 103723.02,
+    "dma100" : 108299.18,
+    "dma200" : 111266.69,
+    "volume" : 0.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 102995.00,
-    "dma50" : 103744.36,
-    "dma100" : 108439.13,
-    "dma200" : 111347.76,
+    "date" : "2026-11-18",
+    "price" : 103200.00,
+    "dma50" : 103723.02,
+    "dma100" : 108299.18,
+    "dma200" : 111266.69,
     "volume" : 0.00
   },
   "quarterlyResults" : [ {
@@ -2603,15 +2603,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.25,
-    "pricePercentageAboveDma200" : 5.38,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 5.36,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 19.97,
     "netProfitMarginPercentile" : 3.91,
-    "totalTechnicalScore" : 15.66,
+    "totalTechnicalScore" : 15.62,
     "totalFundamentalScore" : 38.10,
-    "totalScore" : 53.76
+    "totalScore" : 53.72
   }
 }

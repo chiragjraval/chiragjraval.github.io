@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DALMIASUG",
       "companyName" : "Dalmia Bharat",
-      "marketCap" : 3909.00,
-      "peRatio" : 15.60,
+      "marketCap" : 3710.00,
+      "peRatio" : 14.80,
       "description" : "Dalmia Bharat Sugar & Industries is mainly engaged in manufacturing of sugar, generation of power, manufacturing of Industrial alcohol and manufacturing of refractory products.[1]The company is among the youngest and largest sugar companies in India. Its is the fastest-growing sugar company with its presence in UP and Maharashtra."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.23,
-      "pricePercentageAboveDma200" : 3.90,
+      "pricePercentageAboveDma50" : 4.84,
+      "pricePercentageAboveDma100" : 4.54,
+      "pricePercentageAboveDma200" : 4.22,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.04,
       "operatingProfitMarginPercentile" : 8.25,
       "netProfitMarginPercentile" : 5.22,
-      "totalTechnicalScore" : 42.69,
+      "totalTechnicalScore" : 43.61,
       "totalFundamentalScore" : 23.51,
-      "totalScore" : 66.20
+      "totalScore" : 67.12
     }
   },
   "attributes" : {
     "companyCode" : "DALMIASUG",
     "companyName" : "Dalmia Bharat",
-    "marketCap" : 3909.00,
-    "peRatio" : 15.60,
+    "marketCap" : 3710.00,
+    "peRatio" : 14.80,
     "description" : "Dalmia Bharat Sugar & Industries is mainly engaged in manufacturing of sugar, generation of power, manufacturing of Industrial alcohol and manufacturing of refractory products.[1]The company is among the youngest and largest sugar companies in India. Its is the fastest-growing sugar company with its presence in UP and Maharashtra."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 314.85,
-    "dma50" : 350.05,
-    "dma100" : null,
-    "dma200" : 376.75,
-    "volume" : 34282.00
-  }, {
     "date" : "2025-11-19",
     "price" : 313.00,
     "dma50" : 348.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 376.95,
     "dma50" : 329.19,
-    "dma100" : 305.54,
+    "dma100" : null,
     "dma200" : 334.82,
     "volume" : 217059.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 418.54,
     "dma200" : 396.02,
     "volume" : 130575.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 458.35,
+    "dma50" : 444.34,
+    "dma100" : 419.88,
+    "dma200" : 396.64,
+    "volume" : 107319.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 483.00,
-    "dma50" : 443.77,
-    "dma100" : 418.54,
-    "dma200" : 396.02,
-    "volume" : 130575.00
+    "date" : "2026-11-18",
+    "price" : 458.35,
+    "dma50" : 444.34,
+    "dma100" : 419.88,
+    "dma200" : 396.64,
+    "volume" : 107319.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.23,
-    "pricePercentageAboveDma200" : 3.90,
+    "pricePercentageAboveDma50" : 4.84,
+    "pricePercentageAboveDma100" : 4.54,
+    "pricePercentageAboveDma200" : 4.22,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.04,
     "operatingProfitMarginPercentile" : 8.25,
     "netProfitMarginPercentile" : 5.22,
-    "totalTechnicalScore" : 42.69,
+    "totalTechnicalScore" : 43.61,
     "totalFundamentalScore" : 23.51,
-    "totalScore" : 66.20
+    "totalScore" : 67.12
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TONBO",
       "companyName" : "Tonbo Imaging",
-      "marketCap" : 9080.00,
-      "peRatio" : 109.00,
+      "marketCap" : 8448.00,
+      "peRatio" : 101.00,
       "description" : "Tonbo Imaging India Ltd is a defence- electronics company designing electro- optical and infrared sensing, processing, communication and guidance systems for surveillance, targeting and control. Over 28,000 systems were deployed across 24 countries by June 2026. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 3.79,
+      "pricePercentageAboveDma50" : 4.26,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.26,
+      "pricePercentageAboveDma200" : 3.75,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 22.06,
+      "totalTechnicalScore" : 23.01,
       "totalFundamentalScore" : 30.00,
-      "totalScore" : 52.06
+      "totalScore" : 53.01
     }
   },
   "attributes" : {
     "companyCode" : "TONBO",
     "companyName" : "Tonbo Imaging",
-    "marketCap" : 9080.00,
-    "peRatio" : 109.00,
+    "marketCap" : 8448.00,
+    "peRatio" : 101.00,
     "description" : "Tonbo Imaging India Ltd is a defence- electronics company designing electro- optical and infrared sensing, processing, communication and guidance systems for surveillance, targeting and control. Over 28,000 systems were deployed across 24 countries by June 2026. [1]"
   },
   "technicalHistory" : [ {
@@ -165,14 +165,21 @@
     "dma100" : null,
     "dma200" : 1176.24,
     "volume" : 1999985.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1474.80,
+    "dma50" : 1284.99,
+    "dma100" : null,
+    "dma200" : 1179.21,
+    "volume" : 1370920.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1585.20,
-    "dma50" : 1277.24,
+    "date" : "2026-11-18",
+    "price" : 1474.80,
+    "dma50" : 1284.99,
     "dma100" : null,
-    "dma200" : 1176.24,
-    "volume" : 1999985.00
+    "dma200" : 1179.21,
+    "volume" : 1370920.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -223,15 +230,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 3.79,
+    "pricePercentageAboveDma50" : 4.26,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.26,
+    "pricePercentageAboveDma200" : 3.75,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 22.06,
+    "totalTechnicalScore" : 23.01,
     "totalFundamentalScore" : 30.00,
-    "totalScore" : 52.06
+    "totalScore" : 53.01
   }
 }

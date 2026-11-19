@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CEMPRO",
       "companyName" : "Cemindia Project",
-      "marketCap" : 24940.00,
-      "peRatio" : 39.90,
+      "marketCap" : 24978.00,
+      "peRatio" : 40.00,
       "description" : "Cemindia Projects Ltd. is engaged in the business of providing design, engineering, procurement and construction (EPC) services for infrastructure projects in India. [1]"
     },
     "companyScore" : {
@@ -27,26 +27,19 @@
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 13.36,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 38.32,
+      "totalTechnicalScore" : 38.33,
       "totalFundamentalScore" : 34.16,
-      "totalScore" : 72.48
+      "totalScore" : 72.49
     }
   },
   "attributes" : {
     "companyCode" : "CEMPRO",
     "companyName" : "Cemindia Project",
-    "marketCap" : 24940.00,
-    "peRatio" : 39.90,
+    "marketCap" : 24978.00,
+    "peRatio" : 40.00,
     "description" : "Cemindia Projects Ltd. is engaged in the business of providing design, engineering, procurement and construction (EPC) services for infrastructure projects in India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 801.65,
-    "dma50" : 809.45,
-    "dma100" : null,
-    "dma200" : 717.64,
-    "volume" : 642032.00
-  }, {
     "date" : "2025-11-19",
     "price" : 816.10,
     "dma50" : 809.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 648.30,
     "dma50" : 599.41,
-    "dma100" : 673.13,
+    "dma100" : null,
     "dma200" : 672.72,
     "volume" : 294569.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1307.39,
     "dma200" : 1104.19,
     "volume" : 769785.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1354.40,
+    "dma50" : 1259.61,
+    "dma100" : 1308.80,
+    "dma200" : 1106.68,
+    "volume" : 714028.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1352.30,
-    "dma50" : 1255.74,
-    "dma100" : 1307.39,
-    "dma200" : 1104.19,
-    "volume" : 769785.00
+    "date" : "2026-11-18",
+    "price" : 1354.40,
+    "dma50" : 1259.61,
+    "dma100" : 1308.80,
+    "dma200" : 1106.68,
+    "volume" : 714028.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2680,8 +2680,8 @@
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 13.36,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 38.32,
+    "totalTechnicalScore" : 38.33,
     "totalFundamentalScore" : 34.16,
-    "totalScore" : 72.48
+    "totalScore" : 72.49
   }
 }

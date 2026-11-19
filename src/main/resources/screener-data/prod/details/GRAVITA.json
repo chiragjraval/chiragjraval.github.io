@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GRAVITA",
       "companyName" : "Gravita India",
-      "marketCap" : 10998.00,
-      "peRatio" : 27.60,
+      "marketCap" : 10915.00,
+      "peRatio" : 27.40,
       "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.43,
-      "pricePercentageAboveDma200" : 5.39,
+      "pricePercentageAboveDma50" : 5.11,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.33,
       "operatingProfitMarginPercentile" : 16.47,
       "netProfitMarginPercentile" : 7.79,
-      "totalTechnicalScore" : 20.89,
+      "totalTechnicalScore" : 20.99,
       "totalFundamentalScore" : 28.59,
-      "totalScore" : 49.49
+      "totalScore" : 49.58
     }
   },
   "attributes" : {
     "companyCode" : "GRAVITA",
     "companyName" : "Gravita India",
-    "marketCap" : 10998.00,
-    "peRatio" : 27.60,
+    "marketCap" : 10915.00,
+    "peRatio" : 27.40,
     "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1729.10,
-    "dma50" : 1682.50,
-    "dma100" : null,
-    "dma200" : 1751.71,
-    "volume" : 131328.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1702.40,
     "dma50" : 1683.28,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1669.00,
     "dma50" : 1524.64,
-    "dma100" : 1640.96,
+    "dma100" : null,
     "dma200" : 1658.18,
     "volume" : 319591.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1629.35,
     "dma200" : 1617.39,
     "volume" : 135157.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1478.80,
+    "dma50" : 1511.18,
+    "dma100" : 1627.42,
+    "dma200" : 1616.01,
+    "volume" : 97450.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1490.10,
-    "dma50" : 1512.51,
-    "dma100" : 1629.35,
-    "dma200" : 1617.39,
-    "volume" : 135157.00
+    "date" : "2026-11-18",
+    "price" : 1478.80,
+    "dma50" : 1511.18,
+    "dma100" : 1627.42,
+    "dma200" : 1616.01,
+    "volume" : 97450.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-12-31",
@@ -2483,15 +2483,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.43,
-    "pricePercentageAboveDma200" : 5.39,
+    "pricePercentageAboveDma50" : 5.11,
+    "pricePercentageAboveDma100" : 5.46,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.33,
     "operatingProfitMarginPercentile" : 16.47,
     "netProfitMarginPercentile" : 7.79,
-    "totalTechnicalScore" : 20.89,
+    "totalTechnicalScore" : 20.99,
     "totalFundamentalScore" : 28.59,
-    "totalScore" : 49.49
+    "totalScore" : 49.58
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CASTROLIND",
       "companyName" : "Castrol India",
-      "marketCap" : 18901.00,
-      "peRatio" : 18.40,
+      "marketCap" : 18831.00,
+      "peRatio" : 18.30,
       "description" : "Castrol India Ltd is principally engaged in the business of manufacturing & marketing of automotive and industrial lubricants and related services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 4.97,
-      "pricePercentageAboveDma200" : 4.98,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 4.99,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 4.49,
       "netProfitMarginPercentile" : 1.19,
-      "totalTechnicalScore" : 39.97,
+      "totalTechnicalScore" : 40.03,
       "totalFundamentalScore" : 24.48,
-      "totalScore" : 64.45
+      "totalScore" : 64.51
     }
   },
   "attributes" : {
     "companyCode" : "CASTROLIND",
     "companyName" : "Castrol India",
-    "marketCap" : 18901.00,
-    "peRatio" : 18.40,
+    "marketCap" : 18831.00,
+    "peRatio" : 18.30,
     "description" : "Castrol India Ltd is principally engaged in the business of manufacturing & marketing of automotive and industrial lubricants and related services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 191.23,
-    "dma50" : 198.45,
-    "dma100" : null,
-    "dma200" : 205.82,
-    "volume" : 879427.00
-  }, {
     "date" : "2025-11-19",
     "price" : 190.87,
     "dma50" : 198.15,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 180.58,
     "dma50" : 182.99,
-    "dma100" : 185.93,
+    "dma100" : null,
     "dma200" : 192.70,
     "volume" : 1693050.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 189.83,
     "dma200" : 190.26,
     "volume" : 2684599.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 190.38,
+    "dma50" : 192.13,
+    "dma100" : 189.88,
+    "dma200" : 190.26,
+    "volume" : 1802117.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 191.09,
-    "dma50" : 192.20,
-    "dma100" : 189.83,
+    "date" : "2026-11-18",
+    "price" : 190.38,
+    "dma50" : 192.13,
+    "dma100" : 189.88,
     "dma200" : 190.26,
-    "volume" : 2684599.00
+    "volume" : 1802117.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 4.97,
-    "pricePercentageAboveDma200" : 4.98,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 4.99,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 4.49,
     "netProfitMarginPercentile" : 1.19,
-    "totalTechnicalScore" : 39.97,
+    "totalTechnicalScore" : 40.03,
     "totalFundamentalScore" : 24.48,
-    "totalScore" : 64.45
+    "totalScore" : 64.51
   }
 }

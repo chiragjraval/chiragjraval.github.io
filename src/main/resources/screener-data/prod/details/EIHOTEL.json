@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EIHOTEL",
       "companyName" : "EIH",
-      "marketCap" : 19414.00,
-      "peRatio" : 25.70,
+      "marketCap" : 19602.00,
+      "peRatio" : 26.00,
       "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 5.10,
+      "pricePercentageAboveDma50" : 4.82,
+      "pricePercentageAboveDma100" : 4.91,
+      "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 19.17,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 24.92,
+      "totalTechnicalScore" : 24.78,
       "totalFundamentalScore" : 42.81,
-      "totalScore" : 67.72
+      "totalScore" : 67.58
     }
   },
   "attributes" : {
     "companyCode" : "EIHOTEL",
     "companyName" : "EIH",
-    "marketCap" : 19414.00,
-    "peRatio" : 25.70,
+    "marketCap" : 19602.00,
+    "peRatio" : 26.00,
     "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 383.45,
-    "dma50" : 386.34,
-    "dma100" : null,
-    "dma200" : 380.78,
-    "volume" : 1071200.00
-  }, {
     "date" : "2025-11-19",
     "price" : 379.80,
     "dma50" : 386.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 319.80,
     "dma50" : 317.13,
-    "dma100" : 338.39,
+    "dma100" : null,
     "dma200" : 349.47,
     "volume" : 344250.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 307.80,
     "dma200" : 316.67,
     "volume" : 144725.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 313.45,
+    "dma50" : 302.53,
+    "dma100" : 307.67,
+    "dma200" : 316.64,
+    "volume" : 604721.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 310.45,
-    "dma50" : 302.09,
-    "dma100" : 307.80,
-    "dma200" : 316.67,
-    "volume" : 144725.00
+    "date" : "2026-11-18",
+    "price" : 313.45,
+    "dma50" : 302.53,
+    "dma100" : 307.67,
+    "dma200" : 316.64,
+    "volume" : 604721.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 5.10,
+    "pricePercentageAboveDma50" : 4.82,
+    "pricePercentageAboveDma100" : 4.91,
+    "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 19.17,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 24.92,
+    "totalTechnicalScore" : 24.78,
     "totalFundamentalScore" : 42.81,
-    "totalScore" : 67.72
+    "totalScore" : 67.58
   }
 }

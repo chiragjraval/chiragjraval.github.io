@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GODAVARIB",
       "companyName" : "Godavari Bioref.",
-      "marketCap" : 1039.00,
-      "peRatio" : 36.00,
+      "marketCap" : 1021.00,
+      "peRatio" : 35.40,
       "description" : "Incorporated in 1939, Godavari Biorefineries Ltd is a manufacturer of Bio-based Chemicals and Ethanol[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.52,
-      "pricePercentageAboveDma100" : 5.82,
-      "pricePercentageAboveDma200" : 6.02,
+      "pricePercentageAboveDma50" : 5.58,
+      "pricePercentageAboveDma100" : 5.88,
+      "pricePercentageAboveDma200" : 6.08,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.11,
       "operatingProfitMarginPercentile" : 10.77,
       "netProfitMarginPercentile" : 6.24,
-      "totalTechnicalScore" : 17.37,
+      "totalTechnicalScore" : 17.54,
       "totalFundamentalScore" : 33.12,
-      "totalScore" : 50.49
+      "totalScore" : 50.66
     }
   },
   "attributes" : {
     "companyCode" : "GODAVARIB",
     "companyName" : "Godavari Bioref.",
-    "marketCap" : 1039.00,
-    "peRatio" : 36.00,
+    "marketCap" : 1021.00,
+    "peRatio" : 35.40,
     "description" : "Incorporated in 1939, Godavari Biorefineries Ltd is a manufacturer of Bio-based Chemicals and Ethanol[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 255.00,
-    "dma50" : 264.81,
-    "dma100" : null,
-    "dma200" : 264.80,
-    "volume" : 43872.00
-  }, {
     "date" : "2025-11-19",
     "price" : 253.15,
     "dma50" : 264.35,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 316.00,
     "dma50" : 295.46,
-    "dma100" : 277.46,
+    "dma100" : null,
     "dma200" : 276.13,
     "volume" : 400040.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 243.08,
     "dma200" : 254.82,
     "volume" : 106749.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 199.45,
+    "dma50" : 225.66,
+    "dma100" : 242.26,
+    "dma200" : 254.27,
+    "volume" : 91812.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 202.97,
-    "dma50" : 226.73,
-    "dma100" : 243.08,
-    "dma200" : 254.82,
-    "volume" : 106749.00
+    "date" : "2026-11-18",
+    "price" : 199.45,
+    "dma50" : 225.66,
+    "dma100" : 242.26,
+    "dma200" : 254.27,
+    "volume" : 91812.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.52,
-    "pricePercentageAboveDma100" : 5.82,
-    "pricePercentageAboveDma200" : 6.02,
+    "pricePercentageAboveDma50" : 5.58,
+    "pricePercentageAboveDma100" : 5.88,
+    "pricePercentageAboveDma200" : 6.08,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.11,
     "operatingProfitMarginPercentile" : 10.77,
     "netProfitMarginPercentile" : 6.24,
-    "totalTechnicalScore" : 17.37,
+    "totalTechnicalScore" : 17.54,
     "totalFundamentalScore" : 33.12,
-    "totalScore" : 50.49
+    "totalScore" : 50.66
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "POWERMECH",
       "companyName" : "Power Mech Proj.",
-      "marketCap" : 7609.00,
-      "peRatio" : 19.00,
+      "marketCap" : 7517.00,
+      "peRatio" : 18.80,
       "description" : "Power Mech Projects Limited, incorporated in 1999, is an engineering and construction company providing integrated service in erection, testing and commissioning (ETC) of boilers, turbines and generators and balance of plant (BOP), civil works and operation and maintenance (O&M). The company undertakes ultra mega power projects, super critical thermal power projects and sub critical power projects.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.91,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 5.06,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 5.16,
+      "pricePercentageAboveDma200" : 5.12,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.65,
       "operatingProfitMarginPercentile" : 17.51,
       "netProfitMarginPercentile" : 9.91,
-      "totalTechnicalScore" : 30.08,
+      "totalTechnicalScore" : 25.25,
       "totalFundamentalScore" : 43.07,
-      "totalScore" : 73.15
+      "totalScore" : 68.33
     }
   },
   "attributes" : {
     "companyCode" : "POWERMECH",
     "companyName" : "Power Mech Proj.",
-    "marketCap" : 7609.00,
-    "peRatio" : 19.00,
+    "marketCap" : 7517.00,
+    "peRatio" : 18.80,
     "description" : "Power Mech Projects Limited, incorporated in 1999, is an engineering and construction company providing integrated service in erection, testing and commissioning (ETC) of boilers, turbines and generators and balance of plant (BOP), civil works and operation and maintenance (O&M). The company undertakes ultra mega power projects, super critical thermal power projects and sub critical power projects.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2418.70,
-    "dma50" : 2660.88,
-    "dma100" : null,
-    "dma200" : 2787.40,
-    "volume" : 51665.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2402.30,
     "dma50" : 2650.74,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2317.30,
     "dma50" : 2072.24,
-    "dma100" : 2159.77,
+    "dma100" : null,
     "dma200" : 2369.40,
     "volume" : 111182.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2461.51,
     "dma200" : 2435.09,
     "volume" : 18720.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2377.50,
+    "dma50" : 2364.73,
+    "dma100" : 2457.69,
+    "dma200" : 2434.52,
+    "volume" : 18360.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2406.70,
-    "dma50" : 2364.21,
-    "dma100" : 2461.51,
-    "dma200" : 2435.09,
-    "volume" : 18720.00
+    "date" : "2026-11-18",
+    "price" : 2377.50,
+    "dma50" : 2364.73,
+    "dma100" : 2457.69,
+    "dma200" : 2434.52,
+    "volume" : 18360.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-06-30",
@@ -2303,15 +2303,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.91,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 5.06,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 5.16,
+    "pricePercentageAboveDma200" : 5.12,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.65,
     "operatingProfitMarginPercentile" : 17.51,
     "netProfitMarginPercentile" : 9.91,
-    "totalTechnicalScore" : 30.08,
+    "totalTechnicalScore" : 25.25,
     "totalFundamentalScore" : 43.07,
-    "totalScore" : 73.15
+    "totalScore" : 68.33
   }
 }

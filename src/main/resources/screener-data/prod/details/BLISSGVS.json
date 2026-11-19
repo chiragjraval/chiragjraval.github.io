@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BLISSGVS",
       "companyName" : "Bliss GVS Pharma",
-      "marketCap" : 6983.00,
-      "peRatio" : 42.90,
+      "marketCap" : 7238.00,
+      "peRatio" : 44.50,
       "description" : "Incorporated in 1984, Bliss GVS Pharma Limited is engaged in manufacturing, marketing, trading and export of pharmaceutical formulations in the form of suppositories, pessaries, capsules, tablets, and syrups."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.84,
-      "pricePercentageAboveDma100" : 4.46,
-      "pricePercentageAboveDma200" : 3.12,
+      "pricePercentageAboveDma50" : 4.67,
+      "pricePercentageAboveDma100" : 4.27,
+      "pricePercentageAboveDma200" : 2.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 8.97,
       "netProfitMarginPercentile" : 4.54,
-      "totalTechnicalScore" : 42.41,
+      "totalTechnicalScore" : 41.83,
       "totalFundamentalScore" : 29.16,
-      "totalScore" : 71.58
+      "totalScore" : 71.00
     }
   },
   "attributes" : {
     "companyCode" : "BLISSGVS",
     "companyName" : "Bliss GVS Pharma",
-    "marketCap" : 6983.00,
-    "peRatio" : 42.90,
+    "marketCap" : 7238.00,
+    "peRatio" : 44.50,
     "description" : "Incorporated in 1984, Bliss GVS Pharma Limited is engaged in manufacturing, marketing, trading and export of pharmaceutical formulations in the form of suppositories, pessaries, capsules, tablets, and syrups."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 165.91,
-    "dma50" : 155.18,
-    "dma100" : null,
-    "dma200" : 147.66,
-    "volume" : 1040307.00
-  }, {
     "date" : "2025-11-19",
     "price" : 160.73,
     "dma50" : 155.40,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 258.92,
     "dma50" : 217.48,
-    "dma100" : 190.67,
+    "dma100" : null,
     "dma200" : 179.90,
     "volume" : 1206583.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 592.29,
     "dma200" : 476.68,
     "volume" : 68187.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 680.35,
+    "dma50" : 637.72,
+    "dma100" : 594.18,
+    "dma200" : 478.71,
+    "volume" : 263762.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 656.35,
-    "dma50" : 635.98,
-    "dma100" : 592.29,
-    "dma200" : 476.68,
-    "volume" : 68187.00
+    "date" : "2026-11-18",
+    "price" : 680.35,
+    "dma50" : 637.72,
+    "dma100" : 594.18,
+    "dma200" : 478.71,
+    "volume" : 263762.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.84,
-    "pricePercentageAboveDma100" : 4.46,
-    "pricePercentageAboveDma200" : 3.12,
+    "pricePercentageAboveDma50" : 4.67,
+    "pricePercentageAboveDma100" : 4.27,
+    "pricePercentageAboveDma200" : 2.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 8.97,
     "netProfitMarginPercentile" : 4.54,
-    "totalTechnicalScore" : 42.41,
+    "totalTechnicalScore" : 41.83,
     "totalFundamentalScore" : 29.16,
-    "totalScore" : 71.58
+    "totalScore" : 71.00
   }
 }

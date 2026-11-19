@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AUROPHARMA",
       "companyName" : "Aurobindo Pharma",
-      "marketCap" : 103229.00,
-      "peRatio" : 25.40,
+      "marketCap" : 103355.00,
+      "peRatio" : 25.50,
       "description" : "Aurobindo Pharma is principally engaged in manufacturing and marketing of active pharmaceutical ingredients, generic pharmaceuticals and related services.(Source : 202003 Annual Report Page No:159)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.72,
+      "pricePercentageAboveDma50" : 4.73,
       "pricePercentageAboveDma100" : 4.55,
       "pricePercentageAboveDma200" : 4.13,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 9.31,
-      "totalTechnicalScore" : 48.40,
+      "totalTechnicalScore" : 48.41,
       "totalFundamentalScore" : 40.90,
-      "totalScore" : 89.30
+      "totalScore" : 89.31
     }
   },
   "attributes" : {
     "companyCode" : "AUROPHARMA",
     "companyName" : "Aurobindo Pharma",
-    "marketCap" : 103229.00,
-    "peRatio" : 25.40,
+    "marketCap" : 103355.00,
+    "peRatio" : 25.50,
     "description" : "Aurobindo Pharma is principally engaged in manufacturing and marketing of active pharmaceutical ingredients, generic pharmaceuticals and related services.(Source : 202003 Annual Report Page No:159)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1239.30,
-    "dma50" : 1129.60,
-    "dma100" : null,
-    "dma200" : 1143.34,
-    "volume" : 1861706.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1235.80,
     "dma50" : 1133.77,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1386.50,
     "dma50" : 1269.64,
-    "dma100" : 1220.45,
+    "dma100" : null,
     "dma200" : 1199.41,
     "volume" : 2308907.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1646.46,
     "dma200" : 1528.04,
     "volume" : 931495.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1796.30,
+    "dma50" : 1703.04,
+    "dma100" : 1648.87,
+    "dma200" : 1530.71,
+    "volume" : 1221857.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1794.10,
-    "dma50" : 1699.24,
-    "dma100" : 1646.46,
-    "dma200" : 1528.04,
-    "volume" : 931495.00
+    "date" : "2026-11-18",
+    "price" : 1796.30,
+    "dma50" : 1703.04,
+    "dma100" : 1648.87,
+    "dma200" : 1530.71,
+    "volume" : 1221857.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.72,
+    "pricePercentageAboveDma50" : 4.73,
     "pricePercentageAboveDma100" : 4.55,
     "pricePercentageAboveDma200" : 4.13,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 9.31,
-    "totalTechnicalScore" : 48.40,
+    "totalTechnicalScore" : 48.41,
     "totalFundamentalScore" : 40.90,
-    "totalScore" : 89.30
+    "totalScore" : 89.31
   }
 }

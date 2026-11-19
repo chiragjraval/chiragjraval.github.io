@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BEML",
       "companyName" : "BEML Ltd",
-      "marketCap" : 17178.00,
-      "peRatio" : 105.00,
+      "marketCap" : 16826.00,
+      "peRatio" : 103.00,
       "description" : "BEML Ltd manufactures a wide range of heavy earthmoving equipment catering to the mining and construction industry, vehicles for defense forces and coaches for the metro and Indian Railways.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.82,
-      "pricePercentageAboveDma100" : 4.65,
-      "pricePercentageAboveDma200" : 4.55,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.93,
+      "pricePercentageAboveDma100" : 4.76,
+      "pricePercentageAboveDma200" : 4.67,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 13.21,
       "netProfitMarginPercentile" : 7.19,
-      "totalTechnicalScore" : 49.01,
+      "totalTechnicalScore" : 44.35,
       "totalFundamentalScore" : 37.51,
-      "totalScore" : 86.52
+      "totalScore" : 81.87
     }
   },
   "attributes" : {
     "companyCode" : "BEML",
     "companyName" : "BEML Ltd",
-    "marketCap" : 17178.00,
-    "peRatio" : 105.00,
+    "marketCap" : 16826.00,
+    "peRatio" : 103.00,
     "description" : "BEML Ltd manufactures a wide range of heavy earthmoving equipment catering to the mining and construction industry, vehicles for defense forces and coaches for the metro and Indian Railways.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 1977.80,
-    "dma50" : 2101.18,
-    "dma100" : null,
-    "dma200" : 1995.25,
-    "volume" : 187436.00
-  }, {
     "date" : "2025-11-19",
     "price" : 1939.10,
     "dma50" : 2094.82,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 1740.00,
     "dma50" : 1622.44,
-    "dma100" : 1706.22,
+    "dma100" : null,
     "dma200" : 1795.41,
     "volume" : 369522.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1926.04,
     "dma200" : 1892.68,
     "volume" : 194898.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2020.20,
+    "dma50" : 1990.35,
+    "dma100" : 1928.76,
+    "dma200" : 1893.95,
+    "volume" : 244647.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2062.50,
-    "dma50" : 1989.13,
-    "dma100" : 1926.04,
-    "dma200" : 1892.68,
-    "volume" : 194898.00
+    "date" : "2026-11-18",
+    "price" : 2020.20,
+    "dma50" : 1990.35,
+    "dma100" : 1928.76,
+    "dma200" : 1893.95,
+    "volume" : 244647.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.82,
-    "pricePercentageAboveDma100" : 4.65,
-    "pricePercentageAboveDma200" : 4.55,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.93,
+    "pricePercentageAboveDma100" : 4.76,
+    "pricePercentageAboveDma200" : 4.67,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 13.21,
     "netProfitMarginPercentile" : 7.19,
-    "totalTechnicalScore" : 49.01,
+    "totalTechnicalScore" : 44.35,
     "totalFundamentalScore" : 37.51,
-    "totalScore" : 86.52
+    "totalScore" : 81.87
   }
 }

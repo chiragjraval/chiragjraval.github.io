@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UNIMECH",
       "companyName" : "Unimech Aero.",
-      "marketCap" : 9550.00,
-      "peRatio" : 108.00,
+      "marketCap" : 9144.00,
+      "peRatio" : 104.00,
       "description" : "Incorporated in 2016, Unimech Aerospace and Manufacturing Limited is a global high precision engineering solutions company which specializes in manufacturing of complex products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.44,
-      "pricePercentageAboveDma100" : 3.80,
-      "pricePercentageAboveDma200" : 3.10,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.09,
+      "pricePercentageAboveDma200" : 3.41,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 6.67,
-      "totalTechnicalScore" : 46.34,
+      "totalTechnicalScore" : 47.19,
       "totalFundamentalScore" : 41.67,
-      "totalScore" : 88.00
+      "totalScore" : 88.86
     }
   },
   "attributes" : {
     "companyCode" : "UNIMECH",
     "companyName" : "Unimech Aero.",
-    "marketCap" : 9550.00,
-    "peRatio" : 108.00,
+    "marketCap" : 9144.00,
+    "peRatio" : 104.00,
     "description" : "Incorporated in 2016, Unimech Aerospace and Manufacturing Limited is a global high precision engineering solutions company which specializes in manufacturing of complex products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 981.60,
-    "dma50" : 1018.98,
-    "dma100" : null,
-    "dma200" : 1110.10,
-    "volume" : 20881.00
-  }, {
     "date" : "2025-11-19",
     "price" : 970.00,
     "dma50" : 1017.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 919.40,
     "dma50" : 844.14,
-    "dma100" : 891.60,
+    "dma100" : null,
     "dma200" : 962.70,
     "volume" : 137829.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1512.29,
     "dma200" : 1358.78,
     "volume" : 99849.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 1796.40,
+    "dma50" : 1692.42,
+    "dma100" : 1518.90,
+    "dma200" : 1363.14,
+    "volume" : 204580.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 1876.10,
-    "dma50" : 1688.18,
-    "dma100" : 1512.29,
-    "dma200" : 1358.78,
-    "volume" : 99849.00
+    "date" : "2026-11-18",
+    "price" : 1796.40,
+    "dma50" : 1692.42,
+    "dma100" : 1518.90,
+    "dma200" : 1363.14,
+    "volume" : 204580.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-12-31",
@@ -1923,15 +1923,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.44,
-    "pricePercentageAboveDma100" : 3.80,
-    "pricePercentageAboveDma200" : 3.10,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.09,
+    "pricePercentageAboveDma200" : 3.41,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 6.67,
-    "totalTechnicalScore" : 46.34,
+    "totalTechnicalScore" : 47.19,
     "totalFundamentalScore" : 41.67,
-    "totalScore" : 88.00
+    "totalScore" : 88.86
   }
 }

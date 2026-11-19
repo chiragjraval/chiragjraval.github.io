@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "KENNAMET",
       "companyName" : "Kennametal India",
-      "marketCap" : 8521.00,
-      "peRatio" : 31.40,
+      "marketCap" : 8407.00,
+      "peRatio" : 31.00,
       "description" : "Kennametal India Ltd was incorporated in 1938, it is a 75% subsidiary of Kennametal Inc. It manufactures carbide tools and special-purpose machines for automotive, defense, railways, infrastructure and General engineering segments. The manufacturing unit is in Bengaluru.[1][2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.99,
-      "pricePercentageAboveDma100" : 4.76,
-      "pricePercentageAboveDma200" : 4.14,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 4.84,
+      "pricePercentageAboveDma200" : 4.22,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 19.62,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 48.89,
+      "totalTechnicalScore" : 44.12,
       "totalFundamentalScore" : 49.38,
-      "totalScore" : 98.27
+      "totalScore" : 93.50
     }
   },
   "attributes" : {
     "companyCode" : "KENNAMET",
     "companyName" : "Kennametal India",
-    "marketCap" : 8521.00,
-    "peRatio" : 31.40,
+    "marketCap" : 8407.00,
+    "peRatio" : 31.00,
     "description" : "Kennametal India Ltd was incorporated in 1938, it is a 75% subsidiary of Kennametal Inc. It manufactures carbide tools and special-purpose machines for automotive, defense, railways, infrastructure and General engineering segments. The manufacturing unit is in Bengaluru.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2356.30,
-    "dma50" : 2188.20,
-    "dma100" : null,
-    "dma200" : 2311.84,
-    "volume" : 5220.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2340.95,
     "dma50" : 2194.19,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2513.95,
     "dma50" : 2211.37,
-    "dma100" : 2165.04,
+    "dma100" : null,
     "dma200" : 2225.37,
     "volume" : 16460.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3697.94,
     "dma200" : 3305.35,
     "volume" : 70544.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 3825.30,
+    "dma50" : 3869.04,
+    "dma100" : 3705.88,
+    "dma200" : 3310.53,
+    "volume" : 25871.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 3876.80,
-    "dma50" : 3870.82,
-    "dma100" : 3697.94,
-    "dma200" : 3305.35,
-    "volume" : 70544.00
+    "date" : "2026-11-18",
+    "price" : 3825.30,
+    "dma50" : 3869.04,
+    "dma100" : 3705.88,
+    "dma200" : 3310.53,
+    "volume" : 25871.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 106.70
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.99,
-    "pricePercentageAboveDma100" : 4.76,
-    "pricePercentageAboveDma200" : 4.14,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 4.84,
+    "pricePercentageAboveDma200" : 4.22,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 19.62,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 48.89,
+    "totalTechnicalScore" : 44.12,
     "totalFundamentalScore" : 49.38,
-    "totalScore" : 98.27
+    "totalScore" : 93.50
   }
 }

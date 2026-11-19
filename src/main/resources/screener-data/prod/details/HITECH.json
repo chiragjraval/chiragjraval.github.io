@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HITECH",
       "companyName" : "Hi-Tech Pipes",
-      "marketCap" : 1556.00,
-      "peRatio" : 18.90,
+      "marketCap" : 1525.00,
+      "peRatio" : 18.50,
       "description" : "Hi-Tech Pipes business of manufacturing of ERW Steel Round & Section Pipes, cold Rolled Strips & Engineering Products and distribution of the same across india."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.84,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 5.36,
+      "pricePercentageAboveDma50" : 4.95,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 5.45,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.24,
       "operatingProfitMarginPercentile" : 2.11,
       "netProfitMarginPercentile" : 5.19,
-      "totalTechnicalScore" : 20.31,
+      "totalTechnicalScore" : 20.60,
       "totalFundamentalScore" : 25.53,
-      "totalScore" : 45.84
+      "totalScore" : 46.13
     }
   },
   "attributes" : {
     "companyCode" : "HITECH",
     "companyName" : "Hi-Tech Pipes",
-    "marketCap" : 1556.00,
-    "peRatio" : 18.90,
+    "marketCap" : 1525.00,
+    "peRatio" : 18.50,
     "description" : "Hi-Tech Pipes business of manufacturing of ERW Steel Round & Section Pipes, cold Rolled Strips & Engineering Products and distribution of the same across india."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 109.05,
-    "dma50" : 109.03,
-    "dma100" : null,
-    "dma200" : 110.70,
-    "volume" : 575679.00
-  }, {
     "date" : "2025-11-19",
     "price" : 106.94,
     "dma50" : 108.95,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 88.13,
     "dma50" : 82.39,
-    "dma100" : 86.39,
+    "dma100" : null,
     "dma200" : 94.28,
     "volume" : 577727.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 78.39,
     "dma200" : 82.54,
     "volume" : 1199238.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 75.08,
+    "dma50" : 74.30,
+    "dma100" : 78.25,
+    "dma200" : 82.46,
+    "volume" : 428031.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 76.62,
-    "dma50" : 74.27,
-    "dma100" : 78.39,
-    "dma200" : 82.54,
-    "volume" : 1199238.00
+    "date" : "2026-11-18",
+    "price" : 75.08,
+    "dma50" : 74.30,
+    "dma100" : 78.25,
+    "dma200" : 82.46,
+    "volume" : 428031.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.84,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 5.36,
+    "pricePercentageAboveDma50" : 4.95,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 5.45,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.24,
     "operatingProfitMarginPercentile" : 2.11,
     "netProfitMarginPercentile" : 5.19,
-    "totalTechnicalScore" : 20.31,
+    "totalTechnicalScore" : 20.60,
     "totalFundamentalScore" : 25.53,
-    "totalScore" : 45.84
+    "totalScore" : 46.13
   }
 }

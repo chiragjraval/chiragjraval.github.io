@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ARCIL",
       "companyName" : "A R C I",
-      "marketCap" : 4272.00,
+      "marketCap" : 4264.00,
       "peRatio" : 10.80,
       "description" : "ARCIL is India's first and one of the largest asset reconstruction companies, focused on acquiring and resolving non-performing assets (NPAs) and stressed loans from banks and financial institutions"
     },
@@ -22,20 +22,20 @@
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.06,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.17,
+      "pricePercentageAboveDma200" : 5.18,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 10.23,
+      "totalTechnicalScore" : 10.24,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 60.23
+      "totalScore" : 60.24
     }
   },
   "attributes" : {
     "companyCode" : "ARCIL",
     "companyName" : "A R C I",
-    "marketCap" : 4272.00,
+    "marketCap" : 4264.00,
     "peRatio" : 10.80,
     "description" : "ARCIL is India's first and one of the largest asset reconstruction companies, focused on acquiring and resolving non-performing assets (NPAs) and stressed loans from banks and financial institutions"
   },
@@ -333,14 +333,21 @@
     "dma100" : null,
     "dma200" : 136.16,
     "volume" : 318015.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 131.24,
+    "dma50" : 132.90,
+    "dma100" : null,
+    "dma200" : 136.11,
+    "volume" : 393449.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 131.50,
-    "dma50" : 132.97,
+    "date" : "2026-11-18",
+    "price" : 131.24,
+    "dma50" : 132.90,
     "dma100" : null,
-    "dma200" : 136.16,
-    "volume" : 318015.00
+    "dma200" : 136.11,
+    "volume" : 393449.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -413,13 +420,13 @@
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.06,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.17,
+    "pricePercentageAboveDma200" : 5.18,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 10.23,
+    "totalTechnicalScore" : 10.24,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 60.23
+    "totalScore" : 60.24
   }
 }

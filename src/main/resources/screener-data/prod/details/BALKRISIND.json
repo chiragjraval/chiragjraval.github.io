@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BALKRISIND",
       "companyName" : "Balkrishna Inds",
-      "marketCap" : 44973.00,
-      "peRatio" : 31.60,
+      "marketCap" : 44200.00,
+      "peRatio" : 31.00,
       "description" : "Balkrishna Industries Limited (BKT) started its Off-Highway tyre business in 1987. For over 30 years, BKT has successfully focused on specialist segments such as agricultural, construction and industrial as well as earthmoving, port and mining, ATV, and gardening applications. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.73,
-      "pricePercentageAboveDma100" : 4.76,
-      "pricePercentageAboveDma200" : 4.83,
+      "pricePercentageAboveDma50" : 4.82,
+      "pricePercentageAboveDma100" : 4.85,
+      "pricePercentageAboveDma200" : 4.92,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 5.42,
       "netProfitMarginPercentile" : 1.64,
-      "totalTechnicalScore" : 29.32,
+      "totalTechnicalScore" : 29.60,
       "totalFundamentalScore" : 25.37,
-      "totalScore" : 54.69
+      "totalScore" : 54.97
     }
   },
   "attributes" : {
     "companyCode" : "BALKRISIND",
     "companyName" : "Balkrishna Inds",
-    "marketCap" : 44973.00,
-    "peRatio" : 31.60,
+    "marketCap" : 44200.00,
+    "peRatio" : 31.00,
     "description" : "Balkrishna Industries Limited (BKT) started its Off-Highway tyre business in 1987. For over 30 years, BKT has successfully focused on specialist segments such as agricultural, construction and industrial as well as earthmoving, port and mining, ATV, and gardening applications. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 2308.60,
-    "dma50" : 2350.29,
-    "dma100" : null,
-    "dma200" : 2497.03,
-    "volume" : 83930.00
-  }, {
     "date" : "2025-11-19",
     "price" : 2317.60,
     "dma50" : 2349.01,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 2342.40,
     "dma50" : 2280.12,
-    "dma100" : 2352.09,
+    "dma100" : null,
     "dma200" : 2396.30,
     "volume" : 89766.00
   }, {
@@ -1268,7 +1261,7 @@
     "date" : "2026-08-04",
     "price" : 2491.90,
     "dma50" : 2191.36,
-    "dma100" : 2185.00,
+    "dma100" : 2185.01,
     "dma200" : 2284.77,
     "volume" : 303702.00
   }, {
@@ -1338,7 +1331,7 @@
     "date" : "2026-08-18",
     "price" : 2376.70,
     "dma50" : 2275.41,
-    "dma100" : 2211.30,
+    "dma100" : 2211.31,
     "dma200" : 2300.48,
     "volume" : 65325.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2219.14,
     "dma200" : 2251.81,
     "volume" : 132979.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 2286.40,
+    "dma50" : 2208.31,
+    "dma100" : 2219.67,
+    "dma200" : 2252.15,
+    "volume" : 71128.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 2326.40,
-    "dma50" : 2205.12,
-    "dma100" : 2219.14,
-    "dma200" : 2251.81,
-    "volume" : 132979.00
+    "date" : "2026-11-18",
+    "price" : 2286.40,
+    "dma50" : 2208.31,
+    "dma100" : 2219.67,
+    "dma200" : 2252.15,
+    "volume" : 71128.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.73,
-    "pricePercentageAboveDma100" : 4.76,
-    "pricePercentageAboveDma200" : 4.83,
+    "pricePercentageAboveDma50" : 4.82,
+    "pricePercentageAboveDma100" : 4.85,
+    "pricePercentageAboveDma200" : 4.92,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 5.42,
     "netProfitMarginPercentile" : 1.64,
-    "totalTechnicalScore" : 29.32,
+    "totalTechnicalScore" : 29.60,
     "totalFundamentalScore" : 25.37,
-    "totalScore" : 54.69
+    "totalScore" : 54.97
   }
 }

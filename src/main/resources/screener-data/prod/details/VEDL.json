@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VEDL",
       "companyName" : "Vedanta",
-      "marketCap" : 99727.00,
-      "peRatio" : 7.56,
+      "marketCap" : 95961.00,
+      "peRatio" : 7.27,
       "description" : "Vedanta Ltd is a diversified natural resource group engaged in exploring, extracting and processing minerals and oil & gas. The group engages in the exploration, production and sale of zinc, lead, silver, copper, aluminium, iron ore and oil & gas. It has presence across India, South Africa, Namibia, Ireland, Liberia & UAE. Its other businesses includes commercial power generation, steel manufacturing & port operations in India and manufacturing of glass substrate in South Korea and Taiwan.[1] Presently, India accounts for ~65% of total revenues, followed by Malaysia (9%), China (3%), UAE (1%) and others (22%).[2]"
     },
     "companyScore" : {
@@ -18,35 +18,28 @@
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
-      "dma50HigherThanDma200" : 5.00,
+      "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 5.02,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 5.21,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 7.93,
       "netProfitMarginPercentile" : 2.90,
-      "totalTechnicalScore" : 25.21,
+      "totalTechnicalScore" : 20.75,
       "totalFundamentalScore" : 27.94,
-      "totalScore" : 53.15
+      "totalScore" : 48.69
     }
   },
   "attributes" : {
     "companyCode" : "VEDL",
     "companyName" : "Vedanta",
-    "marketCap" : 99727.00,
-    "peRatio" : 7.56,
+    "marketCap" : 95961.00,
+    "peRatio" : 7.27,
     "description" : "Vedanta Ltd is a diversified natural resource group engaged in exploring, extracting and processing minerals and oil & gas. The group engages in the exploration, production and sale of zinc, lead, silver, copper, aluminium, iron ore and oil & gas. It has presence across India, South Africa, Namibia, Ireland, Liberia & UAE. Its other businesses includes commercial power generation, steel manufacturing & port operations in India and manufacturing of glass substrate in South Korea and Taiwan.[1] Presently, India accounts for ~65% of total revenues, followed by Malaysia (9%), China (3%), UAE (1%) and others (22%).[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 184.76,
-    "dma50" : 176.00,
-    "dma100" : null,
-    "dma200" : 164.65,
-    "volume" : 22921631.00
-  }, {
     "date" : "2025-11-19",
     "price" : 185.16,
     "dma50" : 176.36,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 283.22,
     "dma50" : 249.72,
-    "dma100" : 232.77,
+    "dma100" : null,
     "dma200" : 211.69,
     "volume" : 44234222.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 263.43,
     "dma200" : 256.21,
     "volume" : 9271326.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 245.40,
+    "dma50" : 255.80,
+    "dma100" : 263.15,
+    "dma200" : 256.10,
+    "volume" : 10699286.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 255.03,
-    "dma50" : 256.23,
-    "dma100" : 263.43,
-    "dma200" : 256.21,
-    "volume" : 9271326.00
+    "date" : "2026-11-18",
+    "price" : 245.40,
+    "dma50" : 255.80,
+    "dma100" : 263.15,
+    "dma200" : 256.10,
+    "volume" : 10699286.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2671,17 +2671,17 @@
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
-    "dma50HigherThanDma200" : 5.00,
+    "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 5.02,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 5.21,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 7.93,
     "netProfitMarginPercentile" : 2.90,
-    "totalTechnicalScore" : 25.21,
+    "totalTechnicalScore" : 20.75,
     "totalFundamentalScore" : 27.94,
-    "totalScore" : 53.15
+    "totalScore" : 48.69
   }
 }

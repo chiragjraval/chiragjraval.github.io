@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KRSNAA",
       "companyName" : "Krsnaa Diagnost.",
-      "marketCap" : 1683.00,
-      "peRatio" : 16.70,
+      "marketCap" : 1659.00,
+      "peRatio" : 16.40,
       "description" : "Krsnaa Diagnostics Ltd provides a range of technology-enabled diagnostic services such as imaging, clinical laboratory, and teleradiology services to hospitals, medical colleges, and community health centers across India with an extensive network across non-metro and lower-tier cities and towns.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.52,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.26,
+      "pricePercentageAboveDma200" : 5.58,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.05,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 6.03,
-      "totalTechnicalScore" : 20.75,
+      "totalTechnicalScore" : 20.94,
       "totalFundamentalScore" : 41.08,
-      "totalScore" : 61.82
+      "totalScore" : 62.01
     }
   },
   "attributes" : {
     "companyCode" : "KRSNAA",
     "companyName" : "Krsnaa Diagnost.",
-    "marketCap" : 1683.00,
-    "peRatio" : 16.70,
+    "marketCap" : 1659.00,
+    "peRatio" : 16.40,
     "description" : "Krsnaa Diagnostics Ltd provides a range of technology-enabled diagnostic services such as imaging, clinical laboratory, and teleradiology services to hospitals, medical colleges, and community health centers across India with an extensive network across non-metro and lower-tier cities and towns.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-18",
-    "price" : 813.80,
-    "dma50" : 801.59,
-    "dma100" : null,
-    "dma200" : 786.64,
-    "volume" : 60356.00
-  }, {
     "date" : "2025-11-19",
     "price" : 821.45,
     "dma50" : 802.37,
@@ -743,7 +736,7 @@
     "date" : "2026-04-16",
     "price" : 616.55,
     "dma50" : 621.82,
-    "dma100" : 684.26,
+    "dma100" : null,
     "dma200" : 709.32,
     "volume" : 43443.00
   }, {
@@ -792,7 +785,7 @@
     "date" : "2026-04-27",
     "price" : 600.05,
     "dma50" : 619.01,
-    "dma100" : 670.18,
+    "dma100" : 670.19,
     "dma200" : 702.66,
     "volume" : 28078.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 539.91,
     "dma200" : 579.09,
     "volume" : 293982.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 511.30,
+    "dma50" : 521.24,
+    "dma100" : 539.64,
+    "dma200" : 578.42,
+    "volume" : 108687.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-17",
-    "price" : 518.70,
-    "dma50" : 521.65,
-    "dma100" : 539.91,
-    "dma200" : 579.09,
-    "volume" : 293982.00
+    "date" : "2026-11-18",
+    "price" : 511.30,
+    "dma50" : 521.24,
+    "dma100" : 539.64,
+    "dma200" : 578.42,
+    "volume" : 108687.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2053,15 +2053,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.52,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.26,
+    "pricePercentageAboveDma200" : 5.58,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.05,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 6.03,
-    "totalTechnicalScore" : 20.75,
+    "totalTechnicalScore" : 20.94,
     "totalFundamentalScore" : 41.08,
-    "totalScore" : 61.82
+    "totalScore" : 62.01
   }
 }
