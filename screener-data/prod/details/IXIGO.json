@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "IXIGO",
       "companyName" : "Le Travenues",
-      "marketCap" : 7812.00,
+      "marketCap" : 7813.00,
       "peRatio" : 65.80,
       "description" : "Incorporated in 2007, Le Travenues Technology Ltd is running online platforms to provide information and booking services for the travel industry. It also provides software development & maintenance services to its customer[1][2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.46,
-      "pricePercentageAboveDma100" : 4.86,
+      "pricePercentageAboveDma50" : 4.48,
+      "pricePercentageAboveDma100" : 4.85,
       "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 1.82,
       "operatingProfitMarginPercentile" : 5.00,
       "netProfitMarginPercentile" : 7.33,
-      "totalTechnicalScore" : 24.35,
+      "totalTechnicalScore" : 24.36,
       "totalFundamentalScore" : 14.16,
-      "totalScore" : 38.50
+      "totalScore" : 38.52
     }
   },
   "attributes" : {
     "companyCode" : "IXIGO",
     "companyName" : "Le Travenues",
-    "marketCap" : 7812.00,
+    "marketCap" : 7813.00,
     "peRatio" : 65.80,
     "description" : "Incorporated in 2007, Le Travenues Technology Ltd is running online platforms to provide information and booking services for the travel industry. It also provides software development & maintenance services to its customer[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 269.15,
-    "dma50" : 283.40,
-    "dma100" : null,
-    "dma200" : 229.19,
-    "volume" : 1528196.00
-  }, {
     "date" : "2025-11-20",
     "price" : 270.90,
     "dma50" : 282.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 178.86,
     "dma50" : 184.15,
-    "dma100" : 212.30,
+    "dma100" : null,
     "dma200" : 212.34,
     "volume" : 2549366.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 172.17,
     "dma200" : 178.16,
     "volume" : 1886071.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 177.07,
+    "dma50" : 160.38,
+    "dma100" : 172.01,
+    "dma200" : 178.15,
+    "volume" : 841538.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 177.03,
-    "dma50" : 159.70,
-    "dma100" : 172.17,
-    "dma200" : 178.16,
-    "volume" : 1886071.00
+    "date" : "2026-11-19",
+    "price" : 177.07,
+    "dma50" : 160.38,
+    "dma100" : 172.01,
+    "dma200" : 178.15,
+    "volume" : 841538.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-03-31",
@@ -1953,15 +1953,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.46,
-    "pricePercentageAboveDma100" : 4.86,
+    "pricePercentageAboveDma50" : 4.48,
+    "pricePercentageAboveDma100" : 4.85,
     "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 1.82,
     "operatingProfitMarginPercentile" : 5.00,
     "netProfitMarginPercentile" : 7.33,
-    "totalTechnicalScore" : 24.35,
+    "totalTechnicalScore" : 24.36,
     "totalFundamentalScore" : 14.16,
-    "totalScore" : 38.50
+    "totalScore" : 38.52
   }
 }

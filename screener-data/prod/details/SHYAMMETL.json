@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHYAMMETL",
       "companyName" : "Shyam Metalics",
-      "marketCap" : 36764.00,
-      "peRatio" : 27.10,
+      "marketCap" : 36120.00,
+      "peRatio" : 26.70,
       "description" : "Shyam Metalics is primarily engaged in the manufacturing of steel and allied products including pellets, sponge iron, TMT and long products, ferro alloys and generation of power.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.40,
-      "pricePercentageAboveDma100" : 3.92,
-      "pricePercentageAboveDma200" : 3.56,
+      "pricePercentageAboveDma50" : 4.52,
+      "pricePercentageAboveDma100" : 4.04,
+      "pricePercentageAboveDma200" : 3.69,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.30,
       "operatingProfitMarginPercentile" : 11.85,
       "netProfitMarginPercentile" : 7.78,
-      "totalTechnicalScore" : 41.88,
+      "totalTechnicalScore" : 42.26,
       "totalFundamentalScore" : 30.93,
-      "totalScore" : 72.81
+      "totalScore" : 73.19
     }
   },
   "attributes" : {
     "companyCode" : "SHYAMMETL",
     "companyName" : "Shyam Metalics",
-    "marketCap" : 36764.00,
-    "peRatio" : 27.10,
+    "marketCap" : 36120.00,
+    "peRatio" : 26.70,
     "description" : "Shyam Metalics is primarily engaged in the manufacturing of steel and allied products including pellets, sponge iron, TMT and long products, ferro alloys and generation of power.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 836.70,
-    "dma50" : 895.32,
-    "dma100" : null,
-    "dma200" : 873.79,
-    "volume" : 70839.00
-  }, {
     "date" : "2025-11-20",
     "price" : 835.00,
     "dma50" : 892.95,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 864.20,
     "dma50" : 822.17,
-    "dma100" : 823.54,
+    "dma100" : null,
     "dma200" : 841.91,
     "volume" : 193657.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1082.88,
     "dma200" : 1022.73,
     "volume" : 355671.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1294.00,
+    "dma50" : 1180.80,
+    "dma100" : 1086.30,
+    "dma200" : 1025.43,
+    "volume" : 651106.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1317.10,
-    "dma50" : 1176.18,
-    "dma100" : 1082.88,
-    "dma200" : 1022.73,
-    "volume" : 355671.00
+    "date" : "2026-11-19",
+    "price" : 1294.00,
+    "dma50" : 1180.80,
+    "dma100" : 1086.30,
+    "dma200" : 1025.43,
+    "volume" : 651106.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2073,15 +2073,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.40,
-    "pricePercentageAboveDma100" : 3.92,
-    "pricePercentageAboveDma200" : 3.56,
+    "pricePercentageAboveDma50" : 4.52,
+    "pricePercentageAboveDma100" : 4.04,
+    "pricePercentageAboveDma200" : 3.69,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.30,
     "operatingProfitMarginPercentile" : 11.85,
     "netProfitMarginPercentile" : 7.78,
-    "totalTechnicalScore" : 41.88,
+    "totalTechnicalScore" : 42.26,
     "totalFundamentalScore" : 30.93,
-    "totalScore" : 72.81
+    "totalScore" : 73.19
   }
 }

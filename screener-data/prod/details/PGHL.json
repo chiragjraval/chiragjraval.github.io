@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PGHL",
       "companyName" : "P & G Health Ltd",
-      "marketCap" : 9138.00,
-      "peRatio" : 25.70,
+      "marketCap" : 9190.00,
+      "peRatio" : 25.80,
       "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.30,
-      "pricePercentageAboveDma200" : 5.15,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 5.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 19.99,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 20.51,
+      "totalTechnicalScore" : 20.41,
       "totalFundamentalScore" : 44.35,
-      "totalScore" : 64.85
+      "totalScore" : 64.76
     }
   },
   "attributes" : {
     "companyCode" : "PGHL",
     "companyName" : "P & G Health Ltd",
-    "marketCap" : 9138.00,
-    "peRatio" : 25.70,
+    "marketCap" : 9190.00,
+    "peRatio" : 25.80,
     "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 5892.50,
-    "dma50" : 6092.57,
-    "dma100" : null,
-    "dma200" : 5839.17,
-    "volume" : 8543.00
-  }, {
     "date" : "2025-11-20",
     "price" : 5906.00,
     "dma50" : 6085.26,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 5022.90,
     "dma50" : 5027.32,
-    "dma100" : 5311.20,
+    "dma100" : null,
     "dma200" : 5444.33,
     "volume" : 18414.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5856.47,
     "dma200" : 5675.74,
     "volume" : 21923.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 5536.50,
+    "dma50" : 5564.83,
+    "dma100" : 5849.37,
+    "dma200" : 5674.35,
+    "volume" : 8115.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 5505.00,
-    "dma50" : 5565.99,
-    "dma100" : 5856.47,
-    "dma200" : 5675.74,
-    "volume" : 21923.00
+    "date" : "2026-11-19",
+    "price" : 5536.50,
+    "dma50" : 5564.83,
+    "dma100" : 5849.37,
+    "dma200" : 5674.35,
+    "volume" : 8115.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.30,
-    "pricePercentageAboveDma200" : 5.15,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 5.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 19.99,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 20.51,
+    "totalTechnicalScore" : 20.41,
     "totalFundamentalScore" : 44.35,
-    "totalScore" : 64.85
+    "totalScore" : 64.76
   }
 }

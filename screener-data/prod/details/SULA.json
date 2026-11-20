@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SULA",
       "companyName" : "Sula Vineyards",
-      "marketCap" : 1141.00,
-      "peRatio" : 40.80,
+      "marketCap" : 1137.00,
+      "peRatio" : 40.60,
       "description" : "Incorporated in 2003, Sula Vineyards Limited is India's largest wine producer and seller as of March 31, 2022. The company also distributes wines under a bouquet of popular brands including \"RASA,\" \"Dindori\", \"The source,\" \"Satori\", \"Madera\" & \"Dia\" with its flagship brand \"Sula\" being the \"category creator\" of wine in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.09,
-      "pricePercentageAboveDma100" : 5.30,
-      "pricePercentageAboveDma200" : 5.87,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.88,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.24,
       "operatingProfitMarginPercentile" : 7.00,
       "netProfitMarginPercentile" : 3.95,
-      "totalTechnicalScore" : 16.25,
+      "totalTechnicalScore" : 16.28,
       "totalFundamentalScore" : 22.19,
-      "totalScore" : 38.44
+      "totalScore" : 38.47
     }
   },
   "attributes" : {
     "companyCode" : "SULA",
     "companyName" : "Sula Vineyards",
-    "marketCap" : 1141.00,
-    "peRatio" : 40.80,
+    "marketCap" : 1137.00,
+    "peRatio" : 40.60,
     "description" : "Incorporated in 2003, Sula Vineyards Limited is India's largest wine producer and seller as of March 31, 2022. The company also distributes wines under a bouquet of popular brands including \"RASA,\" \"Dindori\", \"The source,\" \"Satori\", \"Madera\" & \"Dia\" with its flagship brand \"Sula\" being the \"category creator\" of wine in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 245.20,
-    "dma50" : 257.26,
-    "dma100" : null,
-    "dma200" : 297.12,
-    "volume" : 147051.00
-  }, {
     "date" : "2025-11-20",
     "price" : 242.60,
     "dma50" : 256.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 175.15,
     "dma50" : 169.87,
-    "dma100" : 190.20,
+    "dma100" : null,
     "dma200" : 225.00,
     "volume" : 580898.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 143.67,
     "dma200" : 163.51,
     "volume" : 185453.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 134.64,
+    "dma50" : 137.37,
+    "dma100" : 143.49,
+    "dma200" : 163.23,
+    "volume" : 154108.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 135.14,
-    "dma50" : 137.48,
-    "dma100" : 143.67,
-    "dma200" : 163.51,
-    "volume" : 185453.00
+    "date" : "2026-11-19",
+    "price" : 134.64,
+    "dma50" : 137.37,
+    "dma100" : 143.49,
+    "dma200" : 163.23,
+    "volume" : 154108.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -2003,15 +2003,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.09,
-    "pricePercentageAboveDma100" : 5.30,
-    "pricePercentageAboveDma200" : 5.87,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.88,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.24,
     "operatingProfitMarginPercentile" : 7.00,
     "netProfitMarginPercentile" : 3.95,
-    "totalTechnicalScore" : 16.25,
+    "totalTechnicalScore" : 16.28,
     "totalFundamentalScore" : 22.19,
-    "totalScore" : 38.44
+    "totalScore" : 38.47
   }
 }

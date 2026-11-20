@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "KICL",
       "companyName" : "Kalyani Invest.",
-      "marketCap" : 1910.00,
+      "marketCap" : 1914.00,
       "peRatio" : 34.50,
       "description" : "Kalyani Investment Co. Ltd. is a part of the Kalyani Group and is a Core Investment Company holding more than 60% of its net assets in the form of investments in equity shares of Group Companies, while more than 90% of its net assets in the form of investments in equity/preference shares of or debentures/debts in Group Companies. [1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.40,
-      "pricePercentageAboveDma100" : 5.72,
-      "pricePercentageAboveDma200" : 5.59,
+      "pricePercentageAboveDma50" : 5.38,
+      "pricePercentageAboveDma100" : 5.70,
+      "pricePercentageAboveDma200" : 5.58,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.00,
       "operatingProfitMarginPercentile" : 19.99,
       "netProfitMarginPercentile" : 6.72,
-      "totalTechnicalScore" : 21.71,
+      "totalTechnicalScore" : 21.66,
       "totalFundamentalScore" : 36.71,
-      "totalScore" : 58.42
+      "totalScore" : 58.37
     }
   },
   "attributes" : {
     "companyCode" : "KICL",
     "companyName" : "Kalyani Invest.",
-    "marketCap" : 1910.00,
+    "marketCap" : 1914.00,
     "peRatio" : 34.50,
     "description" : "Kalyani Investment Co. Ltd. is a part of the Kalyani Group and is a Core Investment Company holding more than 60% of its net assets in the form of investments in equity shares of Group Companies, while more than 90% of its net assets in the form of investments in equity/preference shares of or debentures/debts in Group Companies. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 5148.00,
-    "dma50" : 5198.84,
-    "dma100" : null,
-    "dma200" : 5050.77,
-    "volume" : 3058.00
-  }, {
     "date" : "2025-11-20",
     "price" : 5402.50,
     "dma50" : 5206.83,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 4781.00,
     "dma50" : 4626.37,
-    "dma100" : 4792.68,
+    "dma100" : null,
     "dma200" : 4854.25,
     "volume" : 2574.00
   }, {
@@ -1733,14 +1726,21 @@
     "dma100" : 5101.41,
     "dma200" : 4960.87,
     "volume" : 1266.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 4380.50,
+    "dma50" : 4736.50,
+    "dma100" : 5093.22,
+    "dma200" : 4955.10,
+    "volume" : 412.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 4371.70,
-    "dma50" : 4751.03,
-    "dma100" : 5101.41,
-    "dma200" : 4960.87,
-    "volume" : 1266.00
+    "date" : "2026-11-19",
+    "price" : 4380.50,
+    "dma50" : 4736.50,
+    "dma100" : 5093.22,
+    "dma200" : 4955.10,
+    "volume" : 412.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-12-31",
@@ -2401,15 +2401,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.40,
-    "pricePercentageAboveDma100" : 5.72,
-    "pricePercentageAboveDma200" : 5.59,
+    "pricePercentageAboveDma50" : 5.38,
+    "pricePercentageAboveDma100" : 5.70,
+    "pricePercentageAboveDma200" : 5.58,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.00,
     "operatingProfitMarginPercentile" : 19.99,
     "netProfitMarginPercentile" : 6.72,
-    "totalTechnicalScore" : 21.71,
+    "totalTechnicalScore" : 21.66,
     "totalFundamentalScore" : 36.71,
-    "totalScore" : 58.42
+    "totalScore" : 58.37
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MPIMANIPAL",
       "companyName" : "Manipal Payment",
-      "marketCap" : 7312.00,
-      "peRatio" : 28.60,
+      "marketCap" : 7200.00,
+      "peRatio" : 28.20,
       "description" : "Incorporated in 2008, Manipal Payment & Identity Solutions Limited provides the payment solutions, identification solutions, secure solutions, and smart tagging and Internet of Things (IoT) solutions to banks, fintechs, & NBFC's.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.26,
+      "pricePercentageAboveDma50" : 5.32,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.39,
+      "pricePercentageAboveDma200" : 5.46,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 10.66,
+      "totalTechnicalScore" : 10.78,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 54.66
+      "totalScore" : 54.78
     }
   },
   "attributes" : {
     "companyCode" : "MPIMANIPAL",
     "companyName" : "Manipal Payment",
-    "marketCap" : 7312.00,
-    "peRatio" : 28.60,
+    "marketCap" : 7200.00,
+    "peRatio" : 28.20,
     "description" : "Incorporated in 2008, Manipal Payment & Identity Solutions Limited provides the payment solutions, identification solutions, secure solutions, and smart tagging and Internet of Things (IoT) solutions to banks, fintechs, & NBFC's.[1]"
   },
   "technicalHistory" : [ {
@@ -340,14 +340,21 @@
     "dma100" : null,
     "dma200" : 342.36,
     "volume" : 82959.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 310.60,
+    "dma50" : 332.09,
+    "dma100" : null,
+    "dma200" : 342.05,
+    "volume" : 125656.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 315.45,
-    "dma50" : 332.97,
+    "date" : "2026-11-19",
+    "price" : 310.60,
+    "dma50" : 332.09,
     "dma100" : null,
-    "dma200" : 342.36,
-    "volume" : 82959.00
+    "dma200" : 342.05,
+    "volume" : 125656.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -418,15 +425,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.26,
+    "pricePercentageAboveDma50" : 5.32,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.39,
+    "pricePercentageAboveDma200" : 5.46,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 10.66,
+    "totalTechnicalScore" : 10.78,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 54.66
+    "totalScore" : 54.78
   }
 }

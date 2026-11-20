@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ANAWIL",
       "companyName" : "Anawil Wire",
-      "marketCap" : 1001.00,
-      "peRatio" : 20.50,
+      "marketCap" : 1012.00,
+      "peRatio" : 20.70,
       "description" : "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma50" : 5.00,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma200" : 4.69,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 10.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 19.84,
+      "totalTechnicalScore" : 19.69,
       "totalFundamentalScore" : 20.00,
-      "totalScore" : 39.84
+      "totalScore" : 39.69
     }
   },
   "attributes" : {
     "companyCode" : "ANAWIL",
     "companyName" : "Anawil Wire",
-    "marketCap" : 1001.00,
-    "peRatio" : 20.50,
+    "marketCap" : 1012.00,
+    "peRatio" : 20.70,
     "description" : "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector.[1]"
   },
   "technicalHistory" : [ {
@@ -494,14 +494,56 @@
     "dma100" : null,
     "dma200" : 380.48,
     "volume" : 89600.00
+  }, {
+    "date" : "2026-11-12",
+    "price" : 390.75,
+    "dma50" : 408.30,
+    "dma100" : null,
+    "dma200" : 380.58,
+    "volume" : 72000.00
+  }, {
+    "date" : "2026-11-13",
+    "price" : 393.20,
+    "dma50" : 407.71,
+    "dma100" : null,
+    "dma200" : 380.71,
+    "volume" : 46000.00
+  }, {
+    "date" : "2026-11-16",
+    "price" : 380.85,
+    "dma50" : 406.65,
+    "dma100" : null,
+    "dma200" : 380.71,
+    "volume" : 69200.00
+  }, {
+    "date" : "2026-11-17",
+    "price" : 390.20,
+    "dma50" : 406.01,
+    "dma100" : null,
+    "dma200" : 380.80,
+    "volume" : 51600.00
+  }, {
+    "date" : "2026-11-18",
+    "price" : 383.45,
+    "dma50" : 405.12,
+    "dma100" : null,
+    "dma200" : 380.83,
+    "volume" : 44000.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 404.90,
+    "dma50" : 405.12,
+    "dma100" : null,
+    "dma200" : 381.07,
+    "volume" : 153600.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-11",
-    "price" : 400.50,
-    "dma50" : 409.02,
+    "date" : "2026-11-19",
+    "price" : 404.90,
+    "dma50" : 405.12,
     "dma100" : null,
-    "dma200" : 380.48,
-    "volume" : 89600.00
+    "dma200" : 381.07,
+    "volume" : 153600.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -542,15 +584,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma50" : 5.00,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma200" : 4.69,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 10.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 19.84,
+    "totalTechnicalScore" : 19.69,
     "totalFundamentalScore" : 20.00,
-    "totalScore" : 39.84
+    "totalScore" : 39.69
   }
 }

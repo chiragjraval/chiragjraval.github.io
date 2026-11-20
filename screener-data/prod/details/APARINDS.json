@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "APARINDS",
       "companyName" : "Apar Inds.",
-      "marketCap" : 58596.00,
-      "peRatio" : 41.80,
+      "marketCap" : 60459.00,
+      "peRatio" : 43.20,
       "description" : "Apar, founded by Mr. Dharmsinh D. Desai in 1958, is a market leader in India with a global presence. Contributing to India’s process of electrification it started from manufacturing power transmission cables to having three broad business segments, which are Conductors, Transformer and specialty oils (TSO), and Power/telecom Cables. [1] [2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.57,
-      "pricePercentageAboveDma100" : 5.62,
-      "pricePercentageAboveDma200" : 5.04,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 5.41,
+      "pricePercentageAboveDma100" : 5.48,
+      "pricePercentageAboveDma200" : 4.88,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.57,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 31.23,
+      "totalTechnicalScore" : 30.77,
       "totalFundamentalScore" : 40.99,
-      "totalScore" : 72.22
+      "totalScore" : 71.76
     }
   },
   "attributes" : {
     "companyCode" : "APARINDS",
     "companyName" : "Apar Inds.",
-    "marketCap" : 58596.00,
-    "peRatio" : 41.80,
+    "marketCap" : 60459.00,
+    "peRatio" : 43.20,
     "description" : "Apar, founded by Mr. Dharmsinh D. Desai in 1958, is a market leader in India with a global presence. Contributing to India’s process of electrification it started from manufacturing power transmission cables to having three broad business segments, which are Conductors, Transformer and specialty oils (TSO), and Power/telecom Cables. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 9335.00,
-    "dma50" : 8675.21,
-    "dma100" : null,
-    "dma200" : 8226.75,
-    "volume" : 56023.00
-  }, {
     "date" : "2025-11-20",
     "price" : 9231.50,
     "dma50" : 8697.03,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 11482.00,
     "dma50" : 9959.04,
-    "dma100" : 9209.95,
+    "dma100" : null,
     "dma200" : 8976.46,
     "volume" : 226170.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 15990.84,
     "dma200" : 14101.30,
     "volume" : 81019.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 14438.00,
+    "dma50" : 15727.35,
+    "dma100" : 15975.36,
+    "dma200" : 14104.65,
+    "volume" : 109284.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 13993.00,
-    "dma50" : 15779.97,
-    "dma100" : 15990.84,
-    "dma200" : 14101.30,
-    "volume" : 81019.00
+    "date" : "2026-11-19",
+    "price" : 14438.00,
+    "dma50" : 15727.35,
+    "dma100" : 15975.36,
+    "dma200" : 14104.65,
+    "volume" : 109284.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.57,
-    "pricePercentageAboveDma100" : 5.62,
-    "pricePercentageAboveDma200" : 5.04,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 5.41,
+    "pricePercentageAboveDma100" : 5.48,
+    "pricePercentageAboveDma200" : 4.88,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.57,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 31.23,
+    "totalTechnicalScore" : 30.77,
     "totalFundamentalScore" : 40.99,
-    "totalScore" : 72.22
+    "totalScore" : 71.76
   }
 }

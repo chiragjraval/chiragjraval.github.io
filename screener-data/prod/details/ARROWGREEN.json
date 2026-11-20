@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ARROWGREEN",
       "companyName" : "Arrow Greentech",
-      "marketCap" : 1015.00,
-      "peRatio" : 13.90,
+      "marketCap" : 1010.00,
+      "peRatio" : 13.80,
       "description" : "Incorporated in 1982, Arrow Greentech Ltd is in the business of bio-degradable (green) products, high-tech products and having Patents income for such products /technology[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
-      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.54,
-      "pricePercentageAboveDma100" : 5.53,
-      "pricePercentageAboveDma200" : 5.02,
+      "pricePercentageAboveDma50" : 5.53,
+      "pricePercentageAboveDma100" : 5.55,
+      "pricePercentageAboveDma200" : 5.04,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.49,
       "operatingProfitMarginPercentile" : 17.23,
       "netProfitMarginPercentile" : 7.93,
-      "totalTechnicalScore" : 31.08,
+      "totalTechnicalScore" : 26.13,
       "totalFundamentalScore" : 38.66,
-      "totalScore" : 69.74
+      "totalScore" : 64.78
     }
   },
   "attributes" : {
     "companyCode" : "ARROWGREEN",
     "companyName" : "Arrow Greentech",
-    "marketCap" : 1015.00,
-    "peRatio" : 13.90,
+    "marketCap" : 1010.00,
+    "peRatio" : 13.80,
     "description" : "Incorporated in 1982, Arrow Greentech Ltd is in the business of bio-degradable (green) products, high-tech products and having Patents income for such products /technology[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 565.30,
-    "dma50" : 584.26,
-    "dma100" : null,
-    "dma200" : 620.97,
-    "volume" : 15804.00
-  }, {
     "date" : "2025-11-20",
     "price" : 560.85,
     "dma50" : 583.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 550.50,
     "dma50" : 465.20,
-    "dma100" : 469.88,
+    "dma100" : null,
     "dma200" : 521.15,
     "volume" : 34153.00
   }, {
@@ -925,7 +918,7 @@
     "date" : "2026-05-26",
     "price" : 467.40,
     "dma50" : 496.46,
-    "dma100" : 468.28,
+    "dma100" : 468.29,
     "dma200" : 520.89,
     "volume" : 66791.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 752.41,
     "dma200" : 674.99,
     "volume" : 23797.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 669.65,
+    "dma50" : 749.81,
+    "dma100" : 753.16,
+    "dma200" : 674.94,
+    "volume" : 27273.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 672.50,
-    "dma50" : 753.08,
-    "dma100" : 752.41,
-    "dma200" : 674.99,
-    "volume" : 23797.00
+    "date" : "2026-11-19",
+    "price" : 669.65,
+    "dma50" : 749.81,
+    "dma100" : 753.16,
+    "dma200" : 674.94,
+    "volume" : 27273.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2670,18 +2670,18 @@
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
-    "dma50HigherThanDma100" : 5.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.54,
-    "pricePercentageAboveDma100" : 5.53,
-    "pricePercentageAboveDma200" : 5.02,
+    "pricePercentageAboveDma50" : 5.53,
+    "pricePercentageAboveDma100" : 5.55,
+    "pricePercentageAboveDma200" : 5.04,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.49,
     "operatingProfitMarginPercentile" : 17.23,
     "netProfitMarginPercentile" : 7.93,
-    "totalTechnicalScore" : 31.08,
+    "totalTechnicalScore" : 26.13,
     "totalFundamentalScore" : 38.66,
-    "totalScore" : 69.74
+    "totalScore" : 64.78
   }
 }

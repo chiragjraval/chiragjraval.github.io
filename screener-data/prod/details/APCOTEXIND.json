@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "APCOTEXIND",
       "companyName" : "Apcotex Industri",
-      "marketCap" : 2524.00,
-      "peRatio" : 14.50,
+      "marketCap" : 2514.00,
+      "peRatio" : 14.40,
       "description" : "Apcotex Industries Ltd is a leading producer of Synthetic Rubber (Nitrile Rubber, High Styrene Rubber, Nitrile Polyblends and Nitrile Powder) and Synthetic Latex (XSB Latex, VP Latex, Styrene Acrylics, and Nitrile Latex) in India.[1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.47,
-      "pricePercentageAboveDma100" : 5.72,
-      "pricePercentageAboveDma200" : 5.22,
+      "pricePercentageAboveDma100" : 5.74,
+      "pricePercentageAboveDma200" : 5.24,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 13.79,
       "netProfitMarginPercentile" : 6.93,
-      "totalTechnicalScore" : 26.42,
+      "totalTechnicalScore" : 26.45,
       "totalFundamentalScore" : 37.11,
-      "totalScore" : 63.52
+      "totalScore" : 63.56
     }
   },
   "attributes" : {
     "companyCode" : "APCOTEXIND",
     "companyName" : "Apcotex Industri",
-    "marketCap" : 2524.00,
-    "peRatio" : 14.50,
+    "marketCap" : 2514.00,
+    "peRatio" : 14.40,
     "description" : "Apcotex Industries Ltd is a leading producer of Synthetic Rubber (Nitrile Rubber, High Styrene Rubber, Nitrile Polyblends and Nitrile Powder) and Synthetic Latex (XSB Latex, VP Latex, Styrene Acrylics, and Nitrile Latex) in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 395.75,
-    "dma50" : 383.35,
-    "dma100" : null,
-    "dma200" : 382.54,
-    "volume" : 13668.00
-  }, {
     "date" : "2025-11-20",
     "price" : 403.80,
     "dma50" : 384.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 385.05,
     "dma50" : 363.87,
-    "dma100" : 368.74,
+    "dma100" : null,
     "dma200" : 372.34,
     "volume" : 9303.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 569.34,
     "dma200" : 509.58,
     "volume" : 30248.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 484.90,
+    "dma50" : 535.38,
+    "dma100" : 569.22,
+    "dma200" : 509.34,
+    "volume" : 36334.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 486.90,
-    "dma50" : 537.44,
-    "dma100" : 569.34,
-    "dma200" : 509.58,
-    "volume" : 30248.00
+    "date" : "2026-11-19",
+    "price" : 484.90,
+    "dma50" : 535.38,
+    "dma100" : 569.22,
+    "dma200" : 509.34,
+    "volume" : 36334.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.47,
-    "pricePercentageAboveDma100" : 5.72,
-    "pricePercentageAboveDma200" : 5.22,
+    "pricePercentageAboveDma100" : 5.74,
+    "pricePercentageAboveDma200" : 5.24,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 13.79,
     "netProfitMarginPercentile" : 6.93,
-    "totalTechnicalScore" : 26.42,
+    "totalTechnicalScore" : 26.45,
     "totalFundamentalScore" : 37.11,
-    "totalScore" : 63.52
+    "totalScore" : 63.56
   }
 }

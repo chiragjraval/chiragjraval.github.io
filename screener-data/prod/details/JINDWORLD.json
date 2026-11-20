@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "JINDWORLD",
       "companyName" : "Jindal Worldwide",
-      "marketCap" : 3976.00,
-      "peRatio" : 43.50,
+      "marketCap" : 4081.00,
+      "peRatio" : 44.60,
       "description" : "Jindal Worldwide Ltd is engaged in the Textiles Sector and the main business activities are related to the manufacturing of Denim fabric, premium shirtings, yarn dyeing, bottom weights and home textiles through its various internal divisions [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 4.98,
-      "pricePercentageAboveDma200" : 4.66,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 4.87,
+      "pricePercentageAboveDma200" : 4.53,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 7.95,
       "operatingProfitMarginPercentile" : 6.34,
       "netProfitMarginPercentile" : 6.79,
-      "totalTechnicalScore" : 39.68,
+      "totalTechnicalScore" : 44.30,
       "totalFundamentalScore" : 21.09,
-      "totalScore" : 60.77
+      "totalScore" : 65.39
     }
   },
   "attributes" : {
     "companyCode" : "JINDWORLD",
     "companyName" : "Jindal Worldwide",
-    "marketCap" : 3976.00,
-    "peRatio" : 43.50,
+    "marketCap" : 4081.00,
+    "peRatio" : 44.60,
     "description" : "Jindal Worldwide Ltd is engaged in the Textiles Sector and the main business activities are related to the manufacturing of Denim fabric, premium shirtings, yarn dyeing, bottom weights and home textiles through its various internal divisions [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 34.14,
-    "dma50" : 36.74,
-    "dma100" : null,
-    "dma200" : 48.77,
-    "volume" : 1069380.00
-  }, {
     "date" : "2025-11-20",
     "price" : 33.76,
     "dma50" : 36.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 26.63,
     "dma50" : 23.97,
-    "dma100" : 26.54,
+    "dma100" : null,
     "dma200" : 34.13,
     "volume" : 1057755.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 39.53,
     "dma200" : 37.15,
     "volume" : 2751488.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 40.70,
+    "dma50" : 39.98,
+    "dma100" : 39.63,
+    "dma200" : 37.19,
+    "volume" : 2330118.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 39.66,
-    "dma50" : 39.95,
-    "dma100" : 39.53,
-    "dma200" : 37.15,
-    "volume" : 2751488.00
+    "date" : "2026-11-19",
+    "price" : 40.70,
+    "dma50" : 39.98,
+    "dma100" : 39.63,
+    "dma200" : 37.19,
+    "volume" : 2330118.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 16.97
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 4.98,
-    "pricePercentageAboveDma200" : 4.66,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 4.87,
+    "pricePercentageAboveDma200" : 4.53,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 7.95,
     "operatingProfitMarginPercentile" : 6.34,
     "netProfitMarginPercentile" : 6.79,
-    "totalTechnicalScore" : 39.68,
+    "totalTechnicalScore" : 44.30,
     "totalFundamentalScore" : 21.09,
-    "totalScore" : 60.77
+    "totalScore" : 65.39
   }
 }

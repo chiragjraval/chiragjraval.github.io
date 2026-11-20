@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NILKAMAL",
       "companyName" : "Nilkamal Ltd",
-      "marketCap" : 3283.00,
-      "peRatio" : 19.40,
+      "marketCap" : 3237.00,
+      "peRatio" : 19.20,
       "description" : "Nilkamal Ltd transformed from Plastic Furniture to Complete Furniture Solution Provider for Home Furniture, Office Furniture, etc., in various materials and upholstered products. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.32,
-      "pricePercentageAboveDma100" : 3.94,
-      "pricePercentageAboveDma200" : 3.48,
+      "pricePercentageAboveDma50" : 4.43,
+      "pricePercentageAboveDma100" : 4.05,
+      "pricePercentageAboveDma200" : 3.59,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 41.74,
+      "totalTechnicalScore" : 42.07,
       "totalFundamentalScore" : 39.83,
-      "totalScore" : 81.56
+      "totalScore" : 81.89
     }
   },
   "attributes" : {
     "companyCode" : "NILKAMAL",
     "companyName" : "Nilkamal Ltd",
-    "marketCap" : 3283.00,
-    "peRatio" : 19.40,
+    "marketCap" : 3237.00,
+    "peRatio" : 19.20,
     "description" : "Nilkamal Ltd transformed from Plastic Furniture to Complete Furniture Solution Provider for Home Furniture, Office Furniture, etc., in various materials and upholstered products. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1477.00,
-    "dma50" : 1543.01,
-    "dma100" : null,
-    "dma200" : 1649.03,
-    "volume" : 4790.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1475.50,
     "dma50" : 1540.36,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1315.50,
     "dma50" : 1296.72,
-    "dma100" : 1359.18,
+    "dma100" : null,
     "dma200" : 1454.63,
     "volume" : 5703.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1814.15,
     "dma200" : 1687.47,
     "volume" : 25906.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 2169.60,
+    "dma50" : 1945.96,
+    "dma100" : 1823.20,
+    "dma200" : 1692.27,
+    "volume" : 15683.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 2200.10,
-    "dma50" : 1936.84,
-    "dma100" : 1814.15,
-    "dma200" : 1687.47,
-    "volume" : 25906.00
+    "date" : "2026-11-19",
+    "price" : 2169.60,
+    "dma50" : 1945.96,
+    "dma100" : 1823.20,
+    "dma200" : 1692.27,
+    "volume" : 15683.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.32,
-    "pricePercentageAboveDma100" : 3.94,
-    "pricePercentageAboveDma200" : 3.48,
+    "pricePercentageAboveDma50" : 4.43,
+    "pricePercentageAboveDma100" : 4.05,
+    "pricePercentageAboveDma200" : 3.59,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 41.74,
+    "totalTechnicalScore" : 42.07,
     "totalFundamentalScore" : 39.83,
-    "totalScore" : 81.56
+    "totalScore" : 81.89
   }
 }

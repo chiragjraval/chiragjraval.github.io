@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HESTERBIO",
       "companyName" : "Hester Bios",
-      "marketCap" : 1997.00,
-      "peRatio" : 34.00,
+      "marketCap" : 2001.00,
+      "peRatio" : 34.10,
       "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
     },
     "companyScore" : {
@@ -29,24 +29,17 @@
       "netProfitMarginPercentile" : 6.44,
       "totalTechnicalScore" : 39.03,
       "totalFundamentalScore" : 30.92,
-      "totalScore" : 69.95
+      "totalScore" : 69.94
     }
   },
   "attributes" : {
     "companyCode" : "HESTERBIO",
     "companyName" : "Hester Bios",
-    "marketCap" : 1997.00,
-    "peRatio" : 34.00,
+    "marketCap" : 2001.00,
+    "peRatio" : 34.10,
     "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1670.90,
-    "dma50" : 1756.97,
-    "dma100" : null,
-    "dma200" : 1872.12,
-    "volume" : 2299.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1695.30,
     "dma50" : 1754.55,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1491.00,
     "dma50" : 1464.03,
-    "dma100" : 1522.66,
+    "dma100" : null,
     "dma200" : 1638.58,
     "volume" : 7352.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2294.15,
     "dma200" : 2078.20,
     "volume" : 1561.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 2352.10,
+    "dma50" : 2261.97,
+    "dma100" : 2295.69,
+    "dma200" : 2080.93,
+    "volume" : 5623.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 2348.00,
-    "dma50" : 2258.29,
-    "dma100" : 2294.15,
-    "dma200" : 2078.20,
-    "volume" : 1561.00
+    "date" : "2026-11-19",
+    "price" : 2352.10,
+    "dma50" : 2261.97,
+    "dma100" : 2295.69,
+    "dma200" : 2080.93,
+    "volume" : 5623.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2682,6 +2682,6 @@
     "netProfitMarginPercentile" : 6.44,
     "totalTechnicalScore" : 39.03,
     "totalFundamentalScore" : 30.92,
-    "totalScore" : 69.95
+    "totalScore" : 69.94
   }
 }

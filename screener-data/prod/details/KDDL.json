@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KDDL",
       "companyName" : "KDDL Ltd",
-      "marketCap" : 5998.00,
-      "peRatio" : 53.30,
+      "marketCap" : 5756.00,
+      "peRatio" : 51.10,
       "description" : "Incorporated in 1981, KDDL manufactures watch components like dials, hands and precision engineering goods under the brand name, Eigen. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.81,
-      "pricePercentageAboveDma100" : 3.48,
-      "pricePercentageAboveDma200" : 2.70,
+      "pricePercentageAboveDma50" : 4.10,
+      "pricePercentageAboveDma100" : 3.77,
+      "pricePercentageAboveDma200" : 3.03,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 16.78,
       "netProfitMarginPercentile" : 8.39,
-      "totalTechnicalScore" : 44.99,
+      "totalTechnicalScore" : 45.89,
       "totalFundamentalScore" : 41.80,
-      "totalScore" : 86.79
+      "totalScore" : 87.69
     }
   },
   "attributes" : {
     "companyCode" : "KDDL",
     "companyName" : "KDDL Ltd",
-    "marketCap" : 5998.00,
-    "peRatio" : 53.30,
+    "marketCap" : 5756.00,
+    "peRatio" : 51.10,
     "description" : "Incorporated in 1981, KDDL manufactures watch components like dials, hands and precision engineering goods under the brand name, Eigen. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 2527.70,
-    "dma50" : 2544.66,
-    "dma100" : null,
-    "dma200" : 2642.82,
-    "volume" : 68680.00
-  }, {
     "date" : "2025-11-20",
     "price" : 2549.40,
     "dma50" : 2544.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 2422.10,
     "dma50" : 2304.53,
-    "dma100" : 2336.84,
+    "dma100" : null,
     "dma200" : 2442.04,
     "volume" : 10815.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3737.48,
     "dma200" : 3341.94,
     "volume" : 957533.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 4679.80,
+    "dma50" : 3966.55,
+    "dma100" : 3752.94,
+    "dma200" : 3355.25,
+    "volume" : 193972.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 4876.80,
-    "dma50" : 3937.44,
-    "dma100" : 3737.48,
-    "dma200" : 3341.94,
-    "volume" : 957533.00
+    "date" : "2026-11-19",
+    "price" : 4679.80,
+    "dma50" : 3966.55,
+    "dma100" : 3752.94,
+    "dma200" : 3355.25,
+    "volume" : 193972.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.81,
-    "pricePercentageAboveDma100" : 3.48,
-    "pricePercentageAboveDma200" : 2.70,
+    "pricePercentageAboveDma50" : 4.10,
+    "pricePercentageAboveDma100" : 3.77,
+    "pricePercentageAboveDma200" : 3.03,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 16.78,
     "netProfitMarginPercentile" : 8.39,
-    "totalTechnicalScore" : 44.99,
+    "totalTechnicalScore" : 45.89,
     "totalFundamentalScore" : 41.80,
-    "totalScore" : 86.79
+    "totalScore" : 87.69
   }
 }

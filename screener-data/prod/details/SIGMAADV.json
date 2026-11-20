@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "SIGMAADV",
       "companyName" : "Sigma Advanced System",
-      "marketCap" : 17963.00,
+      "marketCap" : 17964.00,
       "peRatio" : 87.50,
       "description" : "Incorporated in 1999, Sigma Advanced Systems is a Hyderabad-based aerospace and defense manufacturing company[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.62,
-      "pricePercentageAboveDma100" : 3.89,
-      "pricePercentageAboveDma200" : 2.18,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.63,
+      "pricePercentageAboveDma100" : 3.92,
+      "pricePercentageAboveDma200" : 2.22,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 19.06,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 45.68,
+      "totalTechnicalScore" : 40.77,
       "totalFundamentalScore" : 46.72,
-      "totalScore" : 92.40
+      "totalScore" : 87.49
     }
   },
   "attributes" : {
     "companyCode" : "SIGMAADV",
     "companyName" : "Sigma Advanced System",
-    "marketCap" : 17963.00,
+    "marketCap" : 17964.00,
     "peRatio" : 87.50,
     "description" : "Incorporated in 1999, Sigma Advanced Systems is a Hyderabad-based aerospace and defense manufacturing company[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 190.30,
-    "dma50" : 174.29,
-    "dma100" : null,
-    "dma200" : 123.57,
-    "volume" : 122395.00
-  }, {
     "date" : "2025-11-20",
     "price" : 187.85,
     "dma50" : 174.82,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 196.10,
     "dma50" : 169.88,
-    "dma100" : 178.16,
+    "dma100" : null,
     "dma200" : 156.29,
     "volume" : 902860.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 774.34,
     "dma200" : 604.32,
     "volume" : 336234.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 945.85,
+    "dma50" : 881.06,
+    "dma100" : 777.96,
+    "dma200" : 607.72,
+    "volume" : 204990.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 945.75,
-    "dma50" : 878.41,
-    "dma100" : 774.34,
-    "dma200" : 604.32,
-    "volume" : 336234.00
+    "date" : "2026-11-19",
+    "price" : 945.85,
+    "dma50" : 881.06,
+    "dma100" : 777.96,
+    "dma200" : 607.72,
+    "volume" : 204990.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.62,
-    "pricePercentageAboveDma100" : 3.89,
-    "pricePercentageAboveDma200" : 2.18,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.63,
+    "pricePercentageAboveDma100" : 3.92,
+    "pricePercentageAboveDma200" : 2.22,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 19.06,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 45.68,
+    "totalTechnicalScore" : 40.77,
     "totalFundamentalScore" : 46.72,
-    "totalScore" : 92.40
+    "totalScore" : 87.49
   }
 }

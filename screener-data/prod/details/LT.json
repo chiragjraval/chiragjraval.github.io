@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LT",
       "companyName" : "Larsen & Toubro",
-      "marketCap" : 572244.00,
-      "peRatio" : 30.30,
+      "marketCap" : 579398.00,
+      "peRatio" : 30.70,
       "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.71,
-      "pricePercentageAboveDma100" : 4.70,
-      "pricePercentageAboveDma200" : 4.68,
+      "pricePercentageAboveDma50" : 4.65,
+      "pricePercentageAboveDma100" : 4.63,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 4.46,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 44.08,
+      "totalTechnicalScore" : 43.90,
       "totalFundamentalScore" : 25.88,
-      "totalScore" : 69.96
+      "totalScore" : 69.78
     }
   },
   "attributes" : {
     "companyCode" : "LT",
     "companyName" : "Larsen & Toubro",
-    "marketCap" : 572244.00,
-    "peRatio" : 30.30,
+    "marketCap" : 579398.00,
+    "peRatio" : 30.70,
     "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 4019.60,
-    "dma50" : 3836.03,
-    "dma100" : null,
-    "dma200" : 3639.56,
-    "volume" : 972193.00
-  }, {
     "date" : "2025-11-20",
     "price" : 4037.40,
     "dma50" : 3843.93,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 4096.10,
     "dma50" : 3871.15,
-    "dma100" : 3963.71,
+    "dma100" : null,
     "dma200" : 3828.53,
     "volume" : 2940508.00
   }, {
@@ -1548,7 +1541,7 @@
     "date" : "2026-10-01",
     "price" : 3693.40,
     "dma50" : 3924.59,
-    "dma100" : 3971.75,
+    "dma100" : 3971.74,
     "dma200" : 3923.32,
     "volume" : 2406653.00
   }, {
@@ -1688,7 +1681,7 @@
     "date" : "2026-11-02",
     "price" : 3939.90,
     "dma50" : 3810.69,
-    "dma100" : 3922.49,
+    "dma100" : 3922.48,
     "dma200" : 3884.48,
     "volume" : 2169534.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3920.02,
     "dma200" : 3910.27,
     "volume" : 1224085.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 4211.00,
+    "dma50" : 3939.17,
+    "dma100" : 3920.48,
+    "dma200" : 3913.26,
+    "volume" : 2158643.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 4159.00,
-    "dma50" : 3928.07,
-    "dma100" : 3920.02,
-    "dma200" : 3910.27,
-    "volume" : 1224085.00
+    "date" : "2026-11-19",
+    "price" : 4211.00,
+    "dma50" : 3939.17,
+    "dma100" : 3920.48,
+    "dma200" : 3913.26,
+    "volume" : 2158643.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.71,
-    "pricePercentageAboveDma100" : 4.70,
-    "pricePercentageAboveDma200" : 4.68,
+    "pricePercentageAboveDma50" : 4.65,
+    "pricePercentageAboveDma100" : 4.63,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 4.46,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 44.08,
+    "totalTechnicalScore" : 43.90,
     "totalFundamentalScore" : 25.88,
-    "totalScore" : 69.96
+    "totalScore" : 69.78
   }
 }

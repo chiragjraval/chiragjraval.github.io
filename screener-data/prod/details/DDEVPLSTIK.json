@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DDEVPLSTIK",
       "companyName" : "DDev Plastiks",
-      "marketCap" : 2578.00,
-      "peRatio" : 11.80,
+      "marketCap" : 2528.00,
+      "peRatio" : 11.60,
       "description" : "Incorporated in 2020, DDev Plastiks Industries Ltd manufactures Plastic Compounds[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.11,
-      "pricePercentageAboveDma100" : 5.33,
-      "pricePercentageAboveDma200" : 5.29,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.36,
       "netProfitMarginPercentile" : 3.95,
-      "totalTechnicalScore" : 20.73,
+      "totalTechnicalScore" : 20.99,
       "totalFundamentalScore" : 32.32,
-      "totalScore" : 53.04
+      "totalScore" : 53.30
     }
   },
   "attributes" : {
     "companyCode" : "DDEVPLSTIK",
     "companyName" : "DDev Plastiks",
-    "marketCap" : 2578.00,
-    "peRatio" : 11.80,
+    "marketCap" : 2528.00,
+    "peRatio" : 11.60,
     "description" : "Incorporated in 2020, DDev Plastiks Industries Ltd manufactures Plastic Compounds[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 279.15,
-    "dma50" : 305.74,
-    "dma100" : null,
-    "dma200" : 296.92,
-    "volume" : 84950.00
-  }, {
     "date" : "2025-11-20",
     "price" : 288.95,
     "dma50" : 305.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 244.16,
     "dma50" : 248.02,
-    "dma100" : 272.02,
+    "dma100" : null,
     "dma200" : 277.12,
     "volume" : 296457.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 266.61,
     "dma200" : 264.44,
     "volume" : 59114.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 244.31,
+    "dma50" : 254.36,
+    "dma100" : 266.36,
+    "dma200" : 264.24,
+    "volume" : 63425.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 249.17,
-    "dma50" : 254.77,
-    "dma100" : 266.61,
-    "dma200" : 264.44,
-    "volume" : 59114.00
+    "date" : "2026-11-19",
+    "price" : 244.31,
+    "dma50" : 254.36,
+    "dma100" : 266.36,
+    "dma200" : 264.24,
+    "volume" : 63425.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-06-30",
@@ -2023,15 +2023,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.11,
-    "pricePercentageAboveDma100" : 5.33,
-    "pricePercentageAboveDma200" : 5.29,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 5.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.36,
     "netProfitMarginPercentile" : 3.95,
-    "totalTechnicalScore" : 20.73,
+    "totalTechnicalScore" : 20.99,
     "totalFundamentalScore" : 32.32,
-    "totalScore" : 53.04
+    "totalScore" : 53.30
   }
 }

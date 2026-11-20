@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DYNAMATECH",
       "companyName" : "Dynamatic Tech.",
-      "marketCap" : 9092.00,
-      "peRatio" : 120.00,
+      "marketCap" : 9201.00,
+      "peRatio" : 121.00,
       "description" : "Incorporated in 1973, DTL is into manufacturing of hydraulic gear pumps and automotive turbochargers. They serve clients across Aerospace, automotive and hydraulic industries. DTL has manufacturing facilities in Europe and India serving customers across 6 continents.[1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.71,
-      "pricePercentageAboveDma100" : 4.35,
-      "pricePercentageAboveDma200" : 4.00,
+      "pricePercentageAboveDma50" : 4.66,
+      "pricePercentageAboveDma100" : 4.30,
+      "pricePercentageAboveDma200" : 3.94,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 2.89,
       "netProfitMarginPercentile" : 5.39,
-      "totalTechnicalScore" : 43.06,
+      "totalTechnicalScore" : 42.90,
       "totalFundamentalScore" : 23.22,
-      "totalScore" : 66.28
+      "totalScore" : 66.12
     }
   },
   "attributes" : {
     "companyCode" : "DYNAMATECH",
     "companyName" : "Dynamatic Tech.",
-    "marketCap" : 9092.00,
-    "peRatio" : 120.00,
+    "marketCap" : 9201.00,
+    "peRatio" : 121.00,
     "description" : "Incorporated in 1973, DTL is into manufacturing of hydraulic gear pumps and automotive turbochargers. They serve clients across Aerospace, automotive and hydraulic industries. DTL has manufacturing facilities in Europe and India serving customers across 6 continents.[1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 9725.50,
-    "dma50" : 8008.43,
-    "dma100" : null,
-    "dma200" : 7255.59,
-    "volume" : 25225.00
-  }, {
     "date" : "2025-11-20",
     "price" : 9753.00,
     "dma50" : 8076.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 10327.50,
     "dma50" : 9669.01,
-    "dma100" : 9371.88,
+    "dma100" : null,
     "dma200" : 8649.54,
     "volume" : 12862.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 11847.83,
     "dma200" : 11160.56,
     "volume" : 22509.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 13548.00,
+    "dma50" : 12679.85,
+    "dma100" : 11883.91,
+    "dma200" : 11184.32,
+    "volume" : 15803.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 13388.00,
-    "dma50" : 12644.41,
-    "dma100" : 11847.83,
-    "dma200" : 11160.56,
-    "volume" : 22509.00
+    "date" : "2026-11-19",
+    "price" : 13548.00,
+    "dma50" : 12679.85,
+    "dma100" : 11883.91,
+    "dma200" : 11184.32,
+    "volume" : 15803.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.71,
-    "pricePercentageAboveDma100" : 4.35,
-    "pricePercentageAboveDma200" : 4.00,
+    "pricePercentageAboveDma50" : 4.66,
+    "pricePercentageAboveDma100" : 4.30,
+    "pricePercentageAboveDma200" : 3.94,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 2.89,
     "netProfitMarginPercentile" : 5.39,
-    "totalTechnicalScore" : 43.06,
+    "totalTechnicalScore" : 42.90,
     "totalFundamentalScore" : 23.22,
-    "totalScore" : 66.28
+    "totalScore" : 66.12
   }
 }

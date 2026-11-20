@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASHIKAG",
       "companyName" : "Ashika Global Securities.",
-      "marketCap" : 2615.00,
-      "peRatio" : 32.70,
+      "marketCap" : 2746.00,
+      "peRatio" : 34.40,
       "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.40,
-      "pricePercentageAboveDma100" : 5.64,
-      "pricePercentageAboveDma200" : 5.49,
+      "pricePercentageAboveDma50" : 5.16,
+      "pricePercentageAboveDma100" : 5.43,
+      "pricePercentageAboveDma200" : 5.26,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.02,
       "operatingProfitMarginPercentile" : 16.80,
       "netProfitMarginPercentile" : 6.17,
-      "totalTechnicalScore" : 21.53,
+      "totalTechnicalScore" : 20.85,
       "totalFundamentalScore" : 32.99,
-      "totalScore" : 54.51
+      "totalScore" : 53.83
     }
   },
   "attributes" : {
     "companyCode" : "ASHIKAG",
     "companyName" : "Ashika Global Securities.",
-    "marketCap" : 2615.00,
-    "peRatio" : 32.70,
+    "marketCap" : 2746.00,
+    "peRatio" : 34.40,
     "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 343.50,
-    "dma50" : 359.27,
-    "dma100" : null,
-    "dma200" : 407.76,
-    "volume" : 53313.00
-  }, {
     "date" : "2025-11-20",
     "price" : 337.35,
     "dma50" : 358.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 353.80,
     "dma50" : 349.16,
-    "dma100" : 354.00,
+    "dma100" : null,
     "dma200" : 373.72,
     "volume" : 51916.00
   }, {
@@ -1079,7 +1072,7 @@
     "date" : "2026-06-29",
     "price" : 374.00,
     "dma50" : 377.04,
-    "dma100" : 367.37,
+    "dma100" : 367.38,
     "dma200" : 376.90,
     "volume" : 169071.00
   }, {
@@ -1107,7 +1100,7 @@
     "date" : "2026-07-03",
     "price" : 396.25,
     "dma50" : 378.47,
-    "dma100" : 368.43,
+    "dma100" : 368.44,
     "dma200" : 377.28,
     "volume" : 199049.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 406.17,
     "dma200" : 392.01,
     "volume" : 64436.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 371.45,
+    "dma50" : 383.75,
+    "dma100" : 406.14,
+    "dma200" : 391.80,
+    "volume" : 117297.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 353.80,
-    "dma50" : 384.25,
-    "dma100" : 406.17,
-    "dma200" : 392.01,
-    "volume" : 64436.00
+    "date" : "2026-11-19",
+    "price" : 371.45,
+    "dma50" : 383.75,
+    "dma100" : 406.14,
+    "dma200" : 391.80,
+    "volume" : 117297.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.40,
-    "pricePercentageAboveDma100" : 5.64,
-    "pricePercentageAboveDma200" : 5.49,
+    "pricePercentageAboveDma50" : 5.16,
+    "pricePercentageAboveDma100" : 5.43,
+    "pricePercentageAboveDma200" : 5.26,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.02,
     "operatingProfitMarginPercentile" : 16.80,
     "netProfitMarginPercentile" : 6.17,
-    "totalTechnicalScore" : 21.53,
+    "totalTechnicalScore" : 20.85,
     "totalFundamentalScore" : 32.99,
-    "totalScore" : 54.51
+    "totalScore" : 53.83
   }
 }

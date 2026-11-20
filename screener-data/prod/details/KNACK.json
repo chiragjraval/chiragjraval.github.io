@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KNACK",
       "companyName" : "Knack Packaging",
-      "marketCap" : 2548.00,
-      "peRatio" : 26.60,
+      "marketCap" : 2507.00,
+      "peRatio" : 26.20,
       "description" : "Incorporated in 2013, Knack Packaging Ltd. is an integrated packaging solutions provider focusing on innovation, exports, and sustainability.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.74,
+      "pricePercentageAboveDma50" : 4.83,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.55,
+      "pricePercentageAboveDma200" : 4.64,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 4.00,
       "netProfitMarginPercentile" : 2.00,
-      "totalTechnicalScore" : 24.29,
+      "totalTechnicalScore" : 24.47,
       "totalFundamentalScore" : 26.00,
-      "totalScore" : 50.29
+      "totalScore" : 50.47
     }
   },
   "attributes" : {
     "companyCode" : "KNACK",
     "companyName" : "Knack Packaging",
-    "marketCap" : 2548.00,
-    "peRatio" : 26.60,
+    "marketCap" : 2507.00,
+    "peRatio" : 26.20,
     "description" : "Incorporated in 2013, Knack Packaging Ltd. is an integrated packaging solutions provider focusing on innovation, exports, and sustainability.[1]"
   },
   "technicalHistory" : [ {
@@ -690,14 +690,21 @@
     "dma100" : null,
     "dma200" : 191.15,
     "volume" : 595491.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 204.89,
+    "dma50" : 198.06,
+    "dma100" : null,
+    "dma200" : 191.29,
+    "volume" : 249264.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 208.20,
-    "dma50" : 197.79,
+    "date" : "2026-11-19",
+    "price" : 204.89,
+    "dma50" : 198.06,
     "dma100" : null,
-    "dma200" : 191.15,
-    "volume" : 595491.00
+    "dma200" : 191.29,
+    "volume" : 249264.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -768,15 +775,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.74,
+    "pricePercentageAboveDma50" : 4.83,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.55,
+    "pricePercentageAboveDma200" : 4.64,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 4.00,
     "netProfitMarginPercentile" : 2.00,
-    "totalTechnicalScore" : 24.29,
+    "totalTechnicalScore" : 24.47,
     "totalFundamentalScore" : 26.00,
-    "totalScore" : 50.29
+    "totalScore" : 50.47
   }
 }

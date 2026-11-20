@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RELIANCE",
       "companyName" : "Reliance Industries",
-      "marketCap" : 1844485.00,
-      "peRatio" : 22.50,
+      "marketCap" : 1861536.00,
+      "peRatio" : 22.70,
       "description" : "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.63,
-      "pricePercentageAboveDma100" : 4.65,
-      "pricePercentageAboveDma200" : 4.81,
+      "pricePercentageAboveDma50" : 4.60,
+      "pricePercentageAboveDma100" : 4.60,
+      "pricePercentageAboveDma200" : 4.77,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 7.74,
       "netProfitMarginPercentile" : 4.60,
-      "totalTechnicalScore" : 29.08,
+      "totalTechnicalScore" : 28.96,
       "totalFundamentalScore" : 27.04,
-      "totalScore" : 56.12
+      "totalScore" : 56.00
     }
   },
   "attributes" : {
     "companyCode" : "RELIANCE",
     "companyName" : "Reliance Industries",
-    "marketCap" : 1844485.00,
-    "peRatio" : 22.50,
+    "marketCap" : 1861536.00,
+    "peRatio" : 22.70,
     "description" : "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1518.90,
-    "dma50" : 1449.68,
-    "dma100" : null,
-    "dma200" : 1400.11,
-    "volume" : 5982320.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1549.10,
     "dma50" : 1453.58,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1365.00,
     "dma50" : 1389.39,
-    "dma100" : 1452.14,
+    "dma100" : null,
     "dma200" : 1420.38,
     "volume" : 15236906.00
   }, {
@@ -1002,7 +995,7 @@
     "date" : "2026-06-11",
     "price" : 1263.00,
     "dma50" : 1349.45,
-    "dma100" : 1381.66,
+    "dma100" : 1381.65,
     "dma200" : 1398.79,
     "volume" : 14759894.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1272.82,
     "dma200" : 1313.25,
     "volume" : 19501209.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1375.60,
+    "dma50" : 1272.93,
+    "dma100" : 1273.57,
+    "dma200" : 1313.87,
+    "volume" : 15787477.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1363.00,
-    "dma50" : 1268.74,
-    "dma100" : 1272.82,
-    "dma200" : 1313.25,
-    "volume" : 19501209.00
+    "date" : "2026-11-19",
+    "price" : 1375.60,
+    "dma50" : 1272.93,
+    "dma100" : 1273.57,
+    "dma200" : 1313.87,
+    "volume" : 15787477.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.63,
-    "pricePercentageAboveDma100" : 4.65,
-    "pricePercentageAboveDma200" : 4.81,
+    "pricePercentageAboveDma50" : 4.60,
+    "pricePercentageAboveDma100" : 4.60,
+    "pricePercentageAboveDma200" : 4.77,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 7.74,
     "netProfitMarginPercentile" : 4.60,
-    "totalTechnicalScore" : 29.08,
+    "totalTechnicalScore" : 28.96,
     "totalFundamentalScore" : 27.04,
-    "totalScore" : 56.12
+    "totalScore" : 56.00
   }
 }

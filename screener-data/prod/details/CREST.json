@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CREST",
       "companyName" : "Crest Ventures",
-      "marketCap" : 1022.00,
-      "peRatio" : 26.30,
+      "marketCap" : 1009.00,
+      "peRatio" : 25.90,
       "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 5.08,
+      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 5.14,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 17.33,
       "netProfitMarginPercentile" : 5.40,
-      "totalTechnicalScore" : 20.18,
+      "totalTechnicalScore" : 20.37,
       "totalFundamentalScore" : 33.10,
-      "totalScore" : 53.28
+      "totalScore" : 53.47
     }
   },
   "attributes" : {
     "companyCode" : "CREST",
     "companyName" : "Crest Ventures",
-    "marketCap" : 1022.00,
-    "peRatio" : 26.30,
+    "marketCap" : 1009.00,
+    "peRatio" : 25.90,
     "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 351.10,
-    "dma50" : 371.12,
-    "dma100" : null,
-    "dma200" : 386.26,
-    "volume" : 13375.00
-  }, {
     "date" : "2025-11-20",
     "price" : 364.05,
     "dma50" : 370.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 369.80,
     "dma50" : 344.66,
-    "dma100" : 359.25,
+    "dma100" : null,
     "dma200" : 366.31,
     "volume" : 7852.00
   }, {
@@ -974,7 +967,7 @@
     "date" : "2026-06-05",
     "price" : 361.60,
     "dma50" : 353.92,
-    "dma100" : 354.19,
+    "dma100" : 354.20,
     "dma200" : 364.39,
     "volume" : 163554.00
   }, {
@@ -1205,7 +1198,7 @@
     "date" : "2026-07-23",
     "price" : 372.35,
     "dma50" : 371.46,
-    "dma100" : 358.03,
+    "dma100" : 358.04,
     "dma200" : 368.52,
     "volume" : 861.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 365.31,
     "dma200" : 364.96,
     "volume" : 166.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 354.50,
+    "dma50" : 360.51,
+    "dma100" : 365.06,
+    "dma200" : 364.86,
+    "volume" : 840.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 359.25,
-    "dma50" : 360.75,
-    "dma100" : 365.31,
-    "dma200" : 364.96,
-    "volume" : 166.00
+    "date" : "2026-11-19",
+    "price" : 354.50,
+    "dma50" : 360.51,
+    "dma100" : 365.06,
+    "dma200" : 364.86,
+    "volume" : 840.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 5.08,
+    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 5.14,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 17.33,
     "netProfitMarginPercentile" : 5.40,
-    "totalTechnicalScore" : 20.18,
+    "totalTechnicalScore" : 20.37,
     "totalFundamentalScore" : 33.10,
-    "totalScore" : 53.28
+    "totalScore" : 53.47
   }
 }

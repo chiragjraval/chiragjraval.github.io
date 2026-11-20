@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DOLATALGO",
       "companyName" : "Dolat Algotech",
-      "marketCap" : 1091.00,
-      "peRatio" : 6.44,
+      "marketCap" : 1125.00,
+      "peRatio" : 6.64,
       "description" : "Dolat Algotech Ltd is a trading cum clearing member of NSE India and carries on the business of securities broking and securities trading.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.11,
-      "pricePercentageAboveDma100" : 5.38,
-      "pricePercentageAboveDma200" : 5.64,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.23,
+      "pricePercentageAboveDma200" : 5.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 17.45,
       "netProfitMarginPercentile" : 5.40,
-      "totalTechnicalScore" : 16.13,
+      "totalTechnicalScore" : 20.70,
       "totalFundamentalScore" : 38.27,
-      "totalScore" : 54.40
+      "totalScore" : 58.97
     }
   },
   "attributes" : {
     "companyCode" : "DOLATALGO",
     "companyName" : "Dolat Algotech",
-    "marketCap" : 1091.00,
-    "peRatio" : 6.44,
+    "marketCap" : 1125.00,
+    "peRatio" : 6.64,
     "description" : "Dolat Algotech Ltd is a trading cum clearing member of NSE India and carries on the business of securities broking and securities trading.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 72.83,
-    "dma50" : 80.34,
-    "dma100" : null,
-    "dma200" : 90.88,
-    "volume" : 399535.00
-  }, {
     "date" : "2025-11-20",
     "price" : 73.75,
     "dma50" : 80.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 81.19,
     "dma50" : 76.17,
-    "dma100" : 78.71,
+    "dma100" : null,
     "dma200" : 82.74,
     "volume" : 169613.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 67.08,
     "dma200" : 71.19,
     "volume" : 40218.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 63.90,
+    "dma50" : 63.40,
+    "dma100" : 67.00,
+    "dma200" : 71.11,
+    "volume" : 72727.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 62.01,
-    "dma50" : 63.38,
-    "dma100" : 67.08,
-    "dma200" : 71.19,
-    "volume" : 40218.00
+    "date" : "2026-11-19",
+    "price" : 63.90,
+    "dma50" : 63.40,
+    "dma100" : 67.00,
+    "dma200" : 71.11,
+    "volume" : 72727.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 29.98
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.11,
-    "pricePercentageAboveDma100" : 5.38,
-    "pricePercentageAboveDma200" : 5.64,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.23,
+    "pricePercentageAboveDma200" : 5.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 17.45,
     "netProfitMarginPercentile" : 5.40,
-    "totalTechnicalScore" : 16.13,
+    "totalTechnicalScore" : 20.70,
     "totalFundamentalScore" : 38.27,
-    "totalScore" : 54.40
+    "totalScore" : 58.97
   }
 }

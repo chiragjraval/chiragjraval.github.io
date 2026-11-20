@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MONEYVIEW",
       "companyName" : "Moneyview",
-      "marketCap" : 10058.00,
-      "peRatio" : 19.10,
+      "marketCap" : 9986.00,
+      "peRatio" : 19.00,
       "description" : "It is a lending market place. Main source of income is commision on each lending by the participants of the marketplace.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.80,
+      "pricePercentageAboveDma50" : 4.85,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma200" : 4.78,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 24.54,
+      "totalTechnicalScore" : 24.63,
       "totalFundamentalScore" : 30.00,
-      "totalScore" : 54.54
+      "totalScore" : 54.63
     }
   },
   "attributes" : {
     "companyCode" : "MONEYVIEW",
     "companyName" : "Moneyview",
-    "marketCap" : 10058.00,
-    "peRatio" : 19.10,
+    "marketCap" : 9986.00,
+    "peRatio" : 19.00,
     "description" : "It is a lending market place. Main source of income is commision on each lending by the participants of the marketplace.[1]"
   },
   "technicalHistory" : [ {
@@ -270,14 +270,21 @@
     "dma100" : null,
     "dma200" : 54.33,
     "volume" : 37686808.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 56.73,
+    "dma50" : 55.05,
+    "dma100" : null,
+    "dma200" : 54.35,
+    "volume" : 21593620.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 57.14,
-    "dma50" : 54.98,
+    "date" : "2026-11-19",
+    "price" : 56.73,
+    "dma50" : 55.05,
     "dma100" : null,
-    "dma200" : 54.33,
-    "volume" : 37686808.00
+    "dma200" : 54.35,
+    "volume" : 21593620.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -328,15 +335,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.80,
+    "pricePercentageAboveDma50" : 4.85,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma200" : 4.78,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 24.54,
+    "totalTechnicalScore" : 24.63,
     "totalFundamentalScore" : 30.00,
-    "totalScore" : 54.54
+    "totalScore" : 54.63
   }
 }

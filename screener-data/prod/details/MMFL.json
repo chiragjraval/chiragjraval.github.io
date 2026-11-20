@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MMFL",
       "companyName" : "M M Forgings",
-      "marketCap" : 3182.00,
-      "peRatio" : 20.80,
+      "marketCap" : 3118.00,
+      "peRatio" : 20.40,
       "description" : "M M Forgings Limited is engaged in the business of manufacturing Steel Forgings in raw, semi-machined and fully machined stages in various grades of Carbon, Alloy, Micro-Alloy and Stainless Steels. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.32,
-      "pricePercentageAboveDma100" : 4.27,
-      "pricePercentageAboveDma200" : 3.67,
+      "pricePercentageAboveDma50" : 4.46,
+      "pricePercentageAboveDma100" : 4.41,
+      "pricePercentageAboveDma200" : 3.81,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 15.35,
       "netProfitMarginPercentile" : 7.39,
-      "totalTechnicalScore" : 47.26,
+      "totalTechnicalScore" : 47.67,
       "totalFundamentalScore" : 40.09,
-      "totalScore" : 87.35
+      "totalScore" : 87.76
     }
   },
   "attributes" : {
     "companyCode" : "MMFL",
     "companyName" : "M M Forgings",
-    "marketCap" : 3182.00,
-    "peRatio" : 20.80,
+    "marketCap" : 3118.00,
+    "peRatio" : 20.40,
     "description" : "M M Forgings Limited is engaged in the business of manufacturing Steel Forgings in raw, semi-machined and fully machined stages in various grades of Carbon, Alloy, Micro-Alloy and Stainless Steels. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 310.25,
-    "dma50" : 311.86,
-    "dma100" : null,
-    "dma200" : 356.70,
-    "volume" : 36670.00
-  }, {
     "date" : "2025-11-20",
     "price" : 316.25,
     "dma50" : 312.03,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 464.25,
     "dma50" : 428.73,
-    "dma100" : 407.33,
+    "dma100" : null,
     "dma200" : 394.44,
     "volume" : 51092.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 575.48,
     "dma200" : 520.45,
     "volume" : 110578.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 645.80,
+    "dma50" : 582.46,
+    "dma100" : 577.38,
+    "dma200" : 521.70,
+    "volume" : 96391.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 659.05,
-    "dma50" : 579.87,
-    "dma100" : 575.48,
-    "dma200" : 520.45,
-    "volume" : 110578.00
+    "date" : "2026-11-19",
+    "price" : 645.80,
+    "dma50" : 582.46,
+    "dma100" : 577.38,
+    "dma200" : 521.70,
+    "volume" : 96391.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.32,
-    "pricePercentageAboveDma100" : 4.27,
-    "pricePercentageAboveDma200" : 3.67,
+    "pricePercentageAboveDma50" : 4.46,
+    "pricePercentageAboveDma100" : 4.41,
+    "pricePercentageAboveDma200" : 3.81,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 15.35,
     "netProfitMarginPercentile" : 7.39,
-    "totalTechnicalScore" : 47.26,
+    "totalTechnicalScore" : 47.67,
     "totalFundamentalScore" : 40.09,
-    "totalScore" : 87.35
+    "totalScore" : 87.76
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GAIL",
       "companyName" : "GAIL (India)",
-      "marketCap" : 124927.00,
-      "peRatio" : 9.89,
+      "marketCap" : 126308.00,
+      "peRatio" : 10.00,
       "description" : "Incorporated in 1984, GAIL, a Government of India undertaking, is an integrated natural gas company in India. It owns over 11,500 km of natural gas pipelines, over 2300 km of LPG pipelines, six LPG gas-processing units and a petrochemicals facility. It also has a joint-venture interest in Petronet LNG Ltd, Ratnagiri Gas and Power Pvt Ltd, and in the CGD business in several cities. GAIL has wholly owned subsidiaries in Singapore and the US for expanding its presence outside India in the segments of LNG, petrochemical trading and shale gas assets."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.62,
-      "pricePercentageAboveDma100" : 4.54,
-      "pricePercentageAboveDma200" : 4.48,
+      "pricePercentageAboveDma50" : 4.58,
+      "pricePercentageAboveDma100" : 4.49,
+      "pricePercentageAboveDma200" : 4.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 10.57,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 43.64,
+      "totalTechnicalScore" : 43.49,
       "totalFundamentalScore" : 32.93,
-      "totalScore" : 76.56
+      "totalScore" : 76.41
     }
   },
   "attributes" : {
     "companyCode" : "GAIL",
     "companyName" : "GAIL (India)",
-    "marketCap" : 124927.00,
-    "peRatio" : 9.89,
+    "marketCap" : 126308.00,
+    "peRatio" : 10.00,
     "description" : "Incorporated in 1984, GAIL, a Government of India undertaking, is an integrated natural gas company in India. It owns over 11,500 km of natural gas pipelines, over 2300 km of LPG pipelines, six LPG gas-processing units and a petrochemicals facility. It also has a joint-venture interest in Petronet LNG Ltd, Ratnagiri Gas and Power Pvt Ltd, and in the CGD business in several cities. GAIL has wholly owned subsidiaries in Singapore and the US for expanding its presence outside India in the segments of LNG, petrochemical trading and shale gas assets."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 184.05,
-    "dma50" : 180.41,
-    "dma100" : null,
-    "dma200" : 182.50,
-    "volume" : 3102632.00
-  }, {
     "date" : "2025-11-20",
     "price" : 184.31,
     "dma50" : 180.56,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 157.82,
     "dma50" : 154.32,
-    "dma100" : 162.68,
+    "dma100" : null,
     "dma200" : 168.28,
     "volume" : 13504644.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 173.99,
     "dma200" : 171.98,
     "volume" : 15205262.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 192.10,
+    "dma50" : 177.18,
+    "dma100" : 174.19,
+    "dma200" : 172.18,
+    "volume" : 13912523.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 190.00,
-    "dma50" : 176.57,
-    "dma100" : 173.99,
-    "dma200" : 171.98,
-    "volume" : 15205262.00
+    "date" : "2026-11-19",
+    "price" : 192.10,
+    "dma50" : 177.18,
+    "dma100" : 174.19,
+    "dma200" : 172.18,
+    "volume" : 13912523.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.62,
-    "pricePercentageAboveDma100" : 4.54,
-    "pricePercentageAboveDma200" : 4.48,
+    "pricePercentageAboveDma50" : 4.58,
+    "pricePercentageAboveDma100" : 4.49,
+    "pricePercentageAboveDma200" : 4.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 10.57,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 43.64,
+    "totalTechnicalScore" : 43.49,
     "totalFundamentalScore" : 32.93,
-    "totalScore" : 76.56
+    "totalScore" : 76.41
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BIL",
       "companyName" : "Bhartiya Intl.",
-      "marketCap" : 1332.00,
-      "peRatio" : 35.10,
+      "marketCap" : 1353.00,
+      "peRatio" : 35.60,
       "description" : "Incorporated in 1983, Bhartiya International Ltd is in the business of manufacturing and trading of leather products and textile products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 4.60,
-      "pricePercentageAboveDma200" : 4.35,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 4.53,
+      "pricePercentageAboveDma200" : 4.27,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 18.16,
       "netProfitMarginPercentile" : 9.15,
-      "totalTechnicalScore" : 44.10,
+      "totalTechnicalScore" : 43.87,
       "totalFundamentalScore" : 42.25,
-      "totalScore" : 86.35
+      "totalScore" : 86.12
     }
   },
   "attributes" : {
     "companyCode" : "BIL",
     "companyName" : "Bhartiya Intl.",
-    "marketCap" : 1332.00,
-    "peRatio" : 35.10,
+    "marketCap" : 1353.00,
+    "peRatio" : 35.60,
     "description" : "Incorporated in 1983, Bhartiya International Ltd is in the business of manufacturing and trading of leather products and textile products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 834.80,
-    "dma50" : 829.33,
-    "dma100" : null,
-    "dma200" : 757.66,
-    "volume" : 2046.00
-  }, {
     "date" : "2025-11-20",
     "price" : 820.30,
     "dma50" : 828.97,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 787.50,
     "dma50" : 751.49,
-    "dma100" : 765.55,
+    "dma100" : null,
     "dma200" : 760.30,
     "volume" : 3504.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 919.90,
     "dma200" : 879.68,
     "volume" : 31545.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1008.80,
+    "dma50" : 1021.55,
+    "dma100" : 922.22,
+    "dma200" : 880.97,
+    "volume" : 10326.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 993.20,
-    "dma50" : 1022.07,
-    "dma100" : 919.90,
-    "dma200" : 879.68,
-    "volume" : 31545.00
+    "date" : "2026-11-19",
+    "price" : 1008.80,
+    "dma50" : 1021.55,
+    "dma100" : 922.22,
+    "dma200" : 880.97,
+    "volume" : 10326.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 4.60,
-    "pricePercentageAboveDma200" : 4.35,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 4.53,
+    "pricePercentageAboveDma200" : 4.27,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 18.16,
     "netProfitMarginPercentile" : 9.15,
-    "totalTechnicalScore" : 44.10,
+    "totalTechnicalScore" : 43.87,
     "totalFundamentalScore" : 42.25,
-    "totalScore" : 86.35
+    "totalScore" : 86.12
   }
 }

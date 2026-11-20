@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RML",
       "companyName" : "Rane (Madras)",
-      "marketCap" : 3357.00,
-      "peRatio" : 24.10,
+      "marketCap" : 3317.00,
+      "peRatio" : 23.80,
       "description" : "Established in 1960, Rane (Madras) Limited (RML) is part of the Rane Group of Companies, a leading auto component group based out of Chennai. RML has two divisions namely Steering and Linkages Division (SLD) and Light Metal Casting India Division (LMCI). Through its overseas subsidiary Rane Light Metal Castings Inc. (RLMCA), RML manufactures high pressure light metal casting components from its facility in Kentucky, USA.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 4.42,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 4.49,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 17.91,
       "netProfitMarginPercentile" : 6.55,
-      "totalTechnicalScore" : 34.58,
+      "totalTechnicalScore" : 34.76,
       "totalFundamentalScore" : 40.84,
-      "totalScore" : 75.42
+      "totalScore" : 75.61
     }
   },
   "attributes" : {
     "companyCode" : "RML",
     "companyName" : "Rane (Madras)",
-    "marketCap" : 3357.00,
-    "peRatio" : 24.10,
+    "marketCap" : 3317.00,
+    "peRatio" : 23.80,
     "description" : "Established in 1960, Rane (Madras) Limited (RML) is part of the Rane Group of Companies, a leading auto component group based out of Chennai. RML has two divisions namely Steering and Linkages Division (SLD) and Light Metal Casting India Division (LMCI). Through its overseas subsidiary Rane Light Metal Castings Inc. (RLMCA), RML manufactures high pressure light metal casting components from its facility in Kentucky, USA.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 809.40,
-    "dma50" : 830.73,
-    "dma100" : null,
-    "dma200" : 833.51,
-    "volume" : 4996.00
-  }, {
     "date" : "2025-11-20",
     "price" : 795.05,
     "dma50" : 829.33,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 767.90,
     "dma50" : 753.32,
-    "dma100" : 769.90,
+    "dma100" : null,
     "dma200" : 791.37,
     "volume" : 11975.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1223.64,
     "dma200" : 1088.13,
     "volume" : 26415.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1200.30,
+    "dma50" : 1243.18,
+    "dma100" : 1224.38,
+    "dma200" : 1089.24,
+    "volume" : 27886.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1214.70,
-    "dma50" : 1244.93,
-    "dma100" : 1223.64,
-    "dma200" : 1088.13,
-    "volume" : 26415.00
+    "date" : "2026-11-19",
+    "price" : 1200.30,
+    "dma50" : 1243.18,
+    "dma100" : 1224.38,
+    "dma200" : 1089.24,
+    "volume" : 27886.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 4.42,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 4.49,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 17.91,
     "netProfitMarginPercentile" : 6.55,
-    "totalTechnicalScore" : 34.58,
+    "totalTechnicalScore" : 34.76,
     "totalFundamentalScore" : 40.84,
-    "totalScore" : 75.42
+    "totalScore" : 75.61
   }
 }

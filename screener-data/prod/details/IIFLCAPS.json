@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "IIFLCAPS",
       "companyName" : "IIFL Capital",
-      "marketCap" : 11141.00,
-      "peRatio" : 18.20,
+      "marketCap" : 10521.00,
+      "peRatio" : 17.20,
       "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 4.83,
-      "pricePercentageAboveDma200" : 4.71,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.11,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 17.06,
       "netProfitMarginPercentile" : 3.24,
-      "totalTechnicalScore" : 49.43,
+      "totalTechnicalScore" : 35.29,
       "totalFundamentalScore" : 32.29,
-      "totalScore" : 81.73
+      "totalScore" : 67.59
     }
   },
   "attributes" : {
     "companyCode" : "IIFLCAPS",
     "companyName" : "IIFL Capital",
-    "marketCap" : 11141.00,
-    "peRatio" : 18.20,
+    "marketCap" : 10521.00,
+    "peRatio" : 17.20,
     "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 317.55,
-    "dma50" : 320.84,
-    "dma100" : null,
-    "dma200" : 299.25,
-    "volume" : 469429.00
-  }, {
     "date" : "2025-11-20",
     "price" : 313.85,
     "dma50" : 320.57,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 313.44,
     "dma50" : 294.81,
-    "dma100" : 316.71,
+    "dma100" : null,
     "dma200" : 306.73,
     "volume" : 1282608.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 341.26,
     "dma200" : 333.78,
     "volume" : 3124103.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 333.45,
+    "dma50" : 345.44,
+    "dma100" : 341.22,
+    "dma200" : 333.77,
+    "volume" : 4642640.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 353.10,
-    "dma50" : 345.93,
-    "dma100" : 341.26,
-    "dma200" : 333.78,
-    "volume" : 3124103.00
+    "date" : "2026-11-19",
+    "price" : 333.45,
+    "dma50" : 345.44,
+    "dma100" : 341.22,
+    "dma200" : 333.77,
+    "volume" : 4642640.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2137,21 +2137,21 @@
     "netProfit" : 122.09
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 4.83,
-    "pricePercentageAboveDma200" : 4.71,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.11,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 17.06,
     "netProfitMarginPercentile" : 3.24,
-    "totalTechnicalScore" : 49.43,
+    "totalTechnicalScore" : 35.29,
     "totalFundamentalScore" : 32.29,
-    "totalScore" : 81.73
+    "totalScore" : 67.59
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NLCINDIA",
       "companyName" : "NLC India",
-      "marketCap" : 31461.00,
-      "peRatio" : 8.02,
+      "marketCap" : 32575.00,
+      "peRatio" : 8.30,
       "description" : "NLC India is engaged in the business of mining of lignite and generation of power by using lignite as well as Renewable Energy Sources.(Source : 202003 Annual Report Page No:89)"
     },
     "companyScore" : {
@@ -19,34 +19,27 @@
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.45,
-      "pricePercentageAboveDma100" : 5.80,
-      "pricePercentageAboveDma200" : 5.80,
+      "dma100HigherThanDma200" : 0.00,
+      "pricePercentageAboveDma50" : 5.28,
+      "pricePercentageAboveDma100" : 5.64,
+      "pricePercentageAboveDma200" : 5.65,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.92,
       "operatingProfitMarginPercentile" : 18.44,
       "netProfitMarginPercentile" : 9.43,
-      "totalTechnicalScore" : 22.05,
+      "totalTechnicalScore" : 16.56,
       "totalFundamentalScore" : 36.78,
-      "totalScore" : 58.83
+      "totalScore" : 53.34
     }
   },
   "attributes" : {
     "companyCode" : "NLCINDIA",
     "companyName" : "NLC India",
-    "marketCap" : 31461.00,
-    "peRatio" : 8.02,
+    "marketCap" : 32575.00,
+    "peRatio" : 8.30,
     "description" : "NLC India is engaged in the business of mining of lignite and generation of power by using lignite as well as Renewable Energy Sources.(Source : 202003 Annual Report Page No:89)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 251.95,
-    "dma50" : 259.03,
-    "dma100" : null,
-    "dma200" : 246.43,
-    "volume" : 452445.00
-  }, {
     "date" : "2025-11-20",
     "price" : 249.50,
     "dma50" : 258.66,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 300.65,
     "dma50" : 265.45,
-    "dma100" : 256.15,
+    "dma100" : null,
     "dma200" : 254.22,
     "volume" : 7779022.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 270.14,
     "dma200" : 270.08,
     "volume" : 1685825.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 234.92,
+    "dma50" : 248.75,
+    "dma100" : 269.21,
+    "dma200" : 269.73,
+    "volume" : 3454023.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 226.89,
-    "dma50" : 249.31,
-    "dma100" : 270.14,
-    "dma200" : 270.08,
-    "volume" : 1685825.00
+    "date" : "2026-11-19",
+    "price" : 234.92,
+    "dma50" : 248.75,
+    "dma100" : 269.21,
+    "dma200" : 269.73,
+    "volume" : 3454023.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2672,16 +2672,16 @@
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
-    "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.45,
-    "pricePercentageAboveDma100" : 5.80,
-    "pricePercentageAboveDma200" : 5.80,
+    "dma100HigherThanDma200" : 0.00,
+    "pricePercentageAboveDma50" : 5.28,
+    "pricePercentageAboveDma100" : 5.64,
+    "pricePercentageAboveDma200" : 5.65,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.92,
     "operatingProfitMarginPercentile" : 18.44,
     "netProfitMarginPercentile" : 9.43,
-    "totalTechnicalScore" : 22.05,
+    "totalTechnicalScore" : 16.56,
     "totalFundamentalScore" : 36.78,
-    "totalScore" : 58.83
+    "totalScore" : 53.34
   }
 }

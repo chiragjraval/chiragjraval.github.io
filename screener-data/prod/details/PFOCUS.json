@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PFOCUS",
       "companyName" : "Prime Focus",
-      "marketCap" : 21475.00,
-      "peRatio" : 95.60,
+      "marketCap" : 20805.00,
+      "peRatio" : 92.70,
       "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 0.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.19,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.35,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.75,
       "operatingProfitMarginPercentile" : 13.59,
       "netProfitMarginPercentile" : 1.68,
-      "totalTechnicalScore" : 40.26,
+      "totalTechnicalScore" : 30.72,
       "totalFundamentalScore" : 26.02,
-      "totalScore" : 66.28
+      "totalScore" : 56.73
     }
   },
   "attributes" : {
     "companyCode" : "PFOCUS",
     "companyName" : "Prime Focus",
-    "marketCap" : 21475.00,
-    "peRatio" : 95.60,
+    "marketCap" : 20805.00,
+    "peRatio" : 92.70,
     "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 170.15,
-    "dma50" : 171.81,
-    "dma100" : null,
-    "dma200" : 148.19,
-    "volume" : 2200657.00
-  }, {
     "date" : "2025-11-20",
     "price" : 168.05,
     "dma50" : 171.66,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 345.05,
     "dma50" : 291.36,
-    "dma100" : 249.90,
+    "dma100" : null,
     "dma200" : 220.51,
     "volume" : 3158686.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 286.87,
     "dma200" : 268.72,
     "volume" : 4015600.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 267.15,
+    "dma50" : 286.22,
+    "dma100" : 287.44,
+    "dma200" : 268.71,
+    "volume" : 4030344.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 275.75,
-    "dma50" : 287.00,
-    "dma100" : 286.87,
-    "dma200" : 268.72,
-    "volume" : 4015600.00
+    "date" : "2026-11-19",
+    "price" : 267.15,
+    "dma50" : 286.22,
+    "dma100" : 287.44,
+    "dma200" : 268.71,
+    "volume" : 4030344.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2639,19 +2639,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 0.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.19,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.35,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.75,
     "operatingProfitMarginPercentile" : 13.59,
     "netProfitMarginPercentile" : 1.68,
-    "totalTechnicalScore" : 40.26,
+    "totalTechnicalScore" : 30.72,
     "totalFundamentalScore" : 26.02,
-    "totalScore" : 66.28
+    "totalScore" : 56.73
   }
 }

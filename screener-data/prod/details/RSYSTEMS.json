@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "RSYSTEMS",
       "companyName" : "R Systems Intl.",
-      "marketCap" : 2880.00,
+      "marketCap" : 2874.00,
       "peRatio" : 12.00,
       "description" : "R Systems is a leading provider of technology, artificial intelligence, analytics and knowledge services. It partners with customers to enable or elevate their digital transformation with diversified digital offerings including product engineering, cloud enablement, quality assurance testing and digital platforms and solutions. [1][2]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma100" : 5.15,
       "pricePercentageAboveDma200" : 5.65,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.94,
       "operatingProfitMarginPercentile" : 17.70,
       "netProfitMarginPercentile" : 6.53,
-      "totalTechnicalScore" : 21.02,
+      "totalTechnicalScore" : 21.04,
       "totalFundamentalScore" : 33.17,
-      "totalScore" : 54.19
+      "totalScore" : 54.21
     }
   },
   "attributes" : {
     "companyCode" : "RSYSTEMS",
     "companyName" : "R Systems Intl.",
-    "marketCap" : 2880.00,
+    "marketCap" : 2874.00,
     "peRatio" : 12.00,
     "description" : "R Systems is a leading provider of technology, artificial intelligence, analytics and knowledge services. It partners with customers to enable or elevate their digital transformation with diversified digital offerings including product engineering, cloud enablement, quality assurance testing and digital platforms and solutions. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 422.80,
-    "dma50" : 420.68,
-    "dma100" : null,
-    "dma200" : 421.26,
-    "volume" : 146150.00
-  }, {
     "date" : "2025-11-20",
     "price" : 408.55,
     "dma50" : 420.21,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 277.50,
     "dma50" : 293.48,
-    "dma100" : 345.38,
+    "dma100" : null,
     "dma200" : 362.97,
     "volume" : 270444.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 250.10,
     "dma200" : 279.33,
     "volume" : 176953.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 242.50,
+    "dma50" : 254.32,
+    "dma100" : 250.14,
+    "dma200" : 278.97,
+    "volume" : 255081.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 243.05,
-    "dma50" : 254.80,
-    "dma100" : 250.10,
-    "dma200" : 279.33,
-    "volume" : 176953.00
+    "date" : "2026-11-19",
+    "price" : 242.50,
+    "dma50" : 254.32,
+    "dma100" : 250.14,
+    "dma200" : 278.97,
+    "volume" : 255081.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma100" : 5.15,
     "pricePercentageAboveDma200" : 5.65,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.94,
     "operatingProfitMarginPercentile" : 17.70,
     "netProfitMarginPercentile" : 6.53,
-    "totalTechnicalScore" : 21.02,
+    "totalTechnicalScore" : 21.04,
     "totalFundamentalScore" : 33.17,
-    "totalScore" : 54.19
+    "totalScore" : 54.21
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UNIONBANK",
       "companyName" : "Union Bank (I)",
-      "marketCap" : 158687.00,
-      "peRatio" : 7.21,
+      "marketCap" : 160306.00,
+      "peRatio" : 7.29,
       "description" : "Union Bank of India is engaged in the Business of Banking Services, Government Business ,Merchant Banking, Agency Business Insurance, Mutual Funds, Wealth Management etc.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.40,
-      "pricePercentageAboveDma100" : 4.20,
-      "pricePercentageAboveDma200" : 4.05,
+      "pricePercentageAboveDma50" : 4.37,
+      "pricePercentageAboveDma100" : 4.15,
+      "pricePercentageAboveDma200" : 4.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 7.71,
       "operatingProfitMarginPercentile" : 17.69,
       "netProfitMarginPercentile" : 9.84,
-      "totalTechnicalScore" : 42.65,
+      "totalTechnicalScore" : 42.53,
       "totalFundamentalScore" : 35.24,
-      "totalScore" : 77.89
+      "totalScore" : 77.77
     }
   },
   "attributes" : {
     "companyCode" : "UNIONBANK",
     "companyName" : "Union Bank (I)",
-    "marketCap" : 158687.00,
-    "peRatio" : 7.21,
+    "marketCap" : 160306.00,
+    "peRatio" : 7.29,
     "description" : "Union Bank of India is engaged in the Business of Banking Services, Government Business ,Merchant Banking, Agency Business Insurance, Mutual Funds, Wealth Management etc.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 154.48,
-    "dma50" : 144.27,
-    "dma100" : null,
-    "dma200" : 135.84,
-    "volume" : 10208403.00
-  }, {
     "date" : "2025-11-20",
     "price" : 153.19,
     "dma50" : 144.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 188.91,
     "dma50" : 179.32,
-    "dma100" : 171.31,
+    "dma100" : null,
     "dma200" : 160.27,
     "volume" : 9177554.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 179.25,
     "dma200" : 174.60,
     "volume" : 10267904.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 210.00,
+    "dma50" : 186.65,
+    "dma100" : 179.60,
+    "dma200" : 174.95,
+    "volume" : 12451541.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 207.88,
-    "dma50" : 185.70,
-    "dma100" : 179.25,
-    "dma200" : 174.60,
-    "volume" : 10267904.00
+    "date" : "2026-11-19",
+    "price" : 210.00,
+    "dma50" : 186.65,
+    "dma100" : 179.60,
+    "dma200" : 174.95,
+    "volume" : 12451541.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.40,
-    "pricePercentageAboveDma100" : 4.20,
-    "pricePercentageAboveDma200" : 4.05,
+    "pricePercentageAboveDma50" : 4.37,
+    "pricePercentageAboveDma100" : 4.15,
+    "pricePercentageAboveDma200" : 4.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 7.71,
     "operatingProfitMarginPercentile" : 17.69,
     "netProfitMarginPercentile" : 9.84,
-    "totalTechnicalScore" : 42.65,
+    "totalTechnicalScore" : 42.53,
     "totalFundamentalScore" : 35.24,
-    "totalScore" : 77.89
+    "totalScore" : 77.77
   }
 }

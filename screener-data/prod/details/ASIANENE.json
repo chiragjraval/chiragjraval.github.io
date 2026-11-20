@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASIANENE",
       "companyName" : "Asian Energy",
-      "marketCap" : 1849.00,
-      "peRatio" : 23.10,
+      "marketCap" : 1837.00,
+      "peRatio" : 23.00,
       "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.57,
-      "pricePercentageAboveDma100" : 5.57,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma100" : 5.60,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 19.15,
       "netProfitMarginPercentile" : 9.83,
-      "totalTechnicalScore" : 26.27,
+      "totalTechnicalScore" : 26.34,
       "totalFundamentalScore" : 44.40,
-      "totalScore" : 70.67
+      "totalScore" : 70.74
     }
   },
   "attributes" : {
     "companyCode" : "ASIANENE",
     "companyName" : "Asian Energy",
-    "marketCap" : 1849.00,
-    "peRatio" : 23.10,
+    "marketCap" : 1837.00,
+    "peRatio" : 23.00,
     "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 314.75,
-    "dma50" : 335.60,
-    "dma100" : null,
-    "dma200" : 324.63,
-    "volume" : 90012.00
-  }, {
     "date" : "2025-11-20",
     "price" : 317.55,
     "dma50" : 334.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 304.99,
     "dma50" : 281.21,
-    "dma100" : 279.29,
+    "dma100" : null,
     "dma200" : 295.79,
     "volume" : 184383.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 425.49,
     "dma200" : 387.22,
     "volume" : 198968.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 374.40,
+    "dma50" : 423.02,
+    "dma100" : 425.58,
+    "dma200" : 387.09,
+    "volume" : 257690.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 376.85,
-    "dma50" : 425.00,
-    "dma100" : 425.49,
-    "dma200" : 387.22,
-    "volume" : 198968.00
+    "date" : "2026-11-19",
+    "price" : 374.40,
+    "dma50" : 423.02,
+    "dma100" : 425.58,
+    "dma200" : 387.09,
+    "volume" : 257690.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.57,
-    "pricePercentageAboveDma100" : 5.57,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma100" : 5.60,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 19.15,
     "netProfitMarginPercentile" : 9.83,
-    "totalTechnicalScore" : 26.27,
+    "totalTechnicalScore" : 26.34,
     "totalFundamentalScore" : 44.40,
-    "totalScore" : 70.67
+    "totalScore" : 70.74
   }
 }

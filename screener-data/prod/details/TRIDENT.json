@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TRIDENT",
       "companyName" : "Trident",
-      "marketCap" : 11853.00,
-      "peRatio" : 24.70,
+      "marketCap" : 11950.00,
+      "peRatio" : 24.90,
       "description" : "Incorporated in 1990, Trident Ltd manufactures, trades, and sells Yarn, Terry Towels & Bed sheets, and Paper & Chemicals[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.95,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 5.27,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 5.23,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.43,
       "operatingProfitMarginPercentile" : 14.12,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 20.34,
+      "totalTechnicalScore" : 20.22,
       "totalFundamentalScore" : 29.09,
-      "totalScore" : 49.43
+      "totalScore" : 49.31
     }
   },
   "attributes" : {
     "companyCode" : "TRIDENT",
     "companyName" : "Trident",
-    "marketCap" : 11853.00,
-    "peRatio" : 24.70,
+    "marketCap" : 11950.00,
+    "peRatio" : 24.90,
     "description" : "Incorporated in 1990, Trident Ltd manufactures, trades, and sells Yarn, Terry Towels & Bed sheets, and Paper & Chemicals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 28.56,
-    "dma50" : 28.60,
-    "dma100" : null,
-    "dma200" : 29.78,
-    "volume" : 4384150.00
-  }, {
     "date" : "2025-11-20",
     "price" : 28.59,
     "dma50" : 28.60,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 26.12,
     "dma50" : 25.07,
-    "dma100" : 26.03,
+    "dma100" : null,
     "dma200" : 27.20,
     "volume" : 6734329.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 23.85,
     "dma200" : 24.60,
     "volume" : 2693736.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 23.45,
+    "dma50" : 23.04,
+    "dma100" : 23.83,
+    "dma200" : 24.59,
+    "volume" : 4343393.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 23.26,
-    "dma50" : 23.02,
-    "dma100" : 23.85,
-    "dma200" : 24.60,
-    "volume" : 2693736.00
+    "date" : "2026-11-19",
+    "price" : 23.45,
+    "dma50" : 23.04,
+    "dma100" : 23.83,
+    "dma200" : 24.59,
+    "volume" : 4343393.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.95,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 5.27,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 5.23,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.43,
     "operatingProfitMarginPercentile" : 14.12,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 20.34,
+    "totalTechnicalScore" : 20.22,
     "totalFundamentalScore" : 29.09,
-    "totalScore" : 49.43
+    "totalScore" : 49.31
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GPTHEALTH",
       "companyName" : "GPT Healthcare",
-      "marketCap" : 1104.00,
-      "peRatio" : 21.20,
+      "marketCap" : 1087.00,
+      "peRatio" : 20.90,
       "description" : "Incorporated in 1989, GPT Healthcare Ltd is engaged in running hospitals and providing medical services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.57,
-      "pricePercentageAboveDma200" : 5.42,
+      "pricePercentageAboveDma50" : 5.40,
+      "pricePercentageAboveDma100" : 5.63,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.58,
       "operatingProfitMarginPercentile" : 11.11,
       "netProfitMarginPercentile" : 6.11,
-      "totalTechnicalScore" : 26.33,
+      "totalTechnicalScore" : 26.52,
       "totalFundamentalScore" : 33.80,
-      "totalScore" : 60.13
+      "totalScore" : 60.32
     }
   },
   "attributes" : {
     "companyCode" : "GPTHEALTH",
     "companyName" : "GPT Healthcare",
-    "marketCap" : 1104.00,
-    "peRatio" : 21.20,
+    "marketCap" : 1087.00,
+    "peRatio" : 20.90,
     "description" : "Incorporated in 1989, GPT Healthcare Ltd is engaged in running hospitals and providing medical services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 145.30,
-    "dma50" : 149.12,
-    "dma100" : null,
-    "dma200" : 156.13,
-    "volume" : 70069.00
-  }, {
     "date" : "2025-11-20",
     "price" : 143.31,
     "dma50" : 148.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 137.43,
     "dma50" : 128.76,
-    "dma100" : 132.06,
+    "dma100" : null,
     "dma200" : 139.98,
     "volume" : 118140.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 151.68,
     "dma200" : 146.71,
     "volume" : 107938.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 132.45,
+    "dma50" : 144.12,
+    "dma100" : 151.54,
+    "dma200" : 146.56,
+    "volume" : 78798.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 134.50,
-    "dma50" : 144.59,
-    "dma100" : 151.68,
-    "dma200" : 146.71,
-    "volume" : 107938.00
+    "date" : "2026-11-19",
+    "price" : 132.45,
+    "dma50" : 144.12,
+    "dma100" : 151.54,
+    "dma200" : 146.56,
+    "volume" : 78798.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.57,
-    "pricePercentageAboveDma200" : 5.42,
+    "pricePercentageAboveDma50" : 5.40,
+    "pricePercentageAboveDma100" : 5.63,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.58,
     "operatingProfitMarginPercentile" : 11.11,
     "netProfitMarginPercentile" : 6.11,
-    "totalTechnicalScore" : 26.33,
+    "totalTechnicalScore" : 26.52,
     "totalFundamentalScore" : 33.80,
-    "totalScore" : 60.13
+    "totalScore" : 60.32
   }
 }

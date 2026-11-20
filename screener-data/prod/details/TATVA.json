@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TATVA",
       "companyName" : "Tatva Chintan",
-      "marketCap" : 3857.00,
-      "peRatio" : 60.30,
+      "marketCap" : 3830.00,
+      "peRatio" : 59.90,
       "description" : "Tatva Chintan Pharma Chem Limited was incorporated in 1996 and it is a manufacturer of a diverse portfolio of structure Directing Agents, Phase Transfer Catalysts, electrolyte salts for batteries, and Pharmaceutical and Agrochemical Intermediates and other Speciality chemicals[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.00,
-      "pricePercentageAboveDma200" : 4.49,
+      "pricePercentageAboveDma50" : 5.14,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 4.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.18,
       "operatingProfitMarginPercentile" : 8.46,
       "netProfitMarginPercentile" : 3.85,
-      "totalTechnicalScore" : 39.60,
+      "totalTechnicalScore" : 34.73,
       "totalFundamentalScore" : 30.49,
-      "totalScore" : 70.09
+      "totalScore" : 65.22
     }
   },
   "attributes" : {
     "companyCode" : "TATVA",
     "companyName" : "Tatva Chintan",
-    "marketCap" : 3857.00,
-    "peRatio" : 60.30,
+    "marketCap" : 3830.00,
+    "peRatio" : 59.90,
     "description" : "Tatva Chintan Pharma Chem Limited was incorporated in 1996 and it is a manufacturer of a diverse portfolio of structure Directing Agents, Phase Transfer Catalysts, electrolyte salts for batteries, and Pharmaceutical and Agrochemical Intermediates and other Speciality chemicals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1533.40,
-    "dma50" : 1294.90,
-    "dma100" : null,
-    "dma200" : 1066.90,
-    "volume" : 221549.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1532.10,
     "dma50" : 1304.20,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1278.30,
     "dma50" : 1193.28,
-    "dma100" : 1266.72,
+    "dma100" : null,
     "dma200" : 1175.95,
     "volume" : 92760.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1648.03,
     "dma200" : 1496.66,
     "volume" : 21635.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1637.20,
+    "dma50" : 1686.04,
+    "dma100" : 1652.44,
+    "dma200" : 1498.06,
+    "volume" : 17636.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1648.90,
-    "dma50" : 1688.04,
-    "dma100" : 1648.03,
-    "dma200" : 1496.66,
-    "volume" : 21635.00
+    "date" : "2026-11-19",
+    "price" : 1637.20,
+    "dma50" : 1686.04,
+    "dma100" : 1652.44,
+    "dma200" : 1498.06,
+    "volume" : 17636.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-06-30",
@@ -2058,20 +2058,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.00,
-    "pricePercentageAboveDma200" : 4.49,
+    "pricePercentageAboveDma50" : 5.14,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 4.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.18,
     "operatingProfitMarginPercentile" : 8.46,
     "netProfitMarginPercentile" : 3.85,
-    "totalTechnicalScore" : 39.60,
+    "totalTechnicalScore" : 34.73,
     "totalFundamentalScore" : 30.49,
-    "totalScore" : 70.09
+    "totalScore" : 65.22
   }
 }
