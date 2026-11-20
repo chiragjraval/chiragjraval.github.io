@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "POKARNA",
       "companyName" : "Pokarna",
-      "marketCap" : 2268.00,
-      "peRatio" : 18.50,
+      "marketCap" : 2214.00,
+      "peRatio" : 18.00,
       "description" : "Pokarna established their Granite business in 1991. Their products today are renowned for its quality, uniqueness, design and variation. Their state-of-the-art manufacturing facilities are equipped with specialized Bretonstone® technology, used for producing Quartz surfaces. They have strong presence in 23 countries and a robust distribution network which enables them to maintain uninterrupted and steady supply of products. Their Quartz surfaces are marketed under the brand name Quantra, while their granite products are sold under the Pokarna brand. We also have apparel manufacturing & retailing business under STANZA brand. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 5.61,
-      "pricePercentageAboveDma200" : 5.62,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.70,
+      "pricePercentageAboveDma200" : 5.72,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 12.04,
       "netProfitMarginPercentile" : 6.77,
-      "totalTechnicalScore" : 16.32,
+      "totalTechnicalScore" : 16.61,
       "totalFundamentalScore" : 38.09,
-      "totalScore" : 54.40
+      "totalScore" : 54.70
     }
   },
   "attributes" : {
     "companyCode" : "POKARNA",
     "companyName" : "Pokarna",
-    "marketCap" : 2268.00,
-    "peRatio" : 18.50,
+    "marketCap" : 2214.00,
+    "peRatio" : 18.00,
     "description" : "Pokarna established their Granite business in 1991. Their products today are renowned for its quality, uniqueness, design and variation. Their state-of-the-art manufacturing facilities are equipped with specialized Bretonstone® technology, used for producing Quartz surfaces. They have strong presence in 23 countries and a robust distribution network which enables them to maintain uninterrupted and steady supply of products. Their Quartz surfaces are marketed under the brand name Quantra, while their granite products are sold under the Pokarna brand. We also have apparel manufacturing & retailing business under STANZA brand. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 934.20,
-    "dma50" : 868.79,
-    "dma100" : null,
-    "dma200" : 934.06,
-    "volume" : 181533.00
-  }, {
     "date" : "2025-11-20",
     "price" : 934.45,
     "dma50" : 871.36,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 927.45,
     "dma50" : 891.92,
-    "dma100" : 876.20,
+    "dma100" : null,
     "dma200" : 900.94,
     "volume" : 299015.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 833.60,
     "dma200" : 835.78,
     "volume" : 39435.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 714.10,
+    "dma50" : 742.21,
+    "dma100" : 830.12,
+    "dma200" : 834.57,
+    "volume" : 89418.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 731.50,
-    "dma50" : 743.36,
-    "dma100" : 833.60,
-    "dma200" : 835.78,
-    "volume" : 39435.00
+    "date" : "2026-11-19",
+    "price" : 714.10,
+    "dma50" : 742.21,
+    "dma100" : 830.12,
+    "dma200" : 834.57,
+    "volume" : 89418.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 5.61,
-    "pricePercentageAboveDma200" : 5.62,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.70,
+    "pricePercentageAboveDma200" : 5.72,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 12.04,
     "netProfitMarginPercentile" : 6.77,
-    "totalTechnicalScore" : 16.32,
+    "totalTechnicalScore" : 16.61,
     "totalFundamentalScore" : 38.09,
-    "totalScore" : 54.40
+    "totalScore" : 54.70
   }
 }

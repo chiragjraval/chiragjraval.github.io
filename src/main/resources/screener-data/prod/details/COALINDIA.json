@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COALINDIA",
       "companyName" : "Coal India",
-      "marketCap" : 239114.00,
-      "peRatio" : 7.17,
+      "marketCap" : 241271.00,
+      "peRatio" : 7.23,
       "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.32,
-      "pricePercentageAboveDma200" : 5.37,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.29,
       "operatingProfitMarginPercentile" : 18.23,
       "netProfitMarginPercentile" : 8.33,
-      "totalTechnicalScore" : 20.93,
+      "totalTechnicalScore" : 20.79,
       "totalFundamentalScore" : 37.85,
-      "totalScore" : 58.79
+      "totalScore" : 58.64
     }
   },
   "attributes" : {
     "companyCode" : "COALINDIA",
     "companyName" : "Coal India",
-    "marketCap" : 239114.00,
-    "peRatio" : 7.17,
+    "marketCap" : 241271.00,
+    "peRatio" : 7.23,
     "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 379.05,
-    "dma50" : 385.79,
-    "dma100" : null,
-    "dma200" : 392.67,
-    "volume" : 5729573.00
-  }, {
     "date" : "2025-11-20",
     "price" : 379.65,
     "dma50" : 385.55,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 438.75,
     "dma50" : 439.09,
-    "dma100" : 420.90,
+    "dma100" : null,
     "dma200" : 414.63,
     "volume" : 11372615.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 414.81,
     "dma200" : 419.26,
     "volume" : 6303849.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 391.50,
+    "dma50" : 406.72,
+    "dma100" : 414.28,
+    "dma200" : 418.98,
+    "volume" : 7595421.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 388.00,
-    "dma50" : 407.34,
-    "dma100" : 414.81,
-    "dma200" : 419.26,
-    "volume" : 6303849.00
+    "date" : "2026-11-19",
+    "price" : 391.50,
+    "dma50" : 406.72,
+    "dma100" : 414.28,
+    "dma200" : 418.98,
+    "volume" : 7595421.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2463,15 +2463,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.32,
-    "pricePercentageAboveDma200" : 5.37,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.29,
     "operatingProfitMarginPercentile" : 18.23,
     "netProfitMarginPercentile" : 8.33,
-    "totalTechnicalScore" : 20.93,
+    "totalTechnicalScore" : 20.79,
     "totalFundamentalScore" : 37.85,
-    "totalScore" : 58.79
+    "totalScore" : 58.64
   }
 }

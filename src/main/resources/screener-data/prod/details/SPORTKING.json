@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SPORTKING",
       "companyName" : "Sportking India",
-      "marketCap" : 2765.00,
-      "peRatio" : 12.00,
+      "marketCap" : 2833.00,
+      "peRatio" : 12.30,
       "description" : "Sportking India Limited, a part of the Sportking Group, is a textile manufacturing company engaged in the production of Yarns (Cotton Yarn, Synthetic Yarn, Blended Yarn), fabrics and garments. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.72,
-      "pricePercentageAboveDma100" : 4.72,
-      "pricePercentageAboveDma200" : 3.88,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.61,
+      "pricePercentageAboveDma100" : 4.60,
+      "pricePercentageAboveDma200" : 3.75,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.60,
       "operatingProfitMarginPercentile" : 17.89,
       "netProfitMarginPercentile" : 8.95,
-      "totalTechnicalScore" : 43.32,
+      "totalTechnicalScore" : 47.95,
       "totalFundamentalScore" : 43.45,
-      "totalScore" : 86.76
+      "totalScore" : 91.40
     }
   },
   "attributes" : {
     "companyCode" : "SPORTKING",
     "companyName" : "Sportking India",
-    "marketCap" : 2765.00,
-    "peRatio" : 12.00,
+    "marketCap" : 2833.00,
+    "peRatio" : 12.30,
     "description" : "Sportking India Limited, a part of the Sportking Group, is a textile manufacturing company engaged in the production of Yarns (Cotton Yarn, Synthetic Yarn, Blended Yarn), fabrics and garments. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 99.81,
-    "dma50" : 102.59,
-    "dma100" : null,
-    "dma200" : 104.69,
-    "volume" : 82906.00
-  }, {
     "date" : "2025-11-20",
     "price" : 99.70,
     "dma50" : 102.48,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 140.13,
     "dma50" : 117.83,
-    "dma100" : 102.63,
+    "dma100" : null,
     "dma200" : 106.01,
     "volume" : 303588.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 205.93,
     "dma200" : 177.83,
     "volume" : 354779.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 222.93,
+    "dma50" : 206.61,
+    "dma100" : 206.41,
+    "dma200" : 178.28,
+    "volume" : 858256.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 217.57,
-    "dma50" : 205.94,
-    "dma100" : 205.93,
-    "dma200" : 177.83,
-    "volume" : 354779.00
+    "date" : "2026-11-19",
+    "price" : 222.93,
+    "dma50" : 206.61,
+    "dma100" : 206.41,
+    "dma200" : 178.28,
+    "volume" : 858256.00
   },
   "quarterlyResults" : [ {
     "date" : "2012-06-30",
@@ -2373,15 +2373,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.72,
-    "pricePercentageAboveDma100" : 4.72,
-    "pricePercentageAboveDma200" : 3.88,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.61,
+    "pricePercentageAboveDma100" : 4.60,
+    "pricePercentageAboveDma200" : 3.75,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.60,
     "operatingProfitMarginPercentile" : 17.89,
     "netProfitMarginPercentile" : 8.95,
-    "totalTechnicalScore" : 43.32,
+    "totalTechnicalScore" : 47.95,
     "totalFundamentalScore" : 43.45,
-    "totalScore" : 86.76
+    "totalScore" : 91.40
   }
 }

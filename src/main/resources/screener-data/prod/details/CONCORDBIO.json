@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CONCORDBIO",
       "companyName" : "Concord Biotech",
-      "marketCap" : 11738.00,
-      "peRatio" : 39.50,
+      "marketCap" : 11642.00,
+      "peRatio" : 39.20,
       "description" : "Incorporated in 1984, Concord Biotech Limited is an India-based R&D-driven biopharma company and manufacturer of fermentation-based APIs across immunosuppressants and oncology.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.69,
-      "pricePercentageAboveDma100" : 5.89,
-      "pricePercentageAboveDma200" : 5.81,
+      "pricePercentageAboveDma50" : 5.70,
+      "pricePercentageAboveDma100" : 5.92,
+      "pricePercentageAboveDma200" : 5.84,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.71,
       "operatingProfitMarginPercentile" : 9.62,
       "netProfitMarginPercentile" : 5.01,
-      "totalTechnicalScore" : 22.39,
+      "totalTechnicalScore" : 22.45,
       "totalFundamentalScore" : 30.35,
-      "totalScore" : 52.74
+      "totalScore" : 52.80
     }
   },
   "attributes" : {
     "companyCode" : "CONCORDBIO",
     "companyName" : "Concord Biotech",
-    "marketCap" : 11738.00,
-    "peRatio" : 39.50,
+    "marketCap" : 11642.00,
+    "peRatio" : 39.20,
     "description" : "Incorporated in 1984, Concord Biotech Limited is an India-based R&D-driven biopharma company and manufacturer of fermentation-based APIs across immunosuppressants and oncology.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 724.35,
-    "dma50" : 769.72,
-    "dma100" : null,
-    "dma200" : 839.13,
-    "volume" : 699350.00
-  }, {
     "date" : "2025-11-20",
     "price" : 720.20,
     "dma50" : 767.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 540.85,
     "dma50" : 565.73,
-    "dma100" : 618.56,
+    "dma100" : null,
     "dma200" : 688.85,
     "volume" : 1634764.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 682.67,
     "dma200" : 669.25,
     "volume" : 600714.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 556.40,
+    "dma50" : 646.57,
+    "dma100" : 681.93,
+    "dma200" : 668.12,
+    "volume" : 296911.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 561.00,
-    "dma50" : 650.25,
-    "dma100" : 682.67,
-    "dma200" : 669.25,
-    "volume" : 600714.00
+    "date" : "2026-11-19",
+    "price" : 556.40,
+    "dma50" : 646.57,
+    "dma100" : 681.93,
+    "dma200" : 668.12,
+    "volume" : 296911.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.69,
-    "pricePercentageAboveDma100" : 5.89,
-    "pricePercentageAboveDma200" : 5.81,
+    "pricePercentageAboveDma50" : 5.70,
+    "pricePercentageAboveDma100" : 5.92,
+    "pricePercentageAboveDma200" : 5.84,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.71,
     "operatingProfitMarginPercentile" : 9.62,
     "netProfitMarginPercentile" : 5.01,
-    "totalTechnicalScore" : 22.39,
+    "totalTechnicalScore" : 22.45,
     "totalFundamentalScore" : 30.35,
-    "totalScore" : 52.74
+    "totalScore" : 52.80
   }
 }

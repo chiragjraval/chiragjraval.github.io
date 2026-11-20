@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "POWERMECH",
       "companyName" : "Power Mech Proj.",
-      "marketCap" : 7517.00,
-      "peRatio" : 18.80,
+      "marketCap" : 7426.00,
+      "peRatio" : 18.60,
       "description" : "Power Mech Projects Limited, incorporated in 1999, is an engineering and construction company providing integrated service in erection, testing and commissioning (ETC) of boilers, turbines and generators and balance of plant (BOP), civil works and operation and maintenance (O&M). The company undertakes ultra mega power projects, super critical thermal power projects and sub critical power projects.[1][2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 5.12,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.21,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.65,
       "operatingProfitMarginPercentile" : 17.51,
       "netProfitMarginPercentile" : 9.91,
-      "totalTechnicalScore" : 25.25,
+      "totalTechnicalScore" : 20.42,
       "totalFundamentalScore" : 43.07,
-      "totalScore" : 68.33
+      "totalScore" : 63.49
     }
   },
   "attributes" : {
     "companyCode" : "POWERMECH",
     "companyName" : "Power Mech Proj.",
-    "marketCap" : 7517.00,
-    "peRatio" : 18.80,
+    "marketCap" : 7426.00,
+    "peRatio" : 18.60,
     "description" : "Power Mech Projects Limited, incorporated in 1999, is an engineering and construction company providing integrated service in erection, testing and commissioning (ETC) of boilers, turbines and generators and balance of plant (BOP), civil works and operation and maintenance (O&M). The company undertakes ultra mega power projects, super critical thermal power projects and sub critical power projects.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 2402.30,
-    "dma50" : 2650.74,
-    "dma100" : null,
-    "dma200" : 2783.57,
-    "volume" : 40593.00
-  }, {
     "date" : "2025-11-20",
     "price" : 2416.20,
     "dma50" : 2641.54,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 2376.00,
     "dma50" : 2084.15,
-    "dma100" : 2159.50,
+    "dma100" : null,
     "dma200" : 2369.46,
     "volume" : 201201.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2457.69,
     "dma200" : 2434.52,
     "volume" : 18360.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 2348.90,
+    "dma50" : 2364.11,
+    "dma100" : 2453.98,
+    "dma200" : 2433.66,
+    "volume" : 73680.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 2377.50,
-    "dma50" : 2364.73,
-    "dma100" : 2457.69,
-    "dma200" : 2434.52,
-    "volume" : 18360.00
+    "date" : "2026-11-19",
+    "price" : 2348.90,
+    "dma50" : 2364.11,
+    "dma100" : 2453.98,
+    "dma200" : 2433.66,
+    "volume" : 73680.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-06-30",
@@ -2297,21 +2297,21 @@
     "netProfit" : 117.93
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 5.12,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.21,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.65,
     "operatingProfitMarginPercentile" : 17.51,
     "netProfitMarginPercentile" : 9.91,
-    "totalTechnicalScore" : 25.25,
+    "totalTechnicalScore" : 20.42,
     "totalFundamentalScore" : 43.07,
-    "totalScore" : 68.33
+    "totalScore" : 63.49
   }
 }

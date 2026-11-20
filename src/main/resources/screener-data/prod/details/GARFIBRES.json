@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GARFIBRES",
       "companyName" : "Garware Tech.",
-      "marketCap" : 7308.00,
-      "peRatio" : 29.60,
+      "marketCap" : 7194.00,
+      "peRatio" : 29.10,
       "description" : "Established in 1976, Garware-Wall Ropes (GWRL) is one of India's leading players in the technical textiles sector, providing specialized solutions to the cordage and infrastructure industry worldwide. The company manufactures and provides world class solutions in high performance polymer ropes, fishing nets, sports nets, safety nets, aquaculture cages, coated fabrics, agricultural netting and geosynthetics."
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 4.93,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.01,
       "operatingProfitMarginPercentile" : 15.40,
       "netProfitMarginPercentile" : 7.93,
-      "totalTechnicalScore" : 30.06,
+      "totalTechnicalScore" : 25.29,
       "totalFundamentalScore" : 36.35,
-      "totalScore" : 66.41
+      "totalScore" : 61.63
     }
   },
   "attributes" : {
     "companyCode" : "GARFIBRES",
     "companyName" : "Garware Tech.",
-    "marketCap" : 7308.00,
-    "peRatio" : 29.60,
+    "marketCap" : 7194.00,
+    "peRatio" : 29.10,
     "description" : "Established in 1976, Garware-Wall Ropes (GWRL) is one of India's leading players in the technical textiles sector, providing specialized solutions to the cordage and infrastructure industry worldwide. The company manufactures and provides world class solutions in high performance polymer ropes, fishing nets, sports nets, safety nets, aquaculture cages, coated fabrics, agricultural netting and geosynthetics."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 728.70,
-    "dma50" : 765.18,
-    "dma100" : null,
-    "dma200" : 809.97,
-    "volume" : 49877.00
-  }, {
     "date" : "2025-11-20",
     "price" : 739.05,
     "dma50" : 764.15,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 646.35,
     "dma50" : 632.43,
-    "dma100" : 656.07,
+    "dma100" : null,
     "dma200" : 707.78,
     "volume" : 29029.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 765.20,
     "dma200" : 737.40,
     "volume" : 37394.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 736.75,
+    "dma50" : 751.74,
+    "dma100" : 765.07,
+    "dma200" : 737.39,
+    "volume" : 32400.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 748.40,
-    "dma50" : 752.35,
-    "dma100" : 765.20,
-    "dma200" : 737.40,
-    "volume" : 37394.00
+    "date" : "2026-11-19",
+    "price" : 736.75,
+    "dma50" : 751.74,
+    "dma100" : 765.07,
+    "dma200" : 737.39,
+    "volume" : 32400.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 4.93,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.01,
     "operatingProfitMarginPercentile" : 15.40,
     "netProfitMarginPercentile" : 7.93,
-    "totalTechnicalScore" : 30.06,
+    "totalTechnicalScore" : 25.29,
     "totalFundamentalScore" : 36.35,
-    "totalScore" : 66.41
+    "totalScore" : 61.63
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "AUTOAXLES",
       "companyName" : "Automotive Axles",
-      "marketCap" : 2738.00,
+      "marketCap" : 2724.00,
       "peRatio" : 13.20,
       "description" : "Automotive Axles was established in 1981 as a JV of Kalyani Group (35.5% ownership) and Meritor Inc, USA (35.5% ownership). [1] The Company is engaged in the business of manufacturing and supplying Automotive Parts to the major domestic and global manufacturers of Trucks & Buses (LCV, MCV, HCV, Military & Off-highway Vehicle Segment). [2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.72,
-      "pricePercentageAboveDma200" : 4.77,
+      "pricePercentageAboveDma50" : 4.61,
+      "pricePercentageAboveDma100" : 4.75,
+      "pricePercentageAboveDma200" : 4.80,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.39,
       "operatingProfitMarginPercentile" : 16.97,
       "netProfitMarginPercentile" : 9.52,
-      "totalTechnicalScore" : 34.06,
+      "totalTechnicalScore" : 34.16,
       "totalFundamentalScore" : 40.88,
-      "totalScore" : 74.94
+      "totalScore" : 75.04
     }
   },
   "attributes" : {
     "companyCode" : "AUTOAXLES",
     "companyName" : "Automotive Axles",
-    "marketCap" : 2738.00,
+    "marketCap" : 2724.00,
     "peRatio" : 13.20,
     "description" : "Automotive Axles was established in 1981 as a JV of Kalyani Group (35.5% ownership) and Meritor Inc, USA (35.5% ownership). [1] The Company is engaged in the business of manufacturing and supplying Automotive Parts to the major domestic and global manufacturers of Trucks & Buses (LCV, MCV, HCV, Military & Off-highway Vehicle Segment). [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1645.90,
-    "dma50" : 1709.05,
-    "dma100" : null,
-    "dma200" : 1751.34,
-    "volume" : 4061.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1637.60,
     "dma50" : 1706.24,
@@ -743,14 +736,14 @@
     "date" : "2026-04-17",
     "price" : 1881.90,
     "dma50" : 1795.30,
-    "dma100" : 1850.38,
+    "dma100" : null,
     "dma200" : 1809.71,
     "volume" : 18265.00
   }, {
     "date" : "2026-04-20",
     "price" : 1787.50,
     "dma50" : 1795.00,
-    "dma100" : 1851.88,
+    "dma100" : 1851.87,
     "dma200" : 1809.49,
     "volume" : 15739.00
   }, {
@@ -1303,7 +1296,7 @@
     "date" : "2026-08-12",
     "price" : 1798.40,
     "dma50" : 1803.22,
-    "dma100" : 1763.26,
+    "dma100" : 1763.25,
     "dma200" : 1797.96,
     "volume" : 3959.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1717.23,
     "dma200" : 1732.93,
     "volume" : 43653.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1802.90,
+    "dma50" : 1672.02,
+    "dma100" : 1717.59,
+    "dma200" : 1733.63,
+    "volume" : 23752.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1812.10,
-    "dma50" : 1666.68,
-    "dma100" : 1717.23,
-    "dma200" : 1732.93,
-    "volume" : 43653.00
+    "date" : "2026-11-19",
+    "price" : 1802.90,
+    "dma50" : 1672.02,
+    "dma100" : 1717.59,
+    "dma200" : 1733.63,
+    "volume" : 23752.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.72,
-    "pricePercentageAboveDma200" : 4.77,
+    "pricePercentageAboveDma50" : 4.61,
+    "pricePercentageAboveDma100" : 4.75,
+    "pricePercentageAboveDma200" : 4.80,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.39,
     "operatingProfitMarginPercentile" : 16.97,
     "netProfitMarginPercentile" : 9.52,
-    "totalTechnicalScore" : 34.06,
+    "totalTechnicalScore" : 34.16,
     "totalFundamentalScore" : 40.88,
-    "totalScore" : 74.94
+    "totalScore" : 75.04
   }
 }

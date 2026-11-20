@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TMB",
       "companyName" : "T N Merc. Bank",
-      "marketCap" : 14129.00,
-      "peRatio" : 8.95,
+      "marketCap" : 14165.00,
+      "peRatio" : 8.98,
       "description" : "Incorporated in 1921, Tamilnad Mercantile Bank (TMB) is one of the oldest private sector banks in India. It offers an array of banking and financial services to retail customers, micro, small, and medium enterprises (MSMEs).[1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 4.76,
+      "pricePercentageAboveDma100" : 4.75,
       "pricePercentageAboveDma200" : 4.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.05,
-      "totalTechnicalScore" : 43.70,
+      "totalTechnicalScore" : 43.69,
       "totalFundamentalScore" : 49.05,
-      "totalScore" : 92.75
+      "totalScore" : 92.74
     }
   },
   "attributes" : {
     "companyCode" : "TMB",
     "companyName" : "T N Merc. Bank",
-    "marketCap" : 14129.00,
-    "peRatio" : 8.95,
+    "marketCap" : 14165.00,
+    "peRatio" : 8.98,
     "description" : "Incorporated in 1921, Tamilnad Mercantile Bank (TMB) is one of the oldest private sector banks in India. It offers an array of banking and financial services to retail customers, micro, small, and medium enterprises (MSMEs).[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 502.85,
-    "dma50" : 466.08,
-    "dma100" : null,
-    "dma200" : 449.49,
-    "volume" : 105997.00
-  }, {
     "date" : "2025-11-20",
     "price" : 493.80,
     "dma50" : 467.17,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 683.75,
     "dma50" : 624.43,
-    "dma100" : 587.18,
+    "dma100" : null,
     "dma200" : 545.32,
     "volume" : 149365.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 851.08,
     "dma200" : 765.74,
     "volume" : 89401.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 894.50,
+    "dma50" : 854.76,
+    "dma100" : 852.66,
+    "dma200" : 767.02,
+    "volume" : 106968.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 892.25,
-    "dma50" : 853.14,
-    "dma100" : 851.08,
-    "dma200" : 765.74,
-    "volume" : 89401.00
+    "date" : "2026-11-19",
+    "price" : 894.50,
+    "dma50" : 854.76,
+    "dma100" : 852.66,
+    "dma200" : 767.02,
+    "volume" : 106968.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-09-30",
@@ -2014,14 +2014,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 4.76,
+    "pricePercentageAboveDma100" : 4.75,
     "pricePercentageAboveDma200" : 4.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.05,
-    "totalTechnicalScore" : 43.70,
+    "totalTechnicalScore" : 43.69,
     "totalFundamentalScore" : 49.05,
-    "totalScore" : 92.75
+    "totalScore" : 92.74
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "GODREJIND",
       "companyName" : "Godrej Industrie",
-      "marketCap" : 37104.00,
+      "marketCap" : 37060.00,
       "peRatio" : 24.40,
       "description" : "Godrej Industries is one of the holding companies of Godrej Group. It is one of the leading manufacturers of oleochemicals on a standalone basis. Godrej Industries is promoter of Godrej Agrovet Ltd and Godrej Properties Ltd. It also has stake in Godrej Consumer Products Ltd [1]."
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.72,
+      "pricePercentageAboveDma50" : 4.74,
       "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 4.92,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 34.85,
+      "totalTechnicalScore" : 34.87,
       "totalFundamentalScore" : 45.20,
-      "totalScore" : 80.05
+      "totalScore" : 80.08
     }
   },
   "attributes" : {
     "companyCode" : "GODREJIND",
     "companyName" : "Godrej Industrie",
-    "marketCap" : 37104.00,
+    "marketCap" : 37060.00,
     "peRatio" : 24.40,
     "description" : "Godrej Industries is one of the holding companies of Godrej Group. It is one of the leading manufacturers of oleochemicals on a standalone basis. Godrej Industries is promoter of Godrej Agrovet Ltd and Godrej Properties Ltd. It also has stake in Godrej Consumer Products Ltd [1]."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1060.30,
-    "dma50" : 1114.24,
-    "dma100" : null,
-    "dma200" : 1119.37,
-    "volume" : 93895.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1048.00,
     "dma50" : 1111.65,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 927.50,
     "dma50" : 909.65,
-    "dma100" : 968.58,
+    "dma100" : null,
     "dma200" : 1013.06,
     "volume" : 58525.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1146.69,
     "dma200" : 1085.21,
     "volume" : 300004.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1100.20,
+    "dma50" : 1046.12,
+    "dma100" : 1146.15,
+    "dma200" : 1085.36,
+    "volume" : 286797.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1101.50,
-    "dma50" : 1043.92,
-    "dma100" : 1146.69,
-    "dma200" : 1085.21,
-    "volume" : 300004.00
+    "date" : "2026-11-19",
+    "price" : 1100.20,
+    "dma50" : 1046.12,
+    "dma100" : 1146.15,
+    "dma200" : 1085.36,
+    "volume" : 286797.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.72,
+    "pricePercentageAboveDma50" : 4.74,
     "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 4.92,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 34.85,
+    "totalTechnicalScore" : 34.87,
     "totalFundamentalScore" : 45.20,
-    "totalScore" : 80.05
+    "totalScore" : 80.08
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "544844",
       "companyName" : "Poojaa Precision Engg.",
-      "marketCap" : 1756.00,
-      "peRatio" : 38.90,
+      "marketCap" : 1775.00,
+      "peRatio" : 39.40,
       "description" : "Incorporated in August 1992, Poojaa Precision Engg. Limited is a precision engineering company engaged in the manufacturing of aluminium die-casting and precision-machined components.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.72,
+      "pricePercentageAboveDma50" : 4.68,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.16,
+      "pricePercentageAboveDma200" : 3.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 16.27,
       "netProfitMarginPercentile" : 9.46,
-      "totalTechnicalScore" : 22.88,
+      "totalTechnicalScore" : 22.79,
       "totalFundamentalScore" : 25.73,
-      "totalScore" : 48.61
+      "totalScore" : 48.52
     }
   },
   "attributes" : {
     "companyCode" : "544844",
     "companyName" : "Poojaa Precision Engg.",
-    "marketCap" : 1756.00,
-    "peRatio" : 38.90,
+    "marketCap" : 1775.00,
+    "peRatio" : 39.40,
     "description" : "Incorporated in August 1992, Poojaa Precision Engg. Limited is a precision engineering company engaged in the manufacturing of aluminium die-casting and precision-machined components.[1]"
   },
   "technicalHistory" : [ {
@@ -557,14 +557,21 @@
     "dma100" : null,
     "dma200" : 643.80,
     "volume" : 121800.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 889.75,
+    "dma50" : 836.04,
+    "dma100" : null,
+    "dma200" : 646.24,
+    "volume" : 53600.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 880.40,
-    "dma50" : 833.85,
+    "date" : "2026-11-19",
+    "price" : 889.75,
+    "dma50" : 836.04,
     "dma100" : null,
-    "dma200" : 643.80,
-    "volume" : 121800.00
+    "dma200" : 646.24,
+    "volume" : 53600.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -615,15 +622,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.72,
+    "pricePercentageAboveDma50" : 4.68,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.16,
+    "pricePercentageAboveDma200" : 3.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 16.27,
     "netProfitMarginPercentile" : 9.46,
-    "totalTechnicalScore" : 22.88,
+    "totalTechnicalScore" : 22.79,
     "totalFundamentalScore" : 25.73,
-    "totalScore" : 48.61
+    "totalScore" : 48.52
   }
 }

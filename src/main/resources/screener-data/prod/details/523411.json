@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "523411",
       "companyName" : "ADC India",
-      "marketCap" : 1033.00,
-      "peRatio" : 37.90,
+      "marketCap" : 1046.00,
+      "peRatio" : 38.30,
       "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 4.56,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 4.51,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 34.72,
+      "totalTechnicalScore" : 34.54,
       "totalFundamentalScore" : 45.69,
-      "totalScore" : 80.41
+      "totalScore" : 80.23
     }
   },
   "attributes" : {
     "companyCode" : "523411",
     "companyName" : "ADC India",
-    "marketCap" : 1033.00,
-    "peRatio" : 37.90,
+    "marketCap" : 1046.00,
+    "peRatio" : 38.30,
     "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1386.40,
-    "dma50" : 1524.75,
-    "dma100" : null,
-    "dma200" : 1437.26,
-    "volume" : 736.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1355.75,
     "dma50" : 1518.13,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1589.80,
     "dma50" : 1339.23,
-    "dma100" : 1329.93,
+    "dma100" : null,
     "dma200" : 1369.45,
     "volume" : 3484.00
   }, {
@@ -890,7 +883,7 @@
     "date" : "2026-05-19",
     "price" : 2235.70,
     "dma50" : 1703.73,
-    "dma100" : 1461.13,
+    "dma100" : 1461.12,
     "dma200" : 1475.14,
     "volume" : 6837.00
   }, {
@@ -1030,7 +1023,7 @@
     "date" : "2026-06-17",
     "price" : 2372.20,
     "dma50" : 2079.16,
-    "dma100" : 1657.89,
+    "dma100" : 1657.88,
     "dma200" : 1638.45,
     "volume" : 1136.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2296.94,
     "dma200" : 2066.47,
     "volume" : 1000.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 2272.90,
+    "dma50" : 2266.74,
+    "dma100" : 2295.51,
+    "dma200" : 2068.52,
+    "volume" : 2377.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 2246.45,
-    "dma50" : 2266.49,
-    "dma100" : 2296.94,
-    "dma200" : 2066.47,
-    "volume" : 1000.00
+    "date" : "2026-11-19",
+    "price" : 2272.90,
+    "dma50" : 2266.74,
+    "dma100" : 2295.51,
+    "dma200" : 2068.52,
+    "volume" : 2377.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-01-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 9.05
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 4.56,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 4.51,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 34.72,
+    "totalTechnicalScore" : 34.54,
     "totalFundamentalScore" : 45.69,
-    "totalScore" : 80.41
+    "totalScore" : 80.23
   }
 }

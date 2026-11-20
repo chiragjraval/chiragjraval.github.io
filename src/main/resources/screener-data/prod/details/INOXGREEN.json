@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.77,
-      "pricePercentageAboveDma100" : 6.48,
-      "pricePercentageAboveDma200" : 6.48,
+      "pricePercentageAboveDma50" : 5.74,
+      "pricePercentageAboveDma100" : 6.46,
+      "pricePercentageAboveDma200" : 6.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.10,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 18.73,
+      "totalTechnicalScore" : 18.68,
       "totalFundamentalScore" : 42.10,
-      "totalScore" : 60.83
+      "totalScore" : 60.78
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Incorporated in 2012, Inox Green Energy Services Limited is one of the major wind power operation and maintenance (\"O&M\") service providers within India. The company is a subsidiary of Inox Wind Limited (\"IWL\"), and part of the Inox GFL group of companies.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 226.70,
-    "dma50" : 224.49,
-    "dma100" : null,
-    "dma200" : 179.60,
-    "volume" : 1217983.00
-  }, {
     "date" : "2025-11-20",
     "price" : 224.32,
     "dma50" : 224.49,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 158.73,
     "dma50" : 155.93,
-    "dma100" : 174.11,
+    "dma100" : null,
     "dma200" : 172.12,
     "volume" : 2611371.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 160.06,
     "dma200" : 160.46,
     "volume" : 694321.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 112.83,
+    "dma50" : 132.55,
+    "dma100" : 159.25,
+    "dma200" : 159.99,
+    "volume" : 728831.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 112.81,
-    "dma50" : 133.36,
-    "dma100" : 160.06,
-    "dma200" : 160.46,
-    "volume" : 694321.00
+    "date" : "2026-11-19",
+    "price" : 112.83,
+    "dma50" : 132.55,
+    "dma100" : 159.25,
+    "dma200" : 159.99,
+    "volume" : 728831.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2043,15 +2043,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.77,
-    "pricePercentageAboveDma100" : 6.48,
-    "pricePercentageAboveDma200" : 6.48,
+    "pricePercentageAboveDma50" : 5.74,
+    "pricePercentageAboveDma100" : 6.46,
+    "pricePercentageAboveDma200" : 6.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.10,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 18.73,
+    "totalTechnicalScore" : 18.68,
     "totalFundamentalScore" : 42.10,
-    "totalScore" : 60.83
+    "totalScore" : 60.78
   }
 }

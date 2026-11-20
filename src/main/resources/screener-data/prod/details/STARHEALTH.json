@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "STARHEALTH",
       "companyName" : "Star Health Insu",
-      "marketCap" : 32952.00,
-      "peRatio" : 31.30,
+      "marketCap" : 33473.00,
+      "peRatio" : 31.80,
       "description" : "Star Health & Allied Insurance Ltd (Star) is India’s first Standalone Health Insurance provider and is the largest private health insurer in India with a market share of 15.8% in the Indian health insurance market in FY21 with leadership in the attractive retail health segment.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.93,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 4.76,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.98,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.29,
       "operatingProfitMarginPercentile" : 19.21,
       "netProfitMarginPercentile" : 9.62,
-      "totalTechnicalScore" : 34.75,
+      "totalTechnicalScore" : 39.52,
       "totalFundamentalScore" : 43.12,
-      "totalScore" : 77.87
+      "totalScore" : 82.63
     }
   },
   "attributes" : {
     "companyCode" : "STARHEALTH",
     "companyName" : "Star Health Insu",
-    "marketCap" : 32952.00,
-    "peRatio" : 31.30,
+    "marketCap" : 33473.00,
+    "peRatio" : 31.80,
     "description" : "Star Health & Allied Insurance Ltd (Star) is India’s first Standalone Health Insurance provider and is the largest private health insurer in India with a market share of 15.8% in the Indian health insurance market in FY21 with leadership in the attractive retail health segment.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 507.75,
-    "dma50" : 479.47,
-    "dma100" : null,
-    "dma200" : 458.40,
-    "volume" : 232967.00
-  }, {
     "date" : "2025-11-20",
     "price" : 505.55,
     "dma50" : 480.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 503.35,
     "dma50" : 464.88,
-    "dma100" : 462.46,
+    "dma100" : null,
     "dma200" : 460.88,
     "volume" : 543565.00
   }, {
@@ -757,7 +750,7 @@
     "date" : "2026-04-21",
     "price" : 514.05,
     "dma50" : 468.37,
-    "dma100" : 462.70,
+    "dma100" : 462.69,
     "dma200" : 461.86,
     "volume" : 838882.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 566.55,
     "dma200" : 534.05,
     "volume" : 325557.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 568.65,
+    "dma50" : 552.73,
+    "dma100" : 566.39,
+    "dma200" : 534.39,
+    "volume" : 662449.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 559.80,
-    "dma50" : 552.08,
-    "dma100" : 566.55,
-    "dma200" : 534.05,
-    "volume" : 325557.00
+    "date" : "2026-11-19",
+    "price" : 568.65,
+    "dma50" : 552.73,
+    "dma100" : 566.39,
+    "dma200" : 534.39,
+    "volume" : 662449.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2048,20 +2048,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.93,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 4.76,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.98,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.29,
     "operatingProfitMarginPercentile" : 19.21,
     "netProfitMarginPercentile" : 9.62,
-    "totalTechnicalScore" : 34.75,
+    "totalTechnicalScore" : 39.52,
     "totalFundamentalScore" : 43.12,
-    "totalScore" : 77.87
+    "totalScore" : 82.63
   }
 }

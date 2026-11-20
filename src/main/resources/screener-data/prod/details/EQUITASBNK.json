@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EQUITASBNK",
       "companyName" : "Equitas Sma. Fin",
-      "marketCap" : 6438.00,
-      "peRatio" : 9.14,
+      "marketCap" : 6413.00,
+      "peRatio" : 9.10,
       "description" : "Equitas Small Finance Bank Ltd before acquiring small bank license, operated as a wholly-owned subsidiary of Equitas Holding Ltd. The holding entity started its operations in 2007 in the microfinance segment & diversified into vehicle & housing finance in 2011. Also entered into SME & LAP in 2013. It merged with the other two subsidiaries named Equitas Microfinance Ltd & Equitas Housing Finance Ltd & formed a bank. After receiving a license in Sept 2016 the company commenced operations under Equitas small finance Bank. [1] [2]"
     },
     "companyScore" : {
@@ -22,31 +22,24 @@
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.58,
       "pricePercentageAboveDma100" : 6.03,
-      "pricePercentageAboveDma200" : 5.84,
+      "pricePercentageAboveDma200" : 5.85,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.78,
       "operatingProfitMarginPercentile" : 18.79,
       "netProfitMarginPercentile" : 8.04,
-      "totalTechnicalScore" : 27.45,
+      "totalTechnicalScore" : 27.46,
       "totalFundamentalScore" : 44.61,
-      "totalScore" : 72.06
+      "totalScore" : 72.07
     }
   },
   "attributes" : {
     "companyCode" : "EQUITASBNK",
     "companyName" : "Equitas Sma. Fin",
-    "marketCap" : 6438.00,
-    "peRatio" : 9.14,
+    "marketCap" : 6413.00,
+    "peRatio" : 9.10,
     "description" : "Equitas Small Finance Bank Ltd before acquiring small bank license, operated as a wholly-owned subsidiary of Equitas Holding Ltd. The holding entity started its operations in 2007 in the microfinance segment & diversified into vehicle & housing finance in 2011. Also entered into SME & LAP in 2013. It merged with the other two subsidiaries named Equitas Microfinance Ltd & Equitas Housing Finance Ltd & formed a bank. After receiving a license in Sept 2016 the company commenced operations under Equitas small finance Bank. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 64.03,
-    "dma50" : 58.74,
-    "dma100" : null,
-    "dma200" : 61.99,
-    "volume" : 3320459.00
-  }, {
     "date" : "2025-11-20",
     "price" : 64.40,
     "dma50" : 58.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 65.60,
     "dma50" : 60.82,
-    "dma100" : 62.96,
+    "dma100" : null,
     "dma200" : 62.31,
     "volume" : 1254946.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 70.80,
     "dma200" : 67.69,
     "volume" : 6027434.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 56.05,
+    "dma50" : 63.37,
+    "dma100" : 70.62,
+    "dma200" : 67.58,
+    "volume" : 7010074.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 56.27,
-    "dma50" : 63.67,
-    "dma100" : 70.80,
-    "dma200" : 67.69,
-    "volume" : 6027434.00
+    "date" : "2026-11-19",
+    "price" : 56.05,
+    "dma50" : 63.37,
+    "dma100" : 70.62,
+    "dma200" : 67.58,
+    "volume" : 7010074.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2135,13 +2135,13 @@
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.58,
     "pricePercentageAboveDma100" : 6.03,
-    "pricePercentageAboveDma200" : 5.84,
+    "pricePercentageAboveDma200" : 5.85,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.78,
     "operatingProfitMarginPercentile" : 18.79,
     "netProfitMarginPercentile" : 8.04,
-    "totalTechnicalScore" : 27.45,
+    "totalTechnicalScore" : 27.46,
     "totalFundamentalScore" : 44.61,
-    "totalScore" : 72.06
+    "totalScore" : 72.07
   }
 }

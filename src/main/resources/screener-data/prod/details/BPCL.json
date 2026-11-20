@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "BPCL",
       "companyName" : "B P C L",
-      "marketCap" : 132541.00,
-      "peRatio" : 9.43,
+      "marketCap" : 133669.00,
+      "peRatio" : 9.51,
       "description" : "Bharat Petroleum Corporation is a public sector company which is engaged in the business of refining of crude oil and marketing of petroleum products.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 5.11,
+      "pricePercentageAboveDma50" : 4.92,
+      "pricePercentageAboveDma100" : 4.99,
+      "pricePercentageAboveDma200" : 5.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 13.67,
       "netProfitMarginPercentile" : 6.54,
-      "totalTechnicalScore" : 20.10,
+      "totalTechnicalScore" : 24.98,
       "totalFundamentalScore" : 37.80,
-      "totalScore" : 57.91
+      "totalScore" : 62.78
     }
   },
   "attributes" : {
     "companyCode" : "BPCL",
     "companyName" : "B P C L",
-    "marketCap" : 132541.00,
-    "peRatio" : 9.43,
+    "marketCap" : 133669.00,
+    "peRatio" : 9.51,
     "description" : "Bharat Petroleum Corporation is a public sector company which is engaged in the business of refining of crude oil and marketing of petroleum products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 365.65,
-    "dma50" : 347.83,
-    "dma100" : null,
-    "dma200" : 322.89,
-    "volume" : 7392205.00
-  }, {
     "date" : "2025-11-20",
     "price" : 365.05,
     "dma50" : 348.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 312.10,
     "dma50" : 322.06,
-    "dma100" : 349.01,
+    "dma100" : null,
     "dma200" : 335.20,
     "volume" : 11291151.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 307.69,
     "dma200" : 312.21,
     "volume" : 5769490.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 308.10,
+    "dma50" : 303.34,
+    "dma100" : 307.76,
+    "dma200" : 312.17,
+    "volume" : 3283366.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 305.50,
-    "dma50" : 303.15,
-    "dma100" : 307.69,
-    "dma200" : 312.21,
-    "volume" : 5769490.00
+    "date" : "2026-11-19",
+    "price" : 308.10,
+    "dma50" : 303.34,
+    "dma100" : 307.76,
+    "dma200" : 312.17,
+    "volume" : 3283366.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 5.11,
+    "pricePercentageAboveDma50" : 4.92,
+    "pricePercentageAboveDma100" : 4.99,
+    "pricePercentageAboveDma200" : 5.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 13.67,
     "netProfitMarginPercentile" : 6.54,
-    "totalTechnicalScore" : 20.10,
+    "totalTechnicalScore" : 24.98,
     "totalFundamentalScore" : 37.80,
-    "totalScore" : 57.91
+    "totalScore" : 62.78
   }
 }

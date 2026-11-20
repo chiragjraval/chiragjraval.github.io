@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SUBROS",
       "companyName" : "Subros",
-      "marketCap" : 4522.00,
-      "peRatio" : 25.70,
+      "marketCap" : 4251.00,
+      "peRatio" : 24.20,
       "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.69,
-      "pricePercentageAboveDma100" : 5.18,
-      "pricePercentageAboveDma200" : 5.26,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 5.54,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 17.49,
       "netProfitMarginPercentile" : 9.47,
-      "totalTechnicalScore" : 25.14,
+      "totalTechnicalScore" : 21.02,
       "totalFundamentalScore" : 46.00,
-      "totalScore" : 71.14
+      "totalScore" : 67.02
     }
   },
   "attributes" : {
     "companyCode" : "SUBROS",
     "companyName" : "Subros",
-    "marketCap" : 4522.00,
-    "peRatio" : 25.70,
+    "marketCap" : 4251.00,
+    "peRatio" : 24.20,
     "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 876.20,
-    "dma50" : 995.54,
-    "dma100" : null,
-    "dma200" : 861.99,
-    "volume" : 124206.00
-  }, {
     "date" : "2025-11-20",
     "price" : 864.00,
     "dma50" : 990.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 788.50,
     "dma50" : 743.73,
-    "dma100" : 793.64,
+    "dma100" : null,
     "dma200" : 808.12,
     "volume" : 39191.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 719.86,
     "dma200" : 731.69,
     "volume" : 6213032.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 651.60,
+    "dma50" : 653.11,
+    "dma100" : 718.22,
+    "dma200" : 730.89,
+    "volume" : 871660.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 693.25,
-    "dma50" : 653.17,
-    "dma100" : 719.86,
-    "dma200" : 731.69,
-    "volume" : 6213032.00
+    "date" : "2026-11-19",
+    "price" : 651.60,
+    "dma50" : 653.11,
+    "dma100" : 718.22,
+    "dma200" : 730.89,
+    "volume" : 871660.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 44.60
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.69,
-    "pricePercentageAboveDma100" : 5.18,
-    "pricePercentageAboveDma200" : 5.26,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 5.46,
+    "pricePercentageAboveDma200" : 5.54,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 17.49,
     "netProfitMarginPercentile" : 9.47,
-    "totalTechnicalScore" : 25.14,
+    "totalTechnicalScore" : 21.02,
     "totalFundamentalScore" : 46.00,
-    "totalScore" : 71.14
+    "totalScore" : 67.02
   }
 }

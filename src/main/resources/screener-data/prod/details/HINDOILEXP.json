@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HINDOILEXP",
       "companyName" : "Hind.Oil Explor.",
-      "marketCap" : 3013.00,
-      "peRatio" : 73.20,
+      "marketCap" : 2837.00,
+      "peRatio" : 68.90,
       "description" : "Hindustan Oil Exploration Company Limited was incorporated in 1983, It is engaged in the exploration, development and production of crude oil and natural gas in India, both onshore and offshore. The company is India's first private E&P company and its assets are geographically spread across Tamil Nadu, Maharashtra, Gujarat, Assam and Arunachal Pradesh (both offshore and onshore). [1][2][3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.38,
-      "pricePercentageAboveDma100" : 3.16,
-      "pricePercentageAboveDma200" : 3.08,
+      "pricePercentageAboveDma50" : 3.83,
+      "pricePercentageAboveDma100" : 3.58,
+      "pricePercentageAboveDma200" : 3.50,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 3.71,
       "operatingProfitMarginPercentile" : 16.26,
       "netProfitMarginPercentile" : 8.51,
-      "totalTechnicalScore" : 44.62,
+      "totalTechnicalScore" : 45.92,
       "totalFundamentalScore" : 28.48,
-      "totalScore" : 73.10
+      "totalScore" : 74.40
     }
   },
   "attributes" : {
     "companyCode" : "HINDOILEXP",
     "companyName" : "Hind.Oil Explor.",
-    "marketCap" : 3013.00,
-    "peRatio" : 73.20,
+    "marketCap" : 2837.00,
+    "peRatio" : 68.90,
     "description" : "Hindustan Oil Exploration Company Limited was incorporated in 1983, It is engaged in the exploration, development and production of crude oil and natural gas in India, both onshore and offshore. The company is India's first private E&P company and its assets are geographically spread across Tamil Nadu, Maharashtra, Gujarat, Assam and Arunachal Pradesh (both offshore and onshore). [1][2][3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 137.04,
-    "dma50" : 158.27,
-    "dma100" : null,
-    "dma200" : 172.74,
-    "volume" : 396246.00
-  }, {
     "date" : "2025-11-20",
     "price" : 138.65,
     "dma50" : 157.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 158.33,
     "dma50" : 141.61,
-    "dma100" : 145.91,
+    "dma100" : null,
     "dma200" : 154.85,
     "volume" : 1937917.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 166.60,
     "dma200" : 164.58,
     "volume" : 10472767.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 214.50,
+    "dma50" : 173.85,
+    "dma100" : 167.15,
+    "dma200" : 165.07,
+    "volume" : 1818373.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 227.84,
-    "dma50" : 172.19,
-    "dma100" : 166.60,
-    "dma200" : 164.58,
-    "volume" : 10472767.00
+    "date" : "2026-11-19",
+    "price" : 214.50,
+    "dma50" : 173.85,
+    "dma100" : 167.15,
+    "dma200" : 165.07,
+    "volume" : 1818373.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.38,
-    "pricePercentageAboveDma100" : 3.16,
-    "pricePercentageAboveDma200" : 3.08,
+    "pricePercentageAboveDma50" : 3.83,
+    "pricePercentageAboveDma100" : 3.58,
+    "pricePercentageAboveDma200" : 3.50,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 3.71,
     "operatingProfitMarginPercentile" : 16.26,
     "netProfitMarginPercentile" : 8.51,
-    "totalTechnicalScore" : 44.62,
+    "totalTechnicalScore" : 45.92,
     "totalFundamentalScore" : 28.48,
-    "totalScore" : 73.10
+    "totalScore" : 74.40
   }
 }

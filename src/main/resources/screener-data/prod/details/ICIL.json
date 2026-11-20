@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ICIL",
       "companyName" : "Indo Count Inds.",
-      "marketCap" : 11419.00,
+      "marketCap" : 11408.00,
       "peRatio" : 46.80,
       "description" : "Indo Count Industries Limited (ICIL) is engaged in the home textiles & bedding industry. The company is a manufacturer and exporter of bed sheets, bed linen and quilts. [1] It is the largest global bed linen player."
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.86,
-      "pricePercentageAboveDma100" : 3.45,
-      "pricePercentageAboveDma200" : 2.63,
+      "pricePercentageAboveDma50" : 3.92,
+      "pricePercentageAboveDma100" : 3.48,
+      "pricePercentageAboveDma200" : 2.67,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 15.48,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 39.94,
+      "totalTechnicalScore" : 40.07,
       "totalFundamentalScore" : 39.76,
-      "totalScore" : 79.70
+      "totalScore" : 79.83
     }
   },
   "attributes" : {
     "companyCode" : "ICIL",
     "companyName" : "Indo Count Inds.",
-    "marketCap" : 11419.00,
+    "marketCap" : 11408.00,
     "peRatio" : 46.80,
     "description" : "Indo Count Industries Limited (ICIL) is engaged in the home textiles & bedding industry. The company is a manufacturer and exporter of bed sheets, bed linen and quilts. [1] It is the largest global bed linen player."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 320.60,
-    "dma50" : 282.04,
-    "dma100" : null,
-    "dma200" : 289.58,
-    "volume" : 681528.00
-  }, {
     "date" : "2025-11-20",
     "price" : 323.65,
     "dma50" : 283.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 275.85,
     "dma50" : 258.48,
-    "dma100" : 270.45,
+    "dma100" : null,
     "dma200" : 274.92,
     "volume" : 498500.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 440.10,
     "dma200" : 391.02,
     "volume" : 1350939.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 576.00,
+    "dma50" : 473.69,
+    "dma100" : 441.61,
+    "dma200" : 392.86,
+    "volume" : 1119611.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 576.55,
-    "dma50" : 469.51,
-    "dma100" : 440.10,
-    "dma200" : 391.02,
-    "volume" : 1350939.00
+    "date" : "2026-11-19",
+    "price" : 576.00,
+    "dma50" : 473.69,
+    "dma100" : 441.61,
+    "dma200" : 392.86,
+    "volume" : 1119611.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.86,
-    "pricePercentageAboveDma100" : 3.45,
-    "pricePercentageAboveDma200" : 2.63,
+    "pricePercentageAboveDma50" : 3.92,
+    "pricePercentageAboveDma100" : 3.48,
+    "pricePercentageAboveDma200" : 2.67,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 15.48,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 39.94,
+    "totalTechnicalScore" : 40.07,
     "totalFundamentalScore" : 39.76,
-    "totalScore" : 79.70
+    "totalScore" : 79.83
   }
 }

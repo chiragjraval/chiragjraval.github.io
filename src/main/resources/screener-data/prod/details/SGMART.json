@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SGMART",
       "companyName" : "SG Mart",
-      "marketCap" : 12926.00,
-      "peRatio" : 85.10,
+      "marketCap" : 12740.00,
+      "peRatio" : 83.90,
       "description" : "SG Mart offers a wide range of products with 27+ product categories, and 2500+ SKUs. These categories include steel construction products like TMT Rebars, HR Sheet, Welding rod, Binding wire, mesh net, tapping screw and barbed wire, tiles, cement, bath fittings, laminates and paints. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.82,
-      "pricePercentageAboveDma100" : 3.24,
-      "pricePercentageAboveDma200" : 2.29,
+      "pricePercentageAboveDma50" : 3.96,
+      "pricePercentageAboveDma100" : 3.38,
+      "pricePercentageAboveDma200" : 2.44,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 6.99,
       "operatingProfitMarginPercentile" : 17.12,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 44.35,
+      "totalTechnicalScore" : 44.78,
       "totalFundamentalScore" : 30.54,
-      "totalScore" : 74.90
+      "totalScore" : 75.32
     }
   },
   "attributes" : {
     "companyCode" : "SGMART",
     "companyName" : "SG Mart",
-    "marketCap" : 12926.00,
-    "peRatio" : 85.10,
+    "marketCap" : 12740.00,
+    "peRatio" : 83.90,
     "description" : "SG Mart offers a wide range of products with 27+ product categories, and 2500+ SKUs. These categories include steel construction products like TMT Rebars, HR Sheet, Welding rod, Binding wire, mesh net, tapping screw and barbed wire, tiles, cement, bath fittings, laminates and paints. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 350.15,
-    "dma50" : 353.02,
-    "dma100" : null,
-    "dma200" : 358.48,
-    "volume" : 94568.00
-  }, {
     "date" : "2025-11-20",
     "price" : 350.65,
     "dma50" : 352.92,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 548.80,
     "dma50" : 462.13,
-    "dma100" : 402.82,
+    "dma100" : null,
     "dma200" : 397.09,
     "volume" : 112980.00
   }, {
@@ -897,7 +890,7 @@
     "date" : "2026-05-20",
     "price" : 621.65,
     "dma50" : 528.77,
-    "dma100" : 452.72,
+    "dma100" : 452.71,
     "dma200" : 431.53,
     "volume" : 349394.00
   }, {
@@ -1450,7 +1443,7 @@
     "date" : "2026-09-10",
     "price" : 766.55,
     "dma50" : 737.36,
-    "dma100" : 656.24,
+    "dma100" : 656.23,
     "dma200" : 576.72,
     "volume" : 412443.00
   }, {
@@ -1737,7 +1730,7 @@
     "date" : "2026-11-11",
     "price" : 902.65,
     "dma50" : 797.13,
-    "dma100" : 739.48,
+    "dma100" : 739.47,
     "dma200" : 648.84,
     "volume" : 411951.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 758.62,
     "dma200" : 664.80,
     "volume" : 390665.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1010.50,
+    "dma50" : 836.98,
+    "dma100" : 762.84,
+    "dma200" : 668.24,
+    "volume" : 495019.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1025.25,
-    "dma50" : 829.90,
-    "dma100" : 758.62,
-    "dma200" : 664.80,
-    "volume" : 390665.00
+    "date" : "2026-11-19",
+    "price" : 1010.50,
+    "dma50" : 836.98,
+    "dma100" : 762.84,
+    "dma200" : 668.24,
+    "volume" : 495019.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.82,
-    "pricePercentageAboveDma100" : 3.24,
-    "pricePercentageAboveDma200" : 2.29,
+    "pricePercentageAboveDma50" : 3.96,
+    "pricePercentageAboveDma100" : 3.38,
+    "pricePercentageAboveDma200" : 2.44,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 6.99,
     "operatingProfitMarginPercentile" : 17.12,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 44.35,
+    "totalTechnicalScore" : 44.78,
     "totalFundamentalScore" : 30.54,
-    "totalScore" : 74.90
+    "totalScore" : 75.32
   }
 }

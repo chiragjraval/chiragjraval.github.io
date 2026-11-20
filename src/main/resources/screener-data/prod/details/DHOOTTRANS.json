@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DHOOTTRANS",
       "companyName" : "Dhoot Transmission",
-      "marketCap" : 31709.00,
-      "peRatio" : 71.20,
+      "marketCap" : 33065.00,
+      "peRatio" : 74.20,
       "description" : "Dhoot Transmission Limited is a global Tier-1 manufacturer of integrated electrical systems, specialising across eight product families: wiring and cable systems, interconnect components, mechanical control systems, electronics and sensors, EV systems, switches and interfaces, protection and insulation, and power solutions.[1]From a single facility to a global network of manufacturing and engineering operations, the company delivers integrated electrical systems across automotive, electric vehicles, industrial equipment, agriculture, marine, railways, medical devices, and consumer applications."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.88,
+      "pricePercentageAboveDma50" : 4.68,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.26,
+      "pricePercentageAboveDma200" : 4.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 4.00,
       "netProfitMarginPercentile" : 2.00,
-      "totalTechnicalScore" : 24.14,
+      "totalTechnicalScore" : 23.70,
       "totalFundamentalScore" : 26.00,
-      "totalScore" : 50.14
+      "totalScore" : 49.70
     }
   },
   "attributes" : {
     "companyCode" : "DHOOTTRANS",
     "companyName" : "Dhoot Transmission",
-    "marketCap" : 31709.00,
-    "peRatio" : 71.20,
+    "marketCap" : 33065.00,
+    "peRatio" : 74.20,
     "description" : "Dhoot Transmission Limited is a global Tier-1 manufacturer of integrated electrical systems, specialising across eight product families: wiring and cable systems, interconnect components, mechanical control systems, electronics and sensors, EV systems, switches and interfaces, protection and insulation, and power solutions.[1]From a single facility to a global network of manufacturing and engineering operations, the company delivers integrated electrical systems across automotive, electric vehicles, industrial equipment, agriculture, marine, railways, medical devices, and consumer applications."
   },
   "technicalHistory" : [ {
@@ -494,14 +494,21 @@
     "dma100" : null,
     "dma200" : 1349.56,
     "volume" : 519373.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1616.00,
+    "dma50" : 1517.96,
+    "dma100" : null,
+    "dma200" : 1352.21,
+    "volume" : 702864.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1549.70,
-    "dma50" : 1513.95,
+    "date" : "2026-11-19",
+    "price" : 1616.00,
+    "dma50" : 1517.96,
     "dma100" : null,
-    "dma200" : 1349.56,
-    "volume" : 519373.00
+    "dma200" : 1352.21,
+    "volume" : 702864.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -572,15 +579,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.88,
+    "pricePercentageAboveDma50" : 4.68,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.26,
+    "pricePercentageAboveDma200" : 4.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 4.00,
     "netProfitMarginPercentile" : 2.00,
-    "totalTechnicalScore" : 24.14,
+    "totalTechnicalScore" : 23.70,
     "totalFundamentalScore" : 26.00,
-    "totalScore" : 50.14
+    "totalScore" : 49.70
   }
 }

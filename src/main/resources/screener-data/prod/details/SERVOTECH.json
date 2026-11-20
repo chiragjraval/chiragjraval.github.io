@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SERVOTECH",
       "companyName" : "Servotech Renew",
-      "marketCap" : 1471.00,
-      "peRatio" : 32.00,
+      "marketCap" : 1456.00,
+      "peRatio" : 31.70,
       "description" : "Incorporated in 2004, Servotech Renewable Power System Ltd. manufactures EV Chargers, Solar Products, and Power & Backup Products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.38,
-      "pricePercentageAboveDma100" : 5.91,
-      "pricePercentageAboveDma200" : 6.10,
+      "pricePercentageAboveDma50" : 5.41,
+      "pricePercentageAboveDma100" : 5.94,
+      "pricePercentageAboveDma200" : 6.14,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.82,
       "operatingProfitMarginPercentile" : 19.23,
       "netProfitMarginPercentile" : 8.91,
-      "totalTechnicalScore" : 17.40,
+      "totalTechnicalScore" : 17.48,
       "totalFundamentalScore" : 39.96,
-      "totalScore" : 57.35
+      "totalScore" : 57.44
     }
   },
   "attributes" : {
     "companyCode" : "SERVOTECH",
     "companyName" : "Servotech Renew",
-    "marketCap" : 1471.00,
-    "peRatio" : 32.00,
+    "marketCap" : 1456.00,
+    "peRatio" : 31.70,
     "description" : "Incorporated in 2004, Servotech Renewable Power System Ltd. manufactures EV Chargers, Solar Products, and Power & Backup Products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 96.81,
-    "dma50" : 118.57,
-    "dma100" : null,
-    "dma200" : 129.20,
-    "volume" : 687963.00
-  }, {
     "date" : "2025-11-20",
     "price" : 97.52,
     "dma50" : 117.74,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 85.77,
     "dma50" : 74.89,
-    "dma100" : 76.59,
+    "dma100" : null,
     "dma200" : 95.24,
     "volume" : 926492.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 79.61,
     "dma200" : 83.62,
     "volume" : 163439.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 64.47,
+    "dma50" : 70.28,
+    "dma100" : 79.30,
+    "dma200" : 83.43,
+    "volume" : 201285.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 65.14,
-    "dma50" : 70.52,
-    "dma100" : 79.61,
-    "dma200" : 83.62,
-    "volume" : 163439.00
+    "date" : "2026-11-19",
+    "price" : 64.47,
+    "dma50" : 70.28,
+    "dma100" : 79.30,
+    "dma200" : 83.43,
+    "volume" : 201285.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2063,15 +2063,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.38,
-    "pricePercentageAboveDma100" : 5.91,
-    "pricePercentageAboveDma200" : 6.10,
+    "pricePercentageAboveDma50" : 5.41,
+    "pricePercentageAboveDma100" : 5.94,
+    "pricePercentageAboveDma200" : 6.14,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.82,
     "operatingProfitMarginPercentile" : 19.23,
     "netProfitMarginPercentile" : 8.91,
-    "totalTechnicalScore" : 17.40,
+    "totalTechnicalScore" : 17.48,
     "totalFundamentalScore" : 39.96,
-    "totalScore" : 57.35
+    "totalScore" : 57.44
   }
 }

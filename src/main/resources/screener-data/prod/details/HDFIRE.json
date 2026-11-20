@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HDFIRE",
       "companyName" : "HD Fire Protect",
-      "marketCap" : 4957.00,
-      "peRatio" : 43.00,
+      "marketCap" : 5036.00,
+      "peRatio" : 43.70,
       "description" : "Incorporated in 1997, HD Fire Protect Ltd is an Indian manufacturer and supplier of fire protection equipment and systems[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma50" : 5.05,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.30,
+      "pricePercentageAboveDma200" : 5.23,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 10.44,
+      "totalTechnicalScore" : 10.28,
       "totalFundamentalScore" : 30.00,
-      "totalScore" : 40.44
+      "totalScore" : 40.28
     }
   },
   "attributes" : {
     "companyCode" : "HDFIRE",
     "companyName" : "HD Fire Protect",
-    "marketCap" : 4957.00,
-    "peRatio" : 43.00,
+    "marketCap" : 5036.00,
+    "peRatio" : 43.70,
     "description" : "Incorporated in 1997, HD Fire Protect Ltd is an Indian manufacturer and supplier of fire protection equipment and systems[1]"
   },
   "technicalHistory" : [ {
@@ -186,14 +186,21 @@
     "dma100" : null,
     "dma200" : 301.24,
     "volume" : 426442.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 287.40,
+    "dma50" : 290.54,
+    "dma100" : null,
+    "dma200" : 301.10,
+    "volume" : 546539.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 282.90,
-    "dma50" : 290.67,
+    "date" : "2026-11-19",
+    "price" : 287.40,
+    "dma50" : 290.54,
     "dma100" : null,
-    "dma200" : 301.24,
-    "volume" : 426442.00
+    "dma200" : 301.10,
+    "volume" : 546539.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -244,15 +251,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma50" : 5.05,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.30,
+    "pricePercentageAboveDma200" : 5.23,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 10.44,
+    "totalTechnicalScore" : 10.28,
     "totalFundamentalScore" : 30.00,
-    "totalScore" : 40.44
+    "totalScore" : 40.28
   }
 }

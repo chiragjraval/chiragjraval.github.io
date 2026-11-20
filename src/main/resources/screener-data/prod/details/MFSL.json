@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MFSL",
       "companyName" : "Max Financial",
-      "marketCap" : 49034.00,
-      "peRatio" : 266.00,
+      "marketCap" : 48282.00,
+      "peRatio" : 262.00,
       "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 5.24,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.31,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.08,
       "operatingProfitMarginPercentile" : 17.63,
       "netProfitMarginPercentile" : 8.78,
-      "totalTechnicalScore" : 25.14,
+      "totalTechnicalScore" : 25.36,
       "totalFundamentalScore" : 37.50,
-      "totalScore" : 62.64
+      "totalScore" : 62.87
     }
   },
   "attributes" : {
     "companyCode" : "MFSL",
     "companyName" : "Max Financial",
-    "marketCap" : 49034.00,
-    "peRatio" : 266.00,
+    "marketCap" : 48282.00,
+    "peRatio" : 262.00,
     "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 1668.00,
-    "dma50" : 1596.49,
-    "dma100" : null,
-    "dma200" : 1451.92,
-    "volume" : 615031.00
-  }, {
     "date" : "2025-11-20",
     "price" : 1692.60,
     "dma50" : 1600.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1683.20,
     "dma50" : 1655.25,
-    "dma100" : 1683.80,
+    "dma100" : null,
     "dma200" : 1595.36,
     "volume" : 1026972.00
   }, {
@@ -785,7 +778,7 @@
     "date" : "2026-04-27",
     "price" : 1603.00,
     "dma50" : 1648.36,
-    "dma100" : 1679.34,
+    "dma100" : 1679.33,
     "dma200" : 1597.06,
     "volume" : 572232.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1456.85,
     "dma200" : 1493.36,
     "volume" : 1046199.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1399.00,
+    "dma50" : 1360.92,
+    "dma100" : 1454.82,
+    "dma200" : 1492.42,
+    "volume" : 1392472.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1420.80,
-    "dma50" : 1359.36,
-    "dma100" : 1456.85,
-    "dma200" : 1493.36,
-    "volume" : 1046199.00
+    "date" : "2026-11-19",
+    "price" : 1399.00,
+    "dma50" : 1360.92,
+    "dma100" : 1454.82,
+    "dma200" : 1492.42,
+    "volume" : 1392472.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 5.24,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.31,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.08,
     "operatingProfitMarginPercentile" : 17.63,
     "netProfitMarginPercentile" : 8.78,
-    "totalTechnicalScore" : 25.14,
+    "totalTechnicalScore" : 25.36,
     "totalFundamentalScore" : 37.50,
-    "totalScore" : 62.64
+    "totalScore" : 62.87
   }
 }

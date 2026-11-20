@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LXCHEM",
       "companyName" : "Laxmi Organic",
-      "marketCap" : 4191.00,
-      "peRatio" : 24.40,
+      "marketCap" : 4280.00,
+      "peRatio" : 24.90,
       "description" : "Laxmi Organic Industries Limited was established in 1989 and is in the business of specialty chemicals. The Company primarily manufactures Ethyl Acetate, Acetic Acid and Diketene Derivative Products (DDP). DDP is a specialty chemical group, the technology and business of which has been acquired by the company from Clariant Chemicals India Limited. The company’s business operations are carried in over 30 countries including 11 offices located in India"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.46,
-      "pricePercentageAboveDma100" : 5.60,
-      "pricePercentageAboveDma200" : 5.48,
+      "pricePercentageAboveDma50" : 5.35,
+      "pricePercentageAboveDma100" : 5.50,
+      "pricePercentageAboveDma200" : 5.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.39,
       "operatingProfitMarginPercentile" : 11.11,
       "netProfitMarginPercentile" : 5.19,
-      "totalTechnicalScore" : 21.54,
+      "totalTechnicalScore" : 21.24,
       "totalFundamentalScore" : 33.69,
-      "totalScore" : 55.23
+      "totalScore" : 54.93
     }
   },
   "attributes" : {
     "companyCode" : "LXCHEM",
     "companyName" : "Laxmi Organic",
-    "marketCap" : 4191.00,
-    "peRatio" : 24.40,
+    "marketCap" : 4280.00,
+    "peRatio" : 24.90,
     "description" : "Laxmi Organic Industries Limited was established in 1989 and is in the business of specialty chemicals. The Company primarily manufactures Ethyl Acetate, Acetic Acid and Diketene Derivative Products (DDP). DDP is a specialty chemical group, the technology and business of which has been acquired by the company from Clariant Chemicals India Limited. The company’s business operations are carried in over 30 countries including 11 offices located in India"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 182.73,
-    "dma50" : 199.75,
-    "dma100" : null,
-    "dma200" : 207.44,
-    "volume" : 221378.00
-  }, {
     "date" : "2025-11-20",
     "price" : 183.37,
     "dma50" : 199.11,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 142.10,
     "dma50" : 131.05,
-    "dma100" : 146.77,
+    "dma100" : null,
     "dma200" : 165.49,
     "volume" : 573911.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 171.20,
     "dma200" : 166.94,
     "volume" : 579880.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 154.02,
+    "dma50" : 165.73,
+    "dma100" : 171.20,
+    "dma200" : 166.81,
+    "volume" : 552296.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 150.81,
-    "dma50" : 166.21,
+    "date" : "2026-11-19",
+    "price" : 154.02,
+    "dma50" : 165.73,
     "dma100" : 171.20,
-    "dma200" : 166.94,
-    "volume" : 579880.00
+    "dma200" : 166.81,
+    "volume" : 552296.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2073,15 +2073,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.46,
-    "pricePercentageAboveDma100" : 5.60,
-    "pricePercentageAboveDma200" : 5.48,
+    "pricePercentageAboveDma50" : 5.35,
+    "pricePercentageAboveDma100" : 5.50,
+    "pricePercentageAboveDma200" : 5.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.39,
     "operatingProfitMarginPercentile" : 11.11,
     "netProfitMarginPercentile" : 5.19,
-    "totalTechnicalScore" : 21.54,
+    "totalTechnicalScore" : 21.24,
     "totalFundamentalScore" : 33.69,
-    "totalScore" : 55.23
+    "totalScore" : 54.93
   }
 }

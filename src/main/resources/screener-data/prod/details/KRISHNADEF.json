@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KRISHNADEF",
       "companyName" : "Krishna Defence",
-      "marketCap" : 1898.00,
-      "peRatio" : 38.50,
+      "marketCap" : 1914.00,
+      "peRatio" : 38.80,
       "description" : "Incorporated in 1997, Krishna Defence and Allied Industries Ltd designs, develops, and manufactures a wide range of equipment for defence, security, and dairy segments[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.65,
-      "pricePercentageAboveDma100" : 4.55,
-      "pricePercentageAboveDma200" : 4.22,
+      "pricePercentageAboveDma50" : 4.62,
+      "pricePercentageAboveDma100" : 4.50,
+      "pricePercentageAboveDma200" : 4.18,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 43.41,
+      "totalTechnicalScore" : 43.29,
       "totalFundamentalScore" : 45.89,
-      "totalScore" : 89.30
+      "totalScore" : 89.18
     }
   },
   "attributes" : {
     "companyCode" : "KRISHNADEF",
     "companyName" : "Krishna Defence",
-    "marketCap" : 1898.00,
-    "peRatio" : 38.50,
+    "marketCap" : 1914.00,
+    "peRatio" : 38.80,
     "description" : "Incorporated in 1997, Krishna Defence and Allied Industries Ltd designs, develops, and manufactures a wide range of equipment for defence, security, and dairy segments[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 803.80,
-    "dma50" : 802.05,
-    "dma100" : null,
-    "dma200" : 779.36,
-    "volume" : 45000.00
-  }, {
     "date" : "2025-11-20",
     "price" : 803.10,
     "dma50" : 802.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 1043.55,
     "dma50" : 952.53,
-    "dma100" : 908.34,
+    "dma100" : null,
     "dma200" : 873.79,
     "volume" : 104312.00
   }, {
@@ -869,7 +862,7 @@
     "date" : "2026-05-14",
     "price" : 1122.80,
     "dma50" : 1033.08,
-    "dma100" : 969.21,
+    "dma100" : 969.20,
     "dma200" : 911.45,
     "volume" : 83334.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1164.03,
     "dma200" : 1097.44,
     "volume" : 62379.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1280.50,
+    "dma50" : 1189.54,
+    "dma100" : 1164.36,
+    "dma200" : 1099.26,
+    "volume" : 48133.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1269.50,
-    "dma50" : 1185.82,
-    "dma100" : 1164.03,
-    "dma200" : 1097.44,
-    "volume" : 62379.00
+    "date" : "2026-11-19",
+    "price" : 1280.50,
+    "dma50" : 1189.54,
+    "dma100" : 1164.36,
+    "dma200" : 1099.26,
+    "volume" : 48133.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-03-31",
@@ -1943,15 +1943,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.65,
-    "pricePercentageAboveDma100" : 4.55,
-    "pricePercentageAboveDma200" : 4.22,
+    "pricePercentageAboveDma50" : 4.62,
+    "pricePercentageAboveDma100" : 4.50,
+    "pricePercentageAboveDma200" : 4.18,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 43.41,
+    "totalTechnicalScore" : 43.29,
     "totalFundamentalScore" : 45.89,
-    "totalScore" : 89.30
+    "totalScore" : 89.18
   }
 }

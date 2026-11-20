@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GOKEX",
       "companyName" : "Gokaldas Exports",
-      "marketCap" : 5226.00,
-      "peRatio" : 38.40,
+      "marketCap" : 5413.00,
+      "peRatio" : 39.80,
       "description" : "Gokaldas Exports Limited is engaged in the business of design, manufacture, and sale of a wide range of garments for men, women, and children and caters to the needs of several leading international fashion brands and retailers [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.28,
-      "pricePercentageAboveDma200" : 5.17,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.49,
       "operatingProfitMarginPercentile" : 17.00,
       "netProfitMarginPercentile" : 8.13,
-      "totalTechnicalScore" : 25.39,
+      "totalTechnicalScore" : 24.87,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 61.01
+      "totalScore" : 60.49
     }
   },
   "attributes" : {
     "companyCode" : "GOKEX",
     "companyName" : "Gokaldas Exports",
-    "marketCap" : 5226.00,
-    "peRatio" : 38.40,
+    "marketCap" : 5413.00,
+    "peRatio" : 39.80,
     "description" : "Gokaldas Exports Limited is engaged in the business of design, manufacture, and sale of a wide range of garments for men, women, and children and caters to the needs of several leading international fashion brands and retailers [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 938.05,
-    "dma50" : 833.64,
-    "dma100" : null,
-    "dma200" : 853.29,
-    "volume" : 398908.00
-  }, {
     "date" : "2025-11-20",
     "price" : 949.35,
     "dma50" : 838.18,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 726.55,
     "dma50" : 660.02,
-    "dma100" : 711.41,
+    "dma100" : null,
     "dma200" : 750.96,
     "volume" : 639324.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 755.56,
     "dma200" : 738.81,
     "volume" : 297110.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 738.65,
+    "dma50" : 705.77,
+    "dma100" : 754.45,
+    "dma200" : 738.80,
+    "volume" : 983415.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 713.20,
-    "dma50" : 704.43,
-    "dma100" : 755.56,
-    "dma200" : 738.81,
-    "volume" : 297110.00
+    "date" : "2026-11-19",
+    "price" : 738.65,
+    "dma50" : 705.77,
+    "dma100" : 754.45,
+    "dma200" : 738.80,
+    "volume" : 983415.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2663,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.28,
-    "pricePercentageAboveDma200" : 5.17,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.49,
     "operatingProfitMarginPercentile" : 17.00,
     "netProfitMarginPercentile" : 8.13,
-    "totalTechnicalScore" : 25.39,
+    "totalTechnicalScore" : 24.87,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 61.01
+    "totalScore" : 60.49
   }
 }

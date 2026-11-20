@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GNFC",
       "companyName" : "G N F C",
-      "marketCap" : 6869.00,
-      "peRatio" : 6.53,
+      "marketCap" : 6859.00,
+      "peRatio" : 6.52,
       "description" : "Gujarat Narmada Valley Fertilizers & Chemicals Limited (GNFC), is a joint sector enterprise promoted by the Gujarat State Investments Limited (GSIL), a Government of Gujarat undertaking, and the Gujarat State Fertilizers & Chemicals Ltd.(GSFC). The company was set up in Bharuch in 1976 while its manufacturing and marketing operations were started in 1982. The company operates businesses mainly in the Industrial Chemicals, Fertilizers apart from the small presence of IT services. In the chemical segment, it has a product portfolio of various bulk chemicals that are used in industries for manufacturing various specialty chemicals as well as end products."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.53,
+      "pricePercentageAboveDma50" : 5.52,
       "pricePercentageAboveDma100" : 5.70,
       "pricePercentageAboveDma200" : 5.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 8.45,
       "netProfitMarginPercentile" : 4.62,
-      "totalTechnicalScore" : 21.77,
+      "totalTechnicalScore" : 21.76,
       "totalFundamentalScore" : 30.43,
-      "totalScore" : 52.20
+      "totalScore" : 52.19
     }
   },
   "attributes" : {
     "companyCode" : "GNFC",
     "companyName" : "G N F C",
-    "marketCap" : 6869.00,
-    "peRatio" : 6.53,
+    "marketCap" : 6859.00,
+    "peRatio" : 6.52,
     "description" : "Gujarat Narmada Valley Fertilizers & Chemicals Limited (GNFC), is a joint sector enterprise promoted by the Gujarat State Investments Limited (GSIL), a Government of Gujarat undertaking, and the Gujarat State Fertilizers & Chemicals Ltd.(GSFC). The company was set up in Bharuch in 1976 while its manufacturing and marketing operations were started in 1982. The company operates businesses mainly in the Industrial Chemicals, Fertilizers apart from the small presence of IT services. In the chemical segment, it has a product portfolio of various bulk chemicals that are used in industries for manufacturing various specialty chemicals as well as end products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 493.85,
-    "dma50" : 504.52,
-    "dma100" : null,
-    "dma200" : 529.71,
-    "volume" : 143580.00
-  }, {
     "date" : "2025-11-20",
     "price" : 491.75,
     "dma50" : 504.02,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 489.70,
     "dma50" : 436.89,
-    "dma100" : 461.47,
+    "dma100" : null,
     "dma200" : 481.53,
     "volume" : 1103029.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 543.88,
     "dma200" : 523.60,
     "volume" : 290404.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 466.80,
+    "dma50" : 520.80,
+    "dma100" : 543.09,
+    "dma200" : 523.03,
+    "volume" : 187395.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 467.50,
-    "dma50" : 523.01,
-    "dma100" : 543.88,
-    "dma200" : 523.60,
-    "volume" : 290404.00
+    "date" : "2026-11-19",
+    "price" : 466.80,
+    "dma50" : 520.80,
+    "dma100" : 543.09,
+    "dma200" : 523.03,
+    "volume" : 187395.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.53,
+    "pricePercentageAboveDma50" : 5.52,
     "pricePercentageAboveDma100" : 5.70,
     "pricePercentageAboveDma200" : 5.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 8.45,
     "netProfitMarginPercentile" : 4.62,
-    "totalTechnicalScore" : 21.77,
+    "totalTechnicalScore" : 21.76,
     "totalFundamentalScore" : 30.43,
-    "totalScore" : 52.20
+    "totalScore" : 52.19
   }
 }

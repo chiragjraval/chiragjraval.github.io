@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CEMPRO",
       "companyName" : "Cemindia Project",
-      "marketCap" : 24978.00,
-      "peRatio" : 40.00,
+      "marketCap" : 25423.00,
+      "peRatio" : 40.70,
       "description" : "Cemindia Projects Ltd. is engaged in the business of providing design, engineering, procurement and construction (EPC) services for infrastructure projects in India. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.62,
-      "pricePercentageAboveDma100" : 4.83,
-      "pricePercentageAboveDma200" : 3.88,
+      "pricePercentageAboveDma50" : 4.55,
+      "pricePercentageAboveDma100" : 4.74,
+      "pricePercentageAboveDma200" : 3.79,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 13.36,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 38.33,
+      "totalTechnicalScore" : 38.07,
       "totalFundamentalScore" : 34.16,
-      "totalScore" : 72.49
+      "totalScore" : 72.24
     }
   },
   "attributes" : {
     "companyCode" : "CEMPRO",
     "companyName" : "Cemindia Project",
-    "marketCap" : 24978.00,
-    "peRatio" : 40.00,
+    "marketCap" : 25423.00,
+    "peRatio" : 40.70,
     "description" : "Cemindia Projects Ltd. is engaged in the business of providing design, engineering, procurement and construction (EPC) services for infrastructure projects in India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 816.10,
-    "dma50" : 809.71,
-    "dma100" : null,
-    "dma200" : 718.62,
-    "volume" : 337435.00
-  }, {
     "date" : "2025-11-20",
     "price" : 810.35,
     "dma50" : 809.74,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 648.25,
     "dma50" : 601.32,
-    "dma100" : 671.45,
+    "dma100" : null,
     "dma200" : 672.48,
     "volume" : 212115.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1308.80,
     "dma200" : 1106.68,
     "volume" : 714028.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 1378.50,
+    "dma50" : 1264.27,
+    "dma100" : 1310.06,
+    "dma200" : 1109.38,
+    "volume" : 514371.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 1354.40,
-    "dma50" : 1259.61,
-    "dma100" : 1308.80,
-    "dma200" : 1106.68,
-    "volume" : 714028.00
+    "date" : "2026-11-19",
+    "price" : 1378.50,
+    "dma50" : 1264.27,
+    "dma100" : 1310.06,
+    "dma200" : 1109.38,
+    "volume" : 514371.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.62,
-    "pricePercentageAboveDma100" : 4.83,
-    "pricePercentageAboveDma200" : 3.88,
+    "pricePercentageAboveDma50" : 4.55,
+    "pricePercentageAboveDma100" : 4.74,
+    "pricePercentageAboveDma200" : 3.79,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 13.36,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 38.33,
+    "totalTechnicalScore" : 38.07,
     "totalFundamentalScore" : 34.16,
-    "totalScore" : 72.49
+    "totalScore" : 72.24
   }
 }

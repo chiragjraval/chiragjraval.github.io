@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GMDCLTD",
       "companyName" : "G M D C",
-      "marketCap" : 14539.00,
-      "peRatio" : 23.30,
+      "marketCap" : 14639.00,
+      "peRatio" : 23.40,
       "description" : "Gujarat Mineral Development Corporation Ltd is a Government of Gujarat enterprise engaged primarily in mining and marketing lignite and other industrial minerals, alongside a 250 MW lignite-based thermal plant, 200.9 MW of wind farms and a 5 MW solar plant. Its Odisha coal mines and new lignite, limestone, rare-earth and copper projects remain under development rather than commercial operation.[1][2][3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.33,
-      "pricePercentageAboveDma100" : 5.73,
-      "pricePercentageAboveDma200" : 5.77,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.69,
+      "pricePercentageAboveDma200" : 5.73,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 9.08,
       "netProfitMarginPercentile" : 5.05,
-      "totalTechnicalScore" : 16.83,
+      "totalTechnicalScore" : 16.71,
       "totalFundamentalScore" : 32.68,
-      "totalScore" : 49.51
+      "totalScore" : 49.39
     }
   },
   "attributes" : {
     "companyCode" : "GMDCLTD",
     "companyName" : "G M D C",
-    "marketCap" : 14539.00,
-    "peRatio" : 23.30,
+    "marketCap" : 14639.00,
+    "peRatio" : 23.40,
     "description" : "Gujarat Mineral Development Corporation Ltd is a Government of Gujarat enterprise engaged primarily in mining and marketing lignite and other industrial minerals, alongside a 250 MW lignite-based thermal plant, 200.9 MW of wind farms and a 5 MW solar plant. Its Odisha coal mines and new lignite, limestone, rare-earth and copper projects remain under development rather than commercial operation.[1][2][3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-19",
-    "price" : 515.40,
-    "dma50" : 558.68,
-    "dma100" : null,
-    "dma200" : 451.40,
-    "volume" : 3925232.00
-  }, {
     "date" : "2025-11-20",
     "price" : 510.05,
     "dma50" : 556.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-17",
     "price" : 736.90,
     "dma50" : 585.96,
-    "dma100" : 562.40,
+    "dma100" : null,
     "dma200" : 525.76,
     "volume" : 33706568.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 534.83,
     "dma200" : 540.24,
     "volume" : 464528.00
+  }, {
+    "date" : "2026-11-19",
+    "price" : 460.35,
+    "dma50" : 488.51,
+    "dma100" : 533.65,
+    "dma200" : 539.44,
+    "volume" : 450827.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-18",
-    "price" : 457.20,
-    "dma50" : 489.66,
-    "dma100" : 534.83,
-    "dma200" : 540.24,
-    "volume" : 464528.00
+    "date" : "2026-11-19",
+    "price" : 460.35,
+    "dma50" : 488.51,
+    "dma100" : 533.65,
+    "dma200" : 539.44,
+    "volume" : 450827.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.33,
-    "pricePercentageAboveDma100" : 5.73,
-    "pricePercentageAboveDma200" : 5.77,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.69,
+    "pricePercentageAboveDma200" : 5.73,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 9.08,
     "netProfitMarginPercentile" : 5.05,
-    "totalTechnicalScore" : 16.83,
+    "totalTechnicalScore" : 16.71,
     "totalFundamentalScore" : 32.68,
-    "totalScore" : 49.51
+    "totalScore" : 49.39
   }
 }
