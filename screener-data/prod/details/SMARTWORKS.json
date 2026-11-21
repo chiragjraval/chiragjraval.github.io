@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SMARTWORKS",
       "companyName" : "Smartworks Cowor",
-      "marketCap" : 5889.00,
-      "peRatio" : 104.00,
+      "marketCap" : 5951.00,
+      "peRatio" : 105.00,
       "description" : "Incorporated in 2015, Smartworks Coworking Spaces Limited is engaged in the business of customized managed workspace solutions, offering fully serviced, tech-enabled office environments.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.83,
-      "pricePercentageAboveDma100" : 4.83,
-      "pricePercentageAboveDma200" : 4.66,
+      "pricePercentageAboveDma50" : 4.78,
+      "pricePercentageAboveDma100" : 4.78,
+      "pricePercentageAboveDma200" : 4.61,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.06,
       "operatingProfitMarginPercentile" : 13.86,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 44.32,
+      "totalTechnicalScore" : 44.17,
       "totalFundamentalScore" : 38.92,
-      "totalScore" : 83.24
+      "totalScore" : 83.09
     }
   },
   "attributes" : {
     "companyCode" : "SMARTWORKS",
     "companyName" : "Smartworks Cowor",
-    "marketCap" : 5889.00,
-    "peRatio" : 104.00,
+    "marketCap" : 5951.00,
+    "peRatio" : 105.00,
     "description" : "Incorporated in 2015, Smartworks Coworking Spaces Limited is engaged in the business of customized managed workspace solutions, offering fully serviced, tech-enabled office environments.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 564.75,
-    "dma50" : 555.75,
-    "dma100" : null,
-    "dma200" : 495.29,
-    "volume" : 34242.00
-  }, {
     "date" : "2025-11-21",
     "price" : 549.25,
     "dma50" : 555.49,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 440.40,
     "dma50" : 414.99,
-    "dma100" : 441.83,
+    "dma100" : null,
     "dma200" : 455.69,
     "volume" : 187320.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 497.59,
     "dma200" : 482.47,
     "volume" : 83305.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 520.30,
+    "dma50" : 498.64,
+    "dma100" : 497.93,
+    "dma200" : 482.85,
+    "volume" : 81042.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 514.85,
-    "dma50" : 497.75,
-    "dma100" : 497.59,
-    "dma200" : 482.47,
-    "volume" : 83305.00
+    "date" : "2026-11-20",
+    "price" : 520.30,
+    "dma50" : 498.64,
+    "dma100" : 497.93,
+    "dma200" : 482.85,
+    "volume" : 81042.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,15 +1903,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.83,
-    "pricePercentageAboveDma100" : 4.83,
-    "pricePercentageAboveDma200" : 4.66,
+    "pricePercentageAboveDma50" : 4.78,
+    "pricePercentageAboveDma100" : 4.78,
+    "pricePercentageAboveDma200" : 4.61,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.06,
     "operatingProfitMarginPercentile" : 13.86,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 44.32,
+    "totalTechnicalScore" : 44.17,
     "totalFundamentalScore" : 38.92,
-    "totalScore" : 83.24
+    "totalScore" : 83.09
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AMBER",
       "companyName" : "Amber Enterp.",
-      "marketCap" : 23619.00,
-      "peRatio" : 140.00,
+      "marketCap" : 23772.00,
+      "peRatio" : 141.00,
       "description" : "Amber Enterprises India Ltd incorporated in 1956, has a 23.6% share in the total Room Air Conditioner market [1] and is a prominent solution provider for the Air conditioner OEM/ODM Industry in India. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 5.24,
+      "pricePercentageAboveDma50" : 4.89,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 5.21,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.00,
       "operatingProfitMarginPercentile" : 2.25,
       "netProfitMarginPercentile" : 1.65,
-      "totalTechnicalScore" : 25.40,
+      "totalTechnicalScore" : 25.30,
       "totalFundamentalScore" : 19.89,
-      "totalScore" : 45.30
+      "totalScore" : 45.20
     }
   },
   "attributes" : {
     "companyCode" : "AMBER",
     "companyName" : "Amber Enterp.",
-    "marketCap" : 23619.00,
-    "peRatio" : 140.00,
+    "marketCap" : 23772.00,
+    "peRatio" : 141.00,
     "description" : "Amber Enterprises India Ltd incorporated in 1956, has a 23.6% share in the total Room Air Conditioner market [1] and is a prominent solution provider for the Air conditioner OEM/ODM Industry in India. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 7256.50,
-    "dma50" : 7768.61,
-    "dma100" : null,
-    "dma200" : 7136.97,
-    "volume" : 139454.00
-  }, {
     "date" : "2025-11-21",
     "price" : 7196.00,
     "dma50" : 7746.15,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 7980.50,
     "dma50" : 7044.15,
-    "dma100" : 6833.47,
+    "dma100" : null,
     "dma200" : 6979.93,
     "volume" : 372413.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 7031.89,
     "dma200" : 7040.41,
     "volume" : 1285294.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 6740.50,
+    "dma50" : 6597.48,
+    "dma100" : 7023.99,
+    "dma200" : 7037.43,
+    "volume" : 523875.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 6697.00,
-    "dma50" : 6591.64,
-    "dma100" : 7031.89,
-    "dma200" : 7040.41,
-    "volume" : 1285294.00
+    "date" : "2026-11-20",
+    "price" : 6740.50,
+    "dma50" : 6597.48,
+    "dma100" : 7023.99,
+    "dma200" : 7037.43,
+    "volume" : 523875.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2193,15 +2193,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 5.24,
+    "pricePercentageAboveDma50" : 4.89,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 5.21,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.00,
     "operatingProfitMarginPercentile" : 2.25,
     "netProfitMarginPercentile" : 1.65,
-    "totalTechnicalScore" : 25.40,
+    "totalTechnicalScore" : 25.30,
     "totalFundamentalScore" : 19.89,
-    "totalScore" : 45.30
+    "totalScore" : 45.20
   }
 }

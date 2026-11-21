@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GUJALKALI",
       "companyName" : "Gujarat Alkalies",
-      "marketCap" : 4248.00,
-      "peRatio" : 32.00,
+      "marketCap" : 4355.00,
+      "peRatio" : 32.80,
       "description" : "Incorporated in 1973, Gujarat Alkalies and Chemicals Ltd is promoted by the Government of Gujarat, with promoter-group shareholding of 47.28% as of FY26. The company operates manufacturing complexes at Vadodara and Dahej, Gujarat, and has 50+ years of operating history in chlor-alkali and allied chemicals.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.44,
-      "pricePercentageAboveDma200" : 5.31,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 5.33,
+      "pricePercentageAboveDma200" : 5.19,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 4.92,
       "netProfitMarginPercentile" : 3.73,
-      "totalTechnicalScore" : 20.97,
+      "totalTechnicalScore" : 20.61,
       "totalFundamentalScore" : 24.80,
-      "totalScore" : 45.76
+      "totalScore" : 45.40
     }
   },
   "attributes" : {
     "companyCode" : "GUJALKALI",
     "companyName" : "Gujarat Alkalies",
-    "marketCap" : 4248.00,
-    "peRatio" : 32.00,
+    "marketCap" : 4355.00,
+    "peRatio" : 32.80,
     "description" : "Incorporated in 1973, Gujarat Alkalies and Chemicals Ltd is promoted by the Government of Gujarat, with promoter-group shareholding of 47.28% as of FY26. The company operates manufacturing complexes at Vadodara and Dahej, Gujarat, and has 50+ years of operating history in chlor-alkali and allied chemicals.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 555.05,
-    "dma50" : 564.03,
-    "dma100" : null,
-    "dma200" : 604.83,
-    "volume" : 22719.00
-  }, {
     "date" : "2025-11-21",
     "price" : 545.75,
     "dma50" : 563.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 734.80,
     "dma50" : 550.29,
-    "dma100" : 507.67,
+    "dma100" : null,
     "dma200" : 548.08,
     "volume" : 881047.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 634.50,
     "dma200" : 616.82,
     "volume" : 35642.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 593.00,
+    "dma50" : 603.83,
+    "dma100" : 634.29,
+    "dma200" : 616.58,
+    "volume" : 40606.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 578.40,
-    "dma50" : 604.27,
-    "dma100" : 634.50,
-    "dma200" : 616.82,
-    "volume" : 35642.00
+    "date" : "2026-11-20",
+    "price" : 593.00,
+    "dma50" : 603.83,
+    "dma100" : 634.29,
+    "dma200" : 616.58,
+    "volume" : 40606.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.44,
-    "pricePercentageAboveDma200" : 5.31,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 5.33,
+    "pricePercentageAboveDma200" : 5.19,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 4.92,
     "netProfitMarginPercentile" : 3.73,
-    "totalTechnicalScore" : 20.97,
+    "totalTechnicalScore" : 20.61,
     "totalFundamentalScore" : 24.80,
-    "totalScore" : 45.76
+    "totalScore" : 45.40
   }
 }

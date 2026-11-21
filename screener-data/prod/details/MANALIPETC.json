@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MANALIPETC",
       "companyName" : "Manali Petrochem",
-      "marketCap" : 1334.00,
-      "peRatio" : 8.17,
+      "marketCap" : 1303.00,
+      "peRatio" : 7.97,
       "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.46,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 4.93,
+      "pricePercentageAboveDma200" : 4.60,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 44.24,
+      "totalTechnicalScore" : 39.63,
       "totalFundamentalScore" : 46.29,
-      "totalScore" : 90.53
+      "totalScore" : 85.91
     }
   },
   "attributes" : {
     "companyCode" : "MANALIPETC",
     "companyName" : "Manali Petrochem",
-    "marketCap" : 1334.00,
-    "peRatio" : 8.17,
+    "marketCap" : 1303.00,
+    "peRatio" : 7.97,
     "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 66.49,
-    "dma50" : 69.50,
-    "dma100" : null,
-    "dma200" : 67.45,
-    "volume" : 273590.00
-  }, {
     "date" : "2025-11-21",
     "price" : 65.52,
     "dma50" : 69.35,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 54.92,
     "dma50" : 51.77,
-    "dma100" : 56.25,
+    "dma100" : null,
     "dma200" : 59.41,
     "volume" : 351940.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 74.61,
     "dma200" : 70.01,
     "volume" : 350872.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 75.73,
+    "dma50" : 77.23,
+    "dma100" : 74.73,
+    "dma200" : 70.06,
+    "volume" : 405496.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 77.57,
-    "dma50" : 77.29,
-    "dma100" : 74.61,
-    "dma200" : 70.01,
-    "volume" : 350872.00
+    "date" : "2026-11-20",
+    "price" : 75.73,
+    "dma50" : 77.23,
+    "dma100" : 74.73,
+    "dma200" : 70.06,
+    "volume" : 405496.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 53.47
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.46,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 4.93,
+    "pricePercentageAboveDma200" : 4.60,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 44.24,
+    "totalTechnicalScore" : 39.63,
     "totalFundamentalScore" : 46.29,
-    "totalScore" : 90.53
+    "totalScore" : 85.91
   }
 }

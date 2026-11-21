@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "IBULLSLTD",
       "companyName" : "Indiabulls",
-      "marketCap" : 6735.00,
+      "marketCap" : 6738.00,
       "peRatio" : 10.60,
       "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
     },
@@ -20,22 +20,22 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma50" : 5.24,
       "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 4.22,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma200" : 4.23,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.06,
       "operatingProfitMarginPercentile" : 19.70,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 34.58,
+      "totalTechnicalScore" : 39.58,
       "totalFundamentalScore" : 43.97,
-      "totalScore" : 78.55
+      "totalScore" : 83.55
     }
   },
   "attributes" : {
     "companyCode" : "IBULLSLTD",
     "companyName" : "Indiabulls",
-    "marketCap" : 6735.00,
+    "marketCap" : 6738.00,
     "peRatio" : 10.60,
     "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
   },
@@ -1705,14 +1705,21 @@
     "dma100" : 29.49,
     "dma200" : 24.99,
     "volume" : 7593184.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 28.89,
+    "dma50" : 30.36,
+    "dma100" : 29.50,
+    "dma200" : 25.03,
+    "volume" : 41254773.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 28.88,
-    "dma50" : 30.41,
-    "dma100" : 29.49,
-    "dma200" : 24.99,
-    "volume" : 7593184.00
+    "date" : "2026-11-20",
+    "price" : 28.89,
+    "dma50" : 30.36,
+    "dma100" : 29.50,
+    "dma200" : 25.03,
+    "volume" : 41254773.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2393,15 +2400,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma50" : 5.24,
     "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 4.22,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma200" : 4.23,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.06,
     "operatingProfitMarginPercentile" : 19.70,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 34.58,
+    "totalTechnicalScore" : 39.58,
     "totalFundamentalScore" : 43.97,
-    "totalScore" : 78.55
+    "totalScore" : 83.55
   }
 }

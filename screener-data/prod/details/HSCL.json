@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HSCL",
       "companyName" : "Himadri Special",
-      "marketCap" : 27966.00,
-      "peRatio" : 32.70,
+      "marketCap" : 28319.00,
+      "peRatio" : 33.10,
       "description" : "Himadri Speciality Chemical is primarily engaged in the manufacturing of carbon materials and chemicals.[1] It is the No.1 coal pitch manufacturer in India and is the only company to manufacture advanced carbon material in India. It is also the largest player of Naphthalene and SNF in India.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.82,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.76,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 11.49,
       "netProfitMarginPercentile" : 7.55,
-      "totalTechnicalScore" : 21.61,
+      "totalTechnicalScore" : 21.42,
       "totalFundamentalScore" : 33.75,
-      "totalScore" : 55.35
+      "totalScore" : 55.16
     }
   },
   "attributes" : {
     "companyCode" : "HSCL",
     "companyName" : "Himadri Special",
-    "marketCap" : 27966.00,
-    "peRatio" : 32.70,
+    "marketCap" : 28319.00,
+    "peRatio" : 33.10,
     "description" : "Himadri Speciality Chemical is primarily engaged in the manufacturing of carbon materials and chemicals.[1] It is the No.1 coal pitch manufacturer in India and is the only company to manufacture advanced carbon material in India. It is also the largest player of Naphthalene and SNF in India.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 446.25,
-    "dma50" : 462.54,
-    "dma100" : null,
-    "dma200" : 467.79,
-    "volume" : 501958.00
-  }, {
     "date" : "2025-11-21",
     "price" : 440.55,
     "dma50" : 461.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 489.00,
     "dma50" : 462.98,
-    "dma100" : 462.63,
+    "dma100" : null,
     "dma200" : 464.51,
     "volume" : 5587699.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 663.63,
     "dma200" : 601.88,
     "volume" : 644511.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 561.25,
+    "dma50" : 599.32,
+    "dma100" : 662.45,
+    "dma200" : 601.47,
+    "volume" : 1332465.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 554.25,
-    "dma50" : 600.88,
-    "dma100" : 663.63,
-    "dma200" : 601.88,
-    "volume" : 644511.00
+    "date" : "2026-11-20",
+    "price" : 561.25,
+    "dma50" : 599.32,
+    "dma100" : 662.45,
+    "dma200" : 601.47,
+    "volume" : 1332465.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.82,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma50" : 5.32,
+    "pricePercentageAboveDma100" : 5.76,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 11.49,
     "netProfitMarginPercentile" : 7.55,
-    "totalTechnicalScore" : 21.61,
+    "totalTechnicalScore" : 21.42,
     "totalFundamentalScore" : 33.75,
-    "totalScore" : 55.35
+    "totalScore" : 55.16
   }
 }

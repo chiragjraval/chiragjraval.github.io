@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BLACKBUCK",
       "companyName" : "Blackbuck",
-      "marketCap" : 9502.00,
-      "peRatio" : 51.70,
+      "marketCap" : 9389.00,
+      "peRatio" : 51.10,
       "description" : "Incorporated in 2015, Zinka Logistics Solutions Ltd provides a digital trucking platform for payments, telematics, loads marketplace, and vehicle financing services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.40,
-      "pricePercentageAboveDma100" : 5.47,
-      "pricePercentageAboveDma200" : 5.44,
+      "pricePercentageAboveDma50" : 5.44,
+      "pricePercentageAboveDma100" : 5.52,
+      "pricePercentageAboveDma200" : 5.49,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 18.45,
       "netProfitMarginPercentile" : 4.62,
-      "totalTechnicalScore" : 21.31,
+      "totalTechnicalScore" : 21.45,
       "totalFundamentalScore" : 43.07,
-      "totalScore" : 64.38
+      "totalScore" : 64.52
     }
   },
   "attributes" : {
     "companyCode" : "BLACKBUCK",
     "companyName" : "Blackbuck",
-    "marketCap" : 9502.00,
-    "peRatio" : 51.70,
+    "marketCap" : 9389.00,
+    "peRatio" : 51.10,
     "description" : "Incorporated in 2015, Zinka Logistics Solutions Ltd provides a digital trucking platform for payments, telematics, loads marketplace, and vehicle financing services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 653.15,
-    "dma50" : 647.09,
-    "dma100" : null,
-    "dma200" : 524.77,
-    "volume" : 945207.00
-  }, {
     "date" : "2025-11-21",
     "price" : 640.65,
     "dma50" : 646.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 617.90,
     "dma50" : 593.22,
-    "dma100" : 614.65,
+    "dma100" : null,
     "dma200" : 576.74,
     "volume" : 724694.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 575.61,
     "dma200" : 571.36,
     "volume" : 708485.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 515.20,
+    "dma50" : 564.72,
+    "dma100" : 575.46,
+    "dma200" : 570.80,
+    "volume" : 212199.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 521.40,
-    "dma50" : 566.74,
-    "dma100" : 575.61,
-    "dma200" : 571.36,
-    "volume" : 708485.00
+    "date" : "2026-11-20",
+    "price" : 515.20,
+    "dma50" : 564.72,
+    "dma100" : 575.46,
+    "dma200" : 570.80,
+    "volume" : 212199.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.40,
-    "pricePercentageAboveDma100" : 5.47,
-    "pricePercentageAboveDma200" : 5.44,
+    "pricePercentageAboveDma50" : 5.44,
+    "pricePercentageAboveDma100" : 5.52,
+    "pricePercentageAboveDma200" : 5.49,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 18.45,
     "netProfitMarginPercentile" : 4.62,
-    "totalTechnicalScore" : 21.31,
+    "totalTechnicalScore" : 21.45,
     "totalFundamentalScore" : 43.07,
-    "totalScore" : 64.38
+    "totalScore" : 64.52
   }
 }

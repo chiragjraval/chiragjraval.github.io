@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MBEL",
       "companyName" : "M & B Engineer.",
-      "marketCap" : 1671.00,
-      "peRatio" : 16.00,
+      "marketCap" : 1663.00,
+      "peRatio" : 15.90,
       "description" : "Incorporated in 1981, M&B Engineering Ltd is a design-led engineering solutions provider.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.70,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma50" : 4.74,
+      "pricePercentageAboveDma100" : 4.82,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 14.00,
       "netProfitMarginPercentile" : 7.00,
-      "totalTechnicalScore" : 24.64,
+      "totalTechnicalScore" : 24.72,
       "totalFundamentalScore" : 34.33,
-      "totalScore" : 58.97
+      "totalScore" : 59.05
     }
   },
   "attributes" : {
     "companyCode" : "MBEL",
     "companyName" : "M & B Engineer.",
-    "marketCap" : 1671.00,
-    "peRatio" : 16.00,
+    "marketCap" : 1663.00,
+    "peRatio" : 15.90,
     "description" : "Incorporated in 1981, M&B Engineering Ltd is a design-led engineering solutions provider.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 394.80,
-    "dma50" : 430.99,
-    "dma100" : null,
-    "dma200" : 419.14,
-    "volume" : 435589.00
-  }, {
     "date" : "2025-11-21",
     "price" : 393.35,
     "dma50" : 429.51,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 338.84,
     "dma50" : 307.03,
-    "dma100" : 333.64,
+    "dma100" : null,
     "dma200" : 359.04,
     "volume" : 266402.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 281.18,
     "dma200" : 300.41,
     "volume" : 126076.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 290.95,
+    "dma50" : 276.64,
+    "dma100" : 280.98,
+    "dma200" : 300.32,
+    "volume" : 122092.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 292.35,
-    "dma50" : 276.06,
-    "dma100" : 281.18,
-    "dma200" : 300.41,
-    "volume" : 126076.00
+    "date" : "2026-11-20",
+    "price" : 290.95,
+    "dma50" : 276.64,
+    "dma100" : 280.98,
+    "dma200" : 300.32,
+    "volume" : 122092.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1903,15 +1903,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.70,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma50" : 4.74,
+    "pricePercentageAboveDma100" : 4.82,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 14.00,
     "netProfitMarginPercentile" : 7.00,
-    "totalTechnicalScore" : 24.64,
+    "totalTechnicalScore" : 24.72,
     "totalFundamentalScore" : 34.33,
-    "totalScore" : 58.97
+    "totalScore" : 59.05
   }
 }

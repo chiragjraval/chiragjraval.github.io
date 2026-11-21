@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LCL",
       "companyName" : "Lohia Corp",
-      "marketCap" : 5057.00,
-      "peRatio" : 22.60,
+      "marketCap" : 4867.00,
+      "peRatio" : 21.80,
       "description" : "Incorporated in 1981, Lohia Corp Ltd is engaged in the manufacturing of technical textile machines.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.57,
+      "pricePercentageAboveDma50" : 5.71,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.44,
+      "pricePercentageAboveDma200" : 5.61,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 15.37,
       "netProfitMarginPercentile" : 7.93,
-      "totalTechnicalScore" : 16.01,
+      "totalTechnicalScore" : 16.32,
       "totalFundamentalScore" : 43.30,
-      "totalScore" : 59.31
+      "totalScore" : 59.62
     }
   },
   "attributes" : {
     "companyCode" : "LCL",
     "companyName" : "Lohia Corp",
-    "marketCap" : 5057.00,
-    "peRatio" : 22.60,
+    "marketCap" : 4867.00,
+    "peRatio" : 21.80,
     "description" : "Incorporated in 1981, Lohia Corp Ltd is engaged in the manufacturing of technical textile machines.[1]"
   },
   "technicalHistory" : [ {
@@ -585,14 +585,21 @@
     "dma100" : null,
     "dma200" : 525.24,
     "volume" : 155182.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 460.70,
+    "dma50" : 536.83,
+    "dma100" : null,
+    "dma200" : 524.60,
+    "volume" : 561710.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 478.70,
-    "dma50" : 539.93,
+    "date" : "2026-11-20",
+    "price" : 460.70,
+    "dma50" : 536.83,
     "dma100" : null,
-    "dma200" : 525.24,
-    "volume" : 155182.00
+    "dma200" : 524.60,
+    "volume" : 561710.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -663,15 +670,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.57,
+    "pricePercentageAboveDma50" : 5.71,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.44,
+    "pricePercentageAboveDma200" : 5.61,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 15.37,
     "netProfitMarginPercentile" : 7.93,
-    "totalTechnicalScore" : 16.01,
+    "totalTechnicalScore" : 16.32,
     "totalFundamentalScore" : 43.30,
-    "totalScore" : 59.31
+    "totalScore" : 59.62
   }
 }

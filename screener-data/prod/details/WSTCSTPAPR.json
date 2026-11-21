@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "WSTCSTPAPR",
       "companyName" : "West Coast Paper",
-      "marketCap" : 4271.00,
-      "peRatio" : 13.20,
+      "marketCap" : 4080.00,
+      "peRatio" : 12.60,
       "description" : "West Coast Paper Mills Ltd is one of the oldest and the largest producers of paper for printing, writing, and packaging in India. Established in 1955, the Mill is located at Dandeli in Uttara Kannada district in Karnataka. The global quality paper produced by the Company serves the needs of innumerable industries in printing, writing, publishing, stationary, notebooks and packaging sectors in India, in the process contributing to the development of the nation. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.57,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 4.69,
+      "pricePercentageAboveDma50" : 5.74,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 11.49,
       "netProfitMarginPercentile" : 7.13,
-      "totalTechnicalScore" : 40.42,
+      "totalTechnicalScore" : 41.05,
       "totalFundamentalScore" : 35.73,
-      "totalScore" : 76.15
+      "totalScore" : 76.78
     }
   },
   "attributes" : {
     "companyCode" : "WSTCSTPAPR",
     "companyName" : "West Coast Paper",
-    "marketCap" : 4271.00,
-    "peRatio" : 13.20,
+    "marketCap" : 4080.00,
+    "peRatio" : 12.60,
     "description" : "West Coast Paper Mills Ltd is one of the oldest and the largest producers of paper for printing, writing, and packaging in India. Established in 1955, the Mill is located at Dandeli in Uttara Kannada district in Karnataka. The global quality paper produced by the Company serves the needs of innumerable industries in printing, writing, publishing, stationary, notebooks and packaging sectors in India, in the process contributing to the development of the nation. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 423.05,
-    "dma50" : 460.97,
-    "dma100" : null,
-    "dma200" : 494.49,
-    "volume" : 43276.00
-  }, {
     "date" : "2025-11-21",
     "price" : 421.45,
     "dma50" : 459.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 478.65,
     "dma50" : 433.02,
-    "dma100" : 418.39,
+    "dma100" : null,
     "dma200" : 448.24,
     "volume" : 93764.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 667.64,
     "dma200" : 609.12,
     "volume" : 231230.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 617.70,
+    "dma50" : 725.11,
+    "dma100" : 668.48,
+    "dma200" : 609.21,
+    "volume" : 364246.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 646.60,
-    "dma50" : 729.49,
-    "dma100" : 667.64,
-    "dma200" : 609.12,
-    "volume" : 231230.00
+    "date" : "2026-11-20",
+    "price" : 617.70,
+    "dma50" : 725.11,
+    "dma100" : 668.48,
+    "dma200" : 609.21,
+    "volume" : 364246.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.57,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 4.69,
+    "pricePercentageAboveDma50" : 5.74,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 11.49,
     "netProfitMarginPercentile" : 7.13,
-    "totalTechnicalScore" : 40.42,
+    "totalTechnicalScore" : 41.05,
     "totalFundamentalScore" : 35.73,
-    "totalScore" : 76.15
+    "totalScore" : 76.78
   }
 }

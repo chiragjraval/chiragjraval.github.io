@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SWANCORP",
       "companyName" : "Swan Corp",
-      "marketCap" : 7291.00,
-      "peRatio" : 9.93,
+      "marketCap" : 7238.00,
+      "peRatio" : 9.86,
       "description" : "Swan Energy Limited (SEL) was originally incorporated in 1909 as Swan Mills Ltd. (SML), a manufacturer and marketer of cotton and polyester textile products in India. Over the years, it diversified into Real estate and is developing a Floating Storage and Regasification Units -based liquid natural gas (LNG) import terminal at Jafrabad in Gujarat.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.49,
-      "pricePercentageAboveDma100" : 5.92,
-      "pricePercentageAboveDma200" : 6.32,
+      "pricePercentageAboveDma50" : 5.50,
+      "pricePercentageAboveDma100" : 5.93,
+      "pricePercentageAboveDma200" : 6.34,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 7.23,
       "operatingProfitMarginPercentile" : 18.33,
       "netProfitMarginPercentile" : 7.89,
-      "totalTechnicalScore" : 22.73,
+      "totalTechnicalScore" : 22.78,
       "totalFundamentalScore" : 33.45,
-      "totalScore" : 56.18
+      "totalScore" : 56.23
     }
   },
   "attributes" : {
     "companyCode" : "SWANCORP",
     "companyName" : "Swan Corp",
-    "marketCap" : 7291.00,
-    "peRatio" : 9.93,
+    "marketCap" : 7238.00,
+    "peRatio" : 9.86,
     "description" : "Swan Energy Limited (SEL) was originally incorporated in 1909 as Swan Mills Ltd. (SML), a manufacturer and marketer of cotton and polyester textile products in India. Over the years, it diversified into Real estate and is developing a Floating Storage and Regasification Units -based liquid natural gas (LNG) import terminal at Jafrabad in Gujarat.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 473.75,
-    "dma50" : 457.90,
-    "dma100" : null,
-    "dma200" : 473.98,
-    "volume" : 2546653.00
-  }, {
     "date" : "2025-11-21",
     "price" : 459.80,
     "dma50" : 457.98,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 346.90,
     "dma50" : 357.70,
-    "dma100" : 403.66,
+    "dma100" : null,
     "dma200" : 420.66,
     "volume" : 1224324.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 284.76,
     "dma200" : 316.42,
     "volume" : 740828.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 230.91,
+    "dma50" : 256.75,
+    "dma100" : 283.93,
+    "dma200" : 315.57,
+    "volume" : 412262.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 232.61,
-    "dma50" : 257.81,
-    "dma100" : 284.76,
-    "dma200" : 316.42,
-    "volume" : 740828.00
+    "date" : "2026-11-20",
+    "price" : 230.91,
+    "dma50" : 256.75,
+    "dma100" : 283.93,
+    "dma200" : 315.57,
+    "volume" : 412262.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.49,
-    "pricePercentageAboveDma100" : 5.92,
-    "pricePercentageAboveDma200" : 6.32,
+    "pricePercentageAboveDma50" : 5.50,
+    "pricePercentageAboveDma100" : 5.93,
+    "pricePercentageAboveDma200" : 6.34,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 7.23,
     "operatingProfitMarginPercentile" : 18.33,
     "netProfitMarginPercentile" : 7.89,
-    "totalTechnicalScore" : 22.73,
+    "totalTechnicalScore" : 22.78,
     "totalFundamentalScore" : 33.45,
-    "totalScore" : 56.18
+    "totalScore" : 56.23
   }
 }

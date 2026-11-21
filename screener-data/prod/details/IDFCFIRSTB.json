@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IDFCFIRSTB",
       "companyName" : "IDFC First Bank",
-      "marketCap" : 74247.00,
-      "peRatio" : 25.20,
+      "marketCap" : 75291.00,
+      "peRatio" : 25.60,
       "description" : "IDFC First Bank is engaged in the business of Banking Services. IDFC FIRST Bank was founded by the merger of Erstwhile IDFC Bank and Erstwhile Capital First on December 18, 2018."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.59,
-      "pricePercentageAboveDma100" : 4.73,
-      "pricePercentageAboveDma200" : 4.50,
+      "pricePercentageAboveDma50" : 4.53,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.43,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.16,
       "operatingProfitMarginPercentile" : 11.91,
       "netProfitMarginPercentile" : 6.60,
-      "totalTechnicalScore" : 38.82,
+      "totalTechnicalScore" : 38.62,
       "totalFundamentalScore" : 29.67,
-      "totalScore" : 68.49
+      "totalScore" : 68.29
     }
   },
   "attributes" : {
     "companyCode" : "IDFCFIRSTB",
     "companyName" : "IDFC First Bank",
-    "marketCap" : 74247.00,
-    "peRatio" : 25.20,
+    "marketCap" : 75291.00,
+    "peRatio" : 25.60,
     "description" : "IDFC First Bank is engaged in the business of Banking Services. IDFC FIRST Bank was founded by the merger of Erstwhile IDFC Bank and Erstwhile Capital First on December 18, 2018."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 78.93,
-    "dma50" : 76.38,
-    "dma100" : null,
-    "dma200" : 71.48,
-    "volume" : 17689664.00
-  }, {
     "date" : "2025-11-21",
     "price" : 78.33,
     "dma50" : 76.46,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 67.50,
     "dma50" : 69.34,
-    "dma100" : 76.80,
+    "dma100" : null,
     "dma200" : 73.55,
     "volume" : 16871691.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 81.66,
     "dma200" : 78.18,
     "volume" : 49234715.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 87.26,
+    "dma50" : 79.81,
+    "dma100" : 81.74,
+    "dma200" : 78.27,
+    "volume" : 35582991.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 86.05,
-    "dma50" : 79.51,
-    "dma100" : 81.66,
-    "dma200" : 78.18,
-    "volume" : 49234715.00
+    "date" : "2026-11-20",
+    "price" : 87.26,
+    "dma50" : 79.81,
+    "dma100" : 81.74,
+    "dma200" : 78.27,
+    "volume" : 35582991.00
   },
   "quarterlyResults" : [ {
     "date" : "2015-03-31",
@@ -2273,15 +2273,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.59,
-    "pricePercentageAboveDma100" : 4.73,
-    "pricePercentageAboveDma200" : 4.50,
+    "pricePercentageAboveDma50" : 4.53,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.43,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.16,
     "operatingProfitMarginPercentile" : 11.91,
     "netProfitMarginPercentile" : 6.60,
-    "totalTechnicalScore" : 38.82,
+    "totalTechnicalScore" : 38.62,
     "totalFundamentalScore" : 29.67,
-    "totalScore" : 68.49
+    "totalScore" : 68.29
   }
 }

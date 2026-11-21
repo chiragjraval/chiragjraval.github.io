@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "GREENPLY",
       "companyName" : "Greenply Industr",
-      "marketCap" : 3351.00,
+      "marketCap" : 3352.00,
       "peRatio" : 24.20,
       "description" : "Greenply Industries Ltd is an interior-infrastructure company with products spanning plywood and blockboards, MDF and pre-laminated MDF, decorative veneers, flush and PVC/WPC doors, specialty plywood, HDF flooring and furniture fittings. The group sells predominantly in India through a pan-India trade network.[1][2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.28,
+      "pricePercentageAboveDma50" : 5.27,
       "pricePercentageAboveDma100" : 5.43,
-      "pricePercentageAboveDma200" : 5.22,
+      "pricePercentageAboveDma200" : 5.21,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 11.50,
       "netProfitMarginPercentile" : 7.61,
-      "totalTechnicalScore" : 25.93,
+      "totalTechnicalScore" : 25.91,
       "totalFundamentalScore" : 30.91,
-      "totalScore" : 56.84
+      "totalScore" : 56.82
     }
   },
   "attributes" : {
     "companyCode" : "GREENPLY",
     "companyName" : "Greenply Industr",
-    "marketCap" : 3351.00,
+    "marketCap" : 3352.00,
     "peRatio" : 24.20,
     "description" : "Greenply Industries Ltd is an interior-infrastructure company with products spanning plywood and blockboards, MDF and pre-laminated MDF, decorative veneers, flush and PVC/WPC doors, specialty plywood, HDF flooring and furniture fittings. The group sells predominantly in India through a pan-India trade network.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 289.10,
-    "dma50" : 301.57,
-    "dma100" : null,
-    "dma200" : 305.11,
-    "volume" : 50066.00
-  }, {
     "date" : "2025-11-21",
     "price" : 288.20,
     "dma50" : 301.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 232.24,
     "dma50" : 214.80,
-    "dma100" : 234.68,
+    "dma100" : null,
     "dma200" : 255.89,
     "volume" : 141475.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 293.66,
     "dma200" : 280.42,
     "volume" : 110796.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 268.35,
+    "dma50" : 283.75,
+    "dma100" : 293.38,
+    "dma200" : 280.30,
+    "volume" : 44486.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 268.30,
-    "dma50" : 284.38,
-    "dma100" : 293.66,
-    "dma200" : 280.42,
-    "volume" : 110796.00
+    "date" : "2026-11-20",
+    "price" : 268.35,
+    "dma50" : 283.75,
+    "dma100" : 293.38,
+    "dma200" : 280.30,
+    "volume" : 44486.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.28,
+    "pricePercentageAboveDma50" : 5.27,
     "pricePercentageAboveDma100" : 5.43,
-    "pricePercentageAboveDma200" : 5.22,
+    "pricePercentageAboveDma200" : 5.21,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 11.50,
     "netProfitMarginPercentile" : 7.61,
-    "totalTechnicalScore" : 25.93,
+    "totalTechnicalScore" : 25.91,
     "totalFundamentalScore" : 30.91,
-    "totalScore" : 56.84
+    "totalScore" : 56.82
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "WHEELS",
       "companyName" : "Wheels India",
-      "marketCap" : 5978.00,
-      "peRatio" : 31.20,
+      "marketCap" : 5806.00,
+      "peRatio" : 30.20,
       "description" : "Wheels India is engaged in the Business of Manufacture of Road Wheels , Parts & Accessories for Machinery / Equipments used by construction and mining industries and Wind Turbine Parts. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 4.07,
-      "pricePercentageAboveDma200" : 3.25,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 4.25,
+      "pricePercentageAboveDma200" : 3.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 17.68,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 42.22,
+      "totalTechnicalScore" : 37.76,
       "totalFundamentalScore" : 44.93,
-      "totalScore" : 87.15
+      "totalScore" : 82.69
     }
   },
   "attributes" : {
     "companyCode" : "WHEELS",
     "companyName" : "Wheels India",
-    "marketCap" : 5978.00,
-    "peRatio" : 31.20,
+    "marketCap" : 5806.00,
+    "peRatio" : 30.20,
     "description" : "Wheels India is engaged in the Business of Manufacture of Road Wheels , Parts & Accessories for Machinery / Equipments used by construction and mining industries and Wind Turbine Parts. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 865.25,
-    "dma50" : 875.45,
-    "dma100" : null,
-    "dma200" : 788.04,
-    "volume" : 33012.00
-  }, {
     "date" : "2025-11-21",
     "price" : 857.25,
     "dma50" : 874.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1074.35,
     "dma50" : 953.80,
-    "dma100" : 884.74,
+    "dma100" : null,
     "dma200" : 860.40,
     "volume" : 107029.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1876.58,
     "dma200" : 1649.53,
     "volume" : 54984.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 2161.30,
+    "dma50" : 2178.98,
+    "dma100" : 1880.33,
+    "dma200" : 1654.63,
+    "volume" : 60849.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 2225.40,
-    "dma50" : 2179.71,
-    "dma100" : 1876.58,
-    "dma200" : 1649.53,
-    "volume" : 54984.00
+    "date" : "2026-11-20",
+    "price" : 2161.30,
+    "dma50" : 2178.98,
+    "dma100" : 1880.33,
+    "dma200" : 1654.63,
+    "volume" : 60849.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 53.42
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 4.07,
-    "pricePercentageAboveDma200" : 3.25,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 4.25,
+    "pricePercentageAboveDma200" : 3.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 17.68,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 42.22,
+    "totalTechnicalScore" : 37.76,
     "totalFundamentalScore" : 44.93,
-    "totalScore" : 87.15
+    "totalScore" : 82.69
   }
 }

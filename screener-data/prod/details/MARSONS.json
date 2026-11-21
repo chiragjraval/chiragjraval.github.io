@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MARSONS",
       "companyName" : "Marsons",
-      "marketCap" : 2665.00,
-      "peRatio" : 55.20,
+      "marketCap" : 2626.00,
+      "peRatio" : 54.40,
       "description" : "Incorporated in 1976, Marsons Ltd is engaged in manufacturing of transformers in the capacity range of 100 MVA 132KV class[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.36,
-      "pricePercentageAboveDma100" : 3.75,
-      "pricePercentageAboveDma200" : 4.29,
+      "pricePercentageAboveDma50" : 4.47,
+      "pricePercentageAboveDma100" : 3.86,
+      "pricePercentageAboveDma200" : 4.38,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 19.94,
       "netProfitMarginPercentile" : 9.94,
-      "totalTechnicalScore" : 42.40,
+      "totalTechnicalScore" : 42.71,
       "totalFundamentalScore" : 43.62,
-      "totalScore" : 86.02
+      "totalScore" : 86.33
     }
   },
   "attributes" : {
     "companyCode" : "MARSONS",
     "companyName" : "Marsons",
-    "marketCap" : 2665.00,
-    "peRatio" : 55.20,
+    "marketCap" : 2626.00,
+    "peRatio" : 54.40,
     "description" : "Incorporated in 1976, Marsons Ltd is engaged in manufacturing of transformers in the capacity range of 100 MVA 132KV class[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 161.95,
-    "dma50" : 175.17,
-    "dma100" : null,
-    "dma200" : 181.43,
-    "volume" : 24164.00
-  }, {
     "date" : "2025-11-21",
     "price" : 161.80,
     "dma50" : 174.65,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 164.10,
     "dma50" : 142.34,
-    "dma100" : 144.82,
+    "dma100" : null,
     "dma200" : 157.34,
     "volume" : 2189314.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 123.80,
     "dma200" : 135.68,
     "volume" : 4030203.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 152.56,
+    "dma50" : 137.95,
+    "dma100" : 124.19,
+    "dma200" : 135.85,
+    "volume" : 6526741.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 154.83,
-    "dma50" : 137.35,
-    "dma100" : 123.80,
-    "dma200" : 135.68,
-    "volume" : 4030203.00
+    "date" : "2026-11-20",
+    "price" : 152.56,
+    "dma50" : 137.95,
+    "dma100" : 124.19,
+    "dma200" : 135.85,
+    "volume" : 6526741.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.36,
-    "pricePercentageAboveDma100" : 3.75,
-    "pricePercentageAboveDma200" : 4.29,
+    "pricePercentageAboveDma50" : 4.47,
+    "pricePercentageAboveDma100" : 3.86,
+    "pricePercentageAboveDma200" : 4.38,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 19.94,
     "netProfitMarginPercentile" : 9.94,
-    "totalTechnicalScore" : 42.40,
+    "totalTechnicalScore" : 42.71,
     "totalFundamentalScore" : 43.62,
-    "totalScore" : 86.02
+    "totalScore" : 86.33
   }
 }

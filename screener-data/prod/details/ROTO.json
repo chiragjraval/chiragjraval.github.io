@@ -10,7 +10,7 @@
       "companyCode" : "ROTO",
       "companyName" : "Roto Pumps",
       "marketCap" : 1349.00,
-      "peRatio" : 31.90,
+      "peRatio" : 31.80,
       "description" : "Roto Pumps Ltd was incorporated in 1968. Roto Pumps is the pioneer manufacturer of Progressive Cavity Pumps in India, renowned for providing efficient and reliable pumping solutions to a diverse range of industries including Wastewater, Sugar, Paper, Paint, Oil & Gas, Chemicals & Process, Ceramics, Food & Beverages, Renewable Energy & Power, Mining & Explosives, Marine & Defense. The co. is successfully exporting to more than 50 countries. Head office is in Noida, Uttar Pradesh.[1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.46,
+      "pricePercentageAboveDma50" : 4.49,
       "pricePercentageAboveDma100" : 4.52,
       "pricePercentageAboveDma200" : 4.49,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 33.47,
+      "totalTechnicalScore" : 33.50,
       "totalFundamentalScore" : 48.24,
-      "totalScore" : 81.71
+      "totalScore" : 81.74
     }
   },
   "attributes" : {
     "companyCode" : "ROTO",
     "companyName" : "Roto Pumps",
     "marketCap" : 1349.00,
-    "peRatio" : 31.90,
+    "peRatio" : 31.80,
     "description" : "Roto Pumps Ltd was incorporated in 1968. Roto Pumps is the pioneer manufacturer of Progressive Cavity Pumps in India, renowned for providing efficient and reliable pumping solutions to a diverse range of industries including Wastewater, Sugar, Paper, Paint, Oil & Gas, Chemicals & Process, Ceramics, Food & Beverages, Renewable Energy & Power, Mining & Explosives, Marine & Defense. The co. is successfully exporting to more than 50 countries. Head office is in Noida, Uttar Pradesh.[1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 58.56,
-    "dma50" : 71.89,
-    "dma100" : null,
-    "dma200" : 81.00,
-    "volume" : 454500.00
-  }, {
     "date" : "2025-11-21",
     "price" : 58.38,
     "dma50" : 71.36,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 59.02,
     "dma50" : 57.51,
-    "dma100" : 60.32,
+    "dma100" : null,
     "dma200" : 67.34,
     "volume" : 609142.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 65.30,
     "dma200" : 64.90,
     "volume" : 766761.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 71.57,
+    "dma50" : 64.92,
+    "dma100" : 65.29,
+    "dma200" : 64.96,
+    "volume" : 1150053.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 71.58,
-    "dma50" : 64.65,
-    "dma100" : 65.30,
-    "dma200" : 64.90,
-    "volume" : 766761.00
+    "date" : "2026-11-20",
+    "price" : 71.57,
+    "dma50" : 64.92,
+    "dma100" : 65.29,
+    "dma200" : 64.96,
+    "volume" : 1150053.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.46,
+    "pricePercentageAboveDma50" : 4.49,
     "pricePercentageAboveDma100" : 4.52,
     "pricePercentageAboveDma200" : 4.49,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 33.47,
+    "totalTechnicalScore" : 33.50,
     "totalFundamentalScore" : 48.24,
-    "totalScore" : 81.71
+    "totalScore" : 81.74
   }
 }

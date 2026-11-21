@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SIGNATURE",
       "companyName" : "SignatureGlobal",
-      "marketCap" : 11946.00,
-      "peRatio" : 115.00,
+      "marketCap" : 12091.00,
+      "peRatio" : 117.00,
       "description" : "Incorporated in 2000, Signatureglobal (India) Limited is a real estate development company operating in the National Capital Region of Delhi (\"Delhi NCR\") focussed on offering affordable and mid-segment housing.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.37,
-      "pricePercentageAboveDma100" : 4.49,
-      "pricePercentageAboveDma200" : 4.88,
+      "pricePercentageAboveDma50" : 4.34,
+      "pricePercentageAboveDma100" : 4.43,
+      "pricePercentageAboveDma200" : 4.82,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 7.14,
       "operatingProfitMarginPercentile" : 7.81,
       "netProfitMarginPercentile" : 5.01,
-      "totalTechnicalScore" : 33.74,
+      "totalTechnicalScore" : 33.58,
       "totalFundamentalScore" : 19.96,
-      "totalScore" : 53.69
+      "totalScore" : 53.54
     }
   },
   "attributes" : {
     "companyCode" : "SIGNATURE",
     "companyName" : "SignatureGlobal",
-    "marketCap" : 11946.00,
-    "peRatio" : 115.00,
+    "marketCap" : 12091.00,
+    "peRatio" : 117.00,
     "description" : "Incorporated in 2000, Signatureglobal (India) Limited is a real estate development company operating in the National Capital Region of Delhi (\"Delhi NCR\") focussed on offering affordable and mid-segment housing.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1124.80,
-    "dma50" : 1089.86,
-    "dma100" : null,
-    "dma200" : 1150.99,
-    "volume" : 276170.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1116.80,
     "dma50" : 1090.92,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 826.00,
     "dma50" : 855.65,
-    "dma100" : 959.97,
+    "dma100" : null,
     "dma200" : 1009.11,
     "volume" : 355367.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 770.42,
     "dma200" : 828.59,
     "volume" : 457225.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 859.40,
+    "dma50" : 758.74,
+    "dma100" : 771.62,
+    "dma200" : 828.90,
+    "volume" : 411547.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 849.15,
-    "dma50" : 754.63,
-    "dma100" : 770.42,
-    "dma200" : 828.59,
-    "volume" : 457225.00
+    "date" : "2026-11-20",
+    "price" : 859.40,
+    "dma50" : 758.74,
+    "dma100" : 771.62,
+    "dma200" : 828.90,
+    "volume" : 411547.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.37,
-    "pricePercentageAboveDma100" : 4.49,
-    "pricePercentageAboveDma200" : 4.88,
+    "pricePercentageAboveDma50" : 4.34,
+    "pricePercentageAboveDma100" : 4.43,
+    "pricePercentageAboveDma200" : 4.82,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 7.14,
     "operatingProfitMarginPercentile" : 7.81,
     "netProfitMarginPercentile" : 5.01,
-    "totalTechnicalScore" : 33.74,
+    "totalTechnicalScore" : 33.58,
     "totalFundamentalScore" : 19.96,
-    "totalScore" : 53.69
+    "totalScore" : 53.54
   }
 }

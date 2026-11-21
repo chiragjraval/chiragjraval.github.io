@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AUTOAXLES",
       "companyName" : "Automotive Axles",
-      "marketCap" : 2724.00,
-      "peRatio" : 13.20,
+      "marketCap" : 2667.00,
+      "peRatio" : 12.90,
       "description" : "Automotive Axles was established in 1981 as a JV of Kalyani Group (35.5% ownership) and Meritor Inc, USA (35.5% ownership). [1] The Company is engaged in the business of manufacturing and supplying Automotive Parts to the major domestic and global manufacturers of Trucks & Buses (LCV, MCV, HCV, Military & Off-highway Vehicle Segment). [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.61,
-      "pricePercentageAboveDma100" : 4.75,
-      "pricePercentageAboveDma200" : 4.80,
+      "pricePercentageAboveDma50" : 4.73,
+      "pricePercentageAboveDma100" : 4.86,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.39,
       "operatingProfitMarginPercentile" : 16.97,
       "netProfitMarginPercentile" : 9.52,
-      "totalTechnicalScore" : 34.16,
+      "totalTechnicalScore" : 34.50,
       "totalFundamentalScore" : 40.88,
-      "totalScore" : 75.04
+      "totalScore" : 75.39
     }
   },
   "attributes" : {
     "companyCode" : "AUTOAXLES",
     "companyName" : "Automotive Axles",
-    "marketCap" : 2724.00,
-    "peRatio" : 13.20,
+    "marketCap" : 2667.00,
+    "peRatio" : 12.90,
     "description" : "Automotive Axles was established in 1981 as a JV of Kalyani Group (35.5% ownership) and Meritor Inc, USA (35.5% ownership). [1] The Company is engaged in the business of manufacturing and supplying Automotive Parts to the major domestic and global manufacturers of Trucks & Buses (LCV, MCV, HCV, Military & Off-highway Vehicle Segment). [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1637.60,
-    "dma50" : 1706.24,
-    "dma100" : null,
-    "dma200" : 1750.21,
-    "volume" : 3455.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1613.60,
     "dma50" : 1702.61,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1787.50,
     "dma50" : 1795.00,
-    "dma100" : 1851.87,
+    "dma100" : null,
     "dma200" : 1809.49,
     "volume" : 15739.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1717.59,
     "dma200" : 1733.63,
     "volume" : 23752.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1765.20,
+    "dma50" : 1675.68,
+    "dma100" : 1717.55,
+    "dma200" : 1733.95,
+    "volume" : 27252.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1802.90,
-    "dma50" : 1672.02,
-    "dma100" : 1717.59,
-    "dma200" : 1733.63,
-    "volume" : 23752.00
+    "date" : "2026-11-20",
+    "price" : 1765.20,
+    "dma50" : 1675.68,
+    "dma100" : 1717.55,
+    "dma200" : 1733.95,
+    "volume" : 27252.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,15 +2663,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.61,
-    "pricePercentageAboveDma100" : 4.75,
-    "pricePercentageAboveDma200" : 4.80,
+    "pricePercentageAboveDma50" : 4.73,
+    "pricePercentageAboveDma100" : 4.86,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.39,
     "operatingProfitMarginPercentile" : 16.97,
     "netProfitMarginPercentile" : 9.52,
-    "totalTechnicalScore" : 34.16,
+    "totalTechnicalScore" : 34.50,
     "totalFundamentalScore" : 40.88,
-    "totalScore" : 75.04
+    "totalScore" : 75.39
   }
 }

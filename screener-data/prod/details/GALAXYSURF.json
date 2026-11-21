@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GALAXYSURF",
       "companyName" : "Galaxy Surfact.",
-      "marketCap" : 7777.00,
-      "peRatio" : 18.70,
+      "marketCap" : 7639.00,
+      "peRatio" : 18.30,
       "description" : "Galaxy Surfactants Ltd was Incorporated in 1986. It’s a leading manufacturer of Performance Surfactants and Specialty Care products with over 205 product grades. These products are used in consumer-centric Home and Personal care products like hair care, oral care, skin care, cosmetics, soap, shampoo, lotion, detergent, cleaning products, etc. Preferred suppliers to leading MNC’s, Regional and Local FMCG brands.[1] The company is India’s Largest Manufacturer of Oleo chemical-based Surfactants and Specialty Care Products for Home Care and Personal Care Industries [2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.11,
-      "pricePercentageAboveDma100" : 4.99,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.57,
       "operatingProfitMarginPercentile" : 5.64,
       "netProfitMarginPercentile" : 3.33,
-      "totalTechnicalScore" : 39.93,
+      "totalTechnicalScore" : 35.19,
       "totalFundamentalScore" : 25.55,
-      "totalScore" : 65.48
+      "totalScore" : 60.74
     }
   },
   "attributes" : {
     "companyCode" : "GALAXYSURF",
     "companyName" : "Galaxy Surfact.",
-    "marketCap" : 7777.00,
-    "peRatio" : 18.70,
+    "marketCap" : 7639.00,
+    "peRatio" : 18.30,
     "description" : "Galaxy Surfactants Ltd was Incorporated in 1986. It’s a leading manufacturer of Performance Surfactants and Specialty Care products with over 205 product grades. These products are used in consumer-centric Home and Personal care products like hair care, oral care, skin care, cosmetics, soap, shampoo, lotion, detergent, cleaning products, etc. Preferred suppliers to leading MNC’s, Regional and Local FMCG brands.[1] The company is India’s Largest Manufacturer of Oleo chemical-based Surfactants and Specialty Care Products for Home Care and Personal Care Industries [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 2109.40,
-    "dma50" : 2248.57,
-    "dma100" : null,
-    "dma200" : 2367.47,
-    "volume" : 6299.00
-  }, {
     "date" : "2025-11-21",
     "price" : 2062.20,
     "dma50" : 2241.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1799.60,
     "dma50" : 1801.44,
-    "dma100" : 1891.33,
+    "dma100" : null,
     "dma200" : 2048.06,
     "volume" : 15537.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2187.13,
     "dma200" : 2123.63,
     "volume" : 8728.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 2154.60,
+    "dma50" : 2238.48,
+    "dma100" : 2189.05,
+    "dma200" : 2123.94,
+    "volume" : 18977.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 2193.40,
-    "dma50" : 2241.90,
-    "dma100" : 2187.13,
-    "dma200" : 2123.63,
-    "volume" : 8728.00
+    "date" : "2026-11-20",
+    "price" : 2154.60,
+    "dma50" : 2238.48,
+    "dma100" : 2189.05,
+    "dma200" : 2123.94,
+    "volume" : 18977.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2188,20 +2188,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.11,
-    "pricePercentageAboveDma100" : 4.99,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.57,
     "operatingProfitMarginPercentile" : 5.64,
     "netProfitMarginPercentile" : 3.33,
-    "totalTechnicalScore" : 39.93,
+    "totalTechnicalScore" : 35.19,
     "totalFundamentalScore" : 25.55,
-    "totalScore" : 65.48
+    "totalScore" : 60.74
   }
 }

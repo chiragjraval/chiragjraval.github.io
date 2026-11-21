@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MFSL",
       "companyName" : "Max Financial",
-      "marketCap" : 48282.00,
-      "peRatio" : 262.00,
+      "marketCap" : 49527.00,
+      "peRatio" : 269.00,
       "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 5.19,
-      "pricePercentageAboveDma200" : 5.31,
+      "pricePercentageAboveDma50" : 4.74,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 5.19,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.08,
       "operatingProfitMarginPercentile" : 17.63,
       "netProfitMarginPercentile" : 8.78,
-      "totalTechnicalScore" : 25.36,
+      "totalTechnicalScore" : 24.99,
       "totalFundamentalScore" : 37.50,
-      "totalScore" : 62.87
+      "totalScore" : 62.49
     }
   },
   "attributes" : {
     "companyCode" : "MFSL",
     "companyName" : "Max Financial",
-    "marketCap" : 48282.00,
-    "peRatio" : 262.00,
+    "marketCap" : 49527.00,
+    "peRatio" : 269.00,
     "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1692.60,
-    "dma50" : 1600.25,
-    "dma100" : null,
-    "dma200" : 1454.31,
-    "volume" : 523210.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1661.50,
     "dma50" : 1602.66,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1688.80,
     "dma50" : 1656.56,
-    "dma100" : 1683.76,
+    "dma100" : null,
     "dma200" : 1596.29,
     "volume" : 1094134.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1454.82,
     "dma200" : 1492.42,
     "volume" : 1392472.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1435.10,
+    "dma50" : 1363.83,
+    "dma100" : 1453.33,
+    "dma200" : 1491.85,
+    "volume" : 2696895.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1399.00,
-    "dma50" : 1360.92,
-    "dma100" : 1454.82,
-    "dma200" : 1492.42,
-    "volume" : 1392472.00
+    "date" : "2026-11-20",
+    "price" : 1435.10,
+    "dma50" : 1363.83,
+    "dma100" : 1453.33,
+    "dma200" : 1491.85,
+    "volume" : 2696895.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 5.19,
-    "pricePercentageAboveDma200" : 5.31,
+    "pricePercentageAboveDma50" : 4.74,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 5.19,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.08,
     "operatingProfitMarginPercentile" : 17.63,
     "netProfitMarginPercentile" : 8.78,
-    "totalTechnicalScore" : 25.36,
+    "totalTechnicalScore" : 24.99,
     "totalFundamentalScore" : 37.50,
-    "totalScore" : 62.87
+    "totalScore" : 62.49
   }
 }

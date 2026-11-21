@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SBICARD",
       "companyName" : "SBI Cards",
-      "marketCap" : 54496.00,
-      "peRatio" : 20.90,
+      "marketCap" : 55124.00,
+      "peRatio" : 21.10,
       "description" : "SBI Cards and Payment Services Limited is a non-deposit accepting systemically important nonbanking financial company registered with the RBI. The Company is engaged in issuing credit cards to consumers in India. It is headquartered in Gurgaon, Haryana. It is a subsidiary of India’s largest commercial bank, the State Bank of India. [1][2][3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 5.60,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.26,
+      "pricePercentageAboveDma200" : 5.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.53,
       "operatingProfitMarginPercentile" : 17.42,
       "netProfitMarginPercentile" : 6.90,
-      "totalTechnicalScore" : 15.99,
+      "totalTechnicalScore" : 15.82,
       "totalFundamentalScore" : 28.85,
-      "totalScore" : 44.84
+      "totalScore" : 44.67
     }
   },
   "attributes" : {
     "companyCode" : "SBICARD",
     "companyName" : "SBI Cards",
-    "marketCap" : 54496.00,
-    "peRatio" : 20.90,
+    "marketCap" : 55124.00,
+    "peRatio" : 21.10,
     "description" : "SBI Cards and Payment Services Limited is a non-deposit accepting systemically important nonbanking financial company registered with the RBI. The Company is engaged in issuing credit cards to consumers in India. It is headquartered in Gurgaon, Haryana. It is a subsidiary of India’s largest commercial bank, the State Bank of India. [1][2][3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 874.10,
-    "dma50" : 882.64,
-    "dma100" : null,
-    "dma200" : 859.27,
-    "volume" : 406565.00
-  }, {
     "date" : "2025-11-21",
     "price" : 878.05,
     "dma50" : 882.46,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 675.30,
     "dma50" : 715.89,
-    "dma100" : 783.18,
+    "dma100" : null,
     "dma200" : 797.86,
     "volume" : 1122420.00
   }, {
@@ -757,7 +750,7 @@
     "date" : "2026-04-22",
     "price" : 686.20,
     "dma50" : 713.36,
-    "dma100" : 779.37,
+    "dma100" : 779.36,
     "dma200" : 795.58,
     "volume" : 1252227.00
   }, {
@@ -778,7 +771,7 @@
     "date" : "2026-04-27",
     "price" : 670.70,
     "dma50" : 708.88,
-    "dma100" : 773.27,
+    "dma100" : 773.26,
     "dma200" : 791.98,
     "volume" : 2303464.00
   }, {
@@ -792,7 +785,7 @@
     "date" : "2026-04-29",
     "price" : 651.20,
     "dma50" : 704.30,
-    "dma100" : 768.69,
+    "dma100" : 768.68,
     "dma200" : 789.16,
     "volume" : 2031233.00
   }, {
@@ -946,7 +939,7 @@
     "date" : "2026-06-02",
     "price" : 605.50,
     "dma50" : 659.85,
-    "dma100" : 717.50,
+    "dma100" : 717.49,
     "dma200" : 757.77,
     "volume" : 2019244.00
   }, {
@@ -1002,7 +995,7 @@
     "date" : "2026-06-12",
     "price" : 589.45,
     "dma50" : 639.02,
-    "dma100" : 694.38,
+    "dma100" : 694.37,
     "dma200" : 744.41,
     "volume" : 547549.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 610.66,
     "dma200" : 650.22,
     "volume" : 799508.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 579.25,
+    "dma50" : 581.88,
+    "dma100" : 610.52,
+    "dma200" : 649.51,
+    "volume" : 801009.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 572.65,
-    "dma50" : 581.99,
-    "dma100" : 610.66,
-    "dma200" : 650.22,
-    "volume" : 799508.00
+    "date" : "2026-11-20",
+    "price" : 579.25,
+    "dma50" : 581.88,
+    "dma100" : 610.52,
+    "dma200" : 649.51,
+    "volume" : 801009.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2113,15 +2113,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 5.60,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.26,
+    "pricePercentageAboveDma200" : 5.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.53,
     "operatingProfitMarginPercentile" : 17.42,
     "netProfitMarginPercentile" : 6.90,
-    "totalTechnicalScore" : 15.99,
+    "totalTechnicalScore" : 15.82,
     "totalFundamentalScore" : 28.85,
-    "totalScore" : 44.84
+    "totalScore" : 44.67
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JINDALSTEL",
       "companyName" : "Jindal Steel",
-      "marketCap" : 113689.00,
-      "peRatio" : 35.30,
+      "marketCap" : 115464.00,
+      "peRatio" : 35.80,
       "description" : "Jindal Steel & Power Ltd is one of the India's leading steel producers with significant presence in sectors like steel and mining. The group has global presence through subsidiaries, mainly in Australia, Botswana, Indonesia, Mauritius, Mozambique, Madagascar, Namibia, South Africa, Tanzania and Zambia.[1]"
     },
     "companyScore" : {
@@ -18,35 +18,28 @@
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 0.00,
+      "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 4.92,
-      "pricePercentageAboveDma200" : 4.97,
+      "pricePercentageAboveDma50" : 4.89,
+      "pricePercentageAboveDma100" : 4.84,
+      "pricePercentageAboveDma200" : 4.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 0.69,
       "netProfitMarginPercentile" : 4.15,
-      "totalTechnicalScore" : 34.85,
+      "totalTechnicalScore" : 39.62,
       "totalFundamentalScore" : 18.09,
-      "totalScore" : 52.94
+      "totalScore" : 57.71
     }
   },
   "attributes" : {
     "companyCode" : "JINDALSTEL",
     "companyName" : "Jindal Steel",
-    "marketCap" : 113689.00,
-    "peRatio" : 35.30,
+    "marketCap" : 115464.00,
+    "peRatio" : 35.80,
     "description" : "Jindal Steel & Power Ltd is one of the India's leading steel producers with significant presence in sectors like steel and mining. The group has global presence through subsidiaries, mainly in Australia, Botswana, Indonesia, Mauritius, Mozambique, Madagascar, Namibia, South Africa, Tanzania and Zambia.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1069.40,
-    "dma50" : 1043.88,
-    "dma100" : null,
-    "dma200" : 980.51,
-    "volume" : 850436.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1038.60,
     "dma50" : 1043.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1287.70,
     "dma50" : 1171.36,
-    "dma100" : 1114.22,
+    "dma100" : null,
     "dma200" : 1077.35,
     "volume" : 1918805.00
   }, {
@@ -778,7 +771,7 @@
     "date" : "2026-04-27",
     "price" : 1278.20,
     "dma50" : 1189.40,
-    "dma100" : 1126.13,
+    "dma100" : 1126.12,
     "dma200" : 1086.80,
     "volume" : 1216340.00
   }, {
@@ -1303,7 +1296,7 @@
     "date" : "2026-08-13",
     "price" : 1099.90,
     "dma50" : 1099.97,
-    "dma100" : 1150.04,
+    "dma100" : 1150.03,
     "dma200" : 1105.02,
     "volume" : 397395.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1096.22,
     "dma200" : 1107.16,
     "volume" : 1328362.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1131.90,
+    "dma50" : 1107.91,
+    "dma100" : 1096.93,
+    "dma200" : 1107.41,
+    "volume" : 1462083.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1114.50,
-    "dma50" : 1106.94,
-    "dma100" : 1096.22,
-    "dma200" : 1107.16,
-    "volume" : 1328362.00
+    "date" : "2026-11-20",
+    "price" : 1131.90,
+    "dma50" : 1107.91,
+    "dma100" : 1096.93,
+    "dma200" : 1107.41,
+    "volume" : 1462083.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2671,17 +2671,17 @@
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
-    "dma50HigherThanDma200" : 0.00,
+    "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 4.92,
-    "pricePercentageAboveDma200" : 4.97,
+    "pricePercentageAboveDma50" : 4.89,
+    "pricePercentageAboveDma100" : 4.84,
+    "pricePercentageAboveDma200" : 4.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 0.69,
     "netProfitMarginPercentile" : 4.15,
-    "totalTechnicalScore" : 34.85,
+    "totalTechnicalScore" : 39.62,
     "totalFundamentalScore" : 18.09,
-    "totalScore" : 52.94
+    "totalScore" : 57.71
   }
 }

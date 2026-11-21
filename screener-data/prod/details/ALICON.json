@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ALICON",
       "companyName" : "Alicon Cast.",
-      "marketCap" : 1672.00,
-      "peRatio" : 40.90,
+      "marketCap" : 1766.00,
+      "peRatio" : 43.20,
       "description" : "Alicon Castalloy manufactures aluminium castings including cylinder heads, support brackets, intake manifolds, crankshafts, and engine brackets for the auto industry. It has a presence in 18 countries and is a part of Alicon Group. The co. was established as Enkei Castalloy Ltd, a joint venture between Pegasus Castalloy Ltd and Enkei Corporation (now Alicon Castalloy), in Japan; one of the largest manufacturers of alloy wheels in the world. [1] [2] [3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 3.95,
-      "pricePercentageAboveDma100" : 3.26,
-      "pricePercentageAboveDma200" : 3.38,
+      "pricePercentageAboveDma50" : 3.67,
+      "pricePercentageAboveDma100" : 2.92,
+      "pricePercentageAboveDma200" : 3.03,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 16.82,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 40.58,
+      "totalTechnicalScore" : 39.63,
       "totalFundamentalScore" : 43.46,
-      "totalScore" : 84.04
+      "totalScore" : 83.09
     }
   },
   "attributes" : {
     "companyCode" : "ALICON",
     "companyName" : "Alicon Cast.",
-    "marketCap" : 1672.00,
-    "peRatio" : 40.90,
+    "marketCap" : 1766.00,
+    "peRatio" : 43.20,
     "description" : "Alicon Castalloy manufactures aluminium castings including cylinder heads, support brackets, intake manifolds, crankshafts, and engine brackets for the auto industry. It has a presence in 18 countries and is a part of Alicon Group. The co. was established as Enkei Castalloy Ltd, a joint venture between Pegasus Castalloy Ltd and Enkei Corporation (now Alicon Castalloy), in Japan; one of the largest manufacturers of alloy wheels in the world. [1] [2] [3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 860.05,
-    "dma50" : 884.15,
-    "dma100" : null,
-    "dma200" : 892.90,
-    "volume" : 17187.00
-  }, {
     "date" : "2025-11-21",
     "price" : 902.05,
     "dma50" : 884.86,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 701.90,
     "dma50" : 695.05,
-    "dma100" : 759.13,
+    "dma100" : null,
     "dma200" : 795.27,
     "volume" : 38552.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 755.45,
     "dma200" : 768.97,
     "volume" : 84625.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1075.75,
+    "dma50" : 850.37,
+    "dma100" : 759.60,
+    "dma200" : 772.02,
+    "volume" : 905054.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1018.50,
-    "dma50" : 841.18,
-    "dma100" : 755.45,
-    "dma200" : 768.97,
-    "volume" : 84625.00
+    "date" : "2026-11-20",
+    "price" : 1075.75,
+    "dma50" : 850.37,
+    "dma100" : 759.60,
+    "dma200" : 772.02,
+    "volume" : 905054.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 3.95,
-    "pricePercentageAboveDma100" : 3.26,
-    "pricePercentageAboveDma200" : 3.38,
+    "pricePercentageAboveDma50" : 3.67,
+    "pricePercentageAboveDma100" : 2.92,
+    "pricePercentageAboveDma200" : 3.03,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 16.82,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 40.58,
+    "totalTechnicalScore" : 39.63,
     "totalFundamentalScore" : 43.46,
-    "totalScore" : 84.04
+    "totalScore" : 83.09
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FOSECOIND",
       "companyName" : "Foseco India",
-      "marketCap" : 4490.00,
-      "peRatio" : 36.90,
+      "marketCap" : 4456.00,
+      "peRatio" : 36.60,
       "description" : "Incorporated in 1958, Foseco India Limited is engaged in the manufacture of products used in the metallurgical industry which are in the nature of additives and consumables that improve the physical properties and performance of castings. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 4.89,
-      "pricePercentageAboveDma200" : 4.64,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 4.93,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.07,
       "operatingProfitMarginPercentile" : 17.69,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 39.60,
+      "totalTechnicalScore" : 39.72,
       "totalFundamentalScore" : 45.76,
-      "totalScore" : 85.36
+      "totalScore" : 85.48
     }
   },
   "attributes" : {
     "companyCode" : "FOSECOIND",
     "companyName" : "Foseco India",
-    "marketCap" : 4490.00,
-    "peRatio" : 36.90,
+    "marketCap" : 4456.00,
+    "peRatio" : 36.60,
     "description" : "Incorporated in 1958, Foseco India Limited is engaged in the manufacture of products used in the metallurgical industry which are in the nature of additives and consumables that improve the physical properties and performance of castings. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 5304.50,
-    "dma50" : 5574.62,
-    "dma100" : null,
-    "dma200" : 5016.76,
-    "volume" : 961.00
-  }, {
     "date" : "2025-11-21",
     "price" : 5216.00,
     "dma50" : 5560.56,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 4636.80,
     "dma50" : 4807.68,
-    "dma100" : 4859.50,
+    "dma100" : null,
     "dma200" : 4902.94,
     "volume" : 3857.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5823.74,
     "dma200" : 5557.41,
     "volume" : 2877.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 5912.50,
+    "dma50" : 6038.00,
+    "dma100" : 5829.55,
+    "dma200" : 5560.94,
+    "volume" : 4426.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 5957.00,
-    "dma50" : 6043.13,
-    "dma100" : 5823.74,
-    "dma200" : 5557.41,
-    "volume" : 2877.00
+    "date" : "2026-11-20",
+    "price" : 5912.50,
+    "dma50" : 6038.00,
+    "dma100" : 5829.55,
+    "dma200" : 5560.94,
+    "volume" : 4426.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 4.89,
-    "pricePercentageAboveDma200" : 4.64,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 4.93,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.07,
     "operatingProfitMarginPercentile" : 17.69,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 39.60,
+    "totalTechnicalScore" : 39.72,
     "totalFundamentalScore" : 45.76,
-    "totalScore" : 85.36
+    "totalScore" : 85.48
   }
 }

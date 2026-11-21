@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IGL",
       "companyName" : "Indraprastha Gas",
-      "marketCap" : 21284.00,
-      "peRatio" : 21.30,
+      "marketCap" : 21671.00,
+      "peRatio" : 21.70,
       "description" : "Incorporated in the year 1998, Indraprastha Gas Limited (IGL) is in the business of city gas distribution in the National Capital Territory of Delhi. IGL also supplies the gas to the near by regions of Noida, Greater Noida, Ghaziabad, Hapur, Gurugram, Meerut, Shamli, Kanpur, Muzaffarnagar, Karnal and Rewari, Hamirpur, Fatehpur, Ajmer, Pali, Rajasmand. IGL is formed as a JV promoted by GAIL (India) Limited and Bharat Petroleum Corporation (BPCL). Government of NCT of Delhi is holding 5% equity. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.76,
-      "pricePercentageAboveDma100" : 4.87,
-      "pricePercentageAboveDma200" : 5.20,
+      "pricePercentageAboveDma50" : 4.68,
+      "pricePercentageAboveDma100" : 4.78,
+      "pricePercentageAboveDma200" : 5.11,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 0.23,
       "netProfitMarginPercentile" : 0.11,
-      "totalTechnicalScore" : 24.83,
+      "totalTechnicalScore" : 24.56,
       "totalFundamentalScore" : 15.04,
-      "totalScore" : 39.87
+      "totalScore" : 39.60
     }
   },
   "attributes" : {
     "companyCode" : "IGL",
     "companyName" : "Indraprastha Gas",
-    "marketCap" : 21284.00,
-    "peRatio" : 21.30,
+    "marketCap" : 21671.00,
+    "peRatio" : 21.70,
     "description" : "Incorporated in the year 1998, Indraprastha Gas Limited (IGL) is in the business of city gas distribution in the National Capital Territory of Delhi. IGL also supplies the gas to the near by regions of Noida, Greater Noida, Ghaziabad, Hapur, Gurugram, Meerut, Shamli, Kanpur, Muzaffarnagar, Karnal and Rewari, Hamirpur, Fatehpur, Ajmer, Pali, Rajasmand. IGL is formed as a JV promoted by GAIL (India) Limited and Bharat Petroleum Corporation (BPCL). Government of NCT of Delhi is holding 5% equity. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 204.06,
-    "dma50" : 210.88,
-    "dma100" : null,
-    "dma200" : 209.88,
-    "volume" : 2861426.00
-  }, {
     "date" : "2025-11-21",
     "price" : 201.40,
     "dma50" : 210.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 166.39,
     "dma50" : 163.27,
-    "dma100" : 175.11,
+    "dma100" : null,
     "dma200" : 185.34,
     "volume" : 9948082.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 148.29,
     "dma200" : 158.20,
     "volume" : 2096523.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 154.79,
+    "dma50" : 145.35,
+    "dma100" : 148.19,
+    "dma200" : 158.17,
+    "volume" : 2147736.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 152.03,
-    "dma50" : 144.97,
-    "dma100" : 148.29,
-    "dma200" : 158.20,
-    "volume" : 2096523.00
+    "date" : "2026-11-20",
+    "price" : 154.79,
+    "dma50" : 145.35,
+    "dma100" : 148.19,
+    "dma200" : 158.17,
+    "volume" : 2147736.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.76,
-    "pricePercentageAboveDma100" : 4.87,
-    "pricePercentageAboveDma200" : 5.20,
+    "pricePercentageAboveDma50" : 4.68,
+    "pricePercentageAboveDma100" : 4.78,
+    "pricePercentageAboveDma200" : 5.11,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 0.23,
     "netProfitMarginPercentile" : 0.11,
-    "totalTechnicalScore" : 24.83,
+    "totalTechnicalScore" : 24.56,
     "totalFundamentalScore" : 15.04,
-    "totalScore" : 39.87
+    "totalScore" : 39.60
   }
 }

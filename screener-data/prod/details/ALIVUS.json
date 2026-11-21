@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ALIVUS",
       "companyName" : "Alivus Life",
-      "marketCap" : 17829.00,
-      "peRatio" : 25.90,
+      "marketCap" : 17669.00,
+      "peRatio" : 25.70,
       "description" : "Glenmark Life Sciences, a subsidiary of Nirma Limited, a diversified conglomerate with interest in consumer products, cement, chemicals and pharmaceuticals. It is a leading developer and manufacturer of select, high-value, non-commoditized, active pharmaceutical ingredients (APIs) in chronic therapeutic areas. The company further operates in Contract Development and manufacturing operations to offer services to specialty Pharmaceutical companies."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.52,
-      "pricePercentageAboveDma200" : 4.04,
+      "pricePercentageAboveDma50" : 4.84,
+      "pricePercentageAboveDma100" : 4.58,
+      "pricePercentageAboveDma200" : 4.11,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.55,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 48.35,
+      "totalTechnicalScore" : 48.53,
       "totalFundamentalScore" : 44.55,
-      "totalScore" : 92.89
+      "totalScore" : 93.07
     }
   },
   "attributes" : {
     "companyCode" : "ALIVUS",
     "companyName" : "Alivus Life",
-    "marketCap" : 17829.00,
-    "peRatio" : 25.90,
+    "marketCap" : 17669.00,
+    "peRatio" : 25.70,
     "description" : "Glenmark Life Sciences, a subsidiary of Nirma Limited, a diversified conglomerate with interest in consumer products, cement, chemicals and pharmaceuticals. It is a leading developer and manufacturer of select, high-value, non-commoditized, active pharmaceutical ingredients (APIs) in chronic therapeutic areas. The company further operates in Contract Development and manufacturing operations to offer services to specialty Pharmaceutical companies."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 909.90,
-    "dma50" : 930.69,
-    "dma100" : null,
-    "dma200" : 979.49,
-    "volume" : 17555.00
-  }, {
     "date" : "2025-11-21",
     "price" : 903.85,
     "dma50" : 929.64,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1068.05,
     "dma50" : 972.02,
-    "dma100" : 926.20,
+    "dma100" : null,
     "dma200" : 953.02,
     "volume" : 91562.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1322.82,
     "dma200" : 1217.30,
     "volume" : 220333.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1436.90,
+    "dma50" : 1392.02,
+    "dma100" : 1325.63,
+    "dma200" : 1219.49,
+    "volume" : 151393.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1449.90,
-    "dma50" : 1390.19,
-    "dma100" : 1322.82,
-    "dma200" : 1217.30,
-    "volume" : 220333.00
+    "date" : "2026-11-20",
+    "price" : 1436.90,
+    "dma50" : 1392.02,
+    "dma100" : 1325.63,
+    "dma200" : 1219.49,
+    "volume" : 151393.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-06-30",
@@ -2063,15 +2063,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.52,
-    "pricePercentageAboveDma200" : 4.04,
+    "pricePercentageAboveDma50" : 4.84,
+    "pricePercentageAboveDma100" : 4.58,
+    "pricePercentageAboveDma200" : 4.11,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.55,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 48.35,
+    "totalTechnicalScore" : 48.53,
     "totalFundamentalScore" : 44.55,
-    "totalScore" : 92.89
+    "totalScore" : 93.07
   }
 }

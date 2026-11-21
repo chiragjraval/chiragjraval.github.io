@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CREST",
       "companyName" : "Crest Ventures",
-      "marketCap" : 1009.00,
-      "peRatio" : 25.90,
+      "marketCap" : 1031.00,
+      "peRatio" : 26.50,
       "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 17.33,
       "netProfitMarginPercentile" : 5.40,
-      "totalTechnicalScore" : 20.37,
+      "totalTechnicalScore" : 25.04,
       "totalFundamentalScore" : 33.10,
-      "totalScore" : 53.47
+      "totalScore" : 58.14
     }
   },
   "attributes" : {
     "companyCode" : "CREST",
     "companyName" : "Crest Ventures",
-    "marketCap" : 1009.00,
-    "peRatio" : 25.90,
+    "marketCap" : 1031.00,
+    "peRatio" : 26.50,
     "description" : "Incorporated in 1982, Crest Ventures Ltd is in the business of real estate and related services, financial services and investment and credit[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 364.05,
-    "dma50" : 370.84,
-    "dma100" : null,
-    "dma200" : 386.04,
-    "volume" : 8557.00
-  }, {
     "date" : "2025-11-21",
     "price" : 368.35,
     "dma50" : 370.74,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 361.80,
     "dma50" : 345.33,
-    "dma100" : 359.23,
+    "dma100" : null,
     "dma200" : 366.27,
     "volume" : 6817.00
   }, {
@@ -967,7 +960,7 @@
     "date" : "2026-06-05",
     "price" : 361.60,
     "dma50" : 353.92,
-    "dma100" : 354.20,
+    "dma100" : 354.19,
     "dma200" : 364.39,
     "volume" : 163554.00
   }, {
@@ -1198,7 +1191,7 @@
     "date" : "2026-07-23",
     "price" : 372.35,
     "dma50" : 371.46,
-    "dma100" : 358.04,
+    "dma100" : 358.03,
     "dma200" : 368.52,
     "volume" : 861.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 365.06,
     "dma200" : 364.86,
     "volume" : 840.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 362.45,
+    "dma50" : 360.58,
+    "dma100" : 364.90,
+    "dma200" : 364.83,
+    "volume" : 3732.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 354.50,
-    "dma50" : 360.51,
-    "dma100" : 365.06,
-    "dma200" : 364.86,
-    "volume" : 840.00
+    "date" : "2026-11-20",
+    "price" : 362.45,
+    "dma50" : 360.58,
+    "dma100" : 364.90,
+    "dma200" : 364.83,
+    "volume" : 3732.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 7.41
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 17.33,
     "netProfitMarginPercentile" : 5.40,
-    "totalTechnicalScore" : 20.37,
+    "totalTechnicalScore" : 25.04,
     "totalFundamentalScore" : 33.10,
-    "totalScore" : 53.47
+    "totalScore" : 58.14
   }
 }

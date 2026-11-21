@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "APLLTD",
       "companyName" : "Alembic Pharma",
-      "marketCap" : 20631.00,
-      "peRatio" : 23.00,
+      "marketCap" : 20461.00,
+      "peRatio" : 22.80,
       "description" : "Alembic Pharmaceuticals is in the business of development, manufacturing, and marketing of Pharmaceuticals products i.e. Formulations and Active Pharmaceutical Ingredients. The company has 3 R&D and 5 manufacturing facilities."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.07,
-      "pricePercentageAboveDma100" : 3.76,
-      "pricePercentageAboveDma200" : 3.70,
+      "pricePercentageAboveDma50" : 4.16,
+      "pricePercentageAboveDma100" : 3.83,
+      "pricePercentageAboveDma200" : 3.77,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.14,
       "netProfitMarginPercentile" : 7.78,
-      "totalTechnicalScore" : 46.53,
+      "totalTechnicalScore" : 46.76,
       "totalFundamentalScore" : 43.23,
-      "totalScore" : 89.76
+      "totalScore" : 89.98
     }
   },
   "attributes" : {
     "companyCode" : "APLLTD",
     "companyName" : "Alembic Pharma",
-    "marketCap" : 20631.00,
-    "peRatio" : 23.00,
+    "marketCap" : 20461.00,
+    "peRatio" : 22.80,
     "description" : "Alembic Pharmaceuticals is in the business of development, manufacturing, and marketing of Pharmaceuticals products i.e. Formulations and Active Pharmaceutical Ingredients. The company has 3 R&D and 5 manufacturing facilities."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 899.45,
-    "dma50" : 927.86,
-    "dma100" : null,
-    "dma200" : 949.00,
-    "volume" : 61586.00
-  }, {
     "date" : "2025-11-21",
     "price" : 901.00,
     "dma50" : 926.80,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 757.50,
     "dma50" : 730.29,
-    "dma100" : 783.20,
+    "dma100" : null,
     "dma200" : 832.19,
     "volume" : 79421.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 840.70,
     "dma200" : 833.27,
     "volume" : 350577.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1040.95,
+    "dma50" : 891.67,
+    "dma100" : 842.88,
+    "dma200" : 835.33,
+    "volume" : 203860.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1049.60,
-    "dma50" : 885.58,
-    "dma100" : 840.70,
-    "dma200" : 833.27,
-    "volume" : 350577.00
+    "date" : "2026-11-20",
+    "price" : 1040.95,
+    "dma50" : 891.67,
+    "dma100" : 842.88,
+    "dma200" : 835.33,
+    "volume" : 203860.00
   },
   "quarterlyResults" : [ {
     "date" : "2011-03-31",
@@ -2433,15 +2433,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.07,
-    "pricePercentageAboveDma100" : 3.76,
-    "pricePercentageAboveDma200" : 3.70,
+    "pricePercentageAboveDma50" : 4.16,
+    "pricePercentageAboveDma100" : 3.83,
+    "pricePercentageAboveDma200" : 3.77,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.14,
     "netProfitMarginPercentile" : 7.78,
-    "totalTechnicalScore" : 46.53,
+    "totalTechnicalScore" : 46.76,
     "totalFundamentalScore" : 43.23,
-    "totalScore" : 89.76
+    "totalScore" : 89.98
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FORCEMOT",
       "companyName" : "Force Motors",
-      "marketCap" : 26936.00,
-      "peRatio" : 25.80,
+      "marketCap" : 26728.00,
+      "peRatio" : 25.60,
       "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
     },
     "companyScore" : {
@@ -18,35 +18,28 @@
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
-      "dma50HigherThanDma200" : 0.00,
+      "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.38,
-      "pricePercentageAboveDma100" : 4.28,
-      "pricePercentageAboveDma200" : 4.39,
+      "pricePercentageAboveDma50" : 4.44,
+      "pricePercentageAboveDma100" : 4.33,
+      "pricePercentageAboveDma200" : 4.44,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 33.05,
+      "totalTechnicalScore" : 38.22,
       "totalFundamentalScore" : 45.48,
-      "totalScore" : 78.53
+      "totalScore" : 83.69
     }
   },
   "attributes" : {
     "companyCode" : "FORCEMOT",
     "companyName" : "Force Motors",
-    "marketCap" : 26936.00,
-    "peRatio" : 25.80,
+    "marketCap" : 26728.00,
+    "peRatio" : 25.60,
     "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 17508.00,
-    "dma50" : 17394.74,
-    "dma100" : null,
-    "dma200" : 14408.57,
-    "volume" : 29325.00
-  }, {
     "date" : "2025-11-21",
     "price" : 16901.00,
     "dma50" : 17375.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 21925.00,
     "dma50" : 21537.34,
-    "dma100" : 20499.36,
+    "dma100" : null,
     "dma200" : 18531.93,
     "volume" : 92739.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 17884.60,
     "dma200" : 18215.63,
     "volume" : 114571.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 20285.00,
+    "dma50" : 18256.95,
+    "dma100" : 17901.65,
+    "dma200" : 18236.22,
+    "volume" : 61165.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 20443.00,
-    "dma50" : 18174.18,
-    "dma100" : 17884.60,
-    "dma200" : 18215.63,
-    "volume" : 114571.00
+    "date" : "2026-11-20",
+    "price" : 20285.00,
+    "dma50" : 18256.95,
+    "dma100" : 17901.65,
+    "dma200" : 18236.22,
+    "volume" : 61165.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2671,17 +2671,17 @@
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
-    "dma50HigherThanDma200" : 0.00,
+    "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.38,
-    "pricePercentageAboveDma100" : 4.28,
-    "pricePercentageAboveDma200" : 4.39,
+    "pricePercentageAboveDma50" : 4.44,
+    "pricePercentageAboveDma100" : 4.33,
+    "pricePercentageAboveDma200" : 4.44,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 33.05,
+    "totalTechnicalScore" : 38.22,
     "totalFundamentalScore" : 45.48,
-    "totalScore" : 78.53
+    "totalScore" : 83.69
   }
 }

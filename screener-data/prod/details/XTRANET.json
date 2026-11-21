@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "XTRANET",
       "companyName" : "Xtranet Techno.",
-      "marketCap" : 1335.00,
-      "peRatio" : 27.70,
+      "marketCap" : 1370.00,
+      "peRatio" : 28.40,
       "description" : "XtraNet Technologies delivers AI-driven, compliance-safe and secure cloud transformation. It combines predictive intelligence, zero-trust data controls, and automation with real time practical solutions"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma50" : 5.00,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.48,
+      "pricePercentageAboveDma200" : 3.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.60,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 18.61,
+      "totalTechnicalScore" : 18.33,
       "totalFundamentalScore" : 47.60,
-      "totalScore" : 66.20
+      "totalScore" : 65.92
     }
   },
   "attributes" : {
     "companyCode" : "XTRANET",
     "companyName" : "Xtranet Techno.",
-    "marketCap" : 1335.00,
-    "peRatio" : 27.70,
+    "marketCap" : 1370.00,
+    "peRatio" : 28.40,
     "description" : "XtraNet Technologies delivers AI-driven, compliance-safe and secure cloud transformation. It combines predictive intelligence, zero-trust data controls, and automation with real time practical solutions"
   },
   "technicalHistory" : [ {
@@ -585,14 +585,21 @@
     "dma100" : null,
     "dma200" : 195.64,
     "volume" : 165046.00
-  } ],
-  "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 255.30,
+  }, {
+    "date" : "2026-11-20",
+    "price" : 262.05,
     "dma50" : 262.13,
     "dma100" : null,
-    "dma200" : 195.64,
-    "volume" : 165046.00
+    "dma200" : 196.30,
+    "volume" : 525075.00
+  } ],
+  "latestTechnicalAttributes" : {
+    "date" : "2026-11-20",
+    "price" : 262.05,
+    "dma50" : 262.13,
+    "dma100" : null,
+    "dma200" : 196.30,
+    "volume" : 525075.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -663,15 +670,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma50" : 5.00,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.48,
+    "pricePercentageAboveDma200" : 3.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.60,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 18.61,
+    "totalTechnicalScore" : 18.33,
     "totalFundamentalScore" : 47.60,
-    "totalScore" : 66.20
+    "totalScore" : 65.92
   }
 }

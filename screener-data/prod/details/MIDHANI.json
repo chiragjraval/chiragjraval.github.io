@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MIDHANI",
       "companyName" : "Mishra Dhatu Nig",
-      "marketCap" : 7378.00,
-      "peRatio" : 49.40,
+      "marketCap" : 7254.00,
+      "peRatio" : 48.60,
       "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.10,
-      "pricePercentageAboveDma100" : 5.23,
-      "pricePercentageAboveDma200" : 5.04,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.29,
       "operatingProfitMarginPercentile" : 5.77,
       "netProfitMarginPercentile" : 3.14,
-      "totalTechnicalScore" : 25.38,
+      "totalTechnicalScore" : 25.61,
       "totalFundamentalScore" : 27.19,
-      "totalScore" : 52.57
+      "totalScore" : 52.81
     }
   },
   "attributes" : {
     "companyCode" : "MIDHANI",
     "companyName" : "Mishra Dhatu Nig",
-    "marketCap" : 7378.00,
-    "peRatio" : 49.40,
+    "marketCap" : 7254.00,
+    "peRatio" : 48.60,
     "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 353.15,
-    "dma50" : 380.80,
-    "dma100" : null,
-    "dma200" : 377.60,
-    "volume" : 224570.00
-  }, {
     "date" : "2025-11-21",
     "price" : 345.70,
     "dma50" : 379.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 378.55,
     "dma50" : 333.03,
-    "dma100" : 334.40,
+    "dma100" : null,
     "dma200" : 350.43,
     "volume" : 3324168.00
   }, {
@@ -904,7 +897,7 @@
     "date" : "2026-05-22",
     "price" : 413.20,
     "dma50" : 373.45,
-    "dma100" : 354.27,
+    "dma100" : 354.28,
     "dma200" : 360.37,
     "volume" : 1633788.00
   }, {
@@ -1338,7 +1331,7 @@
     "date" : "2026-08-20",
     "price" : 420.50,
     "dma50" : 414.98,
-    "dma100" : 400.44,
+    "dma100" : 400.45,
     "dma200" : 387.76,
     "volume" : 521484.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 412.80,
     "dma200" : 397.42,
     "volume" : 1058919.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 387.20,
+    "dma50" : 401.63,
+    "dma100" : 412.49,
+    "dma200" : 397.32,
+    "volume" : 478455.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 393.85,
-    "dma50" : 402.22,
-    "dma100" : 412.80,
-    "dma200" : 397.42,
-    "volume" : 1058919.00
+    "date" : "2026-11-20",
+    "price" : 387.20,
+    "dma50" : 401.63,
+    "dma100" : 412.49,
+    "dma200" : 397.32,
+    "volume" : 478455.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2193,15 +2193,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.10,
-    "pricePercentageAboveDma100" : 5.23,
-    "pricePercentageAboveDma200" : 5.04,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.29,
     "operatingProfitMarginPercentile" : 5.77,
     "netProfitMarginPercentile" : 3.14,
-    "totalTechnicalScore" : 25.38,
+    "totalTechnicalScore" : 25.61,
     "totalFundamentalScore" : 27.19,
-    "totalScore" : 52.57
+    "totalScore" : 52.81
   }
 }

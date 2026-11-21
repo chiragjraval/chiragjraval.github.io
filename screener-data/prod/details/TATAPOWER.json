@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "TATAPOWER",
       "companyName" : "Tata Power Co.",
-      "marketCap" : 108642.00,
+      "marketCap" : 108546.00,
       "peRatio" : 25.30,
       "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
     },
@@ -21,7 +21,7 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma100" : 5.33,
       "pricePercentageAboveDma200" : 5.46,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "TATAPOWER",
     "companyName" : "Tata Power Co.",
-    "marketCap" : 108642.00,
+    "marketCap" : 108546.00,
     "peRatio" : 25.30,
     "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 388.10,
-    "dma50" : 393.52,
-    "dma100" : null,
-    "dma200" : 392.02,
-    "volume" : 4410129.00
-  }, {
     "date" : "2025-11-21",
     "price" : 387.00,
     "dma50" : 393.26,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 433.60,
     "dma50" : 390.82,
-    "dma100" : 380.59,
+    "dma100" : null,
     "dma200" : 386.05,
     "volume" : 13682860.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 364.53,
     "dma200" : 374.30,
     "volume" : 19453938.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 339.70,
+    "dma50" : 354.23,
+    "dma100" : 364.07,
+    "dma200" : 373.96,
+    "volume" : 9909479.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 340.00,
-    "dma50" : 354.83,
-    "dma100" : 364.53,
-    "dma200" : 374.30,
-    "volume" : 19453938.00
+    "date" : "2026-11-20",
+    "price" : 339.70,
+    "dma50" : 354.23,
+    "dma100" : 364.07,
+    "dma200" : 373.96,
+    "volume" : 9909479.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,7 +2674,7 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma100" : 5.33,
     "pricePercentageAboveDma200" : 5.46,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,

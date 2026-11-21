@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ZENTEC",
       "companyName" : "Zen Technologies",
-      "marketCap" : 15404.00,
-      "peRatio" : 72.50,
+      "marketCap" : 15177.00,
+      "peRatio" : 71.40,
       "description" : "Zen Technologies Limited was incorporated in 1996. The company designs develop and manufacture combat training solutions and Counter-drone solutions for defense and security forces. It is actively involved in the indigenization of technologies, which are beneficial to Indian armed forces, state police forces, and paramilitary forces. Zen Technologies is headquartered in Hyderabad, India with offices in India, UAE, and the USA. [1] [2] [3]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.13,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.49,
       "operatingProfitMarginPercentile" : 19.34,
       "netProfitMarginPercentile" : 9.44,
-      "totalTechnicalScore" : 34.84,
+      "totalTechnicalScore" : 30.06,
       "totalFundamentalScore" : 42.27,
-      "totalScore" : 77.11
+      "totalScore" : 72.33
     }
   },
   "attributes" : {
     "companyCode" : "ZENTEC",
     "companyName" : "Zen Technologies",
-    "marketCap" : 15404.00,
-    "peRatio" : 72.50,
+    "marketCap" : 15177.00,
+    "peRatio" : 71.40,
     "description" : "Zen Technologies Limited was incorporated in 1996. The company designs develop and manufacture combat training solutions and Counter-drone solutions for defense and security forces. It is actively involved in the indigenization of technologies, which are beneficial to Indian armed forces, state police forces, and paramilitary forces. Zen Technologies is headquartered in Hyderabad, India with offices in India, UAE, and the USA. [1] [2] [3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1445.80,
-    "dma50" : 1436.36,
-    "dma100" : null,
-    "dma200" : 1557.70,
-    "volume" : 1497571.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1412.60,
     "dma50" : 1435.43,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1643.90,
     "dma50" : 1419.82,
-    "dma100" : 1375.33,
+    "dma100" : null,
     "dma200" : 1447.94,
     "volume" : 2612626.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1727.20,
     "dma200" : 1652.04,
     "volume" : 166788.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1680.90,
+    "dma50" : 1687.10,
+    "dma100" : 1726.27,
+    "dma200" : 1652.33,
+    "volume" : 270933.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1706.00,
-    "dma50" : 1687.35,
-    "dma100" : 1727.20,
-    "dma200" : 1652.04,
-    "volume" : 166788.00
+    "date" : "2026-11-20",
+    "price" : 1680.90,
+    "dma50" : 1687.10,
+    "dma100" : 1726.27,
+    "dma200" : 1652.33,
+    "volume" : 270933.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 79.20
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.13,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.49,
     "operatingProfitMarginPercentile" : 19.34,
     "netProfitMarginPercentile" : 9.44,
-    "totalTechnicalScore" : 34.84,
+    "totalTechnicalScore" : 30.06,
     "totalFundamentalScore" : 42.27,
-    "totalScore" : 77.11
+    "totalScore" : 72.33
   }
 }

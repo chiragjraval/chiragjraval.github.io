@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SCI",
       "companyName" : "S C I",
-      "marketCap" : 11612.00,
-      "peRatio" : 5.79,
+      "marketCap" : 11972.00,
+      "peRatio" : 5.97,
       "description" : "Shipping Corporation of India is engaged involved in business of transporting goods and passengers."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.54,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.40,
+      "pricePercentageAboveDma200" : 5.25,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 21.31,
+      "totalTechnicalScore" : 20.86,
       "totalFundamentalScore" : 47.59,
-      "totalScore" : 68.89
+      "totalScore" : 68.45
     }
   },
   "attributes" : {
     "companyCode" : "SCI",
     "companyName" : "S C I",
-    "marketCap" : 11612.00,
-    "peRatio" : 5.79,
+    "marketCap" : 11972.00,
+    "peRatio" : 5.97,
     "description" : "Shipping Corporation of India is engaged involved in business of transporting goods and passengers."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 248.85,
-    "dma50" : 242.31,
-    "dma100" : null,
-    "dma200" : 219.45,
-    "volume" : 7080165.00
-  }, {
     "date" : "2025-11-21",
     "price" : 241.95,
     "dma50" : 242.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 299.96,
     "dma50" : 245.18,
-    "dma100" : 234.95,
+    "dma100" : null,
     "dma200" : 231.07,
     "volume" : 47126200.00
   }, {
@@ -841,7 +834,7 @@
     "date" : "2026-05-11",
     "price" : 340.65,
     "dma50" : 273.85,
-    "dma100" : 246.00,
+    "dma100" : 245.99,
     "dma200" : 241.42,
     "volume" : 38410785.00
   }, {
@@ -1058,7 +1051,7 @@
     "date" : "2026-06-24",
     "price" : 323.10,
     "dma50" : 299.43,
-    "dma100" : 275.00,
+    "dma100" : 274.99,
     "dma200" : 259.94,
     "volume" : 9358517.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 279.73,
     "dma200" : 270.84,
     "volume" : 2884279.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 257.03,
+    "dma50" : 268.44,
+    "dma100" : 279.25,
+    "dma200" : 270.70,
+    "volume" : 3455321.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 249.30,
-    "dma50" : 268.91,
-    "dma100" : 279.73,
-    "dma200" : 270.84,
-    "volume" : 2884279.00
+    "date" : "2026-11-20",
+    "price" : 257.03,
+    "dma50" : 268.44,
+    "dma100" : 279.25,
+    "dma200" : 270.70,
+    "volume" : 3455321.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.54,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.40,
+    "pricePercentageAboveDma200" : 5.25,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 21.31,
+    "totalTechnicalScore" : 20.86,
     "totalFundamentalScore" : 47.59,
-    "totalScore" : 68.89
+    "totalScore" : 68.45
   }
 }

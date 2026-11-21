@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BALKRISIND",
       "companyName" : "Balkrishna Inds",
-      "marketCap" : 44991.00,
-      "peRatio" : 31.60,
+      "marketCap" : 45696.00,
+      "peRatio" : 32.10,
       "description" : "Balkrishna Industries Limited (BKT) started its Off-Highway tyre business in 1987. For over 30 years, BKT has successfully focused on specialist segments such as agricultural, construction and industrial as well as earthmoving, port and mining, ATV, and gardening applications. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.74,
-      "pricePercentageAboveDma100" : 4.76,
-      "pricePercentageAboveDma200" : 4.83,
+      "pricePercentageAboveDma50" : 4.67,
+      "pricePercentageAboveDma100" : 4.68,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 5.42,
       "netProfitMarginPercentile" : 1.64,
-      "totalTechnicalScore" : 29.34,
+      "totalTechnicalScore" : 29.11,
       "totalFundamentalScore" : 25.37,
-      "totalScore" : 54.71
+      "totalScore" : 54.49
     }
   },
   "attributes" : {
     "companyCode" : "BALKRISIND",
     "companyName" : "Balkrishna Inds",
-    "marketCap" : 44991.00,
-    "peRatio" : 31.60,
+    "marketCap" : 45696.00,
+    "peRatio" : 32.10,
     "description" : "Balkrishna Industries Limited (BKT) started its Off-Highway tyre business in 1987. For over 30 years, BKT has successfully focused on specialist segments such as agricultural, construction and industrial as well as earthmoving, port and mining, ATV, and gardening applications. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 2299.70,
-    "dma50" : 2347.07,
-    "dma100" : null,
-    "dma200" : 2493.30,
-    "volume" : 291910.00
-  }, {
     "date" : "2025-11-21",
     "price" : 2319.50,
     "dma50" : 2345.99,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 2282.00,
     "dma50" : 2282.07,
-    "dma100" : 2352.04,
+    "dma100" : null,
     "dma200" : 2394.51,
     "volume" : 182297.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2221.27,
     "dma200" : 2252.90,
     "volume" : 98247.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 2363.80,
+    "dma50" : 2218.89,
+    "dma100" : 2223.10,
+    "dma200" : 2254.00,
+    "volume" : 80501.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 2327.30,
-    "dma50" : 2212.97,
-    "dma100" : 2221.27,
-    "dma200" : 2252.90,
-    "volume" : 98247.00
+    "date" : "2026-11-20",
+    "price" : 2363.80,
+    "dma50" : 2218.89,
+    "dma100" : 2223.10,
+    "dma200" : 2254.00,
+    "volume" : 80501.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.74,
-    "pricePercentageAboveDma100" : 4.76,
-    "pricePercentageAboveDma200" : 4.83,
+    "pricePercentageAboveDma50" : 4.67,
+    "pricePercentageAboveDma100" : 4.68,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 5.42,
     "netProfitMarginPercentile" : 1.64,
-    "totalTechnicalScore" : 29.34,
+    "totalTechnicalScore" : 29.11,
     "totalFundamentalScore" : 25.37,
-    "totalScore" : 54.71
+    "totalScore" : 54.49
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DHANBANK",
       "companyName" : "Dhanlaxmi Bank",
-      "marketCap" : 1555.00,
-      "peRatio" : 11.00,
+      "marketCap" : 1560.00,
+      "peRatio" : 11.10,
       "description" : "Incorporated in 1927, Dhanlaxmi Bank Ltd is in the business of providing banking services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.20,
-      "pricePercentageAboveDma100" : 4.01,
+      "pricePercentageAboveDma50" : 4.22,
+      "pricePercentageAboveDma100" : 4.00,
       "pricePercentageAboveDma200" : 3.68,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 17.05,
       "netProfitMarginPercentile" : 9.13,
-      "totalTechnicalScore" : 46.89,
+      "totalTechnicalScore" : 46.90,
       "totalFundamentalScore" : 42.09,
-      "totalScore" : 88.98
+      "totalScore" : 88.99
     }
   },
   "attributes" : {
     "companyCode" : "DHANBANK",
     "companyName" : "Dhanlaxmi Bank",
-    "marketCap" : 1555.00,
-    "peRatio" : 11.00,
+    "marketCap" : 1560.00,
+    "peRatio" : 11.10,
     "description" : "Incorporated in 1927, Dhanlaxmi Bank Ltd is in the business of providing banking services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 27.27,
-    "dma50" : 26.49,
-    "dma100" : null,
-    "dma200" : 27.49,
-    "volume" : 765530.00
-  }, {
     "date" : "2025-11-21",
     "price" : 26.70,
     "dma50" : 26.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 27.83,
     "dma50" : 24.21,
-    "dma100" : 24.54,
+    "dma100" : null,
     "dma200" : 25.50,
     "volume" : 1561679.00
   }, {
@@ -911,7 +904,7 @@
     "date" : "2026-05-25",
     "price" : 33.50,
     "dma50" : 28.81,
-    "dma100" : 25.85,
+    "dma100" : 25.84,
     "dma200" : 26.74,
     "volume" : 1739953.00
   }, {
@@ -953,7 +946,7 @@
     "date" : "2026-06-03",
     "price" : 33.99,
     "dma50" : 29.82,
-    "dma100" : 26.37,
+    "dma100" : 26.36,
     "dma200" : 27.13,
     "volume" : 3480897.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 32.87,
     "dma200" : 31.19,
     "volume" : 9506466.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 39.52,
+    "dma50" : 34.19,
+    "dma100" : 32.95,
+    "dma200" : 31.27,
+    "volume" : 6408359.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 39.40,
-    "dma50" : 33.98,
-    "dma100" : 32.87,
-    "dma200" : 31.19,
-    "volume" : 9506466.00
+    "date" : "2026-11-20",
+    "price" : 39.52,
+    "dma50" : 34.19,
+    "dma100" : 32.95,
+    "dma200" : 31.27,
+    "volume" : 6408359.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.20,
-    "pricePercentageAboveDma100" : 4.01,
+    "pricePercentageAboveDma50" : 4.22,
+    "pricePercentageAboveDma100" : 4.00,
     "pricePercentageAboveDma200" : 3.68,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 17.05,
     "netProfitMarginPercentile" : 9.13,
-    "totalTechnicalScore" : 46.89,
+    "totalTechnicalScore" : 46.90,
     "totalFundamentalScore" : 42.09,
-    "totalScore" : 88.98
+    "totalScore" : 88.99
   }
 }

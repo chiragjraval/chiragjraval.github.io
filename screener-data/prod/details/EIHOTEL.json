@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "EIHOTEL",
       "companyName" : "EIH",
-      "marketCap" : 19386.00,
-      "peRatio" : 25.70,
+      "marketCap" : 20897.00,
+      "peRatio" : 27.70,
       "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 5.10,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.51,
+      "pricePercentageAboveDma100" : 4.57,
+      "pricePercentageAboveDma200" : 4.73,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 19.17,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 24.95,
+      "totalTechnicalScore" : 33.80,
       "totalFundamentalScore" : 42.81,
-      "totalScore" : 67.75
+      "totalScore" : 76.61
     }
   },
   "attributes" : {
     "companyCode" : "EIHOTEL",
     "companyName" : "EIH",
-    "marketCap" : 19386.00,
-    "peRatio" : 25.70,
+    "marketCap" : 20897.00,
+    "peRatio" : 27.70,
     "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 377.35,
-    "dma50" : 385.74,
-    "dma100" : null,
-    "dma200" : 380.74,
-    "volume" : 190803.00
-  }, {
     "date" : "2025-11-21",
     "price" : 374.50,
     "dma50" : 385.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 332.50,
     "dma50" : 317.91,
-    "dma100" : 337.36,
+    "dma100" : null,
     "dma200" : 349.03,
     "volume" : 660867.00
   }, {
@@ -1072,7 +1065,7 @@
     "date" : "2026-06-29",
     "price" : 320.90,
     "dma50" : 314.09,
-    "dma100" : 317.14,
+    "dma100" : 317.13,
     "dma200" : 336.34,
     "volume" : 402340.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 307.56,
     "dma200" : 316.58,
     "volume" : 954392.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 334.15,
+    "dma50" : 304.05,
+    "dma100" : 307.70,
+    "dma200" : 316.75,
+    "volume" : 5293186.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 310.00,
-    "dma50" : 302.83,
-    "dma100" : 307.56,
-    "dma200" : 316.58,
-    "volume" : 954392.00
+    "date" : "2026-11-20",
+    "price" : 334.15,
+    "dma50" : 304.05,
+    "dma100" : 307.70,
+    "dma200" : 316.75,
+    "volume" : 5293186.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.88,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 5.10,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.51,
+    "pricePercentageAboveDma100" : 4.57,
+    "pricePercentageAboveDma200" : 4.73,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 19.17,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 24.95,
+    "totalTechnicalScore" : 33.80,
     "totalFundamentalScore" : 42.81,
-    "totalScore" : 67.75
+    "totalScore" : 76.61
   }
 }

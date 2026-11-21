@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BHARTIARTL",
       "companyName" : "Bharti Airtel",
-      "marketCap" : 1338202.00,
-      "peRatio" : 40.00,
+      "marketCap" : 1349250.00,
+      "peRatio" : 40.40,
       "description" : "Bharti Airtel Ltd is one of the world’s leading providers of telecommunication services with presence in 18 countries representing India, Sri Lanka, 14 countries in Africa. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.41,
-      "pricePercentageAboveDma200" : 4.40,
+      "pricePercentageAboveDma50" : 4.53,
+      "pricePercentageAboveDma100" : 4.37,
+      "pricePercentageAboveDma200" : 4.36,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.58,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 8.51,
-      "totalTechnicalScore" : 43.36,
+      "totalTechnicalScore" : 43.26,
       "totalFundamentalScore" : 40.09,
-      "totalScore" : 83.45
+      "totalScore" : 83.35
     }
   },
   "attributes" : {
     "companyCode" : "BHARTIARTL",
     "companyName" : "Bharti Airtel",
-    "marketCap" : 1338202.00,
-    "peRatio" : 40.00,
+    "marketCap" : 1349250.00,
+    "peRatio" : 40.40,
     "description" : "Bharti Airtel Ltd is one of the world’s leading providers of telecommunication services with presence in 18 countries representing India, Sri Lanka, 14 countries in Africa. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 2158.30,
-    "dma50" : 2018.30,
-    "dma100" : null,
-    "dma200" : 1867.97,
-    "volume" : 7877407.00
-  }, {
     "date" : "2025-11-21",
     "price" : 2162.70,
     "dma50" : 2023.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1846.10,
     "dma50" : 1885.95,
-    "dma100" : 1982.02,
+    "dma100" : null,
     "dma200" : 1921.13,
     "volume" : 9387477.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1916.39,
     "dma200" : 1913.38,
     "volume" : 6536826.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 2161.70,
+    "dma50" : 1976.65,
+    "dma100" : 1919.49,
+    "dma200" : 1915.85,
+    "volume" : 5415150.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 2144.00,
-    "dma50" : 1969.10,
-    "dma100" : 1916.39,
-    "dma200" : 1913.38,
-    "volume" : 6536826.00
+    "date" : "2026-11-20",
+    "price" : 2161.70,
+    "dma50" : 1976.65,
+    "dma100" : 1919.49,
+    "dma200" : 1915.85,
+    "volume" : 5415150.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.41,
-    "pricePercentageAboveDma200" : 4.40,
+    "pricePercentageAboveDma50" : 4.53,
+    "pricePercentageAboveDma100" : 4.37,
+    "pricePercentageAboveDma200" : 4.36,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.58,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 8.51,
-    "totalTechnicalScore" : 43.36,
+    "totalTechnicalScore" : 43.26,
     "totalFundamentalScore" : 40.09,
-    "totalScore" : 83.45
+    "totalScore" : 83.35
   }
 }

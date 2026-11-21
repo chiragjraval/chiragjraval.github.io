@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NRAIL",
       "companyName" : "N R Agarwal Inds",
-      "marketCap" : 1103.00,
-      "peRatio" : 11.60,
+      "marketCap" : 1120.00,
+      "peRatio" : 11.80,
       "description" : "Incorporated in 1993, N. R. Agarwal Industries Ltd manufacturers recycled paper and grey back & white back Duplex Boards[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 4.35,
-      "pricePercentageAboveDma200" : 3.99,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 4.28,
+      "pricePercentageAboveDma200" : 3.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 11.49,
       "netProfitMarginPercentile" : 6.80,
-      "totalTechnicalScore" : 43.32,
+      "totalTechnicalScore" : 43.10,
       "totalFundamentalScore" : 32.51,
-      "totalScore" : 75.83
+      "totalScore" : 75.61
     }
   },
   "attributes" : {
     "companyCode" : "NRAIL",
     "companyName" : "N R Agarwal Inds",
-    "marketCap" : 1103.00,
-    "peRatio" : 11.60,
+    "marketCap" : 1120.00,
+    "peRatio" : 11.80,
     "description" : "Incorporated in 1993, N. R. Agarwal Industries Ltd manufacturers recycled paper and grey back & white back Duplex Boards[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 500.05,
-    "dma50" : 441.81,
-    "dma100" : null,
-    "dma200" : 378.12,
-    "volume" : 27184.00
-  }, {
     "date" : "2025-11-21",
     "price" : 500.15,
     "dma50" : 444.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 475.85,
     "dma50" : 437.06,
-    "dma100" : 449.70,
+    "dma100" : null,
     "dma200" : 420.42,
     "volume" : 6099.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 573.18,
     "dma200" : 539.35,
     "volume" : 13276.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 658.10,
+    "dma50" : 646.15,
+    "dma100" : 575.34,
+    "dma200" : 540.53,
+    "volume" : 10614.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 647.95,
-    "dma50" : 645.66,
-    "dma100" : 573.18,
-    "dma200" : 539.35,
-    "volume" : 13276.00
+    "date" : "2026-11-20",
+    "price" : 658.10,
+    "dma50" : 646.15,
+    "dma100" : 575.34,
+    "dma200" : 540.53,
+    "volume" : 10614.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 4.35,
-    "pricePercentageAboveDma200" : 3.99,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 4.28,
+    "pricePercentageAboveDma200" : 3.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 11.49,
     "netProfitMarginPercentile" : 6.80,
-    "totalTechnicalScore" : 43.32,
+    "totalTechnicalScore" : 43.10,
     "totalFundamentalScore" : 32.51,
-    "totalScore" : 75.83
+    "totalScore" : 75.61
   }
 }

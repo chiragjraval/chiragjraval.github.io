@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "POLYPLEX",
       "companyName" : "Polyplex Corpn",
-      "marketCap" : 3106.00,
+      "marketCap" : 3094.00,
       "peRatio" : 13.40,
       "description" : "Polyplex Corporation is engaged in manufacturing of BOPP, Blown PP/PE and CPP films used in the flexible packaging industry and in industrial usages like release liners, tapes, labels etc. They have 35 Years Of Experience in Plastic Films. They have 7 Manufacturing Facilities In 5 Countries with Multiple Warehouses & Liaison Offices Worldwide. [1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.35,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 5.37,
+      "pricePercentageAboveDma200" : 5.09,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 10.57,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 25.44,
+      "totalTechnicalScore" : 25.49,
       "totalFundamentalScore" : 33.44,
-      "totalScore" : 58.88
+      "totalScore" : 58.94
     }
   },
   "attributes" : {
     "companyCode" : "POLYPLEX",
     "companyName" : "Polyplex Corpn",
-    "marketCap" : 3106.00,
+    "marketCap" : 3094.00,
     "peRatio" : 13.40,
     "description" : "Polyplex Corporation is engaged in manufacturing of BOPP, Blown PP/PE and CPP films used in the flexible packaging industry and in industrial usages like release liners, tapes, labels etc. They have 35 Years Of Experience in Plastic Films. They have 7 Manufacturing Facilities In 5 Countries with Multiple Warehouses & Liaison Offices Worldwide. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 869.95,
-    "dma50" : 978.60,
-    "dma100" : null,
-    "dma200" : 1094.73,
-    "volume" : 27132.00
-  }, {
     "date" : "2025-11-21",
     "price" : 867.45,
     "dma50" : 974.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 866.05,
     "dma50" : 838.92,
-    "dma100" : 832.54,
+    "dma100" : null,
     "dma200" : 929.58,
     "volume" : 46451.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1063.01,
     "dma200" : 1002.91,
     "volume" : 60656.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 985.60,
+    "dma50" : 994.33,
+    "dma100" : 1063.35,
+    "dma200" : 1002.74,
+    "volume" : 65641.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 989.30,
-    "dma50" : 994.68,
-    "dma100" : 1063.01,
-    "dma200" : 1002.91,
-    "volume" : 60656.00
+    "date" : "2026-11-20",
+    "price" : 985.60,
+    "dma50" : 994.33,
+    "dma100" : 1063.35,
+    "dma200" : 1002.74,
+    "volume" : 65641.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.35,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 5.37,
+    "pricePercentageAboveDma200" : 5.09,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 10.57,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 25.44,
+    "totalTechnicalScore" : 25.49,
     "totalFundamentalScore" : 33.44,
-    "totalScore" : 58.88
+    "totalScore" : 58.94
   }
 }

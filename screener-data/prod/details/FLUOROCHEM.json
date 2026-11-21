@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FLUOROCHEM",
       "companyName" : "Gujarat Fluoroch",
-      "marketCap" : 54690.00,
-      "peRatio" : 80.20,
+      "marketCap" : 54186.00,
+      "peRatio" : 79.50,
       "description" : "Incorporated in 2018, Gujarat Fluorochemicals Limited, earlier known as Inox Fluorochemicals Limited, is a part of the INOX Group of Companies and has been demerged from GFL Ltd, into a separate legal entity. It is one of the leading producers of Fluoro-polymers, Fluoro-specialities, Chemicals and Refrigerants in India. It is one of the top five global players in the fluoropolymers market with exports to Europe, Americas, Japan and Asia."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.53,
-      "pricePercentageAboveDma100" : 4.44,
-      "pricePercentageAboveDma200" : 4.00,
+      "pricePercentageAboveDma50" : 4.59,
+      "pricePercentageAboveDma100" : 4.50,
+      "pricePercentageAboveDma200" : 4.07,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.15,
       "operatingProfitMarginPercentile" : 15.54,
       "netProfitMarginPercentile" : 7.10,
-      "totalTechnicalScore" : 47.97,
+      "totalTechnicalScore" : 48.17,
       "totalFundamentalScore" : 40.79,
-      "totalScore" : 88.76
+      "totalScore" : 88.95
     }
   },
   "attributes" : {
     "companyCode" : "FLUOROCHEM",
     "companyName" : "Gujarat Fluoroch",
-    "marketCap" : 54690.00,
-    "peRatio" : 80.20,
+    "marketCap" : 54186.00,
+    "peRatio" : 79.50,
     "description" : "Incorporated in 2018, Gujarat Fluorochemicals Limited, earlier known as Inox Fluorochemicals Limited, is a part of the INOX Group of Companies and has been demerged from GFL Ltd, into a separate legal entity. It is one of the leading producers of Fluoro-polymers, Fluoro-specialities, Chemicals and Refrigerants in India. It is one of the top five global players in the fluoropolymers market with exports to Europe, Americas, Japan and Asia."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 3485.80,
-    "dma50" : 3626.60,
-    "dma100" : null,
-    "dma200" : 3663.64,
-    "volume" : 39805.00
-  }, {
     "date" : "2025-11-21",
     "price" : 3481.10,
     "dma50" : 3620.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 3271.80,
     "dma50" : 3293.03,
-    "dma100" : 3361.83,
+    "dma100" : null,
     "dma200" : 3457.13,
     "volume" : 43492.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 4476.17,
     "dma200" : 4151.49,
     "volume" : 332382.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 4932.70,
+    "dma50" : 4562.89,
+    "dma100" : 4485.86,
+    "dma200" : 4159.26,
+    "volume" : 171936.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 4978.60,
-    "dma50" : 4547.80,
-    "dma100" : 4476.17,
-    "dma200" : 4151.49,
-    "volume" : 332382.00
+    "date" : "2026-11-20",
+    "price" : 4932.70,
+    "dma50" : 4562.89,
+    "dma100" : 4485.86,
+    "dma200" : 4159.26,
+    "volume" : 171936.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-09-30",
@@ -2113,15 +2113,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.53,
-    "pricePercentageAboveDma100" : 4.44,
-    "pricePercentageAboveDma200" : 4.00,
+    "pricePercentageAboveDma50" : 4.59,
+    "pricePercentageAboveDma100" : 4.50,
+    "pricePercentageAboveDma200" : 4.07,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.15,
     "operatingProfitMarginPercentile" : 15.54,
     "netProfitMarginPercentile" : 7.10,
-    "totalTechnicalScore" : 47.97,
+    "totalTechnicalScore" : 48.17,
     "totalFundamentalScore" : 40.79,
-    "totalScore" : 88.76
+    "totalScore" : 88.95
   }
 }

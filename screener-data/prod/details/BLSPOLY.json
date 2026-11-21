@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BLSPOLY",
       "companyName" : "BLS Polymers",
-      "marketCap" : 1753.00,
-      "peRatio" : 53.20,
+      "marketCap" : 1684.00,
+      "peRatio" : 51.10,
       "description" : ""
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.66,
+      "pricePercentageAboveDma50" : 4.88,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.72,
+      "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 16.27,
       "netProfitMarginPercentile" : 7.60,
-      "totalTechnicalScore" : 24.38,
+      "totalTechnicalScore" : 24.80,
       "totalFundamentalScore" : 23.86,
-      "totalScore" : 48.24
+      "totalScore" : 48.67
     }
   },
   "attributes" : {
     "companyCode" : "BLSPOLY",
     "companyName" : "BLS Polymers",
-    "marketCap" : 1753.00,
-    "peRatio" : 53.20,
+    "marketCap" : 1684.00,
+    "peRatio" : 51.10,
     "description" : ""
   },
   "technicalHistory" : [ {
@@ -130,14 +130,21 @@
     "dma100" : null,
     "dma200" : 267.42,
     "volume" : 53994682.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 271.44,
+    "dma50" : 264.94,
+    "dma100" : null,
+    "dma200" : 267.46,
+    "volume" : 17066747.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 282.56,
-    "dma50" : 264.68,
+    "date" : "2026-11-20",
+    "price" : 271.44,
+    "dma50" : 264.94,
     "dma100" : null,
-    "dma200" : 267.42,
-    "volume" : 53994682.00
+    "dma200" : 267.46,
+    "volume" : 17066747.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-09-30",
@@ -188,15 +195,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.66,
+    "pricePercentageAboveDma50" : 4.88,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.72,
+    "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 16.27,
     "netProfitMarginPercentile" : 7.60,
-    "totalTechnicalScore" : 24.38,
+    "totalTechnicalScore" : 24.80,
     "totalFundamentalScore" : 23.86,
-    "totalScore" : 48.24
+    "totalScore" : 48.67
   }
 }

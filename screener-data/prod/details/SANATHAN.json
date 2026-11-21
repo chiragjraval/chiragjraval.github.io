@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SANATHAN",
       "companyName" : "Sanathan Textile",
-      "marketCap" : 4942.00,
-      "peRatio" : 48.50,
+      "marketCap" : 4827.00,
+      "peRatio" : 47.40,
       "description" : "Incorporated in 2005, Sanathan Textiles Ltd manufactures and exports polyester yarn, cotton yarn and yarn for technical textile[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.46,
-      "pricePercentageAboveDma100" : 4.04,
-      "pricePercentageAboveDma200" : 3.86,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.61,
+      "pricePercentageAboveDma100" : 4.20,
+      "pricePercentageAboveDma200" : 4.01,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 9.23,
       "netProfitMarginPercentile" : 4.62,
-      "totalTechnicalScore" : 42.36,
+      "totalTechnicalScore" : 47.82,
       "totalFundamentalScore" : 33.85,
-      "totalScore" : 76.21
+      "totalScore" : 81.66
     }
   },
   "attributes" : {
     "companyCode" : "SANATHAN",
     "companyName" : "Sanathan Textile",
-    "marketCap" : 4942.00,
-    "peRatio" : 48.50,
+    "marketCap" : 4827.00,
+    "peRatio" : 47.40,
     "description" : "Incorporated in 2005, Sanathan Textiles Ltd manufactures and exports polyester yarn, cotton yarn and yarn for technical textile[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 499.50,
-    "dma50" : 491.64,
-    "dma100" : null,
-    "dma200" : 462.73,
-    "volume" : 44109.00
-  }, {
     "date" : "2025-11-21",
     "price" : 491.65,
     "dma50" : 491.64,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 419.55,
     "dma50" : 414.38,
-    "dma100" : 426.68,
+    "dma100" : null,
     "dma200" : 436.76,
     "volume" : 8461.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 491.53,
     "dma200" : 476.59,
     "volume" : 60641.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 571.90,
+    "dma50" : 530.10,
+    "dma100" : 492.79,
+    "dma200" : 477.54,
+    "volume" : 113508.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 585.55,
-    "dma50" : 528.39,
-    "dma100" : 491.53,
-    "dma200" : 476.59,
-    "volume" : 60641.00
+    "date" : "2026-11-20",
+    "price" : 571.90,
+    "dma50" : 530.10,
+    "dma100" : 492.79,
+    "dma200" : 477.54,
+    "volume" : 113508.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1933,15 +1933,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.46,
-    "pricePercentageAboveDma100" : 4.04,
-    "pricePercentageAboveDma200" : 3.86,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.61,
+    "pricePercentageAboveDma100" : 4.20,
+    "pricePercentageAboveDma200" : 4.01,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 9.23,
     "netProfitMarginPercentile" : 4.62,
-    "totalTechnicalScore" : 42.36,
+    "totalTechnicalScore" : 47.82,
     "totalFundamentalScore" : 33.85,
-    "totalScore" : 76.21
+    "totalScore" : 81.66
   }
 }

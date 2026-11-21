@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SPLPETRO",
       "companyName" : "Supreme Petroch.",
-      "marketCap" : 13209.00,
-      "peRatio" : 24.60,
+      "marketCap" : 13135.00,
+      "peRatio" : 24.50,
       "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.22,
-      "pricePercentageAboveDma100" : 5.27,
-      "pricePercentageAboveDma200" : 5.17,
+      "pricePercentageAboveDma50" : 5.23,
+      "pricePercentageAboveDma100" : 5.30,
+      "pricePercentageAboveDma200" : 5.20,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 11.72,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 25.66,
+      "totalTechnicalScore" : 25.73,
       "totalFundamentalScore" : 37.45,
-      "totalScore" : 63.11
+      "totalScore" : 63.18
     }
   },
   "attributes" : {
     "companyCode" : "SPLPETRO",
     "companyName" : "Supreme Petroch.",
-    "marketCap" : 13209.00,
-    "peRatio" : 24.60,
+    "marketCap" : 13135.00,
+    "peRatio" : 24.50,
     "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 636.00,
-    "dma50" : 738.99,
-    "dma100" : null,
-    "dma200" : 743.74,
-    "volume" : 38584.00
-  }, {
     "date" : "2025-11-21",
     "price" : 656.90,
     "dma50" : 735.77,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 769.90,
     "dma50" : 691.46,
-    "dma100" : 645.37,
+    "dma100" : null,
     "dma200" : 687.99,
     "volume" : 56477.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 742.80,
     "dma200" : 727.34,
     "volume" : 70518.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 698.50,
+    "dma50" : 732.69,
+    "dma100" : 742.65,
+    "dma200" : 727.05,
+    "volume" : 53016.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 702.45,
-    "dma50" : 734.08,
-    "dma100" : 742.80,
-    "dma200" : 727.34,
-    "volume" : 70518.00
+    "date" : "2026-11-20",
+    "price" : 698.50,
+    "dma50" : 732.69,
+    "dma100" : 742.65,
+    "dma200" : 727.05,
+    "volume" : 53016.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.22,
-    "pricePercentageAboveDma100" : 5.27,
-    "pricePercentageAboveDma200" : 5.17,
+    "pricePercentageAboveDma50" : 5.23,
+    "pricePercentageAboveDma100" : 5.30,
+    "pricePercentageAboveDma200" : 5.20,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 11.72,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 25.66,
+    "totalTechnicalScore" : 25.73,
     "totalFundamentalScore" : 37.45,
-    "totalScore" : 63.11
+    "totalScore" : 63.18
   }
 }

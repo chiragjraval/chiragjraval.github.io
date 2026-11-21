@@ -2,15 +2,15 @@
   "metadata" : {
     "screenerCompanyId" : "2733",
     "companyCode" : "SHUKRAMED",
-    "companyName" : "Shukra Pharma.",
+    "companyName" : "Shukra Medtech",
     "screenerCompanyLink" : "https://www.screener.in/company/SHUKRAMED/consolidated/",
     "screenerTechnicalHistoryLink" : "https://www.screener.in/api/company/2733/chart/?q=Price-DMA50-DMA200-Volume&days=365",
     "screenerQuarterlyResultsLink" : "https://www.screener.in/api/company/2733/chart/?q=GPM-OPM-NPM-Quarter+Sales&days=10000",
     "attributes" : {
       "companyCode" : "SHUKRAMED",
-      "companyName" : "Shukra Pharma.",
-      "marketCap" : 3638.00,
-      "peRatio" : 82.10,
+      "companyName" : "Shukra Medtech",
+      "marketCap" : 3724.00,
+      "peRatio" : 84.00,
       "description" : "Incorporated in 1993, Shukra Pharmaceuticals Ltd manufactures and markets pharmaceutical products, and does laboratory testing[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.02,
-      "pricePercentageAboveDma100" : 2.21,
-      "pricePercentageAboveDma200" : 1.59,
+      "pricePercentageAboveDma50" : 3.94,
+      "pricePercentageAboveDma100" : 2.11,
+      "pricePercentageAboveDma200" : 1.45,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.44,
       "operatingProfitMarginPercentile" : 19.53,
       "netProfitMarginPercentile" : 9.84,
-      "totalTechnicalScore" : 42.82,
+      "totalTechnicalScore" : 42.50,
       "totalFundamentalScore" : 48.82,
-      "totalScore" : 91.64
+      "totalScore" : 91.31
     }
   },
   "attributes" : {
     "companyCode" : "SHUKRAMED",
-    "companyName" : "Shukra Pharma.",
-    "marketCap" : 3638.00,
-    "peRatio" : 82.10,
+    "companyName" : "Shukra Medtech",
+    "marketCap" : 3724.00,
+    "peRatio" : 84.00,
     "description" : "Incorporated in 1993, Shukra Pharmaceuticals Ltd manufactures and markets pharmaceutical products, and does laboratory testing[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 41.72,
-    "dma50" : 36.49,
-    "dma100" : null,
-    "dma200" : 24.98,
-    "volume" : 106940.00
-  }, {
     "date" : "2025-11-21",
     "price" : 40.89,
     "dma50" : 36.66,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 34.90,
     "dma50" : 38.00,
-    "dma100" : 43.21,
+    "dma100" : null,
     "dma200" : 35.61,
     "volume" : 209580.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 52.78,
     "dma200" : 48.87,
     "volume" : 2511981.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 84.16,
+    "dma50" : 69.39,
+    "dma100" : 53.33,
+    "dma200" : 49.22,
+    "volume" : 4678278.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 82.22,
-    "dma50" : 68.79,
-    "dma100" : 52.78,
-    "dma200" : 48.87,
-    "volume" : 2511981.00
+    "date" : "2026-11-20",
+    "price" : 84.16,
+    "dma50" : 69.39,
+    "dma100" : 53.33,
+    "dma200" : 49.22,
+    "volume" : 4678278.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-06-30",
@@ -2563,15 +2563,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.02,
-    "pricePercentageAboveDma100" : 2.21,
-    "pricePercentageAboveDma200" : 1.59,
+    "pricePercentageAboveDma50" : 3.94,
+    "pricePercentageAboveDma100" : 2.11,
+    "pricePercentageAboveDma200" : 1.45,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.44,
     "operatingProfitMarginPercentile" : 19.53,
     "netProfitMarginPercentile" : 9.84,
-    "totalTechnicalScore" : 42.82,
+    "totalTechnicalScore" : 42.50,
     "totalFundamentalScore" : 48.82,
-    "totalScore" : 91.64
+    "totalScore" : 91.31
   }
 }

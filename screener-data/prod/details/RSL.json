@@ -9,34 +9,34 @@
     "attributes" : {
       "companyCode" : "RSL",
       "companyName" : "Rajputana Stain.",
-      "marketCap" : 1380.00,
-      "peRatio" : 19.90,
+      "marketCap" : 1329.00,
+      "peRatio" : 19.20,
       "description" : ""
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 4.90,
-      "pricePercentageAboveDma200" : 4.45,
+      "pricePercentageAboveDma50" : 5.28,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.66,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.12,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 39.46,
+      "totalTechnicalScore" : 35.04,
       "totalFundamentalScore" : 49.12,
-      "totalScore" : 88.59
+      "totalScore" : 84.16
     }
   },
   "attributes" : {
     "companyCode" : "RSL",
     "companyName" : "Rajputana Stain.",
-    "marketCap" : 1380.00,
-    "peRatio" : 19.90,
+    "marketCap" : 1329.00,
+    "peRatio" : 19.20,
     "description" : ""
   },
   "technicalHistory" : [ {
@@ -1201,14 +1201,21 @@
     "dma100" : 161.75,
     "dma200" : 148.78,
     "volume" : 185152.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 159.01,
+    "dma50" : 168.60,
+    "dma100" : 162.05,
+    "dma200" : 148.89,
+    "volume" : 509734.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 165.09,
-    "dma50" : 168.99,
-    "dma100" : 161.75,
-    "dma200" : 148.78,
-    "volume" : 185152.00
+    "date" : "2026-11-20",
+    "price" : 159.01,
+    "dma50" : 168.60,
+    "dma100" : 162.05,
+    "dma200" : 148.89,
+    "volume" : 509734.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-12-31",
@@ -1304,20 +1311,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 4.90,
-    "pricePercentageAboveDma200" : 4.45,
+    "pricePercentageAboveDma50" : 5.28,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.66,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.12,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 39.46,
+    "totalTechnicalScore" : 35.04,
     "totalFundamentalScore" : 49.12,
-    "totalScore" : 88.59
+    "totalScore" : 84.16
   }
 }

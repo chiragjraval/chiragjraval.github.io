@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ANTELOPUS",
       "companyName" : "Antelopus Selan",
-      "marketCap" : 2990.00,
-      "peRatio" : 16.10,
+      "marketCap" : 2944.00,
+      "peRatio" : 15.90,
       "description" : "Incorporated in 1985, Selan Exploration Technology Ltd is in the business of oil & gas exploration and production[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.63,
-      "pricePercentageAboveDma100" : 5.49,
-      "pricePercentageAboveDma200" : 4.95,
+      "pricePercentageAboveDma50" : 5.68,
+      "pricePercentageAboveDma100" : 5.57,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 17.76,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 36.07,
+      "totalTechnicalScore" : 31.26,
       "totalFundamentalScore" : 44.48,
-      "totalScore" : 80.55
+      "totalScore" : 75.74
     }
   },
   "attributes" : {
     "companyCode" : "ANTELOPUS",
     "companyName" : "Antelopus Selan",
-    "marketCap" : 2990.00,
-    "peRatio" : 16.10,
+    "marketCap" : 2944.00,
+    "peRatio" : 15.90,
     "description" : "Incorporated in 1985, Selan Exploration Technology Ltd is in the business of oil & gas exploration and production[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 500.70,
-    "dma50" : 546.54,
-    "dma100" : null,
-    "dma200" : 599.41,
-    "volume" : 24427.00
-  }, {
     "date" : "2025-11-21",
     "price" : 485.40,
     "dma50" : 544.15,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 612.30,
     "dma50" : 566.56,
-    "dma100" : 501.39,
+    "dma100" : null,
     "dma200" : 550.68,
     "volume" : 97468.00
   }, {
@@ -925,7 +918,7 @@
     "date" : "2026-05-27",
     "price" : 759.25,
     "dma50" : 660.08,
-    "dma100" : 577.67,
+    "dma100" : 577.66,
     "dma200" : 585.43,
     "volume" : 260534.00
   }, {
@@ -1233,7 +1226,7 @@
     "date" : "2026-07-30",
     "price" : 797.60,
     "dma50" : 801.63,
-    "dma100" : 719.70,
+    "dma100" : 719.69,
     "dma200" : 672.04,
     "volume" : 103763.00
   }, {
@@ -1310,7 +1303,7 @@
     "date" : "2026-08-14",
     "price" : 782.60,
     "dma50" : 807.85,
-    "dma100" : 748.12,
+    "dma100" : 748.11,
     "dma200" : 687.55,
     "volume" : 85717.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 938.75,
     "dma200" : 836.89,
     "volume" : 93625.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 832.95,
+    "dma50" : 963.01,
+    "dma100" : 939.14,
+    "dma200" : 836.85,
+    "volume" : 136138.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 845.90,
-    "dma50" : 968.32,
-    "dma100" : 938.75,
-    "dma200" : 836.89,
-    "volume" : 93625.00
+    "date" : "2026-11-20",
+    "price" : 832.95,
+    "dma50" : 963.01,
+    "dma100" : 939.14,
+    "dma200" : 836.85,
+    "volume" : 136138.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2669,19 +2669,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.63,
-    "pricePercentageAboveDma100" : 5.49,
-    "pricePercentageAboveDma200" : 4.95,
+    "pricePercentageAboveDma50" : 5.68,
+    "pricePercentageAboveDma100" : 5.57,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 17.76,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 36.07,
+    "totalTechnicalScore" : 31.26,
     "totalFundamentalScore" : 44.48,
-    "totalScore" : 80.55
+    "totalScore" : 75.74
   }
 }

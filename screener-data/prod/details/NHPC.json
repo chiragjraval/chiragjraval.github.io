@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "NHPC",
       "companyName" : "NHPC Ltd",
-      "marketCap" : 76644.00,
-      "peRatio" : 17.70,
+      "marketCap" : 76955.00,
+      "peRatio" : 17.80,
       "description" : "NHPC, a Navratna Ratna public sector utility, is Government of India’s flagship hydroelectric generation company. The company is primarily involved in the generation and sale of bulk power to various Power Utilities. Its other business includes providing project management / construction contracts/ consultancy assignment services and trading of power. [1][2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 5.02,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 5.00,
+      "pricePercentageAboveDma200" : 5.05,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.95,
       "operatingProfitMarginPercentile" : 15.47,
       "netProfitMarginPercentile" : 5.99,
-      "totalTechnicalScore" : 20.07,
+      "totalTechnicalScore" : 25.00,
       "totalFundamentalScore" : 39.42,
-      "totalScore" : 59.48
+      "totalScore" : 64.42
     }
   },
   "attributes" : {
     "companyCode" : "NHPC",
     "companyName" : "NHPC Ltd",
-    "marketCap" : 76644.00,
-    "peRatio" : 17.70,
+    "marketCap" : 76955.00,
+    "peRatio" : 17.80,
     "description" : "NHPC, a Navratna Ratna public sector utility, is Government of India’s flagship hydroelectric generation company. The company is primarily involved in the generation and sale of bulk power to various Power Utilities. Its other business includes providing project management / construction contracts/ consultancy assignment services and trading of power. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 80.12,
-    "dma50" : 83.72,
-    "dma100" : null,
-    "dma200" : 84.06,
-    "volume" : 7247072.00
-  }, {
     "date" : "2025-11-21",
     "price" : 78.82,
     "dma50" : 83.53,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 83.10,
     "dma50" : 77.28,
-    "dma100" : 77.38,
+    "dma100" : null,
     "dma200" : 79.75,
     "volume" : 18441290.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 76.66,
     "dma200" : 77.35,
     "volume" : 8753008.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 76.61,
+    "dma50" : 75.95,
+    "dma100" : 76.61,
+    "dma200" : 77.34,
+    "volume" : 8106019.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 76.30,
-    "dma50" : 75.93,
-    "dma100" : 76.66,
-    "dma200" : 77.35,
-    "volume" : 8753008.00
+    "date" : "2026-11-20",
+    "price" : 76.61,
+    "dma50" : 75.95,
+    "dma100" : 76.61,
+    "dma200" : 77.34,
+    "volume" : 8106019.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2618,20 +2618,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 5.02,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 5.00,
+    "pricePercentageAboveDma200" : 5.05,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.95,
     "operatingProfitMarginPercentile" : 15.47,
     "netProfitMarginPercentile" : 5.99,
-    "totalTechnicalScore" : 20.07,
+    "totalTechnicalScore" : 25.00,
     "totalFundamentalScore" : 39.42,
-    "totalScore" : 59.48
+    "totalScore" : 64.42
   }
 }

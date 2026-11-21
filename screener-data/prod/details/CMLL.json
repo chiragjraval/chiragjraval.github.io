@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CMLL",
       "companyName" : "Caliber Mining",
-      "marketCap" : 3629.00,
-      "peRatio" : 21.20,
+      "marketCap" : 3532.00,
+      "peRatio" : 20.60,
       "description" : "Incorporated in 2014, Caliber Mining and Logistics Limited is an integrated service provider specializing in coal extraction and coal logistics.[1]It is into Contract Mining and Logistics related business activities."
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma50" : 4.91,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma200" : 4.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.00,
       "netProfitMarginPercentile" : 4.00,
-      "totalTechnicalScore" : 24.52,
+      "totalTechnicalScore" : 24.80,
       "totalFundamentalScore" : 32.00,
-      "totalScore" : 56.52
+      "totalScore" : 56.80
     }
   },
   "attributes" : {
     "companyCode" : "CMLL",
     "companyName" : "Caliber Mining",
-    "marketCap" : 3629.00,
-    "peRatio" : 21.20,
+    "marketCap" : 3532.00,
+    "peRatio" : 20.60,
     "description" : "Incorporated in 2014, Caliber Mining and Logistics Limited is an integrated service provider specializing in coal extraction and coal logistics.[1]It is into Contract Mining and Logistics related business activities."
   },
   "technicalHistory" : [ {
@@ -613,14 +613,21 @@
     "dma100" : null,
     "dma200" : 528.09,
     "volume" : 848130.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 540.30,
+    "dma50" : 531.25,
+    "dma100" : null,
+    "dma200" : 528.21,
+    "volume" : 229279.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 555.15,
-    "dma50" : 530.88,
+    "date" : "2026-11-20",
+    "price" : 540.30,
+    "dma50" : 531.25,
     "dma100" : null,
-    "dma200" : 528.09,
-    "volume" : 848130.00
+    "dma200" : 528.21,
+    "volume" : 229279.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -691,15 +698,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma50" : 4.91,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma200" : 4.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.00,
     "netProfitMarginPercentile" : 4.00,
-    "totalTechnicalScore" : 24.52,
+    "totalTechnicalScore" : 24.80,
     "totalFundamentalScore" : 32.00,
-    "totalScore" : 56.52
+    "totalScore" : 56.80
   }
 }
