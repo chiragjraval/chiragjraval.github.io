@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FUSION",
       "companyName" : "Fusion Finance",
-      "marketCap" : 2552.00,
-      "peRatio" : 9.21,
+      "marketCap" : 2492.00,
+      "peRatio" : 8.99,
       "description" : "Incorporated in 1994, Fusion Finance Ltd is primarily engaged in microfinance lending activities[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.80,
-      "pricePercentageAboveDma200" : 5.62,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.89,
+      "pricePercentageAboveDma200" : 5.71,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.07,
       "operatingProfitMarginPercentile" : 17.36,
       "netProfitMarginPercentile" : 9.49,
-      "totalTechnicalScore" : 21.63,
+      "totalTechnicalScore" : 21.91,
       "totalFundamentalScore" : 38.91,
-      "totalScore" : 60.54
+      "totalScore" : 60.83
     }
   },
   "attributes" : {
     "companyCode" : "FUSION",
     "companyName" : "Fusion Finance",
-    "marketCap" : 2552.00,
-    "peRatio" : 9.21,
+    "marketCap" : 2492.00,
+    "peRatio" : 8.99,
     "description" : "Incorporated in 1994, Fusion Finance Ltd is primarily engaged in microfinance lending activities[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 169.52,
-    "dma50" : 178.16,
-    "dma100" : null,
-    "dma200" : 190.30,
-    "volume" : 388977.00
-  }, {
     "date" : "2025-11-21",
     "price" : 166.61,
     "dma50" : 177.70,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 170.37,
     "dma50" : 164.97,
-    "dma100" : 168.97,
+    "dma100" : null,
     "dma200" : 176.51,
     "volume" : 282198.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 187.41,
     "dma200" : 179.79,
     "volume" : 341744.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 153.90,
+    "dma50" : 164.24,
+    "dma100" : 187.05,
+    "dma200" : 179.54,
+    "volume" : 400401.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 157.59,
-    "dma50" : 164.66,
-    "dma100" : 187.41,
-    "dma200" : 179.79,
-    "volume" : 341744.00
+    "date" : "2026-11-20",
+    "price" : 153.90,
+    "dma50" : 164.24,
+    "dma100" : 187.05,
+    "dma200" : 179.54,
+    "volume" : 400401.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -2003,15 +2003,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.80,
-    "pricePercentageAboveDma200" : 5.62,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.89,
+    "pricePercentageAboveDma200" : 5.71,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.07,
     "operatingProfitMarginPercentile" : 17.36,
     "netProfitMarginPercentile" : 9.49,
-    "totalTechnicalScore" : 21.63,
+    "totalTechnicalScore" : 21.91,
     "totalFundamentalScore" : 38.91,
-    "totalScore" : 60.54
+    "totalScore" : 60.83
   }
 }

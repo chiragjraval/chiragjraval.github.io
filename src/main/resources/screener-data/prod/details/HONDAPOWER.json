@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "HONDAPOWER",
       "companyName" : "Honda India",
-      "marketCap" : 1935.00,
+      "marketCap" : 1941.00,
       "peRatio" : 20.60,
       "description" : "Honda India Power Products Ltd is engaged in manufacturing and marketing of portable gensets, water pumps, general purpose engines, lawn mowers, brush cutters and tillers.[1] In July 2020, the company changed its name from 'Honda Siel power Products Ltd' to 'Honda India Power Products Ltd'.[2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 5.45,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.43,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 15.38,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 15.67,
+      "totalTechnicalScore" : 20.62,
       "totalFundamentalScore" : 42.74,
-      "totalScore" : 58.41
+      "totalScore" : 63.36
     }
   },
   "attributes" : {
     "companyCode" : "HONDAPOWER",
     "companyName" : "Honda India",
-    "marketCap" : 1935.00,
+    "marketCap" : 1941.00,
     "peRatio" : 20.60,
     "description" : "Honda India Power Products Ltd is engaged in manufacturing and marketing of portable gensets, water pumps, general purpose engines, lawn mowers, brush cutters and tillers.[1] In July 2020, the company changed its name from 'Honda Siel power Products Ltd' to 'Honda India Power Products Ltd'.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 2490.90,
-    "dma50" : 2663.40,
-    "dma100" : null,
-    "dma200" : 2739.30,
-    "volume" : 3284.00
-  }, {
     "date" : "2025-11-21",
     "price" : 2453.70,
     "dma50" : 2655.18,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 2283.40,
     "dma50" : 2130.11,
-    "dma100" : 2198.91,
+    "dma100" : null,
     "dma200" : 2379.45,
     "volume" : 6005.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1990.90,
     "dma200" : 2096.43,
     "volume" : 3798.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1913.80,
+    "dma50" : 1913.76,
+    "dma100" : 1988.23,
+    "dma200" : 2094.61,
+    "volume" : 1148.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1908.60,
+    "date" : "2026-11-20",
+    "price" : 1913.80,
     "dma50" : 1913.76,
-    "dma100" : 1990.90,
-    "dma200" : 2096.43,
-    "volume" : 3798.00
+    "dma100" : 1988.23,
+    "dma200" : 2094.61,
+    "volume" : 1148.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 32.05
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 5.45,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.43,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 15.38,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 15.67,
+    "totalTechnicalScore" : 20.62,
     "totalFundamentalScore" : 42.74,
-    "totalScore" : 58.41
+    "totalScore" : 63.36
   }
 }

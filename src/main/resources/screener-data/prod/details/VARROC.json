@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "VARROC",
       "companyName" : "Varroc Engineer",
-      "marketCap" : 12520.00,
-      "peRatio" : 44.10,
+      "marketCap" : 12205.00,
+      "peRatio" : 43.00,
       "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.91,
-      "pricePercentageAboveDma100" : 4.74,
-      "pricePercentageAboveDma200" : 4.21,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 4.88,
+      "pricePercentageAboveDma200" : 4.36,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.71,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 7.37,
-      "totalTechnicalScore" : 48.86,
+      "totalTechnicalScore" : 44.29,
       "totalFundamentalScore" : 33.83,
-      "totalScore" : 82.70
+      "totalScore" : 78.12
     }
   },
   "attributes" : {
     "companyCode" : "VARROC",
     "companyName" : "Varroc Engineer",
-    "marketCap" : 12520.00,
-    "peRatio" : 44.10,
+    "marketCap" : 12205.00,
+    "peRatio" : 43.00,
     "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 668.85,
-    "dma50" : 616.90,
-    "dma100" : null,
-    "dma200" : 565.94,
-    "volume" : 816703.00
-  }, {
     "date" : "2025-11-21",
     "price" : 657.15,
     "dma50" : 618.48,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 526.15,
     "dma50" : 524.45,
-    "dma100" : 567.00,
+    "dma100" : null,
     "dma200" : 557.44,
     "volume" : 49529.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 779.00,
     "dma200" : 707.89,
     "volume" : 127651.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 798.85,
+    "dma50" : 805.01,
+    "dma100" : 780.66,
+    "dma200" : 708.80,
+    "volume" : 178727.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 819.45,
-    "dma50" : 805.26,
-    "dma100" : 779.00,
-    "dma200" : 707.89,
-    "volume" : 127651.00
+    "date" : "2026-11-20",
+    "price" : 798.85,
+    "dma50" : 805.01,
+    "dma100" : 780.66,
+    "dma200" : 708.80,
+    "volume" : 178727.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2177,21 +2177,21 @@
     "netProfit" : 118.69
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.91,
-    "pricePercentageAboveDma100" : 4.74,
-    "pricePercentageAboveDma200" : 4.21,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 4.88,
+    "pricePercentageAboveDma200" : 4.36,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.71,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 7.37,
-    "totalTechnicalScore" : 48.86,
+    "totalTechnicalScore" : 44.29,
     "totalFundamentalScore" : 33.83,
-    "totalScore" : 82.70
+    "totalScore" : 78.12
   }
 }

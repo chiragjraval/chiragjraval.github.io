@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FEDFINA",
       "companyName" : "Fedbank Financi.",
-      "marketCap" : 5394.00,
-      "peRatio" : 12.40,
+      "marketCap" : 5324.00,
+      "peRatio" : 12.30,
       "description" : "Fedbank Financial Services Limited a subsidiary of The Fedral Bank Limited, provides Gold Loans, Home Loans, Loan Against Property (LAP), and Business Loan Services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.32,
-      "pricePercentageAboveDma100" : 5.33,
-      "pricePercentageAboveDma200" : 5.20,
+      "pricePercentageAboveDma50" : 5.37,
+      "pricePercentageAboveDma100" : 5.39,
+      "pricePercentageAboveDma200" : 5.26,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.14,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 25.85,
+      "totalTechnicalScore" : 26.01,
       "totalFundamentalScore" : 47.14,
-      "totalScore" : 72.99
+      "totalScore" : 73.16
     }
   },
   "attributes" : {
     "companyCode" : "FEDFINA",
     "companyName" : "Fedbank Financi.",
-    "marketCap" : 5394.00,
-    "peRatio" : 12.40,
+    "marketCap" : 5324.00,
+    "peRatio" : 12.30,
     "description" : "Fedbank Financial Services Limited a subsidiary of The Fedral Bank Limited, provides Gold Loans, Home Loans, Loan Against Property (LAP), and Business Loan Services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 140.66,
-    "dma50" : 143.34,
-    "dma100" : null,
-    "dma200" : 126.54,
-    "volume" : 1599631.00
-  }, {
     "date" : "2025-11-21",
     "price" : 143.14,
     "dma50" : 143.33,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 148.66,
     "dma50" : 137.59,
-    "dma100" : 142.41,
+    "dma100" : null,
     "dma200" : 135.57,
     "volume" : 1018838.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 153.93,
     "dma200" : 149.67,
     "volume" : 1730801.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 141.89,
+    "dma50" : 153.17,
+    "dma100" : 153.86,
+    "dma200" : 149.59,
+    "volume" : 1283967.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 143.76,
-    "dma50" : 153.63,
-    "dma100" : 153.93,
-    "dma200" : 149.67,
-    "volume" : 1730801.00
+    "date" : "2026-11-20",
+    "price" : 141.89,
+    "dma50" : 153.17,
+    "dma100" : 153.86,
+    "dma200" : 149.59,
+    "volume" : 1283967.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -1983,15 +1983,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.32,
-    "pricePercentageAboveDma100" : 5.33,
-    "pricePercentageAboveDma200" : 5.20,
+    "pricePercentageAboveDma50" : 5.37,
+    "pricePercentageAboveDma100" : 5.39,
+    "pricePercentageAboveDma200" : 5.26,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.14,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 25.85,
+    "totalTechnicalScore" : 26.01,
     "totalFundamentalScore" : 47.14,
-    "totalScore" : 72.99
+    "totalScore" : 73.16
   }
 }

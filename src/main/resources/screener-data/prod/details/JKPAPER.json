@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JKPAPER",
       "companyName" : "JK Paper",
-      "marketCap" : 6689.00,
-      "peRatio" : 18.90,
+      "marketCap" : 6545.00,
+      "peRatio" : 18.50,
       "description" : "Established in 1962, JK Paper is the leading player in Office papers, Coated papers and Packaging boards. It is one of the most respected paper companies today. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.09,
+      "pricePercentageAboveDma50" : 5.23,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.20,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.27,
       "operatingProfitMarginPercentile" : 7.57,
       "netProfitMarginPercentile" : 4.40,
-      "totalTechnicalScore" : 25.43,
+      "totalTechnicalScore" : 25.74,
       "totalFundamentalScore" : 18.23,
-      "totalScore" : 43.66
+      "totalScore" : 43.97
     }
   },
   "attributes" : {
     "companyCode" : "JKPAPER",
     "companyName" : "JK Paper",
-    "marketCap" : 6689.00,
-    "peRatio" : 18.90,
+    "marketCap" : 6545.00,
+    "peRatio" : 18.50,
     "description" : "Established in 1962, JK Paper is the leading player in Office papers, Coated papers and Packaging boards. It is one of the most respected paper companies today. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 369.80,
-    "dma50" : 387.96,
-    "dma100" : null,
-    "dma200" : 381.61,
-    "volume" : 134393.00
-  }, {
     "date" : "2025-11-21",
     "price" : 370.10,
     "dma50" : 387.26,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 367.50,
     "dma50" : 343.97,
-    "dma100" : 346.19,
+    "dma100" : null,
     "dma200" : 357.98,
     "volume" : 220770.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 384.64,
     "dma200" : 375.77,
     "volume" : 275954.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 360.95,
+    "dma50" : 378.60,
+    "dma100" : 384.74,
+    "dma200" : 375.63,
+    "volume" : 194067.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 368.90,
-    "dma50" : 379.32,
-    "dma100" : 384.64,
-    "dma200" : 375.77,
-    "volume" : 275954.00
+    "date" : "2026-11-20",
+    "price" : 360.95,
+    "dma50" : 378.60,
+    "dma100" : 384.74,
+    "dma200" : 375.63,
+    "volume" : 194067.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.09,
+    "pricePercentageAboveDma50" : 5.23,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.20,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.27,
     "operatingProfitMarginPercentile" : 7.57,
     "netProfitMarginPercentile" : 4.40,
-    "totalTechnicalScore" : 25.43,
+    "totalTechnicalScore" : 25.74,
     "totalFundamentalScore" : 18.23,
-    "totalScore" : 43.66
+    "totalScore" : 43.97
   }
 }

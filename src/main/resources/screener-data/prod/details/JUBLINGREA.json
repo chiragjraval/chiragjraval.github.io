@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JUBLINGREA",
       "companyName" : "Jubilant Ingrev.",
-      "marketCap" : 9138.00,
-      "peRatio" : 25.40,
+      "marketCap" : 9051.00,
+      "peRatio" : 25.20,
       "description" : "Jubilant Ingrevia, a global integrated Life Science products and Innovative Solutions provider serving, Pharmaceutical, Nutrition, Agrochemical, Consumer and Industrial customers with our customised products and solutions that are innovative, cost-effective and conforming to excellent quality standards. Jubilant Ingrevia’s portfolio also extends to custom research and manufacturing for pharmaceutical and agrochemical customers on an exclusive basis. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.69,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma50" : 5.38,
+      "pricePercentageAboveDma100" : 5.73,
+      "pricePercentageAboveDma200" : 5.67,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.89,
       "operatingProfitMarginPercentile" : 7.83,
       "netProfitMarginPercentile" : 3.91,
-      "totalTechnicalScore" : 21.68,
+      "totalTechnicalScore" : 21.78,
       "totalFundamentalScore" : 29.63,
-      "totalScore" : 51.31
+      "totalScore" : 51.42
     }
   },
   "attributes" : {
     "companyCode" : "JUBLINGREA",
     "companyName" : "Jubilant Ingrev.",
-    "marketCap" : 9138.00,
-    "peRatio" : 25.40,
+    "marketCap" : 9051.00,
+    "peRatio" : 25.20,
     "description" : "Jubilant Ingrevia, a global integrated Life Science products and Innovative Solutions provider serving, Pharmaceutical, Nutrition, Agrochemical, Consumer and Industrial customers with our customised products and solutions that are innovative, cost-effective and conforming to excellent quality standards. Jubilant Ingrevia’s portfolio also extends to custom research and manufacturing for pharmaceutical and agrochemical customers on an exclusive basis. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 724.25,
-    "dma50" : 692.67,
-    "dma100" : null,
-    "dma200" : 700.47,
-    "volume" : 200212.00
-  }, {
     "date" : "2025-11-21",
     "price" : 719.75,
     "dma50" : 693.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 667.35,
     "dma50" : 616.67,
-    "dma100" : 647.29,
+    "dma100" : null,
     "dma200" : 659.45,
     "volume" : 242171.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 666.26,
     "dma200" : 657.02,
     "volume" : 214272.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 568.25,
+    "dma50" : 614.91,
+    "dma100" : 665.86,
+    "dma200" : 656.14,
+    "volume" : 130495.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 573.70,
-    "dma50" : 616.82,
-    "dma100" : 666.26,
-    "dma200" : 657.02,
-    "volume" : 214272.00
+    "date" : "2026-11-20",
+    "price" : 568.25,
+    "dma50" : 614.91,
+    "dma100" : 665.86,
+    "dma200" : 656.14,
+    "volume" : 130495.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -2033,15 +2033,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.69,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma50" : 5.38,
+    "pricePercentageAboveDma100" : 5.73,
+    "pricePercentageAboveDma200" : 5.67,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.89,
     "operatingProfitMarginPercentile" : 7.83,
     "netProfitMarginPercentile" : 3.91,
-    "totalTechnicalScore" : 21.68,
+    "totalTechnicalScore" : 21.78,
     "totalFundamentalScore" : 29.63,
-    "totalScore" : 51.31
+    "totalScore" : 51.42
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TIMKEN",
       "companyName" : "Timken India",
-      "marketCap" : 23294.00,
-      "peRatio" : 53.40,
+      "marketCap" : 23324.00,
+      "peRatio" : 53.50,
       "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.93,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma100" : 5.03,
+      "pricePercentageAboveDma200" : 5.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 13.79,
       "netProfitMarginPercentile" : 6.09,
-      "totalTechnicalScore" : 20.11,
+      "totalTechnicalScore" : 20.08,
       "totalFundamentalScore" : 34.58,
-      "totalScore" : 54.69
+      "totalScore" : 54.67
     }
   },
   "attributes" : {
     "companyCode" : "TIMKEN",
     "companyName" : "Timken India",
-    "marketCap" : 23294.00,
-    "peRatio" : 53.40,
+    "marketCap" : 23324.00,
+    "peRatio" : 53.50,
     "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 3087.20,
-    "dma50" : 3038.94,
-    "dma100" : null,
-    "dma200" : 3067.33,
-    "volume" : 20460.00
-  }, {
     "date" : "2025-11-21",
     "price" : 3070.40,
     "dma50" : 3040.17,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 3502.90,
     "dma50" : 3306.76,
-    "dma100" : 3175.04,
+    "dma100" : null,
     "dma200" : 3158.69,
     "volume" : 88520.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3126.16,
     "dma200" : 3179.32,
     "volume" : 43794.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 3100.80,
+    "dma50" : 3056.25,
+    "dma100" : 3122.31,
+    "dma200" : 3178.54,
+    "volume" : 90995.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 3096.90,
-    "dma50" : 3054.43,
-    "dma100" : 3126.16,
-    "dma200" : 3179.32,
-    "volume" : 43794.00
+    "date" : "2026-11-20",
+    "price" : 3100.80,
+    "dma50" : 3056.25,
+    "dma100" : 3122.31,
+    "dma200" : 3178.54,
+    "volume" : 90995.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,14 +2674,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.93,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma100" : 5.03,
+    "pricePercentageAboveDma200" : 5.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 13.79,
     "netProfitMarginPercentile" : 6.09,
-    "totalTechnicalScore" : 20.11,
+    "totalTechnicalScore" : 20.08,
     "totalFundamentalScore" : 34.58,
-    "totalScore" : 54.69
+    "totalScore" : 54.67
   }
 }

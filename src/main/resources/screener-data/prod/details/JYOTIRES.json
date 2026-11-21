@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JYOTIRES",
       "companyName" : "Jyoti Resins",
-      "marketCap" : 1167.00,
-      "peRatio" : 17.80,
+      "marketCap" : 1155.00,
+      "peRatio" : 17.60,
       "description" : "Jyoti Resins And Adhesives Ltd. is a manufacturer of synthetic resin adhesives. The company manufactures various types of wood adhesives (white glue), under the brand name of EURO 7000 , which was launched in 2006, and is now the second largest selling wood adhesive brand in India in the retail segment."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.46,
-      "pricePercentageAboveDma100" : 4.53,
-      "pricePercentageAboveDma200" : 4.78,
+      "pricePercentageAboveDma50" : 4.54,
+      "pricePercentageAboveDma100" : 4.58,
+      "pricePercentageAboveDma200" : 4.83,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.12,
       "operatingProfitMarginPercentile" : 15.81,
       "netProfitMarginPercentile" : 8.72,
-      "totalTechnicalScore" : 33.77,
+      "totalTechnicalScore" : 33.95,
       "totalFundamentalScore" : 34.65,
-      "totalScore" : 68.42
+      "totalScore" : 68.60
     }
   },
   "attributes" : {
     "companyCode" : "JYOTIRES",
     "companyName" : "Jyoti Resins",
-    "marketCap" : 1167.00,
-    "peRatio" : 17.80,
+    "marketCap" : 1155.00,
+    "peRatio" : 17.60,
     "description" : "Jyoti Resins And Adhesives Ltd. is a manufacturer of synthetic resin adhesives. The company manufactures various types of wood adhesives (white glue), under the brand name of EURO 7000 , which was launched in 2006, and is now the second largest selling wood adhesive brand in India in the retail segment."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1199.70,
-    "dma50" : 1241.34,
-    "dma100" : null,
-    "dma200" : 1295.93,
-    "volume" : 6501.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1186.25,
     "dma50" : 1239.17,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 891.15,
     "dma50" : 869.58,
-    "dma100" : 988.17,
+    "dma100" : null,
     "dma200" : 1076.28,
     "volume" : 19059.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 889.02,
     "dma200" : 930.87,
     "volume" : 22699.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 962.55,
+    "dma50" : 881.32,
+    "dma100" : 888.49,
+    "dma200" : 931.18,
+    "volume" : 22306.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 972.35,
-    "dma50" : 878.00,
-    "dma100" : 889.02,
-    "dma200" : 930.87,
-    "volume" : 22699.00
+    "date" : "2026-11-20",
+    "price" : 962.55,
+    "dma50" : 881.32,
+    "dma100" : 888.49,
+    "dma200" : 931.18,
+    "volume" : 22306.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.46,
-    "pricePercentageAboveDma100" : 4.53,
-    "pricePercentageAboveDma200" : 4.78,
+    "pricePercentageAboveDma50" : 4.54,
+    "pricePercentageAboveDma100" : 4.58,
+    "pricePercentageAboveDma200" : 4.83,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.12,
     "operatingProfitMarginPercentile" : 15.81,
     "netProfitMarginPercentile" : 8.72,
-    "totalTechnicalScore" : 33.77,
+    "totalTechnicalScore" : 33.95,
     "totalFundamentalScore" : 34.65,
-    "totalScore" : 68.42
+    "totalScore" : 68.60
   }
 }

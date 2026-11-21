@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FINPIPE",
       "companyName" : "Finolex Inds.",
-      "marketCap" : 9004.00,
-      "peRatio" : 14.80,
+      "marketCap" : 8903.00,
+      "peRatio" : 14.70,
       "description" : "Finolex Industries Limited (FIL) is a leading manufacturer of PVC Resin and the largest producer of PVC Pipes & Fittings in India. The Company offers the latest range of superior quality and durable PVC-U pipes and fittings used in agriculture, construction and industrial operations. Its product portfolio consists of two major divisions: PVC Resin PVC Pipes & Fittings [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.15,
-      "pricePercentageAboveDma100" : 5.37,
-      "pricePercentageAboveDma200" : 5.59,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.63,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 11.06,
       "netProfitMarginPercentile" : 6.32,
-      "totalTechnicalScore" : 16.11,
+      "totalTechnicalScore" : 16.24,
       "totalFundamentalScore" : 33.28,
-      "totalScore" : 49.39
+      "totalScore" : 49.52
     }
   },
   "attributes" : {
     "companyCode" : "FINPIPE",
     "companyName" : "Finolex Inds.",
-    "marketCap" : 9004.00,
-    "peRatio" : 14.80,
+    "marketCap" : 8903.00,
+    "peRatio" : 14.70,
     "description" : "Finolex Industries Limited (FIL) is a leading manufacturer of PVC Resin and the largest producer of PVC Pipes & Fittings in India. The Company offers the latest range of superior quality and durable PVC-U pipes and fittings used in agriculture, construction and industrial operations. Its product portfolio consists of two major divisions: PVC Resin PVC Pipes & Fittings [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 179.95,
-    "dma50" : 193.85,
-    "dma100" : null,
-    "dma200" : 207.49,
-    "volume" : 847210.00
-  }, {
     "date" : "2025-11-21",
     "price" : 181.73,
     "dma50" : 193.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 173.82,
     "dma50" : 172.92,
-    "dma100" : 174.86,
+    "dma100" : null,
     "dma200" : 186.71,
     "volume" : 689011.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 156.68,
     "dma200" : 164.52,
     "volume" : 403318.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 143.48,
+    "dma50" : 149.32,
+    "dma100" : 156.37,
+    "dma200" : 164.31,
+    "volume" : 478979.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 145.12,
-    "dma50" : 149.56,
-    "dma100" : 156.68,
-    "dma200" : 164.52,
-    "volume" : 403318.00
+    "date" : "2026-11-20",
+    "price" : 143.48,
+    "dma50" : 149.32,
+    "dma100" : 156.37,
+    "dma200" : 164.31,
+    "volume" : 478979.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.15,
-    "pricePercentageAboveDma100" : 5.37,
-    "pricePercentageAboveDma200" : 5.59,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 5.63,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 11.06,
     "netProfitMarginPercentile" : 6.32,
-    "totalTechnicalScore" : 16.11,
+    "totalTechnicalScore" : 16.24,
     "totalFundamentalScore" : 33.28,
-    "totalScore" : 49.39
+    "totalScore" : 49.52
   }
 }

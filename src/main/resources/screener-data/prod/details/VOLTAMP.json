@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VOLTAMP",
       "companyName" : "Volt.Transform.",
-      "marketCap" : 9759.00,
-      "peRatio" : 30.20,
+      "marketCap" : 9840.00,
+      "peRatio" : 30.40,
       "description" : "Voltamp Transformers Ltd is a Baroda based company and is mainly into manufacturing of various types of Oil filled Power & Distribution Transformers of various classes.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 5.04,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.22,
+      "pricePercentageAboveDma200" : 5.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.72,
       "operatingProfitMarginPercentile" : 13.01,
       "netProfitMarginPercentile" : 5.54,
-      "totalTechnicalScore" : 25.54,
+      "totalTechnicalScore" : 25.41,
       "totalFundamentalScore" : 36.28,
-      "totalScore" : 61.81
+      "totalScore" : 61.68
     }
   },
   "attributes" : {
     "companyCode" : "VOLTAMP",
     "companyName" : "Volt.Transform.",
-    "marketCap" : 9759.00,
-    "peRatio" : 30.20,
+    "marketCap" : 9840.00,
+    "peRatio" : 30.40,
     "description" : "Voltamp Transformers Ltd is a Baroda based company and is mainly into manufacturing of various types of Oil filled Power & Distribution Transformers of various classes.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 8250.50,
-    "dma50" : 7709.69,
-    "dma100" : null,
-    "dma200" : 8229.69,
-    "volume" : 43961.00
-  }, {
     "date" : "2025-11-21",
     "price" : 8080.50,
     "dma50" : 7724.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 10307.00,
     "dma50" : 8729.76,
-    "dma100" : 8157.72,
+    "dma100" : null,
     "dma200" : 8275.49,
     "volume" : 125527.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 10181.99,
     "dma200" : 9727.48,
     "volume" : 10408.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 9726.00,
+    "dma50" : 10102.49,
+    "dma100" : 10175.45,
+    "dma200" : 9727.46,
+    "volume" : 20085.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 9646.00,
-    "dma50" : 10117.86,
-    "dma100" : 10181.99,
-    "dma200" : 9727.48,
-    "volume" : 10408.00
+    "date" : "2026-11-20",
+    "price" : 9726.00,
+    "dma50" : 10102.49,
+    "dma100" : 10175.45,
+    "dma200" : 9727.46,
+    "volume" : 20085.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-03-31",
@@ -2633,15 +2633,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 5.04,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.22,
+    "pricePercentageAboveDma200" : 5.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.72,
     "operatingProfitMarginPercentile" : 13.01,
     "netProfitMarginPercentile" : 5.54,
-    "totalTechnicalScore" : 25.54,
+    "totalTechnicalScore" : 25.41,
     "totalFundamentalScore" : 36.28,
-    "totalScore" : 61.81
+    "totalScore" : 61.68
   }
 }

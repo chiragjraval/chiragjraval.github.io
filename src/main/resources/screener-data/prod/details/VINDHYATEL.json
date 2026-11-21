@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VINDHYATEL",
       "companyName" : "Vindhya Telelink",
-      "marketCap" : 2998.00,
-      "peRatio" : 11.70,
+      "marketCap" : 2947.00,
+      "peRatio" : 11.50,
       "description" : "Vindhya Telelinks Ltd, an MP Birla Group company, manufactures telecom, railway, solar and specialty cables and FRP products at Rewa. It also executes EPC projects across telecom, power, water, irrigation, sewerage, solar and system integration, operates an IP-1 fibre network and holds material investments in group associates. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.16,
-      "pricePercentageAboveDma100" : 4.86,
-      "pricePercentageAboveDma200" : 4.16,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 4.27,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.30,
       "operatingProfitMarginPercentile" : 17.56,
       "netProfitMarginPercentile" : 7.82,
-      "totalTechnicalScore" : 39.19,
+      "totalTechnicalScore" : 39.47,
       "totalFundamentalScore" : 30.68,
-      "totalScore" : 69.86
+      "totalScore" : 70.14
     }
   },
   "attributes" : {
     "companyCode" : "VINDHYATEL",
     "companyName" : "Vindhya Telelink",
-    "marketCap" : 2998.00,
-    "peRatio" : 11.70,
+    "marketCap" : 2947.00,
+    "peRatio" : 11.50,
     "description" : "Vindhya Telelinks Ltd, an MP Birla Group company, manufactures telecom, railway, solar and specialty cables and FRP products at Rewa. It also executes EPC projects across telecom, power, water, irrigation, sewerage, solar and system integration, operates an IP-1 fibre network and holds material investments in group associates. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1541.00,
-    "dma50" : 1460.23,
-    "dma100" : null,
-    "dma200" : 1586.59,
-    "volume" : 24241.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1528.40,
     "dma50" : 1462.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1340.60,
     "dma50" : 1165.83,
-    "dma100" : 1249.79,
+    "dma100" : null,
     "dma200" : 1351.04,
     "volume" : 25148.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 2461.48,
     "dma200" : 2166.91,
     "volume" : 25925.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 2486.60,
+    "dma50" : 2610.36,
+    "dma100" : 2465.56,
+    "dma200" : 2170.09,
+    "volume" : 33370.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 2529.80,
-    "dma50" : 2615.42,
-    "dma100" : 2461.48,
-    "dma200" : 2166.91,
-    "volume" : 25925.00
+    "date" : "2026-11-20",
+    "price" : 2486.60,
+    "dma50" : 2610.36,
+    "dma100" : 2465.56,
+    "dma200" : 2170.09,
+    "volume" : 33370.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.16,
-    "pricePercentageAboveDma100" : 4.86,
-    "pricePercentageAboveDma200" : 4.16,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 4.27,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.30,
     "operatingProfitMarginPercentile" : 17.56,
     "netProfitMarginPercentile" : 7.82,
-    "totalTechnicalScore" : 39.19,
+    "totalTechnicalScore" : 39.47,
     "totalFundamentalScore" : 30.68,
-    "totalScore" : 69.86
+    "totalScore" : 70.14
   }
 }

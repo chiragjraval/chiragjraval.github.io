@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GRAVITA",
       "companyName" : "Gravita India",
-      "marketCap" : 10762.00,
-      "peRatio" : 27.00,
+      "marketCap" : 10938.00,
+      "peRatio" : 27.50,
       "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.17,
-      "pricePercentageAboveDma100" : 5.51,
-      "pricePercentageAboveDma200" : 5.48,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 5.44,
+      "pricePercentageAboveDma200" : 5.41,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.33,
       "operatingProfitMarginPercentile" : 16.47,
       "netProfitMarginPercentile" : 7.79,
-      "totalTechnicalScore" : 21.17,
+      "totalTechnicalScore" : 20.93,
       "totalFundamentalScore" : 28.59,
-      "totalScore" : 49.76
+      "totalScore" : 49.52
     }
   },
   "attributes" : {
     "companyCode" : "GRAVITA",
     "companyName" : "Gravita India",
-    "marketCap" : 10762.00,
-    "peRatio" : 27.00,
+    "marketCap" : 10938.00,
+    "peRatio" : 27.50,
     "description" : "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1701.60,
-    "dma50" : 1684.00,
-    "dma100" : null,
-    "dma200" : 1750.72,
-    "volume" : 103829.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1704.20,
     "dma50" : 1684.79,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1648.40,
     "dma50" : 1533.87,
-    "dma100" : 1639.81,
+    "dma100" : null,
     "dma200" : 1657.91,
     "volume" : 445533.00
   }, {
@@ -925,7 +918,7 @@
     "date" : "2026-05-27",
     "price" : 1668.50,
     "dma50" : 1621.92,
-    "dma100" : 1600.86,
+    "dma100" : 1600.87,
     "dma200" : 1660.52,
     "volume" : 178100.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1625.37,
     "dma200" : 1614.44,
     "volume" : 116681.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1482.00,
+    "dma50" : 1508.04,
+    "dma100" : 1623.89,
+    "dma200" : 1613.12,
+    "volume" : 140122.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1458.10,
-    "dma50" : 1509.10,
-    "dma100" : 1625.37,
-    "dma200" : 1614.44,
-    "volume" : 116681.00
+    "date" : "2026-11-20",
+    "price" : 1482.00,
+    "dma50" : 1508.04,
+    "dma100" : 1623.89,
+    "dma200" : 1613.12,
+    "volume" : 140122.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-12-31",
@@ -2483,15 +2483,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.17,
-    "pricePercentageAboveDma100" : 5.51,
-    "pricePercentageAboveDma200" : 5.48,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 5.44,
+    "pricePercentageAboveDma200" : 5.41,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.33,
     "operatingProfitMarginPercentile" : 16.47,
     "netProfitMarginPercentile" : 7.79,
-    "totalTechnicalScore" : 21.17,
+    "totalTechnicalScore" : 20.93,
     "totalFundamentalScore" : 28.59,
-    "totalScore" : 49.76
+    "totalScore" : 49.52
   }
 }

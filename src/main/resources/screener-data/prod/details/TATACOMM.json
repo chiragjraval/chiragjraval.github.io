@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "TATACOMM",
       "companyName" : "Tata Comm",
-      "marketCap" : 49948.00,
+      "marketCap" : 49928.00,
       "peRatio" : 41.20,
       "description" : "Tata Communications was incorporated on March 19, 1986 as VSNL. In February 2002, the Government of India, as per their disinvestments plan, sold 25% of their holding in the company to the strategic partner. Consequently, the company was taken over under the administrative control of TATA. [1] It is the leading global digital ecosystem enabler. It has a leadership position in emerging markets, and an infrastructure that spans the globe. It delivers managed solutions to multinational companies and service providers. It partners with 300 of the Fortune 500 companies with their state-of the-art solutions, including a wide range of communication, collaboration, cloud, mobility, connected solutions, network and data center services. [2]"
     },
@@ -21,7 +21,7 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 4.99,
+      "pricePercentageAboveDma100" : 4.98,
       "pricePercentageAboveDma200" : 4.93,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.23,
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "TATACOMM",
     "companyName" : "Tata Comm",
-    "marketCap" : 49948.00,
+    "marketCap" : 49928.00,
     "peRatio" : 41.20,
     "description" : "Tata Communications was incorporated on March 19, 1986 as VSNL. In February 2002, the Government of India, as per their disinvestments plan, sold 25% of their holding in the company to the strategic partner. Consequently, the company was taken over under the administrative control of TATA. [1] It is the leading global digital ecosystem enabler. It has a leadership position in emerging markets, and an infrastructure that spans the globe. It delivers managed solutions to multinational companies and service providers. It partners with 300 of the Fortune 500 companies with their state-of the-art solutions, including a wide range of communication, collaboration, cloud, mobility, connected solutions, network and data center services. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1917.40,
-    "dma50" : 1807.64,
-    "dma100" : null,
-    "dma200" : 1720.55,
-    "volume" : 379444.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1920.90,
     "dma50" : 1812.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1515.70,
     "dma50" : 1523.69,
-    "dma100" : 1642.22,
+    "dma100" : null,
     "dma200" : 1646.02,
     "volume" : 272813.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1746.77,
     "dma200" : 1727.61,
     "volume" : 362576.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1751.00,
+    "dma50" : 1730.35,
+    "dma100" : 1744.58,
+    "dma200" : 1727.84,
+    "volume" : 151870.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1751.70,
-    "dma50" : 1729.51,
-    "dma100" : 1746.77,
-    "dma200" : 1727.61,
-    "volume" : 362576.00
+    "date" : "2026-11-20",
+    "price" : 1751.00,
+    "dma50" : 1730.35,
+    "dma100" : 1744.58,
+    "dma200" : 1727.84,
+    "volume" : 151870.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2674,7 +2674,7 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 4.99,
+    "pricePercentageAboveDma100" : 4.98,
     "pricePercentageAboveDma200" : 4.93,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.23,

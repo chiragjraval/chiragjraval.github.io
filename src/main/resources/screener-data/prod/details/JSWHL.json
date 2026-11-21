@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JSWHL",
       "companyName" : "JSW Holdings",
-      "marketCap" : 11773.00,
-      "peRatio" : 63.20,
+      "marketCap" : 11800.00,
+      "peRatio" : 63.40,
       "description" : "JSW Holdings Ltd is a core investment company (CIC) and is primarily engaged in the business of investing and financing.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.26,
-      "pricePercentageAboveDma100" : 5.33,
-      "pricePercentageAboveDma200" : 5.87,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.85,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 19.94,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 16.45,
+      "totalTechnicalScore" : 16.40,
       "totalFundamentalScore" : 45.21,
-      "totalScore" : 61.66
+      "totalScore" : 61.61
     }
   },
   "attributes" : {
     "companyCode" : "JSWHL",
     "companyName" : "JSW Holdings",
-    "marketCap" : 11773.00,
-    "peRatio" : 63.20,
+    "marketCap" : 11800.00,
+    "peRatio" : 63.40,
     "description" : "JSW Holdings Ltd is a core investment company (CIC) and is primarily engaged in the business of investing and financing.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 17729.00,
-    "dma50" : 17463.73,
-    "dma100" : null,
-    "dma200" : 18116.49,
-    "volume" : 7416.00
-  }, {
     "date" : "2025-11-21",
     "price" : 17324.00,
     "dma50" : 17458.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 13065.00,
     "dma50" : 14947.43,
-    "dma100" : 17369.25,
+    "dma100" : null,
     "dma200" : 17199.06,
     "volume" : 5937.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 11350.25,
     "dma200" : 12830.43,
     "volume" : 4536.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 10631.00,
+    "dma50" : 11161.56,
+    "dma100" : 11335.85,
+    "dma200" : 12808.55,
+    "volume" : 2165.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 10606.00,
-    "dma50" : 11183.22,
-    "dma100" : 11350.25,
-    "dma200" : 12830.43,
-    "volume" : 4536.00
+    "date" : "2026-11-20",
+    "price" : 10631.00,
+    "dma50" : 11161.56,
+    "dma100" : 11335.85,
+    "dma200" : 12808.55,
+    "volume" : 2165.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.26,
-    "pricePercentageAboveDma100" : 5.33,
-    "pricePercentageAboveDma200" : 5.87,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.85,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 19.94,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 16.45,
+    "totalTechnicalScore" : 16.40,
     "totalFundamentalScore" : 45.21,
-    "totalScore" : 61.66
+    "totalScore" : 61.61
   }
 }

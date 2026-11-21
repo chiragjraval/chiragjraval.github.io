@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DHAMPURSUG",
       "companyName" : "Dhampur Sugar",
-      "marketCap" : 1064.00,
-      "peRatio" : 11.70,
+      "marketCap" : 1044.00,
+      "peRatio" : 11.50,
       "description" : "Incorporated in 1933, Dhampur Sugar Mills Ltd manufactures and sells sugar, chemicals, ethanol, and cogeneration of power.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.13,
-      "pricePercentageAboveDma100" : 4.95,
-      "pricePercentageAboveDma200" : 4.69,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 4.79,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.43,
       "operatingProfitMarginPercentile" : 7.35,
       "netProfitMarginPercentile" : 5.81,
-      "totalTechnicalScore" : 44.78,
+      "totalTechnicalScore" : 35.07,
       "totalFundamentalScore" : 21.59,
-      "totalScore" : 66.37
+      "totalScore" : 56.66
     }
   },
   "attributes" : {
     "companyCode" : "DHAMPURSUG",
     "companyName" : "Dhampur Sugar",
-    "marketCap" : 1064.00,
-    "peRatio" : 11.70,
+    "marketCap" : 1044.00,
+    "peRatio" : 11.50,
     "description" : "Incorporated in 1933, Dhampur Sugar Mills Ltd manufactures and sells sugar, chemicals, ethanol, and cogeneration of power.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 130.92,
-    "dma50" : 135.65,
-    "dma100" : null,
-    "dma200" : 145.98,
-    "volume" : 57093.00
-  }, {
     "date" : "2025-11-21",
     "price" : 129.73,
     "dma50" : 135.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 142.69,
     "dma50" : 129.38,
-    "dma100" : 123.91,
+    "dma100" : null,
     "dma200" : 132.66,
     "volume" : 831809.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 163.91,
     "dma200" : 155.81,
     "volume" : 475559.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 162.28,
+    "dma50" : 169.64,
+    "dma100" : 164.14,
+    "dma200" : 155.88,
+    "volume" : 402808.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 165.41,
-    "dma50" : 169.95,
-    "dma100" : 163.91,
-    "dma200" : 155.81,
-    "volume" : 475559.00
+    "date" : "2026-11-20",
+    "price" : 162.28,
+    "dma50" : 169.64,
+    "dma100" : 164.14,
+    "dma200" : 155.88,
+    "volume" : 402808.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.13,
-    "pricePercentageAboveDma100" : 4.95,
-    "pricePercentageAboveDma200" : 4.69,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 4.79,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.43,
     "operatingProfitMarginPercentile" : 7.35,
     "netProfitMarginPercentile" : 5.81,
-    "totalTechnicalScore" : 44.78,
+    "totalTechnicalScore" : 35.07,
     "totalFundamentalScore" : 21.59,
-    "totalScore" : 66.37
+    "totalScore" : 56.66
   }
 }

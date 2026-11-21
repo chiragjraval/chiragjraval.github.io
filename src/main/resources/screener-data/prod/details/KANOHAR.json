@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KANOHAR",
       "companyName" : "Kanohar Elect.",
-      "marketCap" : 8288.00,
-      "peRatio" : 50.40,
+      "marketCap" : 8189.00,
+      "peRatio" : 49.80,
       "description" : "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. [1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma50" : 4.64,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.74,
+      "pricePercentageAboveDma200" : 3.83,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 23.30,
+      "totalTechnicalScore" : 23.47,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 73.30
+      "totalScore" : 73.47
     }
   },
   "attributes" : {
     "companyCode" : "KANOHAR",
     "companyName" : "Kanohar Elect.",
-    "marketCap" : 8288.00,
-    "peRatio" : 50.40,
+    "marketCap" : 8189.00,
+    "peRatio" : 49.80,
     "description" : "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. [1]"
   },
   "technicalHistory" : [ {
@@ -354,14 +354,21 @@
     "dma100" : null,
     "dma200" : 836.17,
     "volume" : 2114190.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1034.15,
+    "dma50" : 964.63,
+    "dma100" : null,
+    "dma200" : 838.14,
+    "volume" : 604734.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1046.60,
-    "dma50" : 961.79,
+    "date" : "2026-11-20",
+    "price" : 1034.15,
+    "dma50" : 964.63,
     "dma100" : null,
-    "dma200" : 836.17,
-    "volume" : 2114190.00
+    "dma200" : 838.14,
+    "volume" : 604734.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -432,15 +439,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma50" : 4.64,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.74,
+    "pricePercentageAboveDma200" : 3.83,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 23.30,
+    "totalTechnicalScore" : 23.47,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 73.30
+    "totalScore" : 73.47
   }
 }

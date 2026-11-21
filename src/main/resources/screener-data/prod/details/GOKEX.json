@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GOKEX",
       "companyName" : "Gokaldas Exports",
-      "marketCap" : 5413.00,
-      "peRatio" : 39.80,
+      "marketCap" : 5552.00,
+      "peRatio" : 40.80,
       "description" : "Gokaldas Exports Limited is engaged in the business of design, manufacture, and sale of a wide range of garments for men, women, and children and caters to the needs of several leading international fashion brands and retailers [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 5.00,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.65,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.87,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.49,
       "operatingProfitMarginPercentile" : 17.00,
       "netProfitMarginPercentile" : 8.13,
-      "totalTechnicalScore" : 24.87,
+      "totalTechnicalScore" : 39.49,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 60.49
+      "totalScore" : 75.11
     }
   },
   "attributes" : {
     "companyCode" : "GOKEX",
     "companyName" : "Gokaldas Exports",
-    "marketCap" : 5413.00,
-    "peRatio" : 39.80,
+    "marketCap" : 5552.00,
+    "peRatio" : 40.80,
     "description" : "Gokaldas Exports Limited is engaged in the business of design, manufacture, and sale of a wide range of garments for men, women, and children and caters to the needs of several leading international fashion brands and retailers [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 949.35,
-    "dma50" : 838.18,
-    "dma100" : null,
-    "dma200" : 854.25,
-    "volume" : 368521.00
-  }, {
     "date" : "2025-11-21",
     "price" : 937.80,
     "dma50" : 842.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 720.80,
     "dma50" : 662.40,
-    "dma100" : 709.12,
+    "dma100" : null,
     "dma200" : 750.65,
     "volume" : 335706.00
   }, {
@@ -1730,7 +1723,7 @@
     "date" : "2026-11-11",
     "price" : 676.40,
     "dma50" : 705.70,
-    "dma100" : 762.48,
+    "dma100" : 762.49,
     "dma200" : 740.90,
     "volume" : 957994.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 754.45,
     "dma200" : 738.80,
     "volume" : 983415.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 757.60,
+    "dma50" : 707.81,
+    "dma100" : 753.29,
+    "dma200" : 738.99,
+    "volume" : 837673.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 738.65,
-    "dma50" : 705.77,
-    "dma100" : 754.45,
-    "dma200" : 738.80,
-    "volume" : 983415.00
+    "date" : "2026-11-20",
+    "price" : 757.60,
+    "dma50" : 707.81,
+    "dma100" : 753.29,
+    "dma200" : 738.99,
+    "volume" : 837673.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2658,20 +2658,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 5.00,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.65,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.87,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.49,
     "operatingProfitMarginPercentile" : 17.00,
     "netProfitMarginPercentile" : 8.13,
-    "totalTechnicalScore" : 24.87,
+    "totalTechnicalScore" : 39.49,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 60.49
+    "totalScore" : 75.11
   }
 }

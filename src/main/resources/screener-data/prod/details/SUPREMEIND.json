@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUPREMEIND",
       "companyName" : "Supreme Inds.",
-      "marketCap" : 40757.00,
-      "peRatio" : 36.10,
+      "marketCap" : 40725.00,
+      "peRatio" : 36.00,
       "description" : "Supreme Industries Limited is India’s leading plastics product manufacturer, offering a wide and comprehensive range of plastic products in India. The company operates in various product categories viz. Plastic Piping System, Cross Laminated Films & Products, Protective Packaging Products, Industrial Moulded Components, Moulded Furniture, Storage & Material Handling Products, Performance Packaging Films and Composite LPG Cylinders.[1]"
     },
     "companyScore" : {
@@ -20,14 +20,14 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma50" : 5.23,
       "pricePercentageAboveDma100" : 5.32,
       "pricePercentageAboveDma200" : 5.46,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 8.09,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 16.02,
+      "totalTechnicalScore" : 16.01,
       "totalFundamentalScore" : 34.05,
       "totalScore" : 50.06
     }
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "SUPREMEIND",
     "companyName" : "Supreme Inds.",
-    "marketCap" : 40757.00,
-    "peRatio" : 36.10,
+    "marketCap" : 40725.00,
+    "peRatio" : 36.00,
     "description" : "Supreme Industries Limited is India’s leading plastics product manufacturer, offering a wide and comprehensive range of plastic products in India. The company operates in various product categories viz. Plastic Piping System, Cross Laminated Films & Products, Protective Packaging Products, Industrial Moulded Components, Moulded Furniture, Storage & Material Handling Products, Performance Packaging Films and Composite LPG Cylinders.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 3568.70,
-    "dma50" : 4022.34,
-    "dma100" : null,
-    "dma200" : 4173.87,
-    "volume" : 220523.00
-  }, {
     "date" : "2025-11-21",
     "price" : 3475.30,
     "dma50" : 4000.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 3711.80,
     "dma50" : 3772.99,
-    "dma100" : 3625.22,
+    "dma100" : null,
     "dma200" : 3859.75,
     "volume" : 148830.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3424.33,
     "dma200" : 3536.66,
     "volume" : 436629.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 3206.00,
+    "dma50" : 3361.81,
+    "dma100" : 3424.82,
+    "dma200" : 3533.37,
+    "volume" : 233116.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 3208.50,
-    "dma50" : 3368.17,
-    "dma100" : 3424.33,
-    "dma200" : 3536.66,
-    "volume" : 436629.00
+    "date" : "2026-11-20",
+    "price" : 3206.00,
+    "dma50" : 3361.81,
+    "dma100" : 3424.82,
+    "dma200" : 3533.37,
+    "volume" : 233116.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,14 +2673,14 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma50" : 5.23,
     "pricePercentageAboveDma100" : 5.32,
     "pricePercentageAboveDma200" : 5.46,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 8.09,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 16.02,
+    "totalTechnicalScore" : 16.01,
     "totalFundamentalScore" : 34.05,
     "totalScore" : 50.06
   }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "SKFINDIA",
       "companyName" : "SKF India",
-      "marketCap" : 7151.00,
+      "marketCap" : 7152.00,
       "peRatio" : 45.00,
       "description" : "SKF India Ltd is a leading supplier of products, solutions & services within rolling bearing, seals, mechatronics, and lubrication systems.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.49,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 7.84,
       "netProfitMarginPercentile" : 6.17,
-      "totalTechnicalScore" : 15.76,
+      "totalTechnicalScore" : 15.74,
       "totalFundamentalScore" : 29.43,
-      "totalScore" : 45.19
+      "totalScore" : 45.17
     }
   },
   "attributes" : {
     "companyCode" : "SKFINDIA",
     "companyName" : "SKF India",
-    "marketCap" : 7151.00,
+    "marketCap" : 7152.00,
     "peRatio" : 45.00,
     "description" : "SKF India Ltd is a leading supplier of products, solutions & services within rolling bearing, seals, mechatronics, and lubrication systems.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1984.90,
-    "dma50" : 2142.08,
-    "dma100" : null,
-    "dma200" : 2148.75,
-    "volume" : 20922.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1960.20,
     "dma50" : 2134.95,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1752.80,
     "dma50" : 1649.17,
-    "dma100" : 1735.66,
+    "dma100" : null,
     "dma200" : 1868.67,
     "volume" : 59779.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1507.28,
     "dma200" : 1603.54,
     "volume" : 15547.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1446.60,
+    "dma50" : 1464.87,
+    "dma100" : 1505.02,
+    "dma200" : 1601.98,
+    "volume" : 18828.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1446.50,
-    "dma50" : 1465.61,
-    "dma100" : 1507.28,
-    "dma200" : 1603.54,
-    "volume" : 15547.00
+    "date" : "2026-11-20",
+    "price" : 1446.60,
+    "dma50" : 1464.87,
+    "dma100" : 1505.02,
+    "dma200" : 1601.98,
+    "volume" : 18828.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.49,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 7.84,
     "netProfitMarginPercentile" : 6.17,
-    "totalTechnicalScore" : 15.76,
+    "totalTechnicalScore" : 15.74,
     "totalFundamentalScore" : 29.43,
-    "totalScore" : 45.19
+    "totalScore" : 45.17
   }
 }

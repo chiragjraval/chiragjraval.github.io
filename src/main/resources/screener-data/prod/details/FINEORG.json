@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FINEORG",
       "companyName" : "Fine Organic",
-      "marketCap" : 16731.00,
-      "peRatio" : 34.70,
+      "marketCap" : 16828.00,
+      "peRatio" : 34.90,
       "description" : "Fine Organic Industries is engaged in and outside India as manufacturers, processors, suppliers, distributors, dealers, importers, exporters of wide range of oleochemical-based additives used in foods, plastics, cosmetics, coatings and other specialty application in various industries."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.78,
-      "pricePercentageAboveDma100" : 4.70,
-      "pricePercentageAboveDma200" : 4.50,
+      "pricePercentageAboveDma50" : 4.76,
+      "pricePercentageAboveDma100" : 4.67,
+      "pricePercentageAboveDma200" : 4.48,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.94,
       "operatingProfitMarginPercentile" : 16.84,
       "netProfitMarginPercentile" : 8.58,
-      "totalTechnicalScore" : 48.98,
+      "totalTechnicalScore" : 48.91,
       "totalFundamentalScore" : 38.36,
-      "totalScore" : 87.34
+      "totalScore" : 87.27
     }
   },
   "attributes" : {
     "companyCode" : "FINEORG",
     "companyName" : "Fine Organic",
-    "marketCap" : 16731.00,
-    "peRatio" : 34.70,
+    "marketCap" : 16828.00,
+    "peRatio" : 34.90,
     "description" : "Fine Organic Industries is engaged in and outside India as manufacturers, processors, suppliers, distributors, dealers, importers, exporters of wide range of oleochemical-based additives used in foods, plastics, cosmetics, coatings and other specialty application in various industries."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 4619.30,
-    "dma50" : 4573.73,
-    "dma100" : null,
-    "dma200" : 4656.84,
-    "volume" : 9231.00
-  }, {
     "date" : "2025-11-21",
     "price" : 4538.10,
     "dma50" : 4572.33,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 4995.20,
     "dma50" : 4432.43,
-    "dma100" : 4353.58,
+    "dma100" : null,
     "dma200" : 4475.60,
     "volume" : 17507.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5148.76,
     "dma200" : 4963.11,
     "volume" : 17191.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 5488.50,
+    "dma50" : 5237.14,
+    "dma100" : 5150.69,
+    "dma200" : 4968.34,
+    "volume" : 19546.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 5457.00,
-    "dma50" : 5226.88,
-    "dma100" : 5148.76,
-    "dma200" : 4963.11,
-    "volume" : 17191.00
+    "date" : "2026-11-20",
+    "price" : 5488.50,
+    "dma50" : 5237.14,
+    "dma100" : 5150.69,
+    "dma200" : 4968.34,
+    "volume" : 19546.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2183,15 +2183,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.78,
-    "pricePercentageAboveDma100" : 4.70,
-    "pricePercentageAboveDma200" : 4.50,
+    "pricePercentageAboveDma50" : 4.76,
+    "pricePercentageAboveDma100" : 4.67,
+    "pricePercentageAboveDma200" : 4.48,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.94,
     "operatingProfitMarginPercentile" : 16.84,
     "netProfitMarginPercentile" : 8.58,
-    "totalTechnicalScore" : 48.98,
+    "totalTechnicalScore" : 48.91,
     "totalFundamentalScore" : 38.36,
-    "totalScore" : 87.34
+    "totalScore" : 87.27
   }
 }

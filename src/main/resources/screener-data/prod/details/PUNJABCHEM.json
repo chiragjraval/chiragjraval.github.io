@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PUNJABCHEM",
       "companyName" : "Punjab Chemicals",
-      "marketCap" : 1071.00,
-      "peRatio" : 17.30,
+      "marketCap" : 1094.00,
+      "peRatio" : 17.70,
       "description" : "Incorporated in 1975, Punjab Chemicals & Crop Protection Ltd is in the business of Performance Chemicals[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.53,
-      "pricePercentageAboveDma100" : 5.87,
-      "pricePercentageAboveDma200" : 5.88,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.77,
+      "pricePercentageAboveDma200" : 5.78,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.18,
       "operatingProfitMarginPercentile" : 15.31,
       "netProfitMarginPercentile" : 7.54,
-      "totalTechnicalScore" : 17.28,
+      "totalTechnicalScore" : 16.98,
       "totalFundamentalScore" : 38.03,
-      "totalScore" : 55.31
+      "totalScore" : 55.01
     }
   },
   "attributes" : {
     "companyCode" : "PUNJABCHEM",
     "companyName" : "Punjab Chemicals",
-    "marketCap" : 1071.00,
-    "peRatio" : 17.30,
+    "marketCap" : 1094.00,
+    "peRatio" : 17.70,
     "description" : "Incorporated in 1975, Punjab Chemicals & Crop Protection Ltd is in the business of Performance Chemicals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1361.20,
-    "dma50" : 1316.73,
-    "dma100" : null,
-    "dma200" : 1202.44,
-    "volume" : 6344.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1336.40,
     "dma50" : 1317.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1062.85,
     "dma50" : 1054.12,
-    "dma100" : 1131.42,
+    "dma100" : null,
     "dma200" : 1140.13,
     "volume" : 5263.00
   }, {
@@ -1667,7 +1660,7 @@
     "date" : "2026-10-29",
     "price" : 965.10,
     "dma50" : 1037.88,
-    "dma100" : 1073.43,
+    "dma100" : 1073.44,
     "dma200" : 1084.44,
     "volume" : 1532.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1057.29,
     "dma200" : 1059.79,
     "volume" : 8262.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 892.15,
+    "dma50" : 974.87,
+    "dma100" : 1055.46,
+    "dma200" : 1058.12,
+    "volume" : 7991.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 873.80,
-    "dma50" : 978.25,
-    "dma100" : 1057.29,
-    "dma200" : 1059.79,
-    "volume" : 8262.00
+    "date" : "2026-11-20",
+    "price" : 892.15,
+    "dma50" : 974.87,
+    "dma100" : 1055.46,
+    "dma200" : 1058.12,
+    "volume" : 7991.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.53,
-    "pricePercentageAboveDma100" : 5.87,
-    "pricePercentageAboveDma200" : 5.88,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.77,
+    "pricePercentageAboveDma200" : 5.78,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.18,
     "operatingProfitMarginPercentile" : 15.31,
     "netProfitMarginPercentile" : 7.54,
-    "totalTechnicalScore" : 17.28,
+    "totalTechnicalScore" : 16.98,
     "totalFundamentalScore" : 38.03,
-    "totalScore" : 55.31
+    "totalScore" : 55.01
   }
 }

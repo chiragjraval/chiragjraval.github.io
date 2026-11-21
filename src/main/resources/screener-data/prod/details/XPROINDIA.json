@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "XPROINDIA",
       "companyName" : "XPRO India",
-      "marketCap" : 2952.00,
-      "peRatio" : 83.80,
+      "marketCap" : 2864.00,
+      "peRatio" : 81.30,
       "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.44,
-      "pricePercentageAboveDma100" : 4.78,
-      "pricePercentageAboveDma200" : 4.50,
+      "pricePercentageAboveDma50" : 4.63,
+      "pricePercentageAboveDma100" : 4.93,
+      "pricePercentageAboveDma200" : 4.67,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 14.02,
       "netProfitMarginPercentile" : 7.47,
-      "totalTechnicalScore" : 38.73,
+      "totalTechnicalScore" : 39.22,
       "totalFundamentalScore" : 39.81,
-      "totalScore" : 78.54
+      "totalScore" : 79.03
     }
   },
   "attributes" : {
     "companyCode" : "XPROINDIA",
     "companyName" : "XPRO India",
-    "marketCap" : 2952.00,
-    "peRatio" : 83.80,
+    "marketCap" : 2864.00,
+    "peRatio" : 81.30,
     "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1025.20,
-    "dma50" : 1098.03,
-    "dma100" : null,
-    "dma200" : 1149.60,
-    "volume" : 4973.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1020.80,
     "dma50" : 1095.00,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1052.60,
     "dma50" : 984.97,
-    "dma100" : 967.37,
+    "dma100" : null,
     "dma200" : 1034.77,
     "volume" : 23315.00
   }, {
@@ -1492,7 +1485,7 @@
     "date" : "2026-09-22",
     "price" : 1201.00,
     "dma50" : 1236.84,
-    "dma100" : 1238.53,
+    "dma100" : 1238.52,
     "dma200" : 1167.27,
     "volume" : 54168.00
   }, {
@@ -1674,7 +1667,7 @@
     "date" : "2026-10-30",
     "price" : 1009.80,
     "dma50" : 1115.61,
-    "dma100" : 1226.79,
+    "dma100" : 1226.78,
     "dma200" : 1143.79,
     "volume" : 31488.00
   }, {
@@ -1695,7 +1688,7 @@
     "date" : "2026-11-04",
     "price" : 1103.30,
     "dma50" : 1105.14,
-    "dma100" : 1222.14,
+    "dma100" : 1222.13,
     "dma200" : 1140.18,
     "volume" : 287599.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1205.50,
     "dma200" : 1143.76,
     "volume" : 49919.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1220.40,
+    "dma50" : 1135.26,
+    "dma100" : 1203.75,
+    "dma200" : 1144.53,
+    "volume" : 34133.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1257.60,
-    "dma50" : 1131.79,
-    "dma100" : 1205.50,
-    "dma200" : 1143.76,
-    "volume" : 49919.00
+    "date" : "2026-11-20",
+    "price" : 1220.40,
+    "dma50" : 1135.26,
+    "dma100" : 1203.75,
+    "dma200" : 1144.53,
+    "volume" : 34133.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.44,
-    "pricePercentageAboveDma100" : 4.78,
-    "pricePercentageAboveDma200" : 4.50,
+    "pricePercentageAboveDma50" : 4.63,
+    "pricePercentageAboveDma100" : 4.93,
+    "pricePercentageAboveDma200" : 4.67,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 14.02,
     "netProfitMarginPercentile" : 7.47,
-    "totalTechnicalScore" : 38.73,
+    "totalTechnicalScore" : 39.22,
     "totalFundamentalScore" : 39.81,
-    "totalScore" : 78.54
+    "totalScore" : 79.03
   }
 }

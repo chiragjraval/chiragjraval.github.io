@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AARTIDRUGS",
       "companyName" : "Aarti Drugs",
-      "marketCap" : 4553.00,
-      "peRatio" : 19.80,
+      "marketCap" : 4422.00,
+      "peRatio" : 19.20,
       "description" : "Established in the year 1984 and a part of $1000 million Aarti Group of Industries, Aarti Drugs Ltd. (ADL) is engaged into manufacturing and selling Active Pharmaceutical Ingredients (API's), Pharma Intermediates, Specialty Chemicals as well as Formulations. [1] It is exporting its API's and Speciality chemicals to over 100 countries across the globe. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.38,
-      "pricePercentageAboveDma100" : 4.11,
-      "pricePercentageAboveDma200" : 4.02,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.30,
+      "pricePercentageAboveDma200" : 4.20,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 9.89,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 47.52,
+      "totalTechnicalScore" : 48.06,
       "totalFundamentalScore" : 33.45,
-      "totalScore" : 80.96
+      "totalScore" : 81.51
     }
   },
   "attributes" : {
     "companyCode" : "AARTIDRUGS",
     "companyName" : "Aarti Drugs",
-    "marketCap" : 4553.00,
-    "peRatio" : 19.80,
+    "marketCap" : 4422.00,
+    "peRatio" : 19.20,
     "description" : "Established in the year 1984 and a part of $1000 million Aarti Group of Industries, Aarti Drugs Ltd. (ADL) is engaged into manufacturing and selling Active Pharmaceutical Ingredients (API's), Pharma Intermediates, Specialty Chemicals as well as Formulations. [1] It is exporting its API's and Speciality chemicals to over 100 countries across the globe. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 446.80,
-    "dma50" : 488.56,
-    "dma100" : null,
-    "dma200" : 472.63,
-    "volume" : 129527.00
-  }, {
     "date" : "2025-11-21",
     "price" : 442.10,
     "dma50" : 486.74,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 365.20,
     "dma50" : 362.18,
-    "dma100" : 378.99,
+    "dma100" : null,
     "dma200" : 409.42,
     "volume" : 227555.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 423.60,
     "dma200" : 417.30,
     "volume" : 287760.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 484.50,
+    "dma50" : 445.66,
+    "dma100" : 424.67,
+    "dma200" : 417.97,
+    "volume" : 312968.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 498.90,
-    "dma50" : 444.08,
-    "dma100" : 423.60,
-    "dma200" : 417.30,
-    "volume" : 287760.00
+    "date" : "2026-11-20",
+    "price" : 484.50,
+    "dma50" : 445.66,
+    "dma100" : 424.67,
+    "dma200" : 417.97,
+    "volume" : 312968.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.38,
-    "pricePercentageAboveDma100" : 4.11,
-    "pricePercentageAboveDma200" : 4.02,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.30,
+    "pricePercentageAboveDma200" : 4.20,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 9.89,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 47.52,
+    "totalTechnicalScore" : 48.06,
     "totalFundamentalScore" : 33.45,
-    "totalScore" : 80.96
+    "totalScore" : 81.51
   }
 }

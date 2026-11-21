@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "YASHO",
       "companyName" : "Yasho Industries",
-      "marketCap" : 4361.00,
-      "peRatio" : 54.50,
+      "marketCap" : 4224.00,
+      "peRatio" : 52.70,
       "description" : "Yasho Industries Ltd is a manufacturer of specialty chemicals, food antioxidants, aroma chemicals, rubber accelerators and lubricant additives. It has a wide geographical presence with exports to Europe, America, Middle East and Asia.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 4.04,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 5.32,
+      "pricePercentageAboveDma200" : 4.23,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.33,
       "operatingProfitMarginPercentile" : 19.41,
       "netProfitMarginPercentile" : 7.96,
-      "totalTechnicalScore" : 29.27,
+      "totalTechnicalScore" : 29.77,
       "totalFundamentalScore" : 46.71,
-      "totalScore" : 75.98
+      "totalScore" : 76.48
     }
   },
   "attributes" : {
     "companyCode" : "YASHO",
     "companyName" : "Yasho Industries",
-    "marketCap" : 4361.00,
-    "peRatio" : 54.50,
+    "marketCap" : 4224.00,
+    "peRatio" : 52.70,
     "description" : "Yasho Industries Ltd is a manufacturer of specialty chemicals, food antioxidants, aroma chemicals, rubber accelerators and lubricant additives. It has a wide geographical presence with exports to Europe, America, Middle East and Asia.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1644.40,
-    "dma50" : 1671.15,
-    "dma100" : null,
-    "dma200" : 1786.21,
-    "volume" : 4482.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1655.30,
     "dma50" : 1670.53,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1484.20,
     "dma50" : 1437.53,
-    "dma100" : 1433.88,
+    "dma100" : null,
     "dma200" : 1559.91,
     "volume" : 7039.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 3735.27,
     "dma200" : 3032.39,
     "volume" : 19938.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 3503.10,
+    "dma50" : 3665.30,
+    "dma100" : 3741.06,
+    "dma200" : 3037.07,
+    "volume" : 9292.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 3617.20,
-    "dma50" : 3671.92,
-    "dma100" : 3735.27,
-    "dma200" : 3032.39,
-    "volume" : 19938.00
+    "date" : "2026-11-20",
+    "price" : 3503.10,
+    "dma50" : 3665.30,
+    "dma100" : 3741.06,
+    "dma200" : 3037.07,
+    "volume" : 9292.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2143,15 +2143,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 4.04,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 5.32,
+    "pricePercentageAboveDma200" : 4.23,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.33,
     "operatingProfitMarginPercentile" : 19.41,
     "netProfitMarginPercentile" : 7.96,
-    "totalTechnicalScore" : 29.27,
+    "totalTechnicalScore" : 29.77,
     "totalFundamentalScore" : 46.71,
-    "totalScore" : 75.98
+    "totalScore" : 76.48
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KUSUMGAR",
       "companyName" : "Kusumgar",
-      "marketCap" : 5541.00,
-      "peRatio" : 43.30,
+      "marketCap" : 5591.00,
+      "peRatio" : 43.70,
       "description" : "Incorporated in 1990, Kusumgar Ltd is a manufacturer of woven, coated, and laminated synthetic fabrics known as engineered fabrics.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.36,
+      "pricePercentageAboveDma50" : 5.31,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.52,
+      "pricePercentageAboveDma200" : 5.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 12.00,
       "netProfitMarginPercentile" : 6.00,
-      "totalTechnicalScore" : 10.88,
+      "totalTechnicalScore" : 10.78,
       "totalFundamentalScore" : 38.00,
-      "totalScore" : 48.88
+      "totalScore" : 48.78
     }
   },
   "attributes" : {
     "companyCode" : "KUSUMGAR",
     "companyName" : "Kusumgar",
-    "marketCap" : 5541.00,
-    "peRatio" : 43.30,
+    "marketCap" : 5591.00,
+    "peRatio" : 43.70,
     "description" : "Incorporated in 1990, Kusumgar Ltd is a manufacturer of woven, coated, and laminated synthetic fabrics known as engineered fabrics.[1]"
   },
   "technicalHistory" : [ {
@@ -662,14 +662,21 @@
     "dma100" : null,
     "dma200" : 588.80,
     "volume" : 95958.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 532.50,
+    "dma50" : 567.34,
+    "dma100" : null,
+    "dma200" : 588.24,
+    "volume" : 406813.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 527.80,
-    "dma50" : 568.77,
+    "date" : "2026-11-20",
+    "price" : 532.50,
+    "dma50" : 567.34,
     "dma100" : null,
-    "dma200" : 588.80,
-    "volume" : 95958.00
+    "dma200" : 588.24,
+    "volume" : 406813.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -740,15 +747,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.36,
+    "pricePercentageAboveDma50" : 5.31,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.52,
+    "pricePercentageAboveDma200" : 5.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 12.00,
     "netProfitMarginPercentile" : 6.00,
-    "totalTechnicalScore" : 10.88,
+    "totalTechnicalScore" : 10.78,
     "totalFundamentalScore" : 38.00,
-    "totalScore" : 48.88
+    "totalScore" : 48.78
   }
 }

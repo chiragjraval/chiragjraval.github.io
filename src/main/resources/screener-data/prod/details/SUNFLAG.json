@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SUNFLAG",
       "companyName" : "Sunflag Iron",
-      "marketCap" : 6860.00,
-      "peRatio" : 30.40,
+      "marketCap" : 6643.00,
+      "peRatio" : 29.40,
       "description" : "Sunflag Iron & Steel Company Ltd was established in 1984 & is a part of Sunflag Group, company started operations in 1989 as a spring steel producer however, at present the company manufactures mild-steel and alloy steel products of varieties like carbon steel, free & semi free cutting steels,etc. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.15,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.53,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.71,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 9.70,
       "netProfitMarginPercentile" : 6.32,
-      "totalTechnicalScore" : 39.61,
+      "totalTechnicalScore" : 35.09,
       "totalFundamentalScore" : 30.24,
-      "totalScore" : 69.85
+      "totalScore" : 65.33
     }
   },
   "attributes" : {
     "companyCode" : "SUNFLAG",
     "companyName" : "Sunflag Iron",
-    "marketCap" : 6860.00,
-    "peRatio" : 30.40,
+    "marketCap" : 6643.00,
+    "peRatio" : 29.40,
     "description" : "Sunflag Iron & Steel Company Ltd was established in 1984 & is a part of Sunflag Group, company started operations in 1989 as a spring steel producer however, at present the company manufactures mild-steel and alloy steel products of varieties like carbon steel, free & semi free cutting steels,etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 244.50,
-    "dma50" : 265.04,
-    "dma100" : null,
-    "dma200" : 262.97,
-    "volume" : 127296.00
-  }, {
     "date" : "2025-11-21",
     "price" : 247.40,
     "dma50" : 264.35,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 267.19,
     "dma50" : 238.83,
-    "dma100" : 246.06,
+    "dma100" : null,
     "dma200" : 250.55,
     "volume" : 240577.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 375.44,
     "dma200" : 347.90,
     "volume" : 118410.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 368.60,
+    "dma50" : 391.46,
+    "dma100" : 375.73,
+    "dma200" : 348.11,
+    "volume" : 179793.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 380.65,
-    "dma50" : 392.39,
-    "dma100" : 375.44,
-    "dma200" : 347.90,
-    "volume" : 118410.00
+    "date" : "2026-11-20",
+    "price" : 368.60,
+    "dma50" : 391.46,
+    "dma100" : 375.73,
+    "dma200" : 348.11,
+    "volume" : 179793.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.15,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.53,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.71,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 9.70,
     "netProfitMarginPercentile" : 6.32,
-    "totalTechnicalScore" : 39.61,
+    "totalTechnicalScore" : 35.09,
     "totalFundamentalScore" : 30.24,
-    "totalScore" : 69.85
+    "totalScore" : 65.33
   }
 }

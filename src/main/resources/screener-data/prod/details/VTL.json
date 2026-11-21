@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VTL",
       "companyName" : "Vardhman Textile",
-      "marketCap" : 15463.00,
-      "peRatio" : 15.20,
+      "marketCap" : 15300.00,
+      "peRatio" : 15.00,
       "description" : "Vardhman textiles is engaged in the business of manufacturing Yarn, Fabric, Acrylic Fiber and Garments, the Group has over the years developed as a business conglomerate with a presence in India and in 75 countries across the globe. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.34,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 5.19,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 14.25,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 20.50,
+      "totalTechnicalScore" : 20.64,
       "totalFundamentalScore" : 38.76,
-      "totalScore" : 59.25
+      "totalScore" : 59.39
     }
   },
   "attributes" : {
     "companyCode" : "VTL",
     "companyName" : "Vardhman Textile",
-    "marketCap" : 15463.00,
-    "peRatio" : 15.20,
+    "marketCap" : 15300.00,
+    "peRatio" : 15.00,
     "description" : "Vardhman textiles is engaged in the business of manufacturing Yarn, Fabric, Acrylic Fiber and Garments, the Group has over the years developed as a business conglomerate with a presence in India and in 75 countries across the globe. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 465.25,
-    "dma50" : 434.36,
-    "dma100" : null,
-    "dma200" : 445.84,
-    "volume" : 261111.00
-  }, {
     "date" : "2025-11-21",
     "price" : 451.95,
     "dma50" : 435.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 549.90,
     "dma50" : 523.56,
-    "dma100" : 481.23,
+    "dma100" : null,
     "dma200" : 476.49,
     "volume" : 4565236.00
   }, {
@@ -813,7 +806,7 @@
     "date" : "2026-05-05",
     "price" : 636.05,
     "dma50" : 548.86,
-    "dma100" : 497.63,
+    "dma100" : 497.64,
     "dma200" : 488.08,
     "volume" : 492410.00
   }, {
@@ -1072,7 +1065,7 @@
     "date" : "2026-06-29",
     "price" : 632.90,
     "dma50" : 607.14,
-    "dma100" : 567.10,
+    "dma100" : 567.11,
     "dma200" : 528.74,
     "volume" : 483060.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 573.30,
     "dma200" : 549.08,
     "volume" : 290940.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 528.35,
+    "dma50" : 535.67,
+    "dma100" : 572.22,
+    "dma200" : 548.87,
+    "volume" : 152952.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 534.00,
-    "dma50" : 535.97,
-    "dma100" : 573.30,
-    "dma200" : 549.08,
-    "volume" : 290940.00
+    "date" : "2026-11-20",
+    "price" : 528.35,
+    "dma50" : 535.67,
+    "dma100" : 572.22,
+    "dma200" : 548.87,
+    "volume" : 152952.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.34,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 5.19,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 14.25,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 20.50,
+    "totalTechnicalScore" : 20.64,
     "totalFundamentalScore" : 38.76,
-    "totalScore" : 59.25
+    "totalScore" : 59.39
   }
 }

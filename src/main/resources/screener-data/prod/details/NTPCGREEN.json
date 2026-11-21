@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NTPCGREEN",
       "companyName" : "NTPC Green Ene.",
-      "marketCap" : 69500.00,
-      "peRatio" : 106.00,
+      "marketCap" : 70166.00,
+      "peRatio" : 107.00,
       "description" : "Incorporated in April 2022, NTPC Green Energy is a renewable energy company that focuses on undertaking projects through organic and inorganic routes.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.40,
-      "pricePercentageAboveDma200" : 5.56,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 5.35,
+      "pricePercentageAboveDma200" : 5.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 13.33,
       "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 16.19,
+      "totalTechnicalScore" : 16.04,
       "totalFundamentalScore" : 40.83,
-      "totalScore" : 57.03
+      "totalScore" : 56.88
     }
   },
   "attributes" : {
     "companyCode" : "NTPCGREEN",
     "companyName" : "NTPC Green Ene.",
-    "marketCap" : 69500.00,
-    "peRatio" : 106.00,
+    "marketCap" : 70166.00,
+    "peRatio" : 107.00,
     "description" : "Incorporated in April 2022, NTPC Green Energy is a renewable energy company that focuses on undertaking projects through organic and inorganic routes.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 97.50,
-    "dma50" : 100.68,
-    "dma100" : null,
-    "dma200" : 105.66,
-    "volume" : 5214942.00
-  }, {
     "date" : "2025-11-21",
     "price" : 97.13,
     "dma50" : 100.54,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 113.00,
     "dma50" : 96.52,
-    "dma100" : 92.95,
+    "dma100" : null,
     "dma200" : 98.04,
     "volume" : 16483222.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 89.71,
     "dma200" : 92.91,
     "volume" : 1660090.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 83.27,
+    "dma50" : 86.33,
+    "dma100" : 89.59,
+    "dma200" : 92.81,
+    "volume" : 2463468.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 82.48,
-    "dma50" : 86.46,
-    "dma100" : 89.71,
-    "dma200" : 92.91,
-    "volume" : 1660090.00
+    "date" : "2026-11-20",
+    "price" : 83.27,
+    "dma50" : 86.33,
+    "dma100" : 89.59,
+    "dma200" : 92.81,
+    "volume" : 2463468.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-12-31",
@@ -1923,15 +1923,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.40,
-    "pricePercentageAboveDma200" : 5.56,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 5.35,
+    "pricePercentageAboveDma200" : 5.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 13.33,
     "netProfitMarginPercentile" : 7.50,
-    "totalTechnicalScore" : 16.19,
+    "totalTechnicalScore" : 16.04,
     "totalFundamentalScore" : 40.83,
-    "totalScore" : 57.03
+    "totalScore" : 56.88
   }
 }

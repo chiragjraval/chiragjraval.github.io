@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "VRLLOG",
       "companyName" : "VRL Logistics",
-      "marketCap" : 5672.00,
+      "marketCap" : 5660.00,
       "peRatio" : 17.70,
       "description" : "VRL Logistics Ltd is engaged in logistics services dealing mainly in domestic transportation of goods. Other businesses include bus operations, transport of passengers by air, sale of power and sale of certified emission reductions (CER) units generated from operation of wind mills. The operations of the Company are spread all over the country through various branches and transshipment hubs.(Source : 202003-01 Annual Report Page No:132)"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.32,
-      "pricePercentageAboveDma100" : 3.94,
-      "pricePercentageAboveDma200" : 3.84,
+      "pricePercentageAboveDma50" : 4.36,
+      "pricePercentageAboveDma100" : 3.97,
+      "pricePercentageAboveDma200" : 3.87,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.72,
       "operatingProfitMarginPercentile" : 19.95,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 47.09,
+      "totalTechnicalScore" : 47.20,
       "totalFundamentalScore" : 48.68,
-      "totalScore" : 95.77
+      "totalScore" : 95.88
     }
   },
   "attributes" : {
     "companyCode" : "VRLLOG",
     "companyName" : "VRL Logistics",
-    "marketCap" : 5672.00,
+    "marketCap" : 5660.00,
     "peRatio" : 17.70,
     "description" : "VRL Logistics Ltd is engaged in logistics services dealing mainly in domestic transportation of goods. Other businesses include bus operations, transport of passengers by air, sale of power and sale of certified emission reductions (CER) units generated from operation of wind mills. The operations of the Company are spread all over the country through various branches and transshipment hubs.(Source : 202003-01 Annual Report Page No:132)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 272.75,
-    "dma50" : 274.71,
-    "dma100" : null,
-    "dma200" : 274.33,
-    "volume" : 140601.00
-  }, {
     "date" : "2025-11-21",
     "price" : 270.05,
     "dma50" : 274.53,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 260.95,
     "dma50" : 259.97,
-    "dma100" : 265.71,
+    "dma100" : null,
     "dma200" : 268.07,
     "volume" : 80968.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 281.51,
     "dma200" : 276.94,
     "volume" : 574559.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 340.55,
+    "dma50" : 301.90,
+    "dma100" : 282.57,
+    "dma200" : 277.57,
+    "volume" : 312490.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 341.30,
-    "dma50" : 300.32,
-    "dma100" : 281.51,
-    "dma200" : 276.94,
-    "volume" : 574559.00
+    "date" : "2026-11-20",
+    "price" : 340.55,
+    "dma50" : 301.90,
+    "dma100" : 282.57,
+    "dma200" : 277.57,
+    "volume" : 312490.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-03-31",
@@ -2313,15 +2313,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.32,
-    "pricePercentageAboveDma100" : 3.94,
-    "pricePercentageAboveDma200" : 3.84,
+    "pricePercentageAboveDma50" : 4.36,
+    "pricePercentageAboveDma100" : 3.97,
+    "pricePercentageAboveDma200" : 3.87,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.72,
     "operatingProfitMarginPercentile" : 19.95,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 47.09,
+    "totalTechnicalScore" : 47.20,
     "totalFundamentalScore" : 48.68,
-    "totalScore" : 95.77
+    "totalScore" : 95.88
   }
 }

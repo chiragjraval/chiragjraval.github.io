@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ASTERDM",
       "companyName" : "Aster DM Quality",
-      "marketCap" : 64443.00,
-      "peRatio" : 123.00,
+      "marketCap" : 67929.00,
+      "peRatio" : 130.00,
       "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 4.61,
+      "pricePercentageAboveDma100" : 4.86,
+      "pricePercentageAboveDma200" : 4.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.41,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 6.05,
-      "totalTechnicalScore" : 34.83,
+      "totalTechnicalScore" : 39.03,
       "totalFundamentalScore" : 42.14,
-      "totalScore" : 76.97
+      "totalScore" : 81.17
     }
   },
   "attributes" : {
     "companyCode" : "ASTERDM",
     "companyName" : "Aster DM Quality",
-    "marketCap" : 64443.00,
-    "peRatio" : 123.00,
+    "marketCap" : 67929.00,
+    "peRatio" : 130.00,
     "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 665.30,
-    "dma50" : 667.37,
-    "dma100" : null,
-    "dma200" : 586.71,
-    "volume" : 755203.00
-  }, {
     "date" : "2025-11-21",
     "price" : 650.20,
     "dma50" : 666.70,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 679.50,
     "dma50" : 649.04,
-    "dma100" : 625.73,
+    "dma100" : null,
     "dma200" : 614.42,
     "volume" : 408843.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 757.68,
     "dma200" : 716.26,
     "volume" : 400100.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 779.30,
+    "dma50" : 723.12,
+    "dma100" : 757.63,
+    "dma200" : 716.89,
+    "volume" : 2809610.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 739.30,
-    "dma50" : 720.83,
-    "dma100" : 757.68,
-    "dma200" : 716.26,
-    "volume" : 400100.00
+    "date" : "2026-11-20",
+    "price" : 779.30,
+    "dma50" : 723.12,
+    "dma100" : 757.63,
+    "dma200" : 716.89,
+    "volume" : 2809610.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2178,20 +2178,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 4.61,
+    "pricePercentageAboveDma100" : 4.86,
+    "pricePercentageAboveDma200" : 4.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.41,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 6.05,
-    "totalTechnicalScore" : 34.83,
+    "totalTechnicalScore" : 39.03,
     "totalFundamentalScore" : 42.14,
-    "totalScore" : 76.97
+    "totalScore" : 81.17
   }
 }

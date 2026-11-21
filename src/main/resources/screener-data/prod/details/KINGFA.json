@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "KINGFA",
       "companyName" : "Kingfa Science",
-      "marketCap" : 8362.00,
+      "marketCap" : 8367.00,
       "peRatio" : 36.10,
       "description" : "Kingfa Science & Technology (India) Limited, a subsidiary company of M/s Kingfa Science & Technology Co. Ltd China, is engaged in the business of manufacturing and supply of high-quality modified plastic compounds for automotive and consumer products and personal protective equipments like masks and gloves. [1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.37,
+      "pricePercentageAboveDma50" : 5.11,
+      "pricePercentageAboveDma100" : 4.81,
+      "pricePercentageAboveDma200" : 4.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 13.77,
       "netProfitMarginPercentile" : 8.39,
-      "totalTechnicalScore" : 39.29,
+      "totalTechnicalScore" : 39.30,
       "totalFundamentalScore" : 41.20,
-      "totalScore" : 80.49
+      "totalScore" : 80.50
     }
   },
   "attributes" : {
     "companyCode" : "KINGFA",
     "companyName" : "Kingfa Science",
-    "marketCap" : 8362.00,
+    "marketCap" : 8367.00,
     "peRatio" : 36.10,
     "description" : "Kingfa Science & Technology (India) Limited, a subsidiary company of M/s Kingfa Science & Technology Co. Ltd China, is engaged in the business of manufacturing and supply of high-quality modified plastic compounds for automotive and consumer products and personal protective equipments like masks and gloves. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 4184.90,
-    "dma50" : 4379.34,
-    "dma100" : null,
-    "dma200" : 3778.97,
-    "volume" : 4046.00
-  }, {
     "date" : "2025-11-21",
     "price" : 4017.60,
     "dma50" : 4365.15,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 4761.00,
     "dma50" : 4284.27,
-    "dma100" : 4208.59,
+    "dma100" : null,
     "dma200" : 4063.28,
     "volume" : 4279.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5934.12,
     "dma200" : 5484.34,
     "volume" : 7696.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 6174.50,
+    "dma50" : 6315.47,
+    "dma100" : 5944.24,
+    "dma200" : 5491.20,
+    "volume" : 2827.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 6170.50,
-    "dma50" : 6321.22,
-    "dma100" : 5934.12,
-    "dma200" : 5484.34,
-    "volume" : 7696.00
+    "date" : "2026-11-20",
+    "price" : 6174.50,
+    "dma50" : 6315.47,
+    "dma100" : 5944.24,
+    "dma200" : 5491.20,
+    "volume" : 2827.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.37,
+    "pricePercentageAboveDma50" : 5.11,
+    "pricePercentageAboveDma100" : 4.81,
+    "pricePercentageAboveDma200" : 4.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 13.77,
     "netProfitMarginPercentile" : 8.39,
-    "totalTechnicalScore" : 39.29,
+    "totalTechnicalScore" : 39.30,
     "totalFundamentalScore" : 41.20,
-    "totalScore" : 80.49
+    "totalScore" : 80.50
   }
 }

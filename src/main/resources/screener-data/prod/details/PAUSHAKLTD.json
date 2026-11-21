@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PAUSHAKLTD",
       "companyName" : "Paushak",
-      "marketCap" : 1425.00,
-      "peRatio" : 30.10,
+      "marketCap" : 1374.00,
+      "peRatio" : 29.10,
       "description" : "Paushak is India’s largest phosgene based specialty chemicals manufacturer serving pharmaceutical, agrochemical and performance industries. Paushak is part of the Alembic group of companies situated in Gujarat, India.. Alembic Ltd is the oldest pharmaceutical company in India founded in 1907. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.51,
-      "pricePercentageAboveDma100" : 5.62,
-      "pricePercentageAboveDma200" : 5.28,
+      "pricePercentageAboveDma50" : 5.65,
+      "pricePercentageAboveDma100" : 5.78,
+      "pricePercentageAboveDma200" : 5.45,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 16.16,
       "netProfitMarginPercentile" : 5.61,
-      "totalTechnicalScore" : 26.42,
+      "totalTechnicalScore" : 26.88,
       "totalFundamentalScore" : 39.11,
-      "totalScore" : 65.53
+      "totalScore" : 65.99
     }
   },
   "attributes" : {
     "companyCode" : "PAUSHAKLTD",
     "companyName" : "Paushak",
-    "marketCap" : 1425.00,
-    "peRatio" : 30.10,
+    "marketCap" : 1374.00,
+    "peRatio" : 29.10,
     "description" : "Paushak is India’s largest phosgene based specialty chemicals manufacturer serving pharmaceutical, agrochemical and performance industries. Paushak is part of the Alembic group of companies situated in Gujarat, India.. Alembic Ltd is the oldest pharmaceutical company in India founded in 1907. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 570.55,
-    "dma50" : 702.53,
-    "dma100" : null,
-    "dma200" : 678.75,
-    "volume" : 9588.00
-  }, {
     "date" : "2025-11-21",
     "price" : 577.95,
     "dma50" : 697.64,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 494.55,
     "dma50" : 462.37,
-    "dma100" : 508.24,
+    "dma100" : null,
     "dma200" : 560.28,
     "volume" : 8078.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 659.85,
     "dma200" : 612.61,
     "volume" : 14416.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 557.30,
+    "dma50" : 640.66,
+    "dma100" : 660.46,
+    "dma200" : 612.06,
+    "volume" : 28500.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 578.00,
-    "dma50" : 644.06,
-    "dma100" : 659.85,
-    "dma200" : 612.61,
-    "volume" : 14416.00
+    "date" : "2026-11-20",
+    "price" : 557.30,
+    "dma50" : 640.66,
+    "dma100" : 660.46,
+    "dma200" : 612.06,
+    "volume" : 28500.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.51,
-    "pricePercentageAboveDma100" : 5.62,
-    "pricePercentageAboveDma200" : 5.28,
+    "pricePercentageAboveDma50" : 5.65,
+    "pricePercentageAboveDma100" : 5.78,
+    "pricePercentageAboveDma200" : 5.45,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 16.16,
     "netProfitMarginPercentile" : 5.61,
-    "totalTechnicalScore" : 26.42,
+    "totalTechnicalScore" : 26.88,
     "totalFundamentalScore" : 39.11,
-    "totalScore" : 65.53
+    "totalScore" : 65.99
   }
 }

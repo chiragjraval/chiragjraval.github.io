@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "HEXT",
       "companyName" : "Hexaware Tech.",
-      "marketCap" : 29582.00,
+      "marketCap" : 29636.00,
       "peRatio" : 19.40,
       "description" : "Incoprorated in 1992, Hexaware Technologies Ltd provides AI based digital & technology solutions[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.36,
+      "pricePercentageAboveDma50" : 5.35,
       "pricePercentageAboveDma100" : 5.50,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma200" : 5.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 7.89,
       "operatingProfitMarginPercentile" : 10.69,
       "netProfitMarginPercentile" : 1.98,
-      "totalTechnicalScore" : 16.49,
+      "totalTechnicalScore" : 16.47,
       "totalFundamentalScore" : 20.56,
-      "totalScore" : 37.05
+      "totalScore" : 37.03
     }
   },
   "attributes" : {
     "companyCode" : "HEXT",
     "companyName" : "Hexaware Tech.",
-    "marketCap" : 29582.00,
+    "marketCap" : 29636.00,
     "peRatio" : 19.40,
     "description" : "Incoprorated in 1992, Hexaware Technologies Ltd provides AI based digital & technology solutions[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 724.95,
-    "dma50" : 715.75,
-    "dma100" : null,
-    "dma200" : 748.18,
-    "volume" : 211000.00
-  }, {
     "date" : "2025-11-21",
     "price" : 715.70,
     "dma50" : 715.75,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 488.05,
     "dma50" : 507.11,
-    "dma100" : 616.46,
+    "dma100" : null,
     "dma200" : 642.68,
     "volume" : 974505.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 538.23,
     "dma200" : 553.59,
     "volume" : 176729.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 484.00,
+    "dma50" : 520.48,
+    "dma100" : 537.92,
+    "dma200" : 552.90,
+    "volume" : 677765.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 484.15,
-    "dma50" : 521.97,
-    "dma100" : 538.23,
-    "dma200" : 553.59,
-    "volume" : 176729.00
+    "date" : "2026-11-20",
+    "price" : 484.00,
+    "dma50" : 520.48,
+    "dma100" : 537.92,
+    "dma200" : 552.90,
+    "volume" : 677765.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2553,15 +2553,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.36,
+    "pricePercentageAboveDma50" : 5.35,
     "pricePercentageAboveDma100" : 5.50,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma200" : 5.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 7.89,
     "operatingProfitMarginPercentile" : 10.69,
     "netProfitMarginPercentile" : 1.98,
-    "totalTechnicalScore" : 16.49,
+    "totalTechnicalScore" : 16.47,
     "totalFundamentalScore" : 20.56,
-    "totalScore" : 37.05
+    "totalScore" : 37.03
   }
 }

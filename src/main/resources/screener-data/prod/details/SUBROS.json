@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUBROS",
       "companyName" : "Subros",
-      "marketCap" : 4251.00,
-      "peRatio" : 24.20,
+      "marketCap" : 4183.00,
+      "peRatio" : 23.80,
       "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.46,
-      "pricePercentageAboveDma200" : 5.54,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 5.52,
+      "pricePercentageAboveDma200" : 5.61,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 17.49,
       "netProfitMarginPercentile" : 9.47,
-      "totalTechnicalScore" : 21.02,
+      "totalTechnicalScore" : 21.22,
       "totalFundamentalScore" : 46.00,
-      "totalScore" : 67.02
+      "totalScore" : 67.22
     }
   },
   "attributes" : {
     "companyCode" : "SUBROS",
     "companyName" : "Subros",
-    "marketCap" : 4251.00,
-    "peRatio" : 24.20,
+    "marketCap" : 4183.00,
+    "peRatio" : 23.80,
     "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 864.00,
-    "dma50" : 990.38,
-    "dma100" : null,
-    "dma200" : 862.01,
-    "volume" : 103048.00
-  }, {
     "date" : "2025-11-21",
     "price" : 849.90,
     "dma50" : 984.87,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 772.55,
     "dma50" : 744.86,
-    "dma100" : 792.72,
+    "dma100" : null,
     "dma200" : 807.77,
     "volume" : 57077.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 718.22,
     "dma200" : 730.89,
     "volume" : 871660.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 641.25,
+    "dma50" : 652.64,
+    "dma100" : 716.21,
+    "dma200" : 730.00,
+    "volume" : 169774.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 651.60,
-    "dma50" : 653.11,
-    "dma100" : 718.22,
-    "dma200" : 730.89,
-    "volume" : 871660.00
+    "date" : "2026-11-20",
+    "price" : 641.25,
+    "dma50" : 652.64,
+    "dma100" : 716.21,
+    "dma200" : 730.00,
+    "volume" : 169774.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.46,
-    "pricePercentageAboveDma200" : 5.54,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 5.52,
+    "pricePercentageAboveDma200" : 5.61,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 17.49,
     "netProfitMarginPercentile" : 9.47,
-    "totalTechnicalScore" : 21.02,
+    "totalTechnicalScore" : 21.22,
     "totalFundamentalScore" : 46.00,
-    "totalScore" : 67.02
+    "totalScore" : 67.22
   }
 }

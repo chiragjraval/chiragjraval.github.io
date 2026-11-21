@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "SHK",
       "companyName" : "S H Kelkar & Co.",
-      "marketCap" : 1758.00,
+      "marketCap" : 1762.00,
       "peRatio" : 32.80,
       "description" : "S H Kelkar and Company Limited is engaged in manufacture, supply and exports of fragrances and aroma ingredients[1] It is the largest domestic fragrance producer in India and the only company of Indian origin to file patents in the field of Fragrance & Novel aroma molecules."
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.53,
-      "pricePercentageAboveDma200" : 5.72,
+      "pricePercentageAboveDma50" : 5.27,
+      "pricePercentageAboveDma100" : 5.52,
+      "pricePercentageAboveDma200" : 5.70,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.73,
       "operatingProfitMarginPercentile" : 3.96,
       "netProfitMarginPercentile" : 1.70,
-      "totalTechnicalScore" : 16.54,
+      "totalTechnicalScore" : 16.50,
       "totalFundamentalScore" : 18.39,
-      "totalScore" : 34.93
+      "totalScore" : 34.89
     }
   },
   "attributes" : {
     "companyCode" : "SHK",
     "companyName" : "S H Kelkar & Co.",
-    "marketCap" : 1758.00,
+    "marketCap" : 1762.00,
     "peRatio" : 32.80,
     "description" : "S H Kelkar and Company Limited is engaged in manufacture, supply and exports of fragrances and aroma ingredients[1] It is the largest domestic fragrance producer in India and the only company of Indian origin to file patents in the field of Fragrance & Novel aroma molecules."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 177.69,
-    "dma50" : 214.52,
-    "dma100" : null,
-    "dma200" : 225.12,
-    "volume" : 228856.00
-  }, {
     "date" : "2025-11-21",
     "price" : 178.04,
     "dma50" : 213.09,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 147.09,
     "dma50" : 141.13,
-    "dma100" : 154.38,
+    "dma100" : null,
     "dma200" : 177.62,
     "volume" : 253189.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 142.08,
     "dma200" : 148.35,
     "volume" : 135315.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 127.26,
+    "dma50" : 134.60,
+    "dma100" : 142.07,
+    "dma200" : 148.14,
+    "volume" : 197677.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 127.00,
-    "dma50" : 134.90,
-    "dma100" : 142.08,
-    "dma200" : 148.35,
-    "volume" : 135315.00
+    "date" : "2026-11-20",
+    "price" : 127.26,
+    "dma50" : 134.60,
+    "dma100" : 142.07,
+    "dma200" : 148.14,
+    "volume" : 197677.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-12-31",
@@ -2283,15 +2283,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.53,
-    "pricePercentageAboveDma200" : 5.72,
+    "pricePercentageAboveDma50" : 5.27,
+    "pricePercentageAboveDma100" : 5.52,
+    "pricePercentageAboveDma200" : 5.70,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.73,
     "operatingProfitMarginPercentile" : 3.96,
     "netProfitMarginPercentile" : 1.70,
-    "totalTechnicalScore" : 16.54,
+    "totalTechnicalScore" : 16.50,
     "totalFundamentalScore" : 18.39,
-    "totalScore" : 34.93
+    "totalScore" : 34.89
   }
 }

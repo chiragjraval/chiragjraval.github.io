@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "FEDDERSHOL",
       "companyName" : "Fedders Holding",
-      "marketCap" : 1160.00,
-      "peRatio" : 13.60,
+      "marketCap" : 1098.00,
+      "peRatio" : 12.90,
       "description" : "Incorporated in 1991, Fedders Holding Ltd is in the business of investment, finance, and consultancy[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 4.34,
-      "pricePercentageAboveDma200" : 4.17,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.49,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.57,
       "operatingProfitMarginPercentile" : 14.57,
       "netProfitMarginPercentile" : 1.20,
-      "totalTechnicalScore" : 48.43,
+      "totalTechnicalScore" : 44.33,
       "totalFundamentalScore" : 27.34,
-      "totalScore" : 75.77
+      "totalScore" : 71.66
     }
   },
   "attributes" : {
     "companyCode" : "FEDDERSHOL",
     "companyName" : "Fedders Holding",
-    "marketCap" : 1160.00,
-    "peRatio" : 13.60,
+    "marketCap" : 1098.00,
+    "peRatio" : 12.90,
     "description" : "Incorporated in 1991, Fedders Holding Ltd is in the business of investment, finance, and consultancy[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 46.48,
-    "dma50" : 51.44,
-    "dma100" : null,
-    "dma200" : 54.43,
-    "volume" : 230093.00
-  }, {
     "date" : "2025-11-21",
     "price" : 48.23,
     "dma50" : 51.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 36.25,
     "dma50" : 40.27,
-    "dma100" : 46.46,
+    "dma100" : null,
     "dma200" : 48.24,
     "volume" : 134284.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 50.90,
     "dma200" : 49.40,
     "volume" : 867216.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 54.52,
+    "dma50" : 56.54,
+    "dma100" : 51.05,
+    "dma200" : 49.45,
+    "volume" : 793565.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 57.58,
-    "dma50" : 56.63,
-    "dma100" : 50.90,
-    "dma200" : 49.40,
-    "volume" : 867216.00
+    "date" : "2026-11-20",
+    "price" : 54.52,
+    "dma50" : 56.54,
+    "dma100" : 51.05,
+    "dma200" : 49.45,
+    "volume" : 793565.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : -0.06
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 4.34,
-    "pricePercentageAboveDma200" : 4.17,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.49,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.57,
     "operatingProfitMarginPercentile" : 14.57,
     "netProfitMarginPercentile" : 1.20,
-    "totalTechnicalScore" : 48.43,
+    "totalTechnicalScore" : 44.33,
     "totalFundamentalScore" : 27.34,
-    "totalScore" : 75.77
+    "totalScore" : 71.66
   }
 }

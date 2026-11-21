@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CERA",
       "companyName" : "Cera Sanitary.",
-      "marketCap" : 6559.00,
-      "peRatio" : 31.90,
+      "marketCap" : 6519.00,
+      "peRatio" : 31.70,
       "description" : "Cera Sanitaryware Ltd is engaged in the business of manufacturing, selling and trading of various kinds of building products. It also has non-conventional wind & solar power for captive use in the state of Gujarat.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.42,
-      "pricePercentageAboveDma200" : 5.36,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.44,
+      "pricePercentageAboveDma200" : 5.39,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 9.39,
       "netProfitMarginPercentile" : 6.13,
-      "totalTechnicalScore" : 30.76,
+      "totalTechnicalScore" : 25.83,
       "totalFundamentalScore" : 29.74,
-      "totalScore" : 60.50
+      "totalScore" : 55.57
     }
   },
   "attributes" : {
     "companyCode" : "CERA",
     "companyName" : "Cera Sanitary.",
-    "marketCap" : 6559.00,
-    "peRatio" : 31.90,
+    "marketCap" : 6519.00,
+    "peRatio" : 31.70,
     "description" : "Cera Sanitaryware Ltd is engaged in the business of manufacturing, selling and trading of various kinds of building products. It also has non-conventional wind & solar power for captive use in the state of Gujarat.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 5682.00,
-    "dma50" : 6049.94,
-    "dma100" : null,
-    "dma200" : 6413.16,
-    "volume" : 10878.00
-  }, {
     "date" : "2025-11-21",
     "price" : 5584.50,
     "dma50" : 6031.69,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 5306.40,
     "dma50" : 4975.99,
-    "dma100" : 5084.02,
+    "dma100" : null,
     "dma200" : 5541.34,
     "volume" : 10131.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 5553.17,
     "dma200" : 5484.86,
     "volume" : 19130.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 5054.10,
+    "dma50" : 5057.99,
+    "dma100" : 5539.20,
+    "dma200" : 5480.58,
+    "volume" : 10473.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 5085.50,
-    "dma50" : 5058.15,
-    "dma100" : 5553.17,
-    "dma200" : 5484.86,
-    "volume" : 19130.00
+    "date" : "2026-11-20",
+    "price" : 5054.10,
+    "dma50" : 5057.99,
+    "dma100" : 5539.20,
+    "dma200" : 5480.58,
+    "volume" : 10473.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 56.14
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.42,
-    "pricePercentageAboveDma200" : 5.36,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.44,
+    "pricePercentageAboveDma200" : 5.39,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 9.39,
     "netProfitMarginPercentile" : 6.13,
-    "totalTechnicalScore" : 30.76,
+    "totalTechnicalScore" : 25.83,
     "totalFundamentalScore" : 29.74,
-    "totalScore" : 60.50
+    "totalScore" : 55.57
   }
 }

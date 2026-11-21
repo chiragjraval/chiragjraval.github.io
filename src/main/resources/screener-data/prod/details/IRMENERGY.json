@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "IRMENERGY",
       "companyName" : "IRM Energy",
-      "marketCap" : 1015.00,
+      "marketCap" : 1018.00,
       "peRatio" : 11.80,
       "description" : "Incorporated in 2015, IRM Energy Ltd is in the business of selling and distributing natural gas.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 5.34,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.32,
+      "pricePercentageAboveDma200" : 5.34,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 15.29,
       "netProfitMarginPercentile" : 7.06,
-      "totalTechnicalScore" : 15.84,
+      "totalTechnicalScore" : 15.79,
       "totalFundamentalScore" : 42.35,
-      "totalScore" : 58.19
+      "totalScore" : 58.14
     }
   },
   "attributes" : {
     "companyCode" : "IRMENERGY",
     "companyName" : "IRM Energy",
-    "marketCap" : 1015.00,
+    "marketCap" : 1018.00,
     "peRatio" : 11.80,
     "description" : "Incorporated in 2015, IRM Energy Ltd is in the business of selling and distributing natural gas.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 311.30,
-    "dma50" : 316.62,
-    "dma100" : null,
-    "dma200" : 319.04,
-    "volume" : 36390.00
-  }, {
     "date" : "2025-11-21",
     "price" : 301.20,
     "dma50" : 316.01,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 213.13,
     "dma50" : 216.32,
-    "dma100" : 245.86,
+    "dma100" : null,
     "dma200" : 266.68,
     "volume" : 181352.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 265.22,
     "dma200" : 266.02,
     "volume" : 33215.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 247.92,
+    "dma50" : 254.30,
+    "dma100" : 265.08,
+    "dma200" : 265.84,
+    "volume" : 30986.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 247.24,
-    "dma50" : 254.56,
-    "dma100" : 265.22,
-    "dma200" : 266.02,
-    "volume" : 33215.00
+    "date" : "2026-11-20",
+    "price" : 247.92,
+    "dma50" : 254.30,
+    "dma100" : 265.08,
+    "dma200" : 265.84,
+    "volume" : 30986.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1973,15 +1973,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 5.34,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.32,
+    "pricePercentageAboveDma200" : 5.34,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 15.29,
     "netProfitMarginPercentile" : 7.06,
-    "totalTechnicalScore" : 15.84,
+    "totalTechnicalScore" : 15.79,
     "totalFundamentalScore" : 42.35,
-    "totalScore" : 58.19
+    "totalScore" : 58.14
   }
 }

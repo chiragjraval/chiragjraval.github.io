@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MUTHOOTMF",
       "companyName" : "Muthoot Microfin",
-      "marketCap" : 2895.00,
-      "peRatio" : 8.89,
+      "marketCap" : 2820.00,
+      "peRatio" : 8.66,
       "description" : "Founded in April 1992, Muthoot Microfin Limited, a subsidiary of Muthoot Pappachan Group, provides micro-loans to female customers with a focus on rural regions in India[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.69,
-      "pricePercentageAboveDma200" : 5.40,
+      "pricePercentageAboveDma50" : 5.16,
+      "pricePercentageAboveDma100" : 5.79,
+      "pricePercentageAboveDma200" : 5.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.85,
       "operatingProfitMarginPercentile" : 18.06,
       "netProfitMarginPercentile" : 9.31,
-      "totalTechnicalScore" : 21.12,
+      "totalTechnicalScore" : 21.46,
       "totalFundamentalScore" : 41.22,
-      "totalScore" : 62.34
+      "totalScore" : 62.68
     }
   },
   "attributes" : {
     "companyCode" : "MUTHOOTMF",
     "companyName" : "Muthoot Microfin",
-    "marketCap" : 2895.00,
-    "peRatio" : 8.89,
+    "marketCap" : 2820.00,
+    "peRatio" : 8.66,
     "description" : "Founded in April 1992, Muthoot Microfin Limited, a subsidiary of Muthoot Pappachan Group, provides micro-loans to female customers with a focus on rural regions in India[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 169.98,
-    "dma50" : 166.15,
-    "dma100" : null,
-    "dma200" : 163.72,
-    "volume" : 92409.00
-  }, {
     "date" : "2025-11-21",
     "price" : 170.65,
     "dma50" : 166.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 172.17,
     "dma50" : 166.58,
-    "dma100" : 174.26,
+    "dma100" : null,
     "dma200" : 168.91,
     "volume" : 97673.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 196.89,
     "dma200" : 184.47,
     "volume" : 735620.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 165.40,
+    "dma50" : 170.72,
+    "dma100" : 196.40,
+    "dma200" : 184.28,
+    "volume" : 525053.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 169.80,
-    "dma50" : 170.94,
-    "dma100" : 196.89,
-    "dma200" : 184.47,
-    "volume" : 735620.00
+    "date" : "2026-11-20",
+    "price" : 165.40,
+    "dma50" : 170.72,
+    "dma100" : 196.40,
+    "dma200" : 184.28,
+    "volume" : 525053.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1973,15 +1973,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.69,
-    "pricePercentageAboveDma200" : 5.40,
+    "pricePercentageAboveDma50" : 5.16,
+    "pricePercentageAboveDma100" : 5.79,
+    "pricePercentageAboveDma200" : 5.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.85,
     "operatingProfitMarginPercentile" : 18.06,
     "netProfitMarginPercentile" : 9.31,
-    "totalTechnicalScore" : 21.12,
+    "totalTechnicalScore" : 21.46,
     "totalFundamentalScore" : 41.22,
-    "totalScore" : 62.34
+    "totalScore" : 62.68
   }
 }

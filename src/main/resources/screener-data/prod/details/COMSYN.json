@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COMSYN",
       "companyName" : "Commerl. Synbags",
-      "marketCap" : 1077.00,
-      "peRatio" : 35.00,
+      "marketCap" : 1080.00,
+      "peRatio" : 35.10,
       "description" : "Incorporated in 1984, Commercial Syn Bags Ltd manufactuers and exports containers and packaging materials[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.82,
+      "pricePercentageAboveDma50" : 4.81,
       "pricePercentageAboveDma100" : 4.77,
-      "pricePercentageAboveDma200" : 3.96,
+      "pricePercentageAboveDma200" : 3.95,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.00,
       "operatingProfitMarginPercentile" : 12.79,
       "netProfitMarginPercentile" : 7.65,
-      "totalTechnicalScore" : 48.55,
+      "totalTechnicalScore" : 48.53,
       "totalFundamentalScore" : 36.43,
-      "totalScore" : 84.98
+      "totalScore" : 84.97
     }
   },
   "attributes" : {
     "companyCode" : "COMSYN",
     "companyName" : "Commerl. Synbags",
-    "marketCap" : 1077.00,
-    "peRatio" : 35.00,
+    "marketCap" : 1080.00,
+    "peRatio" : 35.10,
     "description" : "Incorporated in 1984, Commercial Syn Bags Ltd manufactuers and exports containers and packaging materials[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 139.58,
-    "dma50" : 148.27,
-    "dma100" : null,
-    "dma200" : 125.11,
-    "volume" : 34730.00
-  }, {
     "date" : "2025-11-21",
     "price" : 140.93,
     "dma50" : 147.98,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 160.20,
     "dma50" : 157.41,
-    "dma100" : 154.70,
+    "dma100" : null,
     "dma200" : 144.81,
     "volume" : 26389.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 245.31,
     "dma200" : 212.43,
     "volume" : 198171.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 257.49,
+    "dma50" : 248.00,
+    "dma100" : 246.27,
+    "dma200" : 212.88,
+    "volume" : 254226.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 256.64,
-    "dma50" : 247.61,
-    "dma100" : 245.31,
-    "dma200" : 212.43,
-    "volume" : 198171.00
+    "date" : "2026-11-20",
+    "price" : 257.49,
+    "dma50" : 248.00,
+    "dma100" : 246.27,
+    "dma200" : 212.88,
+    "volume" : 254226.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2143,15 +2143,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.82,
+    "pricePercentageAboveDma50" : 4.81,
     "pricePercentageAboveDma100" : 4.77,
-    "pricePercentageAboveDma200" : 3.96,
+    "pricePercentageAboveDma200" : 3.95,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.00,
     "operatingProfitMarginPercentile" : 12.79,
     "netProfitMarginPercentile" : 7.65,
-    "totalTechnicalScore" : 48.55,
+    "totalTechnicalScore" : 48.53,
     "totalFundamentalScore" : 36.43,
-    "totalScore" : 84.98
+    "totalScore" : 84.97
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "INDSWFTLAB",
       "companyName" : "Ind-Swift Labs.",
-      "marketCap" : 2871.00,
-      "peRatio" : 31.30,
+      "marketCap" : 2757.00,
+      "peRatio" : 30.00,
       "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 4.85,
-      "pricePercentageAboveDma200" : 3.62,
+      "pricePercentageAboveDma50" : 5.46,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 3.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 19.51,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 38.76,
+      "totalTechnicalScore" : 34.42,
       "totalFundamentalScore" : 47.48,
-      "totalScore" : 86.24
+      "totalScore" : 81.90
     }
   },
   "attributes" : {
     "companyCode" : "INDSWFTLAB",
     "companyName" : "Ind-Swift Labs.",
-    "marketCap" : 2871.00,
-    "peRatio" : 31.30,
+    "marketCap" : 2757.00,
+    "peRatio" : 30.00,
     "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 95.29,
-    "dma50" : 101.76,
-    "dma100" : null,
-    "dma200" : 101.54,
-    "volume" : 62846.00
-  }, {
     "date" : "2025-11-21",
     "price" : 100.56,
     "dma50" : 101.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 138.90,
     "dma50" : 134.44,
-    "dma100" : 118.16,
+    "dma100" : null,
     "dma200" : 115.51,
     "volume" : 4425832.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 320.49,
     "dma200" : 258.95,
     "volume" : 292625.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 317.05,
+    "dma50" : 348.87,
+    "dma100" : 321.63,
+    "dma200" : 259.53,
+    "volume" : 540125.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 330.20,
-    "dma50" : 350.17,
-    "dma100" : 320.49,
-    "dma200" : 258.95,
-    "volume" : 292625.00
+    "date" : "2026-11-20",
+    "price" : 317.05,
+    "dma50" : 348.87,
+    "dma100" : 321.63,
+    "dma200" : 259.53,
+    "volume" : 540125.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2668,20 +2668,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 4.85,
-    "pricePercentageAboveDma200" : 3.62,
+    "pricePercentageAboveDma50" : 5.46,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 3.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 19.51,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 38.76,
+    "totalTechnicalScore" : 34.42,
     "totalFundamentalScore" : 47.48,
-    "totalScore" : 86.24
+    "totalScore" : 81.90
   }
 }

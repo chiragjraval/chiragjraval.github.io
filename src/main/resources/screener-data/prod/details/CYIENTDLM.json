@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CYIENTDLM",
       "companyName" : "Cyient DLM",
-      "marketCap" : 6574.00,
-      "peRatio" : 78.30,
+      "marketCap" : 6496.00,
+      "peRatio" : 77.40,
       "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.95,
-      "pricePercentageAboveDma100" : 4.62,
-      "pricePercentageAboveDma200" : 3.67,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.71,
+      "pricePercentageAboveDma200" : 3.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.31,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 8.82,
-      "totalTechnicalScore" : 43.24,
+      "totalTechnicalScore" : 38.48,
       "totalFundamentalScore" : 32.90,
-      "totalScore" : 76.14
+      "totalScore" : 71.38
     }
   },
   "attributes" : {
     "companyCode" : "CYIENTDLM",
     "companyName" : "Cyient DLM",
-    "marketCap" : 6574.00,
-    "peRatio" : 78.30,
+    "marketCap" : 6496.00,
+    "peRatio" : 77.40,
     "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 444.60,
-    "dma50" : 449.61,
-    "dma100" : null,
-    "dma200" : 480.87,
-    "volume" : 100700.00
-  }, {
     "date" : "2025-11-21",
     "price" : 438.35,
     "dma50" : 449.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 345.80,
     "dma50" : 324.56,
-    "dma100" : 363.89,
+    "dma100" : null,
     "dma200" : 398.34,
     "volume" : 513357.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 769.62,
     "dma200" : 654.01,
     "volume" : 202108.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 818.25,
+    "dma50" : 820.28,
+    "dma100" : 773.20,
+    "dma200" : 655.65,
+    "volume" : 150974.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 828.15,
-    "dma50" : 820.36,
-    "dma100" : 769.62,
-    "dma200" : 654.01,
-    "volume" : 202108.00
+    "date" : "2026-11-20",
+    "price" : 818.25,
+    "dma50" : 820.28,
+    "dma100" : 773.20,
+    "dma200" : 655.65,
+    "volume" : 150974.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1967,21 +1967,21 @@
     "netProfit" : 19.37
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.95,
-    "pricePercentageAboveDma100" : 4.62,
-    "pricePercentageAboveDma200" : 3.67,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.71,
+    "pricePercentageAboveDma200" : 3.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.31,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 8.82,
-    "totalTechnicalScore" : 43.24,
+    "totalTechnicalScore" : 38.48,
     "totalFundamentalScore" : 32.90,
-    "totalScore" : 76.14
+    "totalScore" : 71.38
   }
 }

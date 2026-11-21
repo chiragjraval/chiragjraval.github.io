@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "BHAGERIA",
       "companyName" : "Bhageria Indust.",
-      "marketCap" : 1546.00,
-      "peRatio" : 12.80,
+      "marketCap" : 1502.00,
+      "peRatio" : 12.50,
       "description" : "Incorporated in 1989, Bhageria Industries Ltd is in the business of Chemicals and Solar power generation & distribution[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 3.90,
-      "pricePercentageAboveDma200" : 3.19,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.10,
+      "pricePercentageAboveDma200" : 3.41,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 16.16,
       "netProfitMarginPercentile" : 9.06,
-      "totalTechnicalScore" : 46.96,
+      "totalTechnicalScore" : 42.52,
       "totalFundamentalScore" : 43.54,
-      "totalScore" : 90.49
+      "totalScore" : 86.05
     }
   },
   "attributes" : {
     "companyCode" : "BHAGERIA",
     "companyName" : "Bhageria Indust.",
-    "marketCap" : 1546.00,
-    "peRatio" : 12.80,
+    "marketCap" : 1502.00,
+    "peRatio" : 12.50,
     "description" : "Incorporated in 1989, Bhageria Industries Ltd is in the business of Chemicals and Solar power generation & distribution[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 189.15,
-    "dma50" : 196.65,
-    "dma100" : null,
-    "dma200" : 188.59,
-    "volume" : 194794.00
-  }, {
     "date" : "2025-11-21",
     "price" : 185.97,
     "dma50" : 196.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 160.50,
     "dma50" : 155.59,
-    "dma100" : 164.95,
+    "dma100" : null,
     "dma200" : 171.50,
     "volume" : 19998.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 290.22,
     "dma200" : 260.03,
     "volume" : 81602.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 344.05,
+    "dma50" : 344.91,
+    "dma100" : 291.55,
+    "dma200" : 260.86,
+    "volume" : 81885.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 354.15,
-    "dma50" : 344.95,
-    "dma100" : 290.22,
-    "dma200" : 260.03,
-    "volume" : 81602.00
+    "date" : "2026-11-20",
+    "price" : 344.05,
+    "dma50" : 344.91,
+    "dma100" : 291.55,
+    "dma200" : 260.86,
+    "volume" : 81885.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,21 +2667,21 @@
     "netProfit" : 58.30
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 3.90,
-    "pricePercentageAboveDma200" : 3.19,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.10,
+    "pricePercentageAboveDma200" : 3.41,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 16.16,
     "netProfitMarginPercentile" : 9.06,
-    "totalTechnicalScore" : 46.96,
+    "totalTechnicalScore" : 42.52,
     "totalFundamentalScore" : 43.54,
-    "totalScore" : 90.49
+    "totalScore" : 86.05
   }
 }

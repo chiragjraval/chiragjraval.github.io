@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HAVELLS",
       "companyName" : "Havells India",
-      "marketCap" : 75365.00,
-      "peRatio" : 44.40,
+      "marketCap" : 76005.00,
+      "peRatio" : 44.80,
       "description" : "Havells India Limited is a leading Fast Moving Electrical Goods (FMEG) Company and a major power distribution equipment manufacturer with a strong global presence. It enjoys enviable market dominance across a wide spectrum of products, including Industrial & Domestic Circuit Protection Devices, Cables & Wires, Motors, Fans, Modular Switches, Home Appliances, Air Conditioners, Electric Water Heaters, Power Capacitors, Luminaires for Domestic, Commercial and Industrial Applications. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.63,
-      "pricePercentageAboveDma100" : 4.83,
-      "pricePercentageAboveDma200" : 5.06,
+      "pricePercentageAboveDma50" : 4.60,
+      "pricePercentageAboveDma100" : 4.78,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.87,
       "operatingProfitMarginPercentile" : 7.06,
       "netProfitMarginPercentile" : 2.90,
-      "totalTechnicalScore" : 29.52,
+      "totalTechnicalScore" : 29.41,
       "totalFundamentalScore" : 26.82,
-      "totalScore" : 56.34
+      "totalScore" : 56.23
     }
   },
   "attributes" : {
     "companyCode" : "HAVELLS",
     "companyName" : "Havells India",
-    "marketCap" : 75365.00,
-    "peRatio" : 44.40,
+    "marketCap" : 76005.00,
+    "peRatio" : 44.80,
     "description" : "Havells India Limited is a leading Fast Moving Electrical Goods (FMEG) Company and a major power distribution equipment manufacturer with a strong global presence. It enjoys enviable market dominance across a wide spectrum of products, including Industrial & Domestic Circuit Protection Devices, Cables & Wires, Motors, Fans, Modular Switches, Home Appliances, Air Conditioners, Electric Water Heaters, Power Capacitors, Luminaires for Domestic, Commercial and Industrial Applications. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 1448.50,
-    "dma50" : 1493.37,
-    "dma100" : null,
-    "dma200" : 1545.12,
-    "volume" : 813884.00
-  }, {
     "date" : "2025-11-21",
     "price" : 1441.10,
     "dma50" : 1491.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 1302.10,
     "dma50" : 1310.82,
-    "dma100" : 1364.50,
+    "dma100" : null,
     "dma200" : 1420.78,
     "volume" : 655876.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 1160.37,
     "dma200" : 1216.07,
     "volume" : 1680195.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 1211.00,
+    "dma50" : 1121.74,
+    "dma100" : 1160.89,
+    "dma200" : 1216.01,
+    "volume" : 1431837.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 1200.80,
-    "dma50" : 1118.10,
-    "dma100" : 1160.37,
-    "dma200" : 1216.07,
-    "volume" : 1680195.00
+    "date" : "2026-11-20",
+    "price" : 1211.00,
+    "dma50" : 1121.74,
+    "dma100" : 1160.89,
+    "dma200" : 1216.01,
+    "volume" : 1431837.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.63,
-    "pricePercentageAboveDma100" : 4.83,
-    "pricePercentageAboveDma200" : 5.06,
+    "pricePercentageAboveDma50" : 4.60,
+    "pricePercentageAboveDma100" : 4.78,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.87,
     "operatingProfitMarginPercentile" : 7.06,
     "netProfitMarginPercentile" : 2.90,
-    "totalTechnicalScore" : 29.52,
+    "totalTechnicalScore" : 29.41,
     "totalFundamentalScore" : 26.82,
-    "totalScore" : 56.34
+    "totalScore" : 56.23
   }
 }

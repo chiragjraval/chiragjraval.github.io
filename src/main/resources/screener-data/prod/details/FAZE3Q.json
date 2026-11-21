@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "FAZE3Q",
       "companyName" : "Faze Three",
-      "marketCap" : 1444.00,
+      "marketCap" : 1445.00,
       "peRatio" : 28.30,
       "description" : "Faze Three Limited, established in 1985, is primarily engaged in manufacturing and exports of end home textile products items like bathmats, rugs, blankets, throws, cushions, etc. The company has diversified its product mix across categories in the Home Textile segment and is also a direct exporter to top retail store chains in USA, UK and Europe. [1][2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.04,
+      "pricePercentageAboveDma50" : 4.08,
       "pricePercentageAboveDma100" : 4.16,
-      "pricePercentageAboveDma200" : 4.03,
+      "pricePercentageAboveDma200" : 4.04,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 9.66,
       "netProfitMarginPercentile" : 4.37,
-      "totalTechnicalScore" : 42.24,
+      "totalTechnicalScore" : 42.28,
       "totalFundamentalScore" : 27.77,
-      "totalScore" : 70.00
+      "totalScore" : 70.04
     }
   },
   "attributes" : {
     "companyCode" : "FAZE3Q",
     "companyName" : "Faze Three",
-    "marketCap" : 1444.00,
+    "marketCap" : 1445.00,
     "peRatio" : 28.30,
     "description" : "Faze Three Limited, established in 1985, is primarily engaged in manufacturing and exports of end home textile products items like bathmats, rugs, blankets, throws, cushions, etc. The company has diversified its product mix across categories in the Home Textile segment and is also a direct exporter to top retail store chains in USA, UK and Europe. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-20",
-    "price" : 561.35,
-    "dma50" : 504.85,
-    "dma100" : null,
-    "dma200" : 502.81,
-    "volume" : 216541.00
-  }, {
     "date" : "2025-11-21",
     "price" : 558.55,
     "dma50" : 506.95,
@@ -743,7 +736,7 @@
     "date" : "2026-04-20",
     "price" : 471.85,
     "dma50" : 450.10,
-    "dma100" : 451.63,
+    "dma100" : null,
     "dma200" : 469.82,
     "volume" : 9548.00
   }, {
@@ -1775,14 +1768,21 @@
     "dma100" : 502.94,
     "dma200" : 491.93,
     "volume" : 477168.00
+  }, {
+    "date" : "2026-11-20",
+    "price" : 587.65,
+    "dma50" : 496.52,
+    "dma100" : 502.83,
+    "dma200" : 492.88,
+    "volume" : 172497.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-19",
-    "price" : 587.20,
-    "dma50" : 492.80,
-    "dma100" : 502.94,
-    "dma200" : 491.93,
-    "volume" : 477168.00
+    "date" : "2026-11-20",
+    "price" : 587.65,
+    "dma50" : 496.52,
+    "dma100" : 502.83,
+    "dma200" : 492.88,
+    "volume" : 172497.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,15 +2673,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.04,
+    "pricePercentageAboveDma50" : 4.08,
     "pricePercentageAboveDma100" : 4.16,
-    "pricePercentageAboveDma200" : 4.03,
+    "pricePercentageAboveDma200" : 4.04,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 9.66,
     "netProfitMarginPercentile" : 4.37,
-    "totalTechnicalScore" : 42.24,
+    "totalTechnicalScore" : 42.28,
     "totalFundamentalScore" : 27.77,
-    "totalScore" : 70.00
+    "totalScore" : 70.04
   }
 }
