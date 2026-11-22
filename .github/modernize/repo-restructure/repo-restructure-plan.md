@@ -162,7 +162,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 5 — Documentation and migration report
 
-**Status:** Not started
+**Status:** In progress — 2026-11-22
 
 - [ ] Update the root README with the new architecture and safe commands.
 - [ ] Add `docs/architecture.md`, `docs/deployment.md`, and `docs/adding-apps-and-data.md`.
@@ -217,7 +217,7 @@ Update this section after each execution session so work can resume without repe
 
 ### Current handoff
 
-- **Overall status:** Phases 0–4 complete; Phase 5 not started.
+- **Overall status:** Phases 0–4 complete; Phase 5 in progress.
 - **Next item:** Add architecture, deployment, and onboarding documentation plus a migration summary.
 - **Last verified state:** Maven package, local test-data preparation, production-configured frontend build, local portal/screener browser checks, workflow YAML parsing, and scoped overlay simulation succeeded. No GitHub workflow, deployment, or production scrape was run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
