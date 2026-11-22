@@ -92,7 +92,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 2 — Move the stock-screener pipeline and data
 
-**Status:** Not started
+**Status:** In progress — 2026-11-22
 
 - [ ] Move Java scraper sources and sample inputs to `pipelines/stock-screener`.
 - [ ] Move the Maven module/build configuration; remove frontend npm lifecycle work from that module.
@@ -184,8 +184,8 @@ Update this section after each execution session so work can resume without repe
 
 ### Current handoff
 
-- **Overall status:** Phases 0–1 complete; Phase 2 not started.
-- **Next item:** Phase 2 — Move the stock-screener pipeline and data.
+- **Overall status:** Phases 0–1 complete; Phase 2 in progress.
+- **Next item:** Move the scraper, tests, samples, and production data; keep the existing Pages layout working.
 - **Last verified state:** `mvn -B test` passed all four unit tests and the default test scrape wrote 25 summary entries. Production mode was not run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate the 27 test detail files not referenced by the current summary before changing cleanup behavior.
 - **Manual commands currently required:** None.
