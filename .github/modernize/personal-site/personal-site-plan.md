@@ -407,7 +407,8 @@ completed investigation.
 
 ## Current handoff
 
-- **Overall status:** Phases 0–5 are complete locally. The shared compact shell,
+- **Overall status:** Phases 0–4 are complete locally. Phase 5 local validation
+  is complete, but its cutover gate remains pending. The shared compact shell,
   target routes, workflow changes, and documentation are implemented but not
   pushed.
 - **Next step:** Review the local changes, then proceed to Phase 6 only after
