@@ -327,17 +327,17 @@ rename and first publication.
 
 ### Phase 6 — Manual repository rename and live rollout
 
-**Status:** Not started — requires user action/approval
+**Status:** In progress — rename and branch backup complete; awaiting publish approval
 
-- [ ] User renames the GitHub repository to `chiragjraval.github.io` in
+- [x] User renames the GitHub repository to `chiragjraval.github.io` in
   **Settings → General → Repository name**. Verify the name is available first.
-- [ ] Before the first publish, create a backup branch from the current
+- [x] Before the first publish, create a backup branch from the current
   `gh-pages` branch (for example, `gh-pages-before-personal-site`) and confirm
   the value of `PAGES_DEPLOYMENT_ENABLED`.
 - [ ] Confirm GitHub Pages publishes the expected branch/root and Actions
   permissions and branch protection allow the publisher.
-- [ ] Update local `origin` remote if needed after the rename.
-- [ ] Predict whether pushing the prepared changes will publish automatically:
+- [x] Update local `origin` remote if needed after the rename.
+- [x] Predict whether pushing the prepared changes will publish automatically:
   with `PAGES_DEPLOYMENT_ENABLED=true`, a site-path push publishes the site;
   otherwise, manually dispatch with `publish_site=true`.
 - [ ] Publish the approved site artifact to the user-site root. Do not run a
@@ -393,6 +393,15 @@ completed investigation.
   without running a production scrape. Renaming back to the old repository
   name is a secondary manual recovery option only if that name is still
   available and GitHub Pages settings are restored.
+- **Cutover checkpoint — 2026-11-22:** User confirmed the rename to
+  `chiragjraval.github.io` and `PAGES_DEPLOYMENT_ENABLED=true`. Local `origin`
+  now points to the renamed repository. The current `gh-pages` head
+  `320b926de867037b68993f0d406a01c7450e5f9f` is preserved on remote branch
+  `gh-pages-before-personal-site`. The user-site root responds HTTP 200 and
+  still serves the pre-cutover Financial Data Lab page. The Pages source and
+  publisher permissions remain unverified. A push of the pending site changes
+  to `main` can automatically deploy the website because the deployment
+  variable is enabled; explicit approval is required before that push.
 
 ## Progress log
 
@@ -404,6 +413,7 @@ completed investigation.
 | 2026-11-22 | Phases 2–3 — Shell and routes | Complete locally | Added shared shell, personal home and Financial Data Lab pages, nested screener route, old-route transitions, and explicit data loading/error states. | Browser verified routes, 25-company test data, filtering, details/charts, mobile menu/Escape/focus return, and no 390px horizontal overflow. | Source changes are local and not pushed; cutover remains gated. |
 | 2026-11-22 | Phase 4 — Workflows and overlay | Complete locally | Added root-route artifacts, scoped Pages overlay, deployment preflights, and manual `publish_site` dispatch so site-only rollout does not scrape data. | Production build paths checked; overlay simulation preserved `.nojekyll`, other apps, nested content, and production JSON. No GitHub workflow was run. | Confirm deployment variable/settings before cutover. |
 | 2026-11-22 | Phase 5 — Local validation and docs | Complete locally | Updated README and architecture/deployment/onboarding contracts; added rollback steps. | `mvn -B test`: four tests passed and safe test scrape completed; `npm run build` succeeded; browser and overlay checks passed. | User approval and GitHub settings verification required before rename/publication. |
+| 2026-11-22 | Phase 6 — Rename and backup checkpoint | In progress | User renamed the repository to `chiragjraval.github.io` and confirmed `PAGES_DEPLOYMENT_ENABLED=true`; updated local origin and backed up `gh-pages` to `gh-pages-before-personal-site` at `320b926de867037b68993f0d406a01c7450e5f9f`. | Renamed remote exposes `main` and `gh-pages`; backup ref verified; public root returns HTTP 200 and still serves the old Financial Data Lab page. | Pages source/permissions not verified. Await explicit approval before pushing source changes to `main`, which can publish automatically. |
 
 ## Current handoff
 
@@ -411,17 +421,19 @@ completed investigation.
   is complete, but its cutover gate remains pending. The shared compact shell,
   target routes, workflow changes, and documentation are implemented but not
   pushed.
-- **Next step:** Review the local changes, then proceed to Phase 6 only after
-  the user confirms repository-name availability, Pages settings, deployment
-  variable state, and first-live-publish approval.
-- **Repository rename:** Deferred until local changes and deployment artifacts
-  are validated and the user approves the cutover.
-- **Phase 0 cutover checks:** Target repository availability and Pages source/
-  branch settings could not be confirmed through connected tools; verify them
-  manually before Phase 6.
-- **Production publishing:** No production scrape, workflow dispatch, or live
-  deployment was performed during this execution session. A transient zero
-  count during initial live navigation was followed by the expected 481 rows;
-  the local UI now shows a loading state instead of a premature zero count.
+- **Next step:** Confirm Pages source/permissions and obtain explicit approval
+  for the first live publish. The renamed remote is configured and the current
+  `gh-pages` branch has a verified backup.
+- **Repository rename:** Complete; repository is now
+  `chiragjraval/chiragjraval.github.io`.
+- **Deployment gate:** User confirmed `PAGES_DEPLOYMENT_ENABLED=true`. Any
+  push of the pending site changes to `main` may automatically publish the
+  site. The workflow path filters keep a site-only push separate from a
+  production scrape; no production dataset changes are staged locally.
+- **Production publishing:** No production scrape, workflow dispatch, or
+  deployment of the new source changes has occurred. The current public root
+  serves the pre-cutover site with HTTP 200. A transient zero count during
+  initial live navigation was followed by the expected 481 rows; the local UI
+  now shows a loading state instead of a premature zero count.
 - **Worktree:** The user-provided untracked restructure prompt remains
   untouched.
