@@ -9,7 +9,7 @@ const repositoryRoot = resolve(appRoot, '../..');
 export default defineConfig(({ command }) => ({
   plugins: [react()],
   base: process.env.VITE_BASE_PATH || (command === 'build'
-    ? '/daily_custom_stock_screener/stock-screeners/'
+    ? '/financial-data-lab/stock-screeners/'
     : '/'),
   server: {
     fs: {

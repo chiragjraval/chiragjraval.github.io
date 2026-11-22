@@ -11,7 +11,10 @@ Evolve the single stock-screener site into a home for independent financial anal
 - Moved the Java scraper into `pipelines/stock-screener/`, made the root Maven POM an aggregator, and moved datasets to `data/stock-screener/{test,prod}`.
 - Removed scraper-side Git publishing. The pipeline writes JSON; GitHub Actions owns artifact publication.
 - Split builds from deployment. Path-aware jobs create app/data artifacts, and the serialized reusable publisher overlays selected paths while retaining unrelated Pages content.
-- Kept the summary/detail JSON shape and current screener features. The root route changes from the screener to the portal; the screener is now at `/stock-screeners/`.
+- Kept the summary/detail JSON shape and current screener features. At the time
+  of the original restructure, the project-site root became a portal and the
+  screener moved to `/stock-screeners/`; the follow-up personal-site migration
+  moves it under `/financial-data-lab/`.
 
 ## Safety and compatibility
 
@@ -25,9 +28,23 @@ The user-triggered first workflow run published the portal, but the screener sho
 
 Scheduled production scraping and deployment remain gated until the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` is set to the lowercase string `true`.
 
-## Remaining rollout work
+## Original restructure verification
 
-- Complete end-to-end artifact/workflow verification and compare representative output against the recorded baseline.
-- Confirm Pages source, Actions write permission, and branch-protection behavior in GitHub.
-- Obtain approval before setting `PAGES_DEPLOYMENT_ENABLED=true` and dispatching the first production publish.
-- Decide whether to remove unreferenced company detail files; they were preserved during the data relocation.
+- The corrected project-site deployment completed successfully in workflow
+  run [45019853339](https://github.com/chiragjraval/daily_custom_stock_screener/actions/runs/45019853339);
+  the production summary endpoint returned 481 companies.
+- The `PAGES_DEPLOYMENT_ENABLED` setting remains optional and its current value
+  is not verified here. Enabling scheduled refreshes is separate from the
+  personal-site migration.
+- Unreferenced company detail files were preserved during the data relocation;
+  cleanup remains a separate decision.
+
+## Personal-site migration
+
+The follow-up effort is tracked in
+[personal-site-plan.md](../.github/modernize/personal-site/personal-site-plan.md).
+It changes the target navigation to Home, Financial Data Lab, and Stock
+Screeners under `/financial-data-lab/`, and moves the intended site host to
+`https://chiragjraval.github.io/`. The repository name, Pages settings, and
+live routes have not yet been changed; the current project-site URLs remain
+live until the approved cutover.

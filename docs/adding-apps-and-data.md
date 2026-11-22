@@ -5,12 +5,16 @@ Keep application assets, generated data, and pipeline code in separate paths. Av
 ## Add an application
 
 1. Create `apps/<app-id>/` with an independently buildable frontend and an app-scoped build output.
-2. Add an entry to `shared/config/site.json`. Its `path` is relative to the project-site root and should point to the app's published route.
-3. Import `shared/theme/tokens.css` if the app uses the shared theme. Move a component into shared code only after multiple apps genuinely need it.
+2. Add the route to `shared/config/site.js` and keep navigation labels and paths in that shared configuration.
+3. Use the `fdl-site-shell` Web Component from `shared/ui/site-shell.js` and import `shared/theme/tokens.css` for the common site experience.
 4. Add the app's source paths to `.github/workflows/stock-screener.yml`, build it independently, and place the build under its own artifact path.
 5. Add a precise path scope to `.github/workflows/deploy.yml`. Replace only that app's published directory; do not clear the Pages root or another app's content.
 
 > TODO: When the next app is introduced, add its build/artifact and exact deployment scope. Do not add placeholder app code or data in advance.
+
+The current first-release routes are `/`, `/financial-data-lab/`, and
+`/financial-data-lab/stock-screeners/`. The public user-site root is not
+available until the repository rename and approved Pages cutover.
 
 ## Add a pipeline and dataset
 

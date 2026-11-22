@@ -5,6 +5,11 @@ on:
     - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
+      publish_site:
+        description: Publish the website without scraping production data
+        required: true
+        type: boolean
+        default: false
       publish:
         description: Run the production scrape and allow deployment
         required: true
@@ -83,18 +88,19 @@ jobs:
       - name: Build frontend
         working-directory: apps/stock-screener
         env:
-          VITE_BASE_PATH: /daily_custom_stock_screener/stock-screeners/
-          VITE_STOCK_SCREENER_DATA_BASE_URL: /daily_custom_stock_screener/data/stock-screener/prod/
+          VITE_BASE_PATH: /financial-data-lab/stock-screeners/
+          VITE_STOCK_SCREENER_DATA_BASE_URL: /data/stock-screener/prod/
         run: |
           npm ci
           npm run build
       - name: Assemble site artifact
         run: |
-          mkdir -p artifact/site/shared/theme artifact/site/shared/config artifact/site/stock-screeners
+          mkdir -p artifact/site/shared/theme artifact/site/shared/config artifact/site/shared/ui artifact/site/financial-data-lab/stock-screeners
           cp -a public/. artifact/site/
           cp shared/theme/tokens.css artifact/site/shared/theme/tokens.css
-          cp shared/config/site.json artifact/site/shared/config/site.json
-          cp -a apps/stock-screener/build/. artifact/site/stock-screeners/
+          cp shared/config/site.js artifact/site/shared/config/site.js
+          cp shared/ui/site-shell.js artifact/site/shared/ui/site-shell.js
+          cp -a apps/stock-screener/build/. artifact/site/financial-data-lab/stock-screeners/
       - uses: actions/upload-artifact@v4
         with:
           name: stock-screener-site
@@ -146,6 +152,11 @@ jobs:
       inputs.publish == true &&
       needs.build-site.result == 'success' &&
       needs.build-data.result == 'success') ||
+      (github.event_name == 'workflow_dispatch' &&
+      inputs.publish_site == true &&
+      inputs.publish != true &&
+      needs.build-site.result == 'success' &&
+      needs.build-data.result == 'skipped') ||
       (github.event_name == 'push' &&
       vars.PAGES_DEPLOYMENT_ENABLED == 'true' &&
       (needs.detect.outputs.site == 'true' || needs.detect.outputs.data == 'true') &&

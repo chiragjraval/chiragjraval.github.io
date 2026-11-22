@@ -5,6 +5,8 @@ import { stockScreenerDataBaseUrl } from "../config/data";
 function SummaryGrid() {
   const [generatedAt, setGeneratedAt] = useState(new Date());
   const [data, setData] = useState([]);
+  const [loadStatus, setLoadStatus] = useState("loading");
+  const [loadError, setLoadError] = useState("");
   const [sortConfig, setSortConfig] = useState({ key: "totalScore", direction: "desc" });
   const [expandedRows, setExpandedRows] = useState(new Set());
   const [filters, setFilters] = useState({
@@ -12,6 +14,8 @@ function SummaryGrid() {
     marketCapMax: "",
     peRatioMin: "",
     peRatioMax: "",
+    fundamentalScoreMin: "",
+    fundamentalScoreMax: "",
     technicalScoreMin: "",
     technicalScoreMax: "",
     totalScoreMin: "",
@@ -20,13 +24,38 @@ function SummaryGrid() {
   });
 
   useEffect(() => {
-    fetch(`${stockScreenerDataBaseUrl}summary.json`)
-      .then((res) => res.json())
-      .then((json) => {
-          setData(json.companies);
-          setGeneratedAt(parseIsoTimestampWithNanos(json.generatedAt));
-        })
-      .catch((err) => console.error("Error loading summary.json:", err));
+    const controller = new AbortController();
+
+    async function loadSummary() {
+      try {
+        const response = await fetch(`${stockScreenerDataBaseUrl}summary.json`, {
+          signal: controller.signal,
+        });
+        if (!response.ok) {
+          throw new Error(`Request failed with HTTP ${response.status}`);
+        }
+
+        const json = await response.json();
+        if (!Array.isArray(json.companies) || typeof json.generatedAt !== "string") {
+          throw new Error("The stock summary has an invalid format");
+        }
+
+        setData(json.companies);
+        setGeneratedAt(parseIsoTimestampWithNanos(json.generatedAt));
+        setLoadStatus("loaded");
+      } catch (error) {
+        if (error.name === "AbortError") {
+          return;
+        }
+
+        console.error("Unable to load stock summary:", error);
+        setLoadError(error.message);
+        setLoadStatus("error");
+      }
+    }
+
+    loadSummary();
+    return () => controller.abort();
   }, []);
 
   const getValue = (item, key) => {
@@ -129,17 +158,26 @@ function SummaryGrid() {
   };
 
   return (
-    <div className="container-fluid mt-4">
-      <div className="row mb-3">
-        <div className="col-md-7">
-          <h2>{data.length} Total Stocks <small className="text-body-secondary">({sortedData.length} Filtered Stocks)</small></h2>
-        </div>
-        <div className="col-md-5 text-end text-nowrap">
-          <span className="align-middle">Data Last Refreshed at {generatedAt.toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })} IST</span>
-        </div>
-      </div>
+    <div className="container-fluid mt-2" aria-busy={loadStatus === "loading"}>
+      {loadStatus === "loading" && (
+        <p className="alert alert-info" role="status">Loading stock data...</p>
+      )}
+      {loadStatus === "error" && (
+        <p className="alert alert-danger" role="alert">
+          Unable to load stock data: {loadError}. Try refreshing the page.
+        </p>
+      )}
+      {loadStatus === "loaded" && (
+        <>
+          <div className="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-3">
+            <h2 className="h5 mb-0">{data.length} Total Stocks <small className="text-body-secondary">({sortedData.length} Filtered Stocks)</small></h2>
+            <div className="small text-body-secondary">
+              Data Last Refreshed at {generatedAt.toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })} IST
+            </div>
+          </div>
 
-      <table className="table table-bordered">
+          <div className="table-responsive">
+            <table className="table table-bordered table-sm align-middle">
         <thead className="table-dark">
           <tr>
             <th colSpan="3">
@@ -148,45 +186,45 @@ function SummaryGrid() {
               </div>
             </th>
             <th className="text-center">
-              <input type="text" className="form-control form-control-sm" name="companyName" value={filters.companyName} onChange={handleFilterChange} placeholder="Filter by name" />
+              <input type="text" className="form-control form-control-sm" name="companyName" value={filters.companyName} onChange={handleFilterChange} placeholder="Filter by name" aria-label="Filter by company name" />
             </th>
             <th className="text-center" >
               <div className="container gx-0">
                 <div className="row gx-2">
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="marketCapMin" value={filters.marketCapMin} onChange={handleFilterChange} placeholder="Min" /></div>
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="marketCapMax" value={filters.marketCapMax} onChange={handleFilterChange} placeholder="Max" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="marketCapMin" value={filters.marketCapMin} onChange={handleFilterChange} placeholder="Min" aria-label="Minimum market capitalization" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="marketCapMax" value={filters.marketCapMax} onChange={handleFilterChange} placeholder="Max" aria-label="Maximum market capitalization" /></div>
                 </div>
               </div>
             </th>
             <th className="text-center">
               <div className="container gx-0">
                 <div className="row gx-2">
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="peRatioMin" value={filters.peRatioMin} onChange={handleFilterChange} placeholder="Min" /></div>
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="peRatioMax" value={filters.peRatioMax} onChange={handleFilterChange} placeholder="Max" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="peRatioMin" value={filters.peRatioMin} onChange={handleFilterChange} placeholder="Min" aria-label="Minimum price-to-earnings ratio" /></div>
+                    <div className="col"><input type="number" className="form-control form-control-sm" name="peRatioMax" value={filters.peRatioMax} onChange={handleFilterChange} placeholder="Max" aria-label="Maximum price-to-earnings ratio" /></div>
                 </div>
               </div>
             </th>
             <th className="text-center">
               <div className="container gx-0">
                 <div className="row gx-2">
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="fundamentalScoreMin" value={filters.fundamentalScoreMin} onChange={handleFilterChange} placeholder="Min" /></div>
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="fundamentalScoreMax" value={filters.fundamentalScoreMax} onChange={handleFilterChange} placeholder="Max" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="fundamentalScoreMin" value={filters.fundamentalScoreMin} onChange={handleFilterChange} placeholder="Min" aria-label="Minimum fundamental score" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="fundamentalScoreMax" value={filters.fundamentalScoreMax} onChange={handleFilterChange} placeholder="Max" aria-label="Maximum fundamental score" /></div>
                 </div>
               </div>
             </th>
             <th className="text-center">
               <div className="container gx-0">
                 <div className="row gx-2">
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="technicalScoreMin" value={filters.technicalScoreMin} onChange={handleFilterChange} placeholder="Min" /></div>
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="technicalScoreMax" value={filters.technicalScoreMax} onChange={handleFilterChange} placeholder="Max" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="technicalScoreMin" value={filters.technicalScoreMin} onChange={handleFilterChange} placeholder="Min" aria-label="Minimum technical score" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="technicalScoreMax" value={filters.technicalScoreMax} onChange={handleFilterChange} placeholder="Max" aria-label="Maximum technical score" /></div>
                 </div>
               </div>
             </th>
             <th className="text-center">
               <div className="container gx-0">
                 <div className="row gx-2">
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="totalScoreMin" value={filters.totalScoreMin} onChange={handleFilterChange} placeholder="Min" /></div>
-                  <div className="col"><input type="number" className="form-control form-control-sm" name="totalScoreMax" value={filters.totalScoreMax} onChange={handleFilterChange} placeholder="Max" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="totalScoreMin" value={filters.totalScoreMin} onChange={handleFilterChange} placeholder="Min" aria-label="Minimum total score" /></div>
+                  <div className="col"><input type="number" className="form-control form-control-sm" name="totalScoreMax" value={filters.totalScoreMax} onChange={handleFilterChange} placeholder="Max" aria-label="Maximum total score" /></div>
                 </div>
               </div>
             </th>
@@ -212,6 +250,8 @@ function SummaryGrid() {
                 <td className="text-center align-middle" style={{ cursor: "pointer", width: "40px" }}>
                   <button
                     className="btn btn-sm btn-outline-primary"
+                    aria-label={`${expandedRows.has(item.screenerCompanyId) ? "Collapse" : "Expand"} details for ${item.companyName}`}
+                    aria-expanded={expandedRows.has(item.screenerCompanyId)}
                     onClick={() => toggleRowExpand(item.screenerCompanyId)}
                   >
                     {expandedRows.has(item.screenerCompanyId) ? "−" : "+"}
@@ -232,7 +272,10 @@ function SummaryGrid() {
             </React.Fragment>
           ))}
         </tbody>
-      </table>
+            </table>
+          </div>
+        </>
+      )}
     </div>
   );
 }
