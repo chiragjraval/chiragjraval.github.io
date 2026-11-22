@@ -196,6 +196,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - Both workflow YAML files parsed successfully. Local deployment simulations verified scoped replacements preserve `.nojekyll` and another app.
 - The first user-triggered live workflow deployed the portal, but its data artifact was flattened to `/stock-screener/prod/`; the app expects `/data/stock-screener/prod/` and therefore displayed zero companies. The expected summary URL returned 404 while the flattened URL contained 481 companies.
 - Fixed the artifact root so the uploaded archive retains its top-level `data/` directory. Added workflow checks for the site/data artifact paths and JSON summary before modifying `gh-pages`.
+- Pushed the correction in `df7f4e71f`. Its push-triggered workflow completed the detect job and skipped build/data/deploy, so the production site was not changed by the fix push.
 
 **Gate remaining:** The user already approved and ran the first production workflow. The fix is not live yet; rerun `Stock Screener` with `publish=true` to publish the corrected paths. Confirm Pages source, Actions write permission, and branch-protection behavior if not already checked.
 
