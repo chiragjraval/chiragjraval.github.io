@@ -79,11 +79,11 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 1 — Establish safe build and data contracts
 
-**Status:** Not started
+**Status:** In progress — 2026-11-22
 
 - [ ] Add/adjust focused Java tests or a deterministic comparison fixture for JSON output and essential scraper behavior.
 - [ ] Define pipeline inputs, environment selection, generated output path, and exit/failure behavior.
-- [ ] Ensure test runs write only under `data/stock-screener/test` and cannot commit or push.
+- [ ] Ensure test runs write only under the test output path (currently `src/main/resources/screener-data/test`; Phase 2 will move it to `data/stock-screener/test`) and cannot commit or push.
 - [ ] Define a deployment artifact contract with distinct paths for the portal, app assets, and each dataset.
 - [ ] Keep production output and GitHub credentials out of local default commands.
 
@@ -179,11 +179,12 @@ Update this section after each execution session so work can resume without repe
 | Date | Phase/item | Status | Change/evidence | Validation | Manual action/blocker |
 |---|---|---|---|---|---|
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Recorded branch, live route, current deployment layout, JSON shape, URL strategy, and baseline warnings | `mvn -Denvironment=test test` succeeded; live page loaded 481 stocks and an expanded company detail | No command required; Pages settings must be confirmed before first deployment |
+| 2026-11-22 | Phase 1 — Establish safe build and data contracts | In progress | Inspecting build defaults, execution context, and output serialization | Pending | None |
 
 ### Current handoff
 
-- **Overall status:** Phase 0 complete; Phase 1 not started.
-- **Next item:** Phase 1 — Establish safe build and data contracts.
+- **Overall status:** Phase 0 complete; Phase 1 in progress.
+- **Next item:** Complete Phase 1 tests, safe defaults, output/error behavior, and artifact contract.
 - **Last verified state:** Test scrape succeeded with 25 summary entries; live Pages has 481 entries. Production mode was not run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate the 27 test detail files not referenced by the current summary before changing cleanup behavior.
 - **Manual commands currently required:** None.
