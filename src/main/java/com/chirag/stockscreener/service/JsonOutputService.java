@@ -50,41 +50,35 @@ public class JsonOutputService {
      * @param companies List of CompanyDetail to output
      * @param outputDirectory Directory to write JSON files
      */
-    public static void outputToJson(List<CompanyDetail> companies, String outputDirectory) {
-        try {
-            String detailsOutputDirectory = outputDirectory + "/details";
-            Path outputPath = Paths.get(detailsOutputDirectory);
-            Files.createDirectories(outputPath);
+    public static void outputToJson(List<CompanyDetail> companies, String outputDirectory) throws IOException {
+        String detailsOutputDirectory = outputDirectory + "/details";
+        Path outputPath = Paths.get(detailsOutputDirectory);
+        Files.createDirectories(outputPath);
 
-            logger.info("Output directory created/exists: {}", outputPath.toAbsolutePath());
+        logger.info("Output directory created/exists: {}", outputPath.toAbsolutePath());
 
-            // Write individual company files
-            int successCount = 0;
-            for (CompanyDetail company : companies) {
-                String fileName = company.getMetadata().getCompanyCode() + ".json";
-                Path filePath = outputPath.resolve(fileName);
+        int successCount = 0;
+        for (CompanyDetail company : companies) {
+            String fileName = company.getMetadata().getCompanyCode() + ".json";
+            Path filePath = outputPath.resolve(fileName);
 
-                try (java.io.BufferedWriter writer = Files.newBufferedWriter(
-                        filePath,
-                        StandardCharsets.UTF_8,
-                        StandardOpenOption.CREATE,
-                        StandardOpenOption.WRITE,
-                        StandardOpenOption.TRUNCATE_EXISTING)) {
-                    objectMapper.writeValue(writer, company);
-                    successCount++;
-                    logger.info("Written company JSON: {}", fileName);
-                } catch (Exception e) {
-                    logger.error("Error writing company result to JSON", e);
-                }
+            try (java.io.BufferedWriter writer = Files.newBufferedWriter(
+                    filePath,
+                    StandardCharsets.UTF_8,
+                    StandardOpenOption.CREATE,
+                    StandardOpenOption.WRITE,
+                    StandardOpenOption.TRUNCATE_EXISTING)) {
+                objectMapper.writeValue(writer, company);
+            } catch (IOException e) {
+                throw new IOException("Failed to write company JSON: " + filePath, e);
             }
-
-            // Write summary file
-            writeSummaryFile(companies, outputDirectory);
-
-            logger.info("Successfully output {} company files to {}", successCount, outputPath.toAbsolutePath());
-        } catch (IOException e) {
-            logger.error("Error creating output directory", e);
+            successCount++;
+            logger.info("Written company JSON: {}", fileName);
         }
+
+        writeSummaryFile(companies, outputDirectory);
+
+        logger.info("Successfully output {} company files to {}", successCount, outputPath.toAbsolutePath());
     }
 
     /**
@@ -92,28 +86,25 @@ public class JsonOutputService {
      * @param companies List of CompanyDetail
      * @param outputDirectory Output directory path
      */
-    private static void writeSummaryFile(List<CompanyDetail> companies, String outputDirectory) {
-        try {
-            Path outputPath = Paths.get(outputDirectory);
+    private static void writeSummaryFile(List<CompanyDetail> companies, String outputDirectory) throws IOException {
+        Path outputPath = Paths.get(outputDirectory);
 
-            SummaryData summary = new SummaryData(
-                    companies.size(),
-                    LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
-                    companies.stream().map(c -> c.getMetadata()).toList()
-            );
+        SummaryData summary = new SummaryData(
+                companies.size(),
+                LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME),
+                companies.stream().map(CompanyDetail::getMetadata).toList()
+        );
 
-            Path summaryPath = outputPath.resolve("summary.json");
-            try (java.io.BufferedWriter writer = java.nio.file.Files.newBufferedWriter(
-                    summaryPath,
-                    java.nio.charset.StandardCharsets.UTF_8,
-                    java.nio.file.StandardOpenOption.CREATE,
-                    java.nio.file.StandardOpenOption.TRUNCATE_EXISTING)) {
-                objectMapper.writeValue(writer, summary);
-            }
-            logger.info("Written summary file: {}", summaryPath.toAbsolutePath());
-        } catch (IOException e) {
-            logger.error("Error writing summary file", e);
+        Path summaryPath = outputPath.resolve("summary.json");
+        try (java.io.BufferedWriter writer = Files.newBufferedWriter(
+                summaryPath,
+                StandardCharsets.UTF_8,
+                StandardOpenOption.CREATE,
+                StandardOpenOption.WRITE,
+                StandardOpenOption.TRUNCATE_EXISTING)) {
+            objectMapper.writeValue(writer, summary);
         }
+        logger.info("Written summary file: {}", summaryPath.toAbsolutePath());
     }
 
     /**

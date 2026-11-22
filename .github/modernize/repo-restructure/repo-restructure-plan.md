@@ -49,7 +49,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - Work in small, reviewable changes. Do not commit or push source changes unless requested.
 - Do not run a production scrape or publish to `gh-pages` until the local parity checks pass and the user approves the deployment checkpoint.
 - Use the test environment for local scraper verification. Preserve generated JSON shape and current stock-screener behavior.
-- Preserve the existing published URL during migration as a compatibility alias; use `/stock-screener/` as the new canonical application route. Do not remove the alias without user approval.
+- Make the existing project root a portal and move the screener to `/stock-screeners/`. The root URL will no longer open the screener directly; the portal must provide a prominent link. This route change was confirmed by the user on 2026-11-22.
 - Do not add a future app's code or data merely to demonstrate the architecture.
 
 ## Execution checklist
@@ -62,12 +62,13 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - [x] Record the current Pages URL and verify the site and representative company-detail view.
 - [x] Capture the summary/detail JSON contract and a test-environment scrape result.
 - [x] Record current scheduled workflow timing, workflow permissions, and `gh-pages` deployment layout.
-- [x] Record the URL compatibility strategy: preserve the existing route and add `/stock-screener/`; do not retire the old route without approval.
+- [x] Record the route strategy: make the existing project root a portal and move the screener to `/stock-screeners/`; user confirmed this on 2026-11-22.
 
 **Baseline evidence**
 
 - Local branch is `main`; remote `origin` has `main` and `gh-pages`. The `gh-pages` branch currently has `.nojekyll`, `assets/`, `index.html`, and `screener-data/` at its root.
 - Live URL: `https://chiragjraval.github.io/daily_custom_stock_screener/`. It loaded 481 stocks, and expanding a company row loaded its score details. The live summary endpoint also reports 481 companies.
+- The user confirmed that this root will become the portal and the screener will move to `https://chiragjraval.github.io/daily_custom_stock_screener/stock-screeners/`; preserving the old root as a direct screener route is not required.
 - A safe `mvn -Denvironment=test test` completed successfully: 25 companies were written to the test summary. Summary keys are `totalCompanies`, `generatedAt`, and `companies`; a company detail includes `metadata`, `attributes`, `companyScore`, `quarterlyResults`, `technicalHistory`, `latestQuarterlyResult`, and `latestTechnicalAttributes`.
 - The test detail directory contained 52 JSON files after the run, 27 of which were not referenced by its 25-company summary. The pre-run count was not captured; investigate whether these are stale files during Phase 1 and do not delete them as part of this baseline.
 - The production summary in the local checkout had 481 companies and was not modified. The test invocation did not push or publish.
@@ -79,15 +80,15 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 1 — Establish safe build and data contracts
 
-**Status:** In progress — 2026-11-22
+**Status:** Complete — 2026-11-22
 
-- [ ] Add/adjust focused Java tests or a deterministic comparison fixture for JSON output and essential scraper behavior.
-- [ ] Define pipeline inputs, environment selection, generated output path, and exit/failure behavior.
-- [ ] Ensure test runs write only under the test output path (currently `src/main/resources/screener-data/test`; Phase 2 will move it to `data/stock-screener/test`) and cannot commit or push.
-- [ ] Define a deployment artifact contract with distinct paths for the portal, app assets, and each dataset.
-- [ ] Keep production output and GitHub credentials out of local default commands.
+- [x] Add/adjust focused Java tests or a deterministic comparison fixture for JSON output and essential scraper behavior.
+- [x] Define pipeline inputs, environment selection, generated output path, and exit/failure behavior.
+- [x] Ensure test runs write only under the test output path (currently `src/main/resources/screener-data/test`; Phase 2 will move it to `data/stock-screener/test`) and cannot commit or push.
+- [x] Define a deployment artifact contract with distinct paths for the portal, app assets, and each dataset.
+- [x] Keep production output and GitHub credentials out of local default commands.
 
-**Exit gate:** Test-mode build and scrape succeed without network publication; output contract is documented.
+**Exit gate:** Test-mode build and scrape succeed without Git publication; output failures surface as errors; output contract is documented in [repo-restructure-contracts.md](../../../docs/repo-restructure-contracts.md).
 
 ### Phase 2 — Move the stock-screener pipeline and data
 
@@ -107,14 +108,14 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 **Status:** Not started
 
 - [ ] Move the Vite application to `apps/stock-screener`.
-- [ ] Make the Vite base URL/deployment prefix configurable for both legacy and `/stock-screener/` paths.
+- [ ] Make the Vite base URL/deployment prefix configurable for the project root portal and `/stock-screeners/` app path.
 - [ ] Replace hard-coded `prod` data paths with a single configurable data base path.
-- [ ] Keep current summary, filtering, sorting, expanded company details, and charts working.
+- [ ] Keep current summary, filtering, sorting, expanded company details, and charts working at `/stock-screeners/`.
 - [ ] Add `public/index.html` as the root landing page linking to the stock screener.
 - [ ] Add central theme tokens for colors, typography, spacing, and app branding.
 - [ ] Extract only components needed by more than one app; leave screener-specific UI in its app.
 
-**Exit gate:** Frontend builds and runs against static JSON; both the compatibility URL and new canonical route resolve correctly.
+**Exit gate:** Frontend builds and runs against static JSON; the portal loads at the project root and the screener works at `/stock-screeners/`.
 
 ### Phase 4 — Split CI and deployment
 
@@ -179,12 +180,12 @@ Update this section after each execution session so work can resume without repe
 | Date | Phase/item | Status | Change/evidence | Validation | Manual action/blocker |
 |---|---|---|---|---|---|
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Recorded branch, live route, current deployment layout, JSON shape, URL strategy, and baseline warnings | `mvn -Denvironment=test test` succeeded; live page loaded 481 stocks and an expanded company detail | No command required; Pages settings must be confirmed before first deployment |
-| 2026-11-22 | Phase 1 — Establish safe build and data contracts | In progress | Inspecting build defaults, execution context, and output serialization | Pending | None |
+| 2026-11-22 | Phase 1 — Establish safe build and data contracts | Complete | Set test as Maven default, explicit production workflow flag, surfaced output errors, added tests and artifact contract; documented user's route decision | `mvn -B test`: 4 tests passed; safe test scrape wrote 25 companies | None |
 
 ### Current handoff
 
-- **Overall status:** Phase 0 complete; Phase 1 in progress.
-- **Next item:** Complete Phase 1 tests, safe defaults, output/error behavior, and artifact contract.
-- **Last verified state:** Test scrape succeeded with 25 summary entries; live Pages has 481 entries. Production mode was not run.
+- **Overall status:** Phases 0–1 complete; Phase 2 not started.
+- **Next item:** Phase 2 — Move the stock-screener pipeline and data.
+- **Last verified state:** `mvn -B test` passed all four unit tests and the default test scrape wrote 25 summary entries. Production mode was not run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate the 27 test detail files not referenced by the current summary before changing cleanup behavior.
 - **Manual commands currently required:** None.

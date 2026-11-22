@@ -15,7 +15,7 @@ Run from the repository root:
 
 ```powershell
 # Scrape one page into test data; does not push Git changes
-mvn -Denvironment=test test
+mvn test
 
 # Build the frontend for local development
 Set-Location src/main/resources/app
@@ -23,6 +23,6 @@ npm install
 npm run dev
 ```
 
-`mvn package` builds the frontend and runs the scraper in the `prod` environment, which can commit and push generated data. Use the `test` environment for safe local runs. The Maven frontend plugin is configured for Node.js 24.11.1 and npm 11.3.0.
+Maven defaults to the `test` environment; `mvn test` writes test data and does not push Git changes. The scheduled GitHub Actions workflow explicitly selects `prod`. Running `mvn -Denvironment=prod package` locally enables the scraper's Git operations, so avoid it unless production behavior is intended. The Maven frontend plugin is configured for Node.js 24.11.1 and npm 11.3.0.
 
 GitHub Actions runs daily at 18:00 UTC (23:30 IST) or on manual dispatch. The workflow packages the site and publishes the frontend build plus `screener-data` to GitHub Pages.
