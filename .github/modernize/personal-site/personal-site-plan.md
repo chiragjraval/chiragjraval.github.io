@@ -259,7 +259,7 @@ regressed.
 
 ### Phase 4 — Adapt GitHub Actions and Pages overlay
 
-**Status:** Complete locally — no live publish or Actions dispatch
+**Status:** Complete — site-only deployment succeeded
 
 - [x] Update path-aware site builds and production URL/base-path settings for a
   user site served at `/`.
@@ -289,13 +289,14 @@ unrelated Pages content; no production scrape or publishing has occurred.
 - The deploy overlay checks required files, replaces only owned routes/shared
   files, and retains the production dataset during site-only publication.
 - A local overlay simulation preserved `.nojekyll`, an unrelated app, nested
-  Financial Data Lab content, and existing production JSON. No GitHub workflow
-  was dispatched; workflow syntax was manually inspected because no local
-  workflow YAML parser is installed.
+  Financial Data Lab content, and existing production JSON. At this
+  implementation-validation stage no GitHub workflow was dispatched; workflow
+  syntax was manually inspected because no local YAML parser is installed.
+  The approved site-only run is recorded under Phase 6.
 
 ### Phase 5 — Pre-cutover validation and documentation
 
-**Status:** In progress — local validation complete; cutover approval remains
+**Status:** Complete — local validation passed and production cutover verified
 
 - [x] Run Java tests and safe test-mode scrape.
 - [x] Build the frontend and run available frontend tests/type checks.
@@ -307,8 +308,8 @@ unrelated Pages content; no production scrape or publishing has occurred.
 - [x] Prepare a rollback/transition checklist and record exact manual GitHub
   actions for approval.
 
-**Exit gate:** Local validation passes and the user explicitly approves the
-rename and first publication.
+**Exit gate:** Local validation passes; the user approves the cutover; and the
+live site and existing production data are verified.
 
 **Validation evidence**
 
@@ -327,38 +328,59 @@ rename and first publication.
 
 ### Phase 6 — Manual repository rename and live rollout
 
-**Status:** In progress — rename and branch backup complete; awaiting publish approval
+**Status:** Complete — site published and live routes verified
 
 - [x] User renames the GitHub repository to `chiragjraval.github.io` in
   **Settings → General → Repository name**. Verify the name is available first.
 - [x] Before the first publish, create a backup branch from the current
   `gh-pages` branch (for example, `gh-pages-before-personal-site`) and confirm
   the value of `PAGES_DEPLOYMENT_ENABLED`.
-- [ ] Confirm GitHub Pages publishes the expected branch/root and Actions
+- [x] Confirm GitHub Pages publishes the expected branch/root and Actions
   permissions and branch protection allow the publisher.
 - [x] Update local `origin` remote if needed after the rename.
 - [x] Predict whether pushing the prepared changes will publish automatically:
   with `PAGES_DEPLOYMENT_ENABLED=true`, a site-path push publishes the site;
   otherwise, manually dispatch with `publish_site=true`.
-- [ ] Publish the approved site artifact to the user-site root. Do not run a
+- [x] Publish the approved site artifact to the user-site root. Do not run a
   production scrape unless separately approved; use the existing production
   data and verify it is present at `/data/stock-screener/prod/`.
-- [ ] Verify the root, Financial Data Lab, screener, data endpoint, refresh
+- [x] Verify the root, Financial Data Lab, screener, data endpoint, refresh
   workflow, and old project-site transition behavior in a browser.
-- [ ] Enable or retain `PAGES_DEPLOYMENT_ENABLED` according to the user's
+- [x] Enable or retain `PAGES_DEPLOYMENT_ENABLED` according to the user's
   preference; the rename itself must not silently enable scheduled publishing.
 
 **Exit gate:** Live target URLs and production data work; rollback instructions
 and final workflow status are recorded.
 
+**Deployment evidence — 2026-11-22**
+
+- User confirmed the repository rename, `PAGES_DEPLOYMENT_ENABLED=true`, Pages
+  source `gh-pages` / root, publisher permissions, and approval for a site-only
+  first publish.
+- The site changes were pushed in commit `47be8de6e`. GitHub Actions run
+  [45046466345](https://github.com/chiragjraval/chiragjraval.github.io/actions/runs/45046466345)
+  completed successfully. `build-site` and `deploy / deploy` succeeded;
+  `build-data` and `verify-pipeline` were skipped, so this push did not scrape
+  or replace production data.
+- The deployed `gh-pages` head is `dfc422fdc49437fc2def8ca5471a1295e17ca753`.
+  The pre-cutover branch `gh-pages-before-personal-site` remains at
+  `320b926de867037b68993f0d406a01c7450e5f9f`.
+- Browser checks verified `/` (Chirag Raval), `/financial-data-lab/`,
+  `/financial-data-lab/stock-screeners/`, and the old
+  `/daily_custom_stock_screener/` transition to Financial Data Lab.
+- The live production summary endpoint returns 481 companies with
+  `generatedAt` `2026-11-22T12:27:23.896513822`. The screener loaded all 481
+  entries in the browser. The prior dataset was preserved, not regenerated.
+- `PAGES_DEPLOYMENT_ENABLED` remains `true`, as confirmed by the user.
+
 ### Phase 7 — Handoff and future separation decision
 
-**Status:** Not started
+**Status:** Complete
 
-- [ ] Record delivered routes, shell implementation, validation evidence,
+- [x] Record delivered routes, shell implementation, validation evidence,
   deployment run, and remaining manual actions.
-- [ ] Update this plan's progress log and final handoff.
-- [ ] Revisit repository separation only if a concrete operational or ownership
+- [x] Update this plan's progress log and final handoff.
+- [x] Revisit repository separation only if a concrete operational or ownership
   need arises; it is not part of this release.
 
 **Exit gate:** The user can resume or safely extend the site without repeating
@@ -397,11 +419,12 @@ completed investigation.
   `chiragjraval.github.io` and `PAGES_DEPLOYMENT_ENABLED=true`. Local `origin`
   now points to the renamed repository. The current `gh-pages` head
   `320b926de867037b68993f0d406a01c7450e5f9f` is preserved on remote branch
-  `gh-pages-before-personal-site`. The user-site root responds HTTP 200 and
-  still serves the pre-cutover Financial Data Lab page. The Pages source and
-  publisher permissions remain unverified. A push of the pending site changes
-  to `main` can automatically deploy the website because the deployment
-  variable is enabled; explicit approval is required before that push.
+  `gh-pages-before-personal-site`. Before the site push, the user confirmed
+  Pages source/permissions and approved the first live publish.
+- **Cutover complete — 2026-11-22:** The site push deployed successfully and
+  browser checks passed at all target routes and the old project-site
+  transition. Existing production data is available; the site-only push skipped
+  the scrape/data job.
 
 ## Progress log
 
@@ -410,30 +433,32 @@ completed investigation.
 | 2026-11-22 | Initial plan | Complete | Recorded single-repository strategy, target routes, shared compact UX priority, phases, gates, and existing workflow constraints. | Compared plan with current README, architecture/deployment docs, Vite paths, portal registry, and workflow definitions. | No action yet. |
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Verified live portal, screener and 481-company summary; inventoried URL prefixes and workflow behavior. Recorded target-repository and Pages-settings access limitations. | Browser showed 481 on a subsequent load; latest known run `45019853339` succeeded. | Before cutover, user must confirm target repository availability and Pages source/settings. |
 | 2026-11-22 | Phase 1 — UX and information architecture | Complete | User confirmed three navigation destinations, provisional home content, and LinkedIn as the source for later-approved personal copy. Chose a no-dependency shared Web Component. | Recorded responsive compact design contract and target routes. | Final personal copy can be supplied later. |
-| 2026-11-22 | Phases 2–3 — Shell and routes | Complete locally | Added shared shell, personal home and Financial Data Lab pages, nested screener route, old-route transitions, and explicit data loading/error states. | Browser verified routes, 25-company test data, filtering, details/charts, mobile menu/Escape/focus return, and no 390px horizontal overflow. | Source changes are local and not pushed; cutover remains gated. |
-| 2026-11-22 | Phase 4 — Workflows and overlay | Complete locally | Added root-route artifacts, scoped Pages overlay, deployment preflights, and manual `publish_site` dispatch so site-only rollout does not scrape data. | Production build paths checked; overlay simulation preserved `.nojekyll`, other apps, nested content, and production JSON. No GitHub workflow was run. | Confirm deployment variable/settings before cutover. |
-| 2026-11-22 | Phase 5 — Local validation and docs | Complete locally | Updated README and architecture/deployment/onboarding contracts; added rollback steps. | `mvn -B test`: four tests passed and safe test scrape completed; `npm run build` succeeded; browser and overlay checks passed. | User approval and GitHub settings verification required before rename/publication. |
-| 2026-11-22 | Phase 6 — Rename and backup checkpoint | In progress | User renamed the repository to `chiragjraval.github.io` and confirmed `PAGES_DEPLOYMENT_ENABLED=true`; updated local origin and backed up `gh-pages` to `gh-pages-before-personal-site` at `320b926de867037b68993f0d406a01c7450e5f9f`. | Renamed remote exposes `main` and `gh-pages`; backup ref verified; public root returns HTTP 200 and still serves the old Financial Data Lab page. | Pages source/permissions not verified. Await explicit approval before pushing source changes to `main`, which can publish automatically. |
+| 2026-11-22 | Phases 2–3 — Shell and routes | Complete | Added shared shell, personal home and Financial Data Lab pages, nested screener route, old-route transitions, and explicit data loading/error states. | Browser verified routes, 25-company test data, filtering, details/charts, mobile menu/Escape/focus return, and no 390px horizontal overflow. | Source changes were later published successfully in Phase 6. |
+| 2026-11-22 | Phase 4 — Workflows and overlay | Complete | Added root-route artifacts, scoped Pages overlay, deployment preflights, and manual `publish_site` dispatch so site-only rollout does not scrape data. | Local overlay simulation preserved `.nojekyll`, other apps, nested content, and production JSON; successful workflow `45046466345` exercised the site-only deployment. | None. |
+| 2026-11-22 | Phase 5 — Local validation and docs | Complete | Updated README and architecture/deployment/onboarding contracts; added rollback steps. | `mvn -B test`: four tests passed; production `npm run build` succeeded; browser and overlay checks passed. | None. |
+| 2026-11-22 | Phase 6 — Rename and backup checkpoint | Complete | User renamed the repository, confirmed `PAGES_DEPLOYMENT_ENABLED=true`, Pages source and Actions permissions; configured renamed origin and backed up `gh-pages` to `gh-pages-before-personal-site`. | Backup commit `320b926de867037b68993f0d406a01c7450e5f9f` verified; site-only deployment was approved. | None. |
+| 2026-11-22 | Phase 6 — First publication | Complete | Pushed site in `47be8de6e`; shared shell, Home, Financial Data Lab, nested screeners route, and legacy transition published. | Workflow `45046466345` succeeded; `build-data` skipped; browser verified all routes and old URL transition; production endpoint returned 481 companies. | None. |
+| 2026-11-22 | Phase 7 — Handoff | Complete | Recorded deployment, data preservation, and rollback reference; repo separation remains deferred. | Live user-site root and all first-release destinations verified. | No manual commands required. |
 
 ## Current handoff
 
-- **Overall status:** Phases 0–4 are complete locally. Phase 5 local validation
-  is complete, but its cutover gate remains pending. The shared compact shell,
-  target routes, workflow changes, and documentation are implemented but not
-  pushed.
-- **Next step:** Confirm Pages source/permissions and obtain explicit approval
-  for the first live publish. The renamed remote is configured and the current
-  `gh-pages` branch has a verified backup.
-- **Repository rename:** Complete; repository is now
+- **Overall status:** The personal site cutover is complete. Phases 0–7 are
+  complete; source, workflow, and documentation changes are pushed and live.
+- **Delivered routes:** `/`, `/financial-data-lab/`, and
+  `/financial-data-lab/stock-screeners/`; the former project-site URL
+  transitions to Financial Data Lab.
+- **Repository:** Renamed to
   `chiragjraval/chiragjraval.github.io`.
-- **Deployment gate:** User confirmed `PAGES_DEPLOYMENT_ENABLED=true`. Any
-  push of the pending site changes to `main` may automatically publish the
-  site. The workflow path filters keep a site-only push separate from a
-  production scrape; no production dataset changes are staged locally.
-- **Production publishing:** No production scrape, workflow dispatch, or
-  deployment of the new source changes has occurred. The current public root
-  serves the pre-cutover site with HTTP 200. A transient zero count during
-  initial live navigation was followed by the expected 481 rows; the local UI
-  now shows a loading state instead of a premature zero count.
+- **Deployment:** Site push `47be8de6e` deployed successfully in workflow
+  [45046466345](https://github.com/chiragjraval/chiragjraval.github.io/actions/runs/45046466345).
+  `PAGES_DEPLOYMENT_ENABLED=true` remains unchanged. Site-only path filters
+  skipped production-data generation.
+- **Production data:** `/data/stock-screener/prod/summary.json` returns 481
+  companies; existing data was preserved. A prior transient zero count is
+  addressed by the explicit UI loading/error states.
+- **Rollback:** The pre-cutover Pages tree remains on branch
+  `gh-pages-before-personal-site` at `320b926de867037b68993f0d406a01c7450e5f9f`.
+- **Next step:** No action is required. Repository separation remains deferred
+  unless a concrete operational need arises.
 - **Worktree:** The user-provided untracked restructure prompt remains
   untouched.
