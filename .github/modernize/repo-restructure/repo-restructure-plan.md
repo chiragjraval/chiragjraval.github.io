@@ -155,7 +155,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - Replaced the combined workflow with [stock-screener.yml](../../workflows/stock-screener.yml) for path-filtered builds, pipeline tests, production data artifacts, and the existing 18:00 UTC schedule. Scheduled/data-only runs do not build the frontend.
 - Added [deploy.yml](../../workflows/deploy.yml), a single serialized deployment that downloads whichever site/data artifacts exist, replaces only their scoped Pages paths, and retains unrelated content.
 - Granted `contents: write` only to the reusable deployment job. Scraper code remains free of Git publishing credentials and behavior.
-- Added a fail-closed rollout gate: scheduled production scraping and push-triggered publishing require `PAGES_DEPLOYMENT_ENABLED=true`; a manual first publish requires the explicit `publish` confirmation input. No production scrape or deployment has been run.
+- Added a fail-closed rollout gate: scheduled production scraping and push-triggered publishing require `PAGES_DEPLOYMENT_ENABLED=true`; a manual first publish requires the explicit `publish` confirmation input. No production scrape or deployment had run at Phase 4 completion; the first user-triggered run and its follow-up are recorded in Phase 6.
 - Updated the README with the gate and workflow behavior.
 
 **Exit gate:** Passed. Both workflow files parse as YAML. A local overlay simulation verified the portal, app, and data paths update while `.nojekyll`, another app, and unrelated legacy content remain intact. No GitHub workflow or deployment was run.
