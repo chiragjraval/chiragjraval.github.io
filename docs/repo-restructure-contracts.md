@@ -20,7 +20,7 @@ The site root is the application portal; the screener is published at `/stock-sc
 - The portal build contains only root landing-page files.
 - The app build contains only that app's static files.
 - A pipeline artifact contains only its production dataset directory; test data is excluded.
-- Artifacts are scoped by application/dataset (initially `portal`, `app-stock-screeners`, and `data-stock-screener-prod`).
+- `stock-screener-site` contains the portal, shared theme/configuration, and screener app; `stock-screener-data-prod` contains only the production dataset.
 - The deployment workflow overlays the artifact's publish path onto `gh-pages`, preserves files for other apps and datasets, and serializes branch updates.
 - A data-only update does not rebuild or replace frontend assets.
 

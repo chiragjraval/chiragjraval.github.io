@@ -1,0 +1,62 @@
+name: Deploy Pages artifact
+
+on:
+  workflow_call:
+    inputs:
+      include-site:
+        description: Download and replace the portal and stock-screener app
+        required: true
+        type: boolean
+      include-data:
+        description: Download and replace the production stock-screener dataset
+        required: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gh-pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        if: inputs.include-site
+        with:
+          name: stock-screener-site
+          path: incoming/site
+      - uses: actions/download-artifact@v4
+        if: inputs.include-data
+        with:
+          name: stock-screener-data-prod
+          path: incoming/data
+      - name: Replace only the selected Pages paths
+        run: |
+          if [[ "${{ inputs.include-site }}" == "true" ]]; then
+            rm -rf gh-pages/shared gh-pages/stock-screeners
+            rm -f gh-pages/index.html gh-pages/portal.js
+            cp -a incoming/site/. gh-pages/
+          fi
+          if [[ "${{ inputs.include-data }}" == "true" ]]; then
+            rm -rf gh-pages/data/stock-screener/prod gh-pages/screener-data/prod
+            cp -a incoming/data/. gh-pages/
+          fi
+          git -C gh-pages config user.name "github-actions[bot]"
+          git -C gh-pages config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C gh-pages add -A
+          if git -C gh-pages diff --cached --quiet; then
+            echo "No Pages changes to publish."
+          else
+            git -C gh-pages commit -m "Deploy stock-screener artifacts from $GITHUB_SHA"
+            git -C gh-pages push origin HEAD:gh-pages
+          fi

@@ -1,0 +1,149 @@
+name: Stock Screener
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Run the production scrape and allow deployment
+        required: true
+        type: boolean
+        default: false
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/stock-screener.yml
+      - .github/workflows/deploy.yml
+      - apps/stock-screener/**
+      - data/stock-screener/prod/**
+      - pipelines/stock-screener/**
+      - public/**
+      - shared/**
+      - pom.xml
+
+permissions:
+  contents: read
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    outputs:
+      site: ${{ steps.changes.outputs.site }}
+      data: ${{ steps.changes.outputs.data }}
+      pipeline: ${{ steps.changes.outputs.pipeline }}
+    steps:
+      - uses: actions/checkout@v4
+        if: github.event_name == 'push'
+        with:
+          fetch-depth: 0
+      - uses: dorny/paths-filter@v3
+        if: github.event_name == 'push'
+        id: changes
+        with:
+          filters: |
+            site:
+              - 'apps/stock-screener/**'
+              - 'public/**'
+              - 'shared/**'
+            data:
+              - 'data/stock-screener/prod/**'
+            pipeline:
+              - 'pipelines/stock-screener/**'
+              - 'pom.xml'
+
+  verify-pipeline:
+    needs: detect
+    if: github.event_name == 'push' && needs.detect.outputs.pipeline == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 25
+        uses: actions/setup-java@v4
+        with:
+          java-version: '25'
+          distribution: temurin
+          cache: maven
+      - name: Test stock-screener pipeline
+        run: mvn -B test --file pom.xml
+
+  build-site:
+    needs: detect
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'push' && needs.detect.outputs.site == 'true')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24.11.1'
+          cache: npm
+          cache-dependency-path: apps/stock-screener/package-lock.json
+      - name: Build frontend
+        working-directory: apps/stock-screener
+        env:
+          VITE_BASE_PATH: /daily_custom_stock_screener/stock-screeners/
+          VITE_STOCK_SCREENER_DATA_BASE_URL: /daily_custom_stock_screener/data/stock-screener/prod/
+        run: |
+          npm ci
+          npm run build
+      - name: Assemble site artifact
+        run: |
+          mkdir -p artifact/site/shared/theme artifact/site/shared/config artifact/site/stock-screeners
+          cp -a public/. artifact/site/
+          cp shared/theme/tokens.css artifact/site/shared/theme/tokens.css
+          cp shared/config/site.json artifact/site/shared/config/site.json
+          cp -a apps/stock-screener/build/. artifact/site/stock-screeners/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: stock-screener-site
+          path: artifact/site/
+          if-no-files-found: error
+          retention-days: 7
+
+  build-data:
+    needs: detect
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      ((github.event_name == 'schedule' && vars.PAGES_DEPLOYMENT_ENABLED == 'true') ||
+      (github.event_name == 'workflow_dispatch' && inputs.publish == true && vars.PAGES_DEPLOYMENT_ENABLED == 'true') ||
+      (github.event_name == 'push' && needs.detect.outputs.data == 'true'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 25
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        uses: actions/setup-java@v4
+        with:
+          java-version: '25'
+          distribution: temurin
+          cache: maven
+      - name: Build production dataset
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: mvn -B -Denvironment=prod package --file pom.xml
+      - name: Assemble data artifact
+        run: |
+          mkdir -p artifact/data/stock-screener/prod
+          cp -a data/stock-screener/prod/. artifact/data/stock-screener/prod/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: stock-screener-data-prod
+          path: artifact/data/
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    needs: [build-site, build-data]
+    if: >-
+      always() &&
+      (needs.build-site.result == 'success' || needs.build-data.result == 'success') &&
+      github.ref == 'refs/heads/main' &&
+      vars.PAGES_DEPLOYMENT_ENABLED == 'true' &&
+      (github.event_name != 'workflow_dispatch' || inputs.publish == true)
+    permissions:
+      contents: write
+    uses: ./.github/workflows/deploy.yml
+    with:
+      include-site: ${{ needs.build-site.result == 'success' }}
+      include-data: ${{ needs.build-data.result == 'success' }}

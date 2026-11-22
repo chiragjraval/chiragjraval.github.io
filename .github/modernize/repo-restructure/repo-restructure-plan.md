@@ -140,17 +140,25 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 4 — Split CI and deployment
 
-**Status:** In progress — 2026-11-22
+**Status:** Complete — 2026-11-22
 
-- [ ] Replace the combined scheduled workflow with `stock-screener.yml` for the stock data pipeline and app build.
-- [ ] Add path-aware jobs so a scheduled/data-only run does not rebuild the frontend.
-- [ ] Publish outputs as artifacts with stable, app-scoped paths.
-- [ ] Implement `deploy.yml` as a reusable deployment workflow: overlay only the changed app/data paths onto `gh-pages`, preserve other apps, and serialize deployments to avoid races.
-- [ ] Keep scheduled stock-screener runs at the existing time and retain manual workflow dispatch.
-- [ ] Grant only the deployment job the `contents: write` permission; remove scraper-level Git credentials.
-- [ ] Add the same artifact contract for future workflows without introducing a monolithic all-pipelines workflow.
+- [x] Replace the combined scheduled workflow with `stock-screener.yml` for the stock data pipeline and app build.
+- [x] Add path-aware jobs so a scheduled/data-only run does not rebuild the frontend.
+- [x] Publish outputs as artifacts with stable, app-scoped paths.
+- [x] Implement `deploy.yml` as a reusable deployment workflow: overlay only the changed app/data paths onto `gh-pages`, preserve other apps, and serialize deployments to avoid races.
+- [x] Keep scheduled stock-screener runs at the existing time and retain manual workflow dispatch.
+- [x] Grant only the deployment job the `contents: write` permission; remove scraper-level Git credentials.
+- [x] Add the same artifact contract for future workflows without introducing a monolithic all-pipelines workflow.
 
-**Exit gate:** Workflow validation succeeds; test artifacts have the expected layout; deployment logic preserves unrelated `gh-pages` content.
+**Implementation evidence**
+
+- Replaced the combined workflow with [stock-screener.yml](../../workflows/stock-screener.yml) for path-filtered builds, pipeline tests, production data artifacts, and the existing 18:00 UTC schedule. Scheduled/data-only runs do not build the frontend.
+- Added [deploy.yml](../../workflows/deploy.yml), a single serialized deployment that downloads whichever site/data artifacts exist, replaces only their scoped Pages paths, and retains unrelated content.
+- Granted `contents: write` only to the reusable deployment job. Scraper code remains free of Git publishing credentials and behavior.
+- Added a fail-closed rollout gate: `PAGES_DEPLOYMENT_ENABLED` must be `true` before scheduled production scraping or any Pages deployment; manual dispatch additionally requires the `publish` confirmation input. No production scrape or deployment has been run.
+- Updated the README with the gate and workflow behavior.
+
+**Exit gate:** Passed. Both workflow files parse as YAML. A local overlay simulation verified the portal, app, and data paths update while `.nojekyll`, another app, and unrelated legacy content remain intact. No GitHub workflow or deployment was run.
 
 ### Phase 5 — Documentation and migration report
 
@@ -192,6 +200,7 @@ No manual command is required to prepare this plan. During execution, the assist
 
 - **Before first live deployment:** User approval is required; do not run the production workflow before this gate.
 - **GitHub settings check:** User may need to confirm Pages publishes from `gh-pages` at the repository root, Actions can write repository contents, and branch protection permits the publisher.
+- **Enable production rollout:** After approval and local parity checks, set the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` to `true`. A manual production run also requires setting the `publish` input to `true`.
 - **Credential/settings blocker:** If GitHub settings or a workflow run cannot be verified from the workspace, request the specific manual check; do not ask the user to run production scraper commands locally.
 
 ## Progress and resume log
@@ -204,12 +213,12 @@ Update this section after each execution session so work can resume without repe
 | 2026-11-22 | Phase 1 — Establish safe build and data contracts | Complete | Set test as Maven default, explicit production workflow flag, surfaced output errors, added tests and artifact contract; documented user's route decision | `mvn -B test`: 4 tests passed; safe test scrape wrote 25 companies | None |
 | 2026-11-22 | Phase 2 — Move pipeline and data | Complete | Relocated Java pipeline/tests/samples and datasets; made root POM an aggregator; separated frontend build; removed scraper Git publishing | `mvn -B package`: 4 tests passed, 25-company test scrape, JAR created, `BUILD SUCCESS`; `npm run build` succeeded | None; production workflow was not run |
 | 2026-11-22 | Phase 3 — Move and decouple the frontend | Complete | Relocated app; added configurable routes/data URL, portal/registry/theme; updated Pages artifact assembly | Maven package and frontend builds passed; local portal and screener browser checks passed; no production scrape/deployment | None |
-| 2026-11-22 | Phase 4 — Split CI and deployment | In progress | Replacing the combined publisher with artifact-based, path-aware workflows | Pending | None |
+| 2026-11-22 | Phase 4 — Split CI and deployment | Complete | Added path-aware pipeline/site/data jobs, scoped artifacts, a serialized overlay publisher, and a fail-closed rollout gate | YAML parse and local preservation simulation passed; no GitHub workflow, production scrape, or deployment was run | Before rollout: verify Pages/branch settings, approve, and set `PAGES_DEPLOYMENT_ENABLED=true` |
 
 ### Current handoff
 
-- **Overall status:** Phases 0–3 complete; Phase 4 in progress.
-- **Next item:** Finish artifact-based, path-aware pipeline/deployment workflows and validate overlay behavior without publishing.
-- **Last verified state:** Maven package, local test-data preparation, and production-configured frontend build succeeded. The local portal and screener were browser-checked. No deployment or production scrape was run.
+- **Overall status:** Phases 0–4 complete; Phase 5 not started.
+- **Next item:** Add architecture, deployment, and onboarding documentation plus a migration summary.
+- **Last verified state:** Maven package, local test-data preparation, production-configured frontend build, local portal/screener browser checks, workflow YAML parsing, and scoped overlay simulation succeeded. No GitHub workflow, deployment, or production scrape was run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
 - **Manual commands currently required:** None.
