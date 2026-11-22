@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import ScoreProgressBar from "./ScoreProgressBar.jsx";
 import SalesChart from "./SalesChart.jsx";
 import PriceChart from "./PriceChart.jsx";
+import { stockScreenerDataBaseUrl } from "../config/data";
 
 function CompanyDetails({ companyCode }) {
   const [details, setDetails] = useState(null);
@@ -9,7 +10,7 @@ function CompanyDetails({ companyCode }) {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + `/screener-data/prod/details/${companyCode}.json`)
+    fetch(`${stockScreenerDataBaseUrl}details/${companyCode}.json`)
       .then((res) => res.json())
       .then((json) => {
         setDetails(json);

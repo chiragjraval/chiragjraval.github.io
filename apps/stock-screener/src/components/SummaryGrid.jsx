@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useMemo } from "react";
 import CompanyDetails from "./CompanyDetails";
+import { stockScreenerDataBaseUrl } from "../config/data";
 
 function SummaryGrid() {
   const [generatedAt, setGeneratedAt] = useState(new Date());
@@ -19,7 +20,7 @@ function SummaryGrid() {
   });
 
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + "/screener-data/prod/summary.json")
+    fetch(`${stockScreenerDataBaseUrl}summary.json`)
       .then((res) => res.json())
       .then((json) => {
           setData(json.companies);

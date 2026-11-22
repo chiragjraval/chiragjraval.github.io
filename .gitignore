@@ -1,13 +1,13 @@
 # npm node directories
-src/main/resources/app/node/
-src/main/resources/app/node_modules/
+apps/stock-screener/node/
+apps/stock-screener/node_modules/
 
 # npm build directories
-src/main/resources/app/build/
+apps/stock-screener/build/
 
 # generated test environment files
 data/stock-screener/test/
-src/main/resources/app/public/screener-data/
+apps/stock-screener/public/screener-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

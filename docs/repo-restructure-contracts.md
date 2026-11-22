@@ -11,11 +11,9 @@ This contract separates application assets, generated datasets, and the portal s
 | Production stock-screener data | `data/stock-screener/prod/` | `data/stock-screener/prod/` |
 | Test stock-screener data | `data/stock-screener/test/` | Never publish |
 
-These are target paths. Phase 2 moves the pipeline and data; Phase 3 moves the frontend. GitHub Pages is a project site, so URLs include the repository base path (`/daily_custom_stock_screener/`) before these relative paths.
+GitHub Pages is a project site, so URLs include the repository base path (`/daily_custom_stock_screener/`) before these relative paths.
 
-The current site root opens the screener. By user decision, it will become the portal; the screener will move to `/stock-screeners/`, and the portal will link to it prominently. The root route therefore remains available but no longer renders the screener directly.
-
-During Phase 2, the existing frontend still expects `screener-data/prod/`. The current workflow therefore copies `data/stock-screener/prod/` to that legacy publish path. Switch publication to `data/stock-screener/prod/` when the frontend data URL is updated in Phase 3 and the reusable deploy workflow is introduced in Phase 4.
+The site root is the application portal; the screener is published at `/stock-screeners/` and loads production JSON from `/data/stock-screener/prod/`.
 
 ## Artifact responsibilities
 

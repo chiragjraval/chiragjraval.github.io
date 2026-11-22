@@ -34,9 +34,12 @@ jobs:
       with:
         node-version: '24.11.1'
         cache: npm
-        cache-dependency-path: src/main/resources/app/package-lock.json
+        cache-dependency-path: apps/stock-screener/package-lock.json
     - name: Build frontend
-      working-directory: src/main/resources/app
+      working-directory: apps/stock-screener
+      env:
+        VITE_BASE_PATH: /daily_custom_stock_screener/stock-screeners/
+        VITE_STOCK_SCREENER_DATA_BASE_URL: /daily_custom_stock_screener/data/stock-screener/prod/
       run: |
         npm ci
         npm run build
@@ -46,9 +49,14 @@ jobs:
     - name: Prepare Pages content
       run: |
         mkdir gh-pages
-        cp -r src/main/resources/app/build/* gh-pages/
-        mkdir -p gh-pages/screener-data/prod
-        cp -r data/stock-screener/prod/* gh-pages/screener-data/prod/
+        cp -r public/* gh-pages/
+        mkdir -p gh-pages/shared/theme gh-pages/shared/config
+        cp shared/theme/tokens.css gh-pages/shared/theme/tokens.css
+        cp shared/config/site.json gh-pages/shared/config/site.json
+        mkdir -p gh-pages/stock-screeners
+        cp -r apps/stock-screener/build/* gh-pages/stock-screeners/
+        mkdir -p gh-pages/data/stock-screener/prod
+        cp -r data/stock-screener/prod/* gh-pages/data/stock-screener/prod/
     # Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

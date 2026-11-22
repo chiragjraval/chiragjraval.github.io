@@ -114,17 +114,29 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 3 — Move and decouple the frontend
 
-**Status:** In progress — 2026-11-22
+**Status:** Complete — 2026-11-22
 
-- [ ] Move the Vite application to `apps/stock-screener`.
-- [ ] Make the Vite base URL/deployment prefix configurable for the project root portal and `/stock-screeners/` app path.
-- [ ] Replace hard-coded `prod` data paths with a single configurable data base path.
-- [ ] Keep current summary, filtering, sorting, expanded company details, and charts working at `/stock-screeners/`.
-- [ ] Add `public/index.html` as the root landing page linking to the stock screener.
-- [ ] Add central theme tokens for colors, typography, spacing, and app branding.
-- [ ] Extract only components needed by more than one app; leave screener-specific UI in its app.
+- [x] Move the Vite application to `apps/stock-screener`.
+- [x] Make the Vite base URL/deployment prefix configurable for the project root portal and `/stock-screeners/` app path.
+- [x] Replace hard-coded `prod` data paths with a single configurable data base path.
+- [x] Keep current summary, filtering, sorting, expanded company details, and charts working at `/stock-screeners/`.
+- [x] Add `public/index.html` as the root landing page linking to the stock screener.
+- [x] Add central theme tokens for colors, typography, spacing, and app branding.
+- [x] Extract only components needed by more than one app; leave screener-specific UI in its app.
 
-**Exit gate:** Frontend builds and runs against static JSON; the portal loads at the project root and the screener works at `/stock-screeners/`.
+**Implementation evidence**
+
+- Moved the tracked React/Vite app to `apps/stock-screener`, keeping its local dependencies and generated assets in ignored paths.
+- Made the Vite base path and data base URL configurable. Development uses the test JSON after `npm run predev` copies it into an ignored local public directory; the scheduled workflow sets the production Pages paths explicitly.
+- Disabled Vite's public-directory copy during production builds so local test data cannot leak into published app assets.
+- Added the root portal and registry at `public/` and `shared/config/site.json`, with shared style tokens in `shared/theme/tokens.css`.
+- Updated the scheduled workflow to assemble the portal, screener route, and production dataset at their target Pages paths. It has not been run against production or deployed.
+- Updated the artifact contract and README to describe the new layout and local commands.
+
+**Exit gate:** Passed. The frontend builds with the configured project-site paths; local browser checks loaded the portal registry and 25 test stocks, filtered to one company, and expanded company details/charts. Test data was absent from the production build.
+
+- Validation: `mvn -B package` passed all four Java tests and completed its test-mode scrape. `npm run predev` and `npm run build` succeeded; the production-configured build contains the `/stock-screeners/` asset base and `/data/stock-screener/prod/` data URL.
+- Existing/non-blocking warnings: Vite's >500 kB bundle warning and Recharts chart-dimension warnings when expanding a company.
 
 ### Phase 4 — Split CI and deployment
 
@@ -191,12 +203,12 @@ Update this section after each execution session so work can resume without repe
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Recorded branch, live route, current deployment layout, JSON shape, URL strategy, and baseline warnings | `mvn -Denvironment=test test` succeeded; live page loaded 481 stocks and an expanded company detail | No command required; Pages settings must be confirmed before first deployment |
 | 2026-11-22 | Phase 1 — Establish safe build and data contracts | Complete | Set test as Maven default, explicit production workflow flag, surfaced output errors, added tests and artifact contract; documented user's route decision | `mvn -B test`: 4 tests passed; safe test scrape wrote 25 companies | None |
 | 2026-11-22 | Phase 2 — Move pipeline and data | Complete | Relocated Java pipeline/tests/samples and datasets; made root POM an aggregator; separated frontend build; removed scraper Git publishing | `mvn -B package`: 4 tests passed, 25-company test scrape, JAR created, `BUILD SUCCESS`; `npm run build` succeeded | None; production workflow was not run |
-| 2026-11-22 | Phase 3 — Move and decouple the frontend | In progress | Starting frontend relocation, site routing, and shared theme/portal foundation | Pending | None |
+| 2026-11-22 | Phase 3 — Move and decouple the frontend | Complete | Relocated app; added configurable routes/data URL, portal/registry/theme; updated Pages artifact assembly | Maven package and frontend builds passed; local portal and screener browser checks passed; no production scrape/deployment | None |
 
 ### Current handoff
 
-- **Overall status:** Phases 0–2 complete; Phase 3 in progress.
-- **Next item:** Relocate the Vite app and verify the portal and `/stock-screeners/` route without publishing.
-- **Last verified state:** Maven package and standalone frontend build succeeded. Production data remains unchanged; no deployment or production scrape was run.
+- **Overall status:** Phases 0–3 complete; Phase 4 not started.
+- **Next item:** Split the scheduled stock pipeline and deployment workflow, preserving unrelated `gh-pages` content and serializing publishers.
+- **Last verified state:** Maven package, local test-data preparation, and production-configured frontend build succeeded. The local portal and screener were browser-checked. No deployment or production scrape was run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
 - **Manual commands currently required:** None.
