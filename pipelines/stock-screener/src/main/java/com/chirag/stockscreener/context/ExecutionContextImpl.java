@@ -11,10 +11,8 @@ public class ExecutionContextImpl implements ExecutionContext {
 
     private final Environment environment;
     private final Integer maxPagesToScan;
-    private final Boolean gitCommitEnabled;
     private final String screenerQueryLink;
     private final String outputDirectory;
-    private final String gitFilePattern;
 
     public ExecutionContextImpl(String[] args) throws ParseException, IOException {
         Options cliOptions = getCliOptions();
@@ -23,9 +21,7 @@ public class ExecutionContextImpl implements ExecutionContext {
         this.environment = getOptionValueOrDefault(cmd, "e", val -> Environment.valueOf(val.toUpperCase()), () -> Environment.TEST);
         this.screenerQueryLink = getOptionValueOrDefault(cmd, "sql", Function.identity(), () -> "https://www.screener.in/screens/2618573/companies-with-growth-salesprofitmargin");
         this.maxPagesToScan = this.environment.getMaxPagesToScan();
-        this.gitCommitEnabled = this.environment.isGitCommitEnabled();
         this.outputDirectory = this.environment.getOutputDirectory();
-        this.gitFilePattern = this.environment.getGitFilePattern();
     }
 
     private <T> T getOptionValueOrDefault(CommandLine cmd, String option, Function<String, T> optionToMapper, Supplier<T> defaultSupplier) {
@@ -47,11 +43,6 @@ public class ExecutionContextImpl implements ExecutionContext {
     }
 
     @Override
-    public boolean isGitCommitEnabled() {
-        return gitCommitEnabled;
-    }
-
-    @Override
     public String getScreenerQueryLink() {
         return screenerQueryLink;
     }
@@ -62,19 +53,12 @@ public class ExecutionContextImpl implements ExecutionContext {
     }
 
     @Override
-    public String getGitFilePattern() {
-        return gitFilePattern;
-    }
-
-    @Override
     public String toString() {
         return "ExecutionContextImpl{" +
                 "environment=" + environment.name() +
                 ", maxPagesToScan=" + maxPagesToScan +
-                ", gitCommitEnabled=" + gitCommitEnabled +
                 ", screenerLink='" + screenerQueryLink + '\'' +
                 ", outputDirectory='" + outputDirectory + '\'' +
-                ", gitFilePattern='" + gitFilePattern + '\'' +
                 '}';
     }
 

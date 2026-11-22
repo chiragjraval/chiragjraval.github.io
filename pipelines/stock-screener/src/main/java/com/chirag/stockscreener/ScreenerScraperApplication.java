@@ -6,7 +6,6 @@ import com.chirag.stockscreener.extractor.company.CompanyDetailExtractor;
 import com.chirag.stockscreener.extractor.query.QueryResultsExtractor;
 import com.chirag.stockscreener.model.CompanyDetail;
 import com.chirag.stockscreener.model.CompanyMetadata;
-import com.chirag.stockscreener.service.GitService;
 import com.chirag.stockscreener.service.JsonOutputService;
 import com.chirag.stockscreener.util.HttpClientUtil;
 import org.apache.commons.cli.ParseException;
@@ -18,7 +17,7 @@ import java.util.List;
 
 /**
  * Main scraper application for screener.in data extraction
- * Runs during Maven build phase (process-resources)
+ * Runs during the Maven test phase when invoked through the configured lifecycle
  */
 public class ScreenerScraperApplication {
 
@@ -35,8 +34,7 @@ public class ScreenerScraperApplication {
         }
         catch (ParseException | IOException e) {
             logger.error("Error initializing execution context", e);
-            System.exit(1);
-            return;
+            throw new IllegalStateException("Error initializing execution context", e);
         }
 
         QueryResultsExtractor queryResultsExtractor = new QueryResultsExtractor(executionContext, httpClientUtil);
@@ -48,8 +46,7 @@ public class ScreenerScraperApplication {
             QueryResultsExtractor.QueryResults queryResults = queryResultsExtractor.apply(executionContext.getScreenerQueryLink());
 
             if (queryResults.companyMetadataMap().isEmpty()) {
-                logger.warn("No companies found in screener list");
-                System.exit(0);
+                throw new IllegalStateException("No companies found in screener list");
             }
 
             logger.info("Found {} companies in screener list", queryResults.companyMetadataMap().size());
@@ -69,25 +66,11 @@ public class ScreenerScraperApplication {
             logger.info("Step 3: Writing results to JSON files...");
             JsonOutputService.outputToJson(details, executionContext.getOutputDirectory());
 
-            // Step 4: Commit changes if enabled and repository exists
-            if (executionContext.isGitCommitEnabled() && GitService.isGitRepository(".")) {
-                logger.info("Step 4: Committing changes to Git repository...");
-                boolean commitSuccess = GitService.commitAndPushChanges(".", executionContext.getGitFilePattern());
-                if (commitSuccess) {
-                    logger.info("Successfully committed changes to Git repository");
-                } else {
-                    logger.warn("Failed to commit changes to Git repository");
-                }
-            } else {
-                logger.info("Step 4: Git commit is disabled or repository not found, skipping...");
-            }
-
             logger.info("Screener Data Scraper Application completed successfully");
-            System.exit(0);
 
         } catch (Exception e) {
             logger.error("Fatal error in scraper application", e);
-            System.exit(1);
+            throw new IllegalStateException("Fatal error in scraper application", e);
         }
     }
 }

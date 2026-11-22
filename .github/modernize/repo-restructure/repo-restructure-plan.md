@@ -70,7 +70,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - Live URL: `https://chiragjraval.github.io/daily_custom_stock_screener/`. It loaded 481 stocks, and expanding a company row loaded its score details. The live summary endpoint also reports 481 companies.
 - The user confirmed that this root will become the portal and the screener will move to `https://chiragjraval.github.io/daily_custom_stock_screener/stock-screeners/`; preserving the old root as a direct screener route is not required.
 - A safe `mvn -Denvironment=test test` completed successfully: 25 companies were written to the test summary. Summary keys are `totalCompanies`, `generatedAt`, and `companies`; a company detail includes `metadata`, `attributes`, `companyScore`, `quarterlyResults`, `technicalHistory`, `latestQuarterlyResult`, and `latestTechnicalAttributes`.
-- The test detail directory contained 52 JSON files after the run, 27 of which were not referenced by its 25-company summary. The pre-run count was not captured; investigate whether these are stale files during Phase 1 and do not delete them as part of this baseline.
+- The test detail directory contained 52 JSON files after the run, 27 of which were not referenced by its 25-company summary. The pre-run count was not captured; these extras were preserved pending a cleanup/retention decision.
 - The production summary in the local checkout had 481 companies and was not modified. The test invocation did not push or publish.
 - Workflow timing is `18:00 UTC` daily (`23:30 IST`) plus manual dispatch; workflow-level permission is `contents: write`. Published assets and data are combined at the `gh-pages` branch root.
 - Expanding a live company row produced Recharts console warnings about chart width/height `-1`. Record as pre-existing behavior for later frontend verification.
@@ -92,16 +92,25 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 2 — Move the stock-screener pipeline and data
 
-**Status:** In progress — 2026-11-22
+**Status:** Complete — 2026-11-22
 
-- [ ] Move Java scraper sources and sample inputs to `pipelines/stock-screener`.
-- [ ] Move the Maven module/build configuration; remove frontend npm lifecycle work from that module.
-- [ ] Retain a root Maven aggregator or document the new direct module command.
-- [ ] Move checked-in/generated stock-screener data to `data/stock-screener`.
-- [ ] Update scraper output paths and references without changing the existing JSON schema.
-- [ ] Remove JGit commit/push behavior from the scraper; publication belongs to GitHub Actions.
+- [x] Move Java scraper sources, tests, and sample inputs to `pipelines/stock-screener`.
+- [x] Move the Maven module/build configuration; remove frontend npm lifecycle work from that module.
+- [x] Retain a root Maven aggregator and preserve root `mvn` commands.
+- [x] Move production data and local test output to `data/stock-screener`.
+- [x] Update scraper output paths and workflow references without changing the existing JSON schema.
+- [x] Remove JGit commit/push behavior from the scraper; publication belongs to GitHub Actions.
 
 **Exit gate:** The scraper runs in test mode from its new location and produces equivalent summary/detail JSON in the new data directory.
+
+**Implementation evidence**
+
+- Java sources, tests, and sample inputs now live under `pipelines/stock-screener`; the root `pom.xml` aggregates this Maven module.
+- Production data moved to `data/stock-screener/prod`; test output is at `data/stock-screener/test` and remains ignored.
+- The Java scraper no longer has Git/JGit publishing code. The workflow explicitly selects `prod`, builds the frontend independently with Node, and copies only production data to the existing `gh-pages/screener-data/prod/` path until Phase 3 updates the frontend data URL.
+- Removed `System.exit` from the in-process Maven entry point so Maven can complete packaging; scraper errors now fail the Maven run.
+- Current data inventory is 481 companies in the production summary and 1,258 detail files; 25 companies in the test summary and 52 detail files. All summary companies have corresponding detail files; 777 production and 27 test details are unreferenced and were preserved pending a cleanup/retention decision.
+- `mvn -B package` passed all four unit tests, completed a 25-company test scrape, created the scraper JAR, and reported `BUILD SUCCESS`. `npm run build` also succeeded; Vite reported the existing large-chunk warning.
 
 ### Phase 3 — Move and decouple the frontend
 
@@ -181,11 +190,12 @@ Update this section after each execution session so work can resume without repe
 |---|---|---|---|---|---|
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Recorded branch, live route, current deployment layout, JSON shape, URL strategy, and baseline warnings | `mvn -Denvironment=test test` succeeded; live page loaded 481 stocks and an expanded company detail | No command required; Pages settings must be confirmed before first deployment |
 | 2026-11-22 | Phase 1 — Establish safe build and data contracts | Complete | Set test as Maven default, explicit production workflow flag, surfaced output errors, added tests and artifact contract; documented user's route decision | `mvn -B test`: 4 tests passed; safe test scrape wrote 25 companies | None |
+| 2026-11-22 | Phase 2 — Move pipeline and data | Complete | Relocated Java pipeline/tests/samples and datasets; made root POM an aggregator; separated frontend build; removed scraper Git publishing | `mvn -B package`: 4 tests passed, 25-company test scrape, JAR created, `BUILD SUCCESS`; `npm run build` succeeded | None; production workflow was not run |
 
 ### Current handoff
 
-- **Overall status:** Phases 0–1 complete; Phase 2 in progress.
-- **Next item:** Move the scraper, tests, samples, and production data; keep the existing Pages layout working.
-- **Last verified state:** `mvn -B test` passed all four unit tests and the default test scrape wrote 25 summary entries. Production mode was not run.
-- **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate the 27 test detail files not referenced by the current summary before changing cleanup behavior.
+- **Overall status:** Phases 0–2 complete; Phase 3 not started.
+- **Next item:** Move and decouple the frontend; add the root portal and configure `/stock-screeners/`.
+- **Last verified state:** Maven package and standalone frontend build succeeded. Production data remains unchanged; no deployment or production scrape was run.
+- **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
 - **Manual commands currently required:** None.

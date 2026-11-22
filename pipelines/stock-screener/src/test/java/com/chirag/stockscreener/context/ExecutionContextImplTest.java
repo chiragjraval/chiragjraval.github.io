@@ -4,8 +4,6 @@ import com.chirag.stockscreener.enums.Environment;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class ExecutionContextImplTest {
 
@@ -14,9 +12,7 @@ class ExecutionContextImplTest {
         ExecutionContext context = new ExecutionContextImpl(new String[0]);
 
         assertEquals(Environment.TEST, context.getEnvironment());
-        assertEquals("src/main/resources/screener-data/test", context.getOutputDirectory());
-        assertEquals("src/main/resources/screener-data/test/", context.getGitFilePattern());
-        assertFalse(context.isGitCommitEnabled());
+        assertEquals("data/stock-screener/test", context.getOutputDirectory());
     }
 
     @Test
@@ -29,7 +25,6 @@ class ExecutionContextImplTest {
 
         assertEquals(Environment.PROD, context.getEnvironment());
         assertEquals(queryLink, context.getScreenerQueryLink());
-        assertEquals("src/main/resources/screener-data/prod", context.getOutputDirectory());
-        assertTrue(context.isGitCommitEnabled());
+        assertEquals("data/stock-screener/prod", context.getOutputDirectory());
     }
 }
