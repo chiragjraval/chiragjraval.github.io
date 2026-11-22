@@ -2,10 +2,8 @@ package com.chirag.stockscreener;
 
 import com.chirag.stockscreener.context.ExecutionContext;
 import com.chirag.stockscreener.context.ExecutionContextImpl;
-import com.chirag.stockscreener.extractor.company.CompanyAttributesExtractor;
 import com.chirag.stockscreener.extractor.company.CompanyDetailExtractor;
 import com.chirag.stockscreener.extractor.query.QueryResultsExtractor;
-import com.chirag.stockscreener.model.CompanyAttributes;
 import com.chirag.stockscreener.model.CompanyDetail;
 import com.chirag.stockscreener.model.CompanyMetadata;
 import com.chirag.stockscreener.service.GitService;
@@ -16,7 +14,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
