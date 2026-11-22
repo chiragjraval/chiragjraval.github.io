@@ -106,23 +106,50 @@ Relevant existing references:
 
 ### Phase 0 — Baseline and safeguards
 
-**Status:** Not started
+**Status:** Complete — GitHub settings remain a cutover prerequisite
 
-- [ ] Confirm current branch/worktree and preserve unrelated user changes.
-- [ ] Record the current production URL, representative screener interactions,
+- [x] Confirm current branch/worktree and preserve unrelated user changes.
+- [x] Record the current production URL, representative screener interactions,
   summary endpoint, company count, and workflow status.
-- [ ] Inventory hard-coded project-site path prefixes in frontend, workflows,
+- [x] Inventory hard-coded project-site path prefixes in frontend, workflows,
   docs, and deployment scripts.
-- [ ] Record Pages source/branch settings and whether a repository named
+- [x] Record Pages source/branch settings and whether a repository named
   `chiragjraval.github.io` already exists or is otherwise unavailable.
-- [ ] Capture current data-only schedule and deployment gate behavior.
+- [x] Capture current data-only schedule and deployment gate behavior.
 
 **Exit gate:** Existing site and data behavior are recorded; no production
 scrape, route cutover, or repository rename has occurred.
 
+**Baseline evidence — 2026-11-22**
+
+- Local branch is `main` at `476656cfa`. The only pre-existing worktree item
+  was the untracked user-provided restructure prompt; it was not modified.
+- The project-site portal and `/stock-screeners/` route loaded. The production
+  summary endpoint returned 481 companies with `generatedAt`
+  `2026-11-22T12:27:23.896513822`. One initial screener snapshot showed zero;
+  a subsequent load showed all 481. The cause was not isolated. Keep this as a
+  loading-state observation to recheck during the UX work, not as evidence that
+  the endpoint is currently missing.
+- Latest known Stock Screener workflow run
+  [45019853339](https://github.com/chiragjraval/daily_custom_stock_screener/actions/runs/45019853339)
+  completed successfully. The scheduled job is configured for 18:00 UTC and
+  remains gated by `PAGES_DEPLOYMENT_ENABLED`; manual production publishing
+  still requires `publish=true`.
+- Project-prefix references occur in `apps/stock-screener/vite.config.js`,
+  `.github/workflows/stock-screener.yml`, `docs/deployment.md`, and
+  `docs/repo-restructure-contracts.md`. Maven artifact IDs also include the
+  former repository name, but are not URL prefixes and should only change if
+  needed for a separate build reason.
+- GitHub repository search found no public repository named
+  `chiragjraval.github.io`; an unauthenticated URL check returned 404. This
+  cannot rule out a private repository or another account-level constraint.
+  The connected tools cannot read the current Pages source/branch settings.
+  Verify target-name availability and Pages settings manually before Phase 6.
+- No production scrape, workflow dispatch, or live deployment was run.
+
 ### Phase 1 — Navigation, information architecture, and design contract
 
-**Status:** Not started
+**Status:** In progress — first-release content inventory needs user input
 
 - [ ] Confirm the first-release navigation destinations and their labels.
   Baseline proposal: Home, Financial Data Lab, Stock Screeners.
@@ -276,13 +303,19 @@ completed investigation.
 | Date | Phase/item | Status | Change/evidence | Validation | Manual action/blocker |
 |---|---|---|---|---|---|
 | 2026-11-22 | Initial plan | Complete | Recorded single-repository strategy, target routes, shared compact UX priority, phases, gates, and existing workflow constraints. | Compared plan with current README, architecture/deployment docs, Vite paths, portal registry, and workflow definitions. | No action yet. |
+| 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Verified live portal, screener and 481-company summary; inventoried URL prefixes and workflow behavior. Recorded target-repository and Pages-settings access limitations. | Browser showed 481 on a subsequent load; latest known run `45019853339` succeeded. | Before cutover, user must confirm target repository availability and Pages source/settings. |
 
 ## Current handoff
 
-- **Overall status:** Plan prepared; implementation has not started.
-- **Next step:** Begin Phase 0 baseline and safeguards, then ask for any missing
-  information needed to approve the initial page inventory and UX contract.
+- **Overall status:** Execution started; Phase 0 complete and Phase 1 in
+  progress. No application code has been changed.
+- **Next step:** Complete the initial page inventory and design contract in
+  Phase 1. Confirm what the personal home page should contain and whether any
+  additional destinations belong in the first release.
 - **Repository rename:** Deferred until local changes and deployment artifacts
   are validated and the user approves the cutover.
+- **Phase 0 cutover checks:** Target repository availability and Pages source/
+  branch settings could not be confirmed through connected tools; verify them
+  manually before Phase 6.
 - **Production publishing:** No scrape, workflow dispatch, or live deployment
-  was performed while preparing this plan.
+  was performed during this execution session.
