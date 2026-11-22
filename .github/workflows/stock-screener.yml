@@ -107,7 +107,7 @@ jobs:
     if: >-
       github.ref == 'refs/heads/main' &&
       ((github.event_name == 'schedule' && vars.PAGES_DEPLOYMENT_ENABLED == 'true') ||
-      (github.event_name == 'workflow_dispatch' && inputs.publish == true && vars.PAGES_DEPLOYMENT_ENABLED == 'true') ||
+      (github.event_name == 'workflow_dispatch' && inputs.publish == true) ||
       (github.event_name == 'push' && needs.detect.outputs.data == 'true'))
     runs-on: ubuntu-latest
     steps:
@@ -134,13 +134,22 @@ jobs:
           retention-days: 7
 
   deploy:
-    needs: [build-site, build-data]
+    needs: [detect, build-site, build-data]
     if: >-
       always() &&
-      (needs.build-site.result == 'success' || needs.build-data.result == 'success') &&
       github.ref == 'refs/heads/main' &&
+      ((github.event_name == 'schedule' &&
       vars.PAGES_DEPLOYMENT_ENABLED == 'true' &&
-      (github.event_name != 'workflow_dispatch' || inputs.publish == true)
+      needs.build-data.result == 'success') ||
+      (github.event_name == 'workflow_dispatch' &&
+      inputs.publish == true &&
+      needs.build-site.result == 'success' &&
+      needs.build-data.result == 'success') ||
+      (github.event_name == 'push' &&
+      vars.PAGES_DEPLOYMENT_ENABLED == 'true' &&
+      (needs.detect.outputs.site == 'true' || needs.detect.outputs.data == 'true') &&
+      (needs.detect.outputs.site != 'true' || needs.build-site.result == 'success') &&
+      (needs.detect.outputs.data != 'true' || needs.build-data.result == 'success')))
     permissions:
       contents: write
     uses: ./.github/workflows/deploy.yml
