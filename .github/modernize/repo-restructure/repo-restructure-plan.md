@@ -114,7 +114,7 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 3 — Move and decouple the frontend
 
-**Status:** Not started
+**Status:** In progress — 2026-11-22
 
 - [ ] Move the Vite application to `apps/stock-screener`.
 - [ ] Make the Vite base URL/deployment prefix configurable for the project root portal and `/stock-screeners/` app path.
@@ -191,11 +191,12 @@ Update this section after each execution session so work can resume without repe
 | 2026-11-22 | Phase 0 — Baseline and safeguards | Complete | Recorded branch, live route, current deployment layout, JSON shape, URL strategy, and baseline warnings | `mvn -Denvironment=test test` succeeded; live page loaded 481 stocks and an expanded company detail | No command required; Pages settings must be confirmed before first deployment |
 | 2026-11-22 | Phase 1 — Establish safe build and data contracts | Complete | Set test as Maven default, explicit production workflow flag, surfaced output errors, added tests and artifact contract; documented user's route decision | `mvn -B test`: 4 tests passed; safe test scrape wrote 25 companies | None |
 | 2026-11-22 | Phase 2 — Move pipeline and data | Complete | Relocated Java pipeline/tests/samples and datasets; made root POM an aggregator; separated frontend build; removed scraper Git publishing | `mvn -B package`: 4 tests passed, 25-company test scrape, JAR created, `BUILD SUCCESS`; `npm run build` succeeded | None; production workflow was not run |
+| 2026-11-22 | Phase 3 — Move and decouple the frontend | In progress | Starting frontend relocation, site routing, and shared theme/portal foundation | Pending | None |
 
 ### Current handoff
 
-- **Overall status:** Phases 0–2 complete; Phase 3 not started.
-- **Next item:** Move and decouple the frontend; add the root portal and configure `/stock-screeners/`.
+- **Overall status:** Phases 0–2 complete; Phase 3 in progress.
+- **Next item:** Relocate the Vite app and verify the portal and `/stock-screeners/` route without publishing.
 - **Last verified state:** Maven package and standalone frontend build succeeded. Production data remains unchanged; no deployment or production scrape was run.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
 - **Manual commands currently required:** None.
