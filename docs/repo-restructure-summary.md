@@ -21,7 +21,9 @@ Evolve the single stock-screener site into a home for independent financial anal
 
 ## First live run follow-up
 
-The user-triggered first workflow run published the portal, but the screener showed zero companies. The deployed summary was at `/stock-screener/prod/summary.json` while the app requests `/data/stock-screener/prod/summary.json`. The artifact upload had stripped the `data/` prefix. The workflow now uploads from the parent artifact directory and validates the expected summary path before deployment; rerun the manual workflow to apply the correction.
+The user-triggered first workflow run published the portal, but the screener showed zero companies. The deployed summary was at `/stock-screener/prod/summary.json` while the app requests `/data/stock-screener/prod/summary.json`. The artifact upload had stripped the `data/` prefix. The workflow now uploads from the parent artifact directory and validates the expected summary path before deployment. After the user reran the action, the expected public summary URL returned 481 companies and the screener loaded successfully.
+
+Scheduled production scraping and deployment remain gated until the repository Actions variable `PAGES_DEPLOYMENT_ENABLED` is set to the lowercase string `true`.
 
 ## Remaining rollout work
 

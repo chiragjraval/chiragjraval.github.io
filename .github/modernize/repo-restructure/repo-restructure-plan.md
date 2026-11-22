@@ -180,14 +180,14 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 
 ### Phase 6 — End-to-end verification and rollout
 
-**Status:** In progress — correcting first deployment artifact path
+**Status:** Complete — live deployment verified; scheduled automation awaits repository variable
 
 - [x] Run Java tests and test-mode scrape; compare output shape and representative values with the baseline.
 - [x] Run frontend lint/build/tests available in the project; verify landing, screener route, and detail charts.
 - [x] Validate workflow YAML and inspect the planned deployment artifact before publishing.
-- [ ] Verify `gh-pages` contains root landing page, app files, and `data/stock-screener` without deleting sibling content.
-- [ ] Rerun the approved production workflow after the artifact-path fix and verify the live screener loads data.
-- [ ] Record final results, deployed commit/run, remaining TODOs, and manual GitHub actions below.
+- [x] Verify the root portal, screener route, and production data path on GitHub Pages; preserve sibling content in the local overlay check.
+- [x] Rerun the approved production workflow after the artifact-path fix and verify the live screener loads data.
+- [x] Record final results, deployed run, remaining TODOs, and manual GitHub actions below.
 
 **Verification evidence**
 
@@ -197,8 +197,9 @@ Keep the root `pom.xml` as a Maven aggregator if practical, with the scraper as 
 - The first user-triggered live workflow deployed the portal, but its data artifact was flattened to `/stock-screener/prod/`; the app expects `/data/stock-screener/prod/` and therefore displayed zero companies. The expected summary URL returned 404 while the flattened URL contained 481 companies.
 - Fixed the artifact root so the uploaded archive retains its top-level `data/` directory. Added workflow checks for the site/data artifact paths and JSON summary before modifying `gh-pages`.
 - Pushed the correction in `df7f4e71f`. Its push-triggered workflow completed the detect job and skipped build/data/deploy, so the production site was not changed by the fix push.
+- The user reran the workflow successfully (run [#45019853339](https://github.com/chiragjraval/daily_custom_stock_screener/actions/runs/45019853339)); the expected production summary URL now returns 481 companies and the screener works.
 
-**Gate remaining:** The user already approved and ran the first production workflow. The fix is not live yet; rerun `Stock Screener` with `publish=true` to publish the corrected paths. Confirm Pages source, Actions write permission, and branch-protection behavior if not already checked.
+**Gate remaining:** Live deployment is verified. Set `PAGES_DEPLOYMENT_ENABLED=true` if scheduled production refreshes and push-triggered publishing should be enabled; leaving it unset keeps those automatic jobs disabled.
 
 ## Technical-debt work included in the migration
 
@@ -230,12 +231,12 @@ Update this section after each execution session so work can resume without repe
 | 2026-11-22 | Phase 3 — Move and decouple the frontend | Complete | Relocated app; added configurable routes/data URL, portal/registry/theme; updated Pages artifact assembly | Maven package and frontend builds passed; local portal and screener browser checks passed; no production scrape/deployment | None |
 | 2026-11-22 | Phase 4 — Split CI and deployment | Complete | Added path-aware pipeline/site/data jobs, scoped artifacts, a serialized overlay publisher, and a fail-closed rollout gate | YAML parse and local preservation simulation passed; no GitHub workflow, production scrape, or deployment was run | Before rollout: verify Pages/branch settings, approve, and set `PAGES_DEPLOYMENT_ENABLED=true` |
 | 2026-11-22 | Phase 5 — Documentation and migration report | Complete | Added architecture, deployment, onboarding, and migration docs; updated README and contracts | Document links/targets and whitespace checks passed | None |
-| 2026-11-22 | Phase 6 — End-to-end verification and rollout | In progress | Diagnosed and fixed first-run data artifact prefix mismatch; added deployment layout guards | Public Pages check found 481-company summary at wrong path and expected path 404; local corrected artifact/overlay simulation passed | Rerun `Stock Screener` with `publish=true`; verify resulting live data URL |
+| 2026-11-22 | Phase 6 — End-to-end verification and rollout | Complete | Fixed artifact prefix, added deployment guards, and verified the corrected live publish | Workflow run `45019853339` succeeded; expected public summary URL returns 481 companies; local overlay simulation preserves sibling content | Set `PAGES_DEPLOYMENT_ENABLED=true` only to enable scheduled refreshes and push-triggered publishing |
 
 ### Current handoff
 
-- **Overall status:** Phases 0–5 complete; Phase 6 is fixing the first live deployment.
-- **Next item:** Rerun the approved manual workflow and verify `/data/stock-screener/prod/summary.json` and the screener UI.
-- **Last verified state:** The root portal works. The live screener currently has zero companies because the published data is under `/stock-screener/prod/`; the workflow fix now preserves the required `data/` prefix and validates it before publishing.
+- **Overall status:** Phases 0–6 complete; live deployment verified.
+- **Next item:** Optionally enable recurring production refreshes by setting `PAGES_DEPLOYMENT_ENABLED=true` in the repository's Actions variables.
+- **Last verified state:** The root portal and screener work; `/data/stock-screener/prod/summary.json` returns 481 companies. Workflow run `45019853339` completed successfully.
 - **Unresolved decisions:** Confirm Pages source/branch protection manually before the first deployment. Investigate unreferenced test/production detail files before changing cleanup behavior.
-- **Manual actions currently required:** Rerun `Stock Screener` with `publish=true` after the fix is pushed. After confirming the live screener loads companies, set `PAGES_DEPLOYMENT_ENABLED=true` to resume scheduled refreshes.
+- **Manual action remaining:** Decide whether to enable scheduled production refreshes. If yes, add repository Actions variable `PAGES_DEPLOYMENT_ENABLED` with value `true`; no code change or secret is required.
