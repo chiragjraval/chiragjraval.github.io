@@ -43,12 +43,21 @@ jobs:
       - name: Replace only the selected Pages paths
         run: |
           if [[ "${{ inputs.include-site }}" == "true" ]]; then
+            test -f incoming/site/index.html
+            test -f incoming/site/stock-screeners/index.html
+            test -f incoming/site/shared/config/site.json
+          fi
+          if [[ "${{ inputs.include-data }}" == "true" ]]; then
+            test -f incoming/data/data/stock-screener/prod/summary.json
+            jq -e '.companies | type == "array"' incoming/data/data/stock-screener/prod/summary.json > /dev/null
+          fi
+          if [[ "${{ inputs.include-site }}" == "true" ]]; then
             rm -rf gh-pages/shared gh-pages/stock-screeners
             rm -f gh-pages/index.html gh-pages/portal.js
             cp -a incoming/site/. gh-pages/
           fi
           if [[ "${{ inputs.include-data }}" == "true" ]]; then
-            rm -rf gh-pages/data/stock-screener/prod gh-pages/screener-data/prod
+            rm -rf gh-pages/data/stock-screener/prod gh-pages/screener-data/prod gh-pages/stock-screener/prod
             cp -a incoming/data/. gh-pages/
           fi
           git -C gh-pages config user.name "github-actions[bot]"

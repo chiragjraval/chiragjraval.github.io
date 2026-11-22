@@ -17,8 +17,11 @@ Evolve the single stock-screener site into a home for independent financial anal
 
 - Maven defaults to test mode. The local frontend serves that test dataset after `npm run predev`; production data is separately configured and never copied into the frontend build.
 - Scheduled production scraping and push-triggered Pages publishing remain disabled until `PAGES_DEPLOYMENT_ENABLED` is enabled. A manual first publish requires `publish=true`.
-- No production scrape, GitHub workflow run, or Pages deployment has been run as part of this migration.
 - Baseline and local browser checks confirmed the test screener loads, filters, expands details, and renders charts. Existing non-blocking Vite bundle-size and Recharts dimension warnings remain.
+
+## First live run follow-up
+
+The user-triggered first workflow run published the portal, but the screener showed zero companies. The deployed summary was at `/stock-screener/prod/summary.json` while the app requests `/data/stock-screener/prod/summary.json`. The artifact upload had stripped the `data/` prefix. The workflow now uploads from the parent artifact directory and validates the expected summary path before deployment; rerun the manual workflow to apply the correction.
 
 ## Remaining rollout work
 

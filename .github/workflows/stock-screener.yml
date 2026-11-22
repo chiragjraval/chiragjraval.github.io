@@ -126,10 +126,11 @@ jobs:
         run: |
           mkdir -p artifact/data/stock-screener/prod
           cp -a data/stock-screener/prod/. artifact/data/stock-screener/prod/
+          test -f artifact/data/stock-screener/prod/summary.json
       - uses: actions/upload-artifact@v4
         with:
           name: stock-screener-data-prod
-          path: artifact/data/
+          path: artifact/
           if-no-files-found: error
           retention-days: 7
 
