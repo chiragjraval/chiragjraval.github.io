@@ -22,10 +22,10 @@ quote semantics, and the production rollout gates below are satisfied.
 - **NHB series:** Request the 2024-25, 2017-18, and 2012-13 base-year series
   for each city. When a quarter appears in multiple base-year series, use the
   value from the newer series: `2024-25 > 2017-18 > 2012-13`.
-- **Price fields:** Validate `WTAVG_COMPOSITE` as the comparable raw city price
-  (INR per sq. ft.) across all response variants. Preserve `HFC_INDEX` and its
-  base-year metadata, but do not stitch differently rebased index values into
-  one raw continuous series.
+- **Price fields:** Preserve NHB's composite carpet-area price and all three
+  unit-size price bands (`<=60`, `>60 to <=110`, and `>110` sq. m.), each in
+  INR per sq. ft. Retain `HFC_INDEX` and its base-year metadata, but do not
+  stitch differently rebased index values into one raw continuous series.
 - **Benchmarks:** This phase includes NIFTY 50, NIFTY 500, NIFTY MIDCAP 150,
   and NIFTY SMALLCAP 250 only. Gold and silver are deferred.
 - **Provider status:** The four supplied Screener chart endpoints passed
@@ -35,9 +35,14 @@ quote semantics, and the production rollout gates below are satisfied.
   NIFTY-only implementation.
 - **Date alignment:** For each NHB quarter end, select the latest benchmark
   observation on or before that date. Do not look ahead or interpolate.
-- **Charts:** Show raw values with clearly labeled units and a relative ratio
-  view. For each aligned quarter, chart the raw NHB weighted composite price
-  divided by the matched benchmark index value; do not rebase either series.
+- **Charts:** Let users select the composite price and any combination of the
+  three carpet-area price bands. Show each selected price divided by the
+  matched benchmark in the relative chart; show selected NHB prices and the
+  matched benchmark on one raw-value axis with units in each line label and
+  tooltip; and show each selected price and the benchmark rebased to 100 in a
+  third chart. Synchronize date crosshairs and tooltips across all three charts.
+- **Navigation:** Show NHB Residex on the Financial Data Lab page and in the
+  left sidebar immediately before Stock Screeners.
 - **Refresh:** Schedule the target weekly collection for Saturday at
   01:00 UTC (06:30 India time). Pace live requests by at least 500 ms and retry
   HTTP 429, 5xx, and transient I/O failures using bounded exponential backoff
@@ -63,8 +68,8 @@ quote semantics, and the production rollout gates below are satisfied.
 | Local/test data | `data/nhb-residex/test/` |
 | Production source data | `data/nhb-residex/prod/` |
 
-Add the comparison page as a Financial Data Lab tool card. Do not add a new
-top-level navigation destination unless separately approved.
+Add the comparison page as a Financial Data Lab tool card and a sidebar item
+before Stock Screeners.
 
 ## Current baseline and research evidence
 
@@ -119,18 +124,26 @@ top-level navigation destination unless separately approved.
 ## UX and data acceptance criteria
 
 1. A user can select a state and city, then a benchmark with available data.
-2. The raw chart labels the housing price and each benchmark with correct units;
-   unlike units are not presented as directly comparable on one unlabeled axis.
-3. The relative ratio is the raw NHB price divided by the latest benchmark
-   value on or before each NHB quarter end; it has no look-ahead or synthetic
-   points and is labeled in INR per sq. ft. per index point.
-4. Overlapping quarters use newer base-year source values; missing/invalid
+2. The raw chart shows every selected NHB price band and the matched benchmark
+   on one axis; line labels and tooltips make the different units explicit and
+   identify each housing area range. Plot every available observation and
+   provide a compact X-axis label for every quarter.
+3. For each selected housing series, the relative chart shows the raw NHB
+   price divided by the latest benchmark value on or before each quarter end.
+   The ratio has no look-ahead or synthetic points and is labeled in INR per
+   sq. ft. per index point.
+4. The rebased chart shows each selected NHB series and the benchmark starting
+   at 100 at its first available quarter.
+5. Hovering any chart synchronizes the date crosshair and tooltip on all three.
+6. NHB Residex is visible in the sidebar and precedes Stock Screeners on the
+   Financial Data Lab page.
+7. Overlapping quarters use newer base-year source values; missing/invalid
    responses are surfaced, not silently treated as valid zero values.
-5. Weekly refreshes publish nothing when canonical output is unchanged and do
+8. Weekly refreshes publish nothing when canonical output is unchanged and do
    not rebuild the frontend.
-6. Keyboard operation, visible focus, accessible labels, explicit loading and
+9. Keyboard operation, visible focus, accessible labels, explicit loading and
    error states, and a usable narrow-screen layout are verified.
-7. Existing screener routes, data, scheduled job, deployment gates, and
+10. Existing screener routes, data, scheduled job, deployment gates, and
    unrelated Pages content remain unchanged.
 
 ## Execution phases
@@ -161,8 +174,8 @@ monitor initial scheduled runs before relying on weekly freshness.
 
 ### Phase 1 — Data contract and merge rules
 
-**Status:** Complete — the selected fields, parsing, merge rules, and output
-contract are covered by fixtures and focused tests.
+**Status:** Complete — the composite and three area-band fields, parsing,
+merge rules, and output contract are covered by fixtures and focused tests.
 
 - [x] Confirm all-city scope, 2017-18 label, weekly cadence, no-look-ahead
   date alignment, and raw/relative chart views.
@@ -217,28 +230,30 @@ changes. No benchmark connector bypasses Phase 0.
 
 ### Phase 3 — Add the Financial Data Lab comparison app
 
-**Status:** Complete — the fixture-backed app and charts are implemented; the
-Smallcap 250 shorter history is represented by its available data.
+**Status:** Complete — composite/area-band selection, three synchronized
+charts, and the requested navigation order are implemented.
 
 - [x] **T009 [US2] [Plan:3.1]** Scaffold the React/Vite entry point in
   `apps/nhb-residex-comparison/src/main.jsx` and
   `apps/nhb-residex-comparison/vite.config.js`; add its tool card to
   `public/financial-data-lab/index.html`.
 - [x] **T010 [US2] [Plan:3.2]** Load the manifest and implement state, city,
-  metric, and benchmark selection in
-  `apps/nhb-residex-comparison/src/App.jsx` and
-  `apps/nhb-residex-comparison/src/config/data.js`.
-- [x] **T011 [US2] [Plan:3.3]** Render raw housing-price and benchmark charts
-  with explicit date and unit labels in
+  multiple housing-price-series, and benchmark selection in
+  `apps/nhb-residex-comparison/src/App.jsx`.
+- [x] **T011 [US2] [Plan:3.3]** Render selected raw housing-price series and
+  matched benchmark values on one axis with per-line unit labels in
   `apps/nhb-residex-comparison/src/components/RawSeriesChart.jsx`.
-- [x] **T012 [US2] [Plan:3.4]** Implement latest-on-or-before alignment and raw
-  price-to-index ratio calculations in
+- [x] **T012 [US2] [Plan:3.4]** Implement latest-on-or-before alignment,
+  per-series price-to-index ratios, and independent rebasing in
   `apps/nhb-residex-comparison/src/utils/alignSeries.js`; cover edge cases in
   `apps/nhb-residex-comparison/src/utils/alignSeries.test.js`.
 - [x] **T013 [US2] [Plan:3.5]** Add accessible loading, error, empty,
   keyboard, focus, and mobile-layout states in
-  `apps/nhb-residex-comparison/src/App.jsx` and
-  `apps/nhb-residex-comparison/src/styles.css`.
+  `apps/nhb-residex-comparison/src/App.jsx` and `App.css`.
+- [x] Add NHB Residex to the left sidebar and move its Financial Data Lab card
+  before Stock Screeners.
+- [x] Preserve NHB composite and three area-band prices; add multi-series
+  ratio, single-axis raw, rebased, and synchronized chart views.
 
 **Exit gate:** The route `/financial-data-lab/nhb-residex/` uses the shared site
 shell and displays correct raw/relative data for fixtures with explicit
@@ -264,9 +279,10 @@ data and preserved existing site and Stock Screener paths.
 
 ### Phase 5 — Validation and documentation
 
-**Status:** In progress — 18 module tests passed; app tests/build, fixture
-execution, browser rendering, full live-data validation, and overlay simulation
-passed. Stock Screener regression validation remains.
+**Status:** In progress — pipeline/frontend tests and builds pass. A one-city
+live fetch confirmed all three area-band fields; the browser verified chart
+order, sidebar order, and synchronized tooltips. Production data refresh
+remains.
 
 - [x] **T016 [Plan:4.3]** Run Maven fixture tests, app tests and production
   build, and browser checks; update `README.md`, `docs/architecture.md`,
@@ -285,18 +301,18 @@ containing unrelated existing site/data paths.
 
 ### Phase 6 — Manual production rollout
 
-**Status:** Local live baseline collected and validated (50 cities); schedule
-activation and Pages publication require the workflow to be pushed to `main`
-and `PAGES_DEPLOYMENT_ENABLED=true`.
+**Status:** The existing 50-city baseline is present; its checked-in schema
+does not yet include the newly added area-band values. A fresh production
+collection is required after the updated pipeline is on `main`.
 
 - [x] Review the selected source's data freshness, units, output size, and JSON
   contract: 50 cities, 53 observations each, four benchmarks, 0.76 MiB, latest
   NHB quarter 2026-06-30, and NIFTY data through 2026-11-20.
 - [x] Do not change `PAGES_DEPLOYMENT_ENABLED`; enable it only by user choice.
-- [x] Review the local live baseline for completeness, latest dates, and output
-  size before committing it.
-- [ ] After the workflow is on `main`, enable `PAGES_DEPLOYMENT_ENABLED` and
-  verify the Saturday run publishes only the NHB data path.
+- [x] Review the existing local live baseline for completeness, latest dates,
+  and output size before committing it.
+- [ ] After the updated pipeline is on `main`, run the gated NHB workflow and
+  verify the new area-band fields are published only under the NHB data path.
 - [ ] Confirm a scheduled data-only refresh does not rebuild the frontend or
   replace Stock Screener data.
 
@@ -305,8 +321,8 @@ and existing site/data paths remain intact.
 
 ### Phase 7 — Handoff
 
-**Status:** In progress — implementation and validation are recorded below;
-the first scheduled deployment and Stock Screener regression check remain.
+**Status:** In progress — the requested UI/data enhancements are under
+validation; a fresh production data run and deployment remain.
 
 - [x] Record implemented paths, workflow state, source configuration, test
   results, and remaining blockers in this plan.
@@ -351,26 +367,30 @@ source research or validation.
 | 2026-11-23 | Plan creation | Complete | Created this phase-based, single-source execution plan with requirements, tasks, gates, risks, and handoff. | Requirement and task traceability recorded in the supporting checkpoint files. | Do not begin production benchmark ingestion until Phase 0 passes. |
 | 2026-11-23 | One-file plan format | Complete | Consolidated source findings and execution tracking into this phase-based plan, modeled on the personal-site plan format. | Task and requirement checkpoints remain derived from this plan. | None. |
 | 2026-11-23 | NIFTY implementation, Saturday schedule, and live baseline | In progress | Added 500 ms request pacing, five-attempt exponential backoff with jitter, support for the current Screener metric-based weekly response, explicit warnings for NHB null-price rows, and a Saturday 01:00 UTC workflow. Collected the local production baseline. | Maven tests: 18 passed. Live run: 50 catalog cities, 53 observations each, four weekly indices, schema 1, 0.76 MiB. No HTTP retries were needed. Each city had 20 null-price rows in the older 2017-18 endpoint; the 2012-13 series supplied those quarters. Latest NHB quarter: 2026-06-30; NIFTY data through 2026-11-20. Hashes and overlay preservation passed. | Main push is approved; no Pages publish has occurred. Stock Screener regression remains. |
+| 2026-11-23 | Multi-series prices, charts, and navigation | Implemented | Added composite plus three NHB carpet-area bands to the output contract and UI; added multi-series ratios, single-axis raw values, a 100-rebased chart, synchronized tooltips/crosshairs, and NHB-before-Stock navigation. | 18 Maven tests and 4 frontend tests passed; both frontend builds passed. One-city live DEV fetch returned all three bands (53 values each); browser confirmed three charts show the same hovered quarter and sidebar order. | The checked-in production baseline predates the new fields; run the updated gated NHB workflow after deployment to publish the area-band data. |
 
 ## Current handoff
 
-- **Overall status:** Implementation and local live baseline are complete;
-  final overlay/regression checks and GitHub activation remain.
+- **Overall status:** Original implementation is on `main`; the three-chart
+  multi-series enhancement is being completed. The new schema needs a fresh
+  NHB production run before all area-band controls have published data.
 - **Plan source of truth:** This file is the only file to update for phase
   status, progress, decisions, validation, and handoff. The original prompt is
   retained as input; generated checkpoint files are derived traceability
   outputs only. All source research and decisions are recorded in this file.
-- **Immediate next step:** Keep this feature and its baseline on `main` and
-  enable `PAGES_DEPLOYMENT_ENABLED` if Saturday publication is desired. The
-  scheduled run is Saturday at 01:00 UTC (06:30 India time).
+- **Immediate next step:** Complete the focused frontend/pipeline tests, then
+  publish the updated code and manually run the gated NHB workflow to refresh
+  area-band data. The scheduled run is Saturday at 01:00 UTC (06:30 India
+  time).
 - **Baseline:** [data/nhb-residex/prod/manifest.json](../../../data/nhb-residex/prod/manifest.json)
   indexes 50 cities and four benchmarks. The pipeline itself performs no Git
   operations.
-- **Validation:** 17 module tests passed; the live manifest, city records,
-  dates, positivity, uniqueness, hashes, and output size were reviewed. The
-  comparison app uses direct NHB-price/index-value ratios without rebasing.
-- **Safety:** A full live collection was explicitly authorized and completed
-  locally. No workflow dispatch, Pages publication, commit, or push was made.
+- **Validation:** The NHB module has 18 passing tests; frontend tests and
+  production build pass. A one-city live DEV fetch returned all three area
+  bands; generated DEV files were removed after verification.
+- **Safety:** The checked-in production baseline has not been rewritten during
+  this enhancement. A full production refresh stays behind the gated NHB
+  workflow.
 
 ## Requirement Mapping
 

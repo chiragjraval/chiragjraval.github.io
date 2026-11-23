@@ -25,6 +25,9 @@ class NhbResidexClientTest {
         assertEquals("2024-25", observations.get(0).baseYear());
         assertEquals("2025-06-30", observations.get(0).quarterEnd().toString());
         assertEquals("5473.00", observations.get(0).weightedAverageComposite().toPlainString());
+        assertEquals("6290.00", observations.get(0).weightedAverageLessThan60().toPlainString());
+        assertEquals("6010.00", observations.get(0).weightedAverage60To110().toPlainString());
+        assertEquals("5800.00", observations.get(0).weightedAverageGreaterThan110().toPlainString());
         assertEquals("101.63", observations.get(0).hfcIndex().toPlainString());
     }
 
@@ -57,13 +60,14 @@ class NhbResidexClientTest {
     }
 
     @Test
-    void skipsRowsWithoutWeightedPrice() throws Exception {
+    void retainsAreaPricesWithoutCompositeAndSkipsRowsWithoutAnyPrice() throws Exception {
         List<QuarterObservation> observations = NhbResidexClient.parseTrendResponse(
-                "{\"status\":1,\"data\":\"[{\\\"QTR_YEAR\\\":\\\"Jun-2025\\\",\\\"WTAVG_COMPOSITE\\\":null}]\"}",
+                "{\"status\":1,\"data\":\"[{\\\"QTR_YEAR\\\":\\\"Jun-2025\\\",\\\"WTAVG_COMPOSITE\\\":null,\\\"WTAVG_LESSTHAN60\\\":\\\"6100\\\"},{\\\"QTR_YEAR\\\":\\\"Sep-2025\\\",\\\"WTAVG_COMPOSITE\\\":null,\\\"WTAVG_LESSTHAN60\\\":null,\\\"WTAVG_60TO110\\\":null,\\\"WTAVG_GREATER110\\\":null}]\"}",
                 "2024-25",
                 "/DashboardBY2024/Get_NHBResiCersai_PriceTrend");
 
-        assertEquals(0, observations.size());
+        assertEquals(1, observations.size());
+        assertEquals("6100", observations.getFirst().weightedAverageLessThan60().toPlainString());
     }
 
     private String fixture(String path) throws Exception {

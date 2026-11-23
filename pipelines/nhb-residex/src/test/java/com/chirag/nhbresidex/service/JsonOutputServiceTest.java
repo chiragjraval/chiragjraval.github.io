@@ -34,12 +34,18 @@ class JsonOutputServiceTest {
                         LocalDate.parse("2025-06-30"),
                         "2024-25",
                         new BigDecimal("5477"),
+                        new BigDecimal("6290"),
+                        new BigDecimal("6010"),
+                        new BigDecimal("5800"),
                         new BigDecimal("101.63"),
                         "NHB Residex"),
                 new QuarterObservation(
                         LocalDate.parse("2025-09-30"),
                         "2024-25",
                         new BigDecimal("5520"),
+                        new BigDecimal("6400"),
+                        new BigDecimal("6100"),
+                        new BigDecimal("5900"),
                         new BigDecimal("102.10"),
                         "NHB Residex")));
         Map<BenchmarkDefinition, List<IndexObservation>> benchmarks = Map.of(benchmark, List.of(
@@ -53,6 +59,8 @@ class JsonOutputServiceTest {
         assertEquals("INR per sq. ft.", manifest.path("cityPriceUnit").asText());
         assertEquals(1, manifest.path("cities").size());
         assertTrue(tempDirectory.resolve("cities/27-131.json").toFile().isFile());
+        assertEquals("6290", mapper.readTree(tempDirectory.resolve("cities/27-131.json").toFile())
+                .path("observations").get(0).path("weightedAverageLessThan60").asText());
         assertTrue(tempDirectory.resolve("benchmarks/nifty-50.json").toFile().isFile());
         String generatedAt = manifest.path("generatedAt").asText();
 
@@ -61,6 +69,9 @@ class JsonOutputServiceTest {
                         LocalDate.parse("2026-06-30"),
                         "2024-25",
                         new BigDecimal("5790"),
+                        new BigDecimal("6700"),
+                        new BigDecimal("6400"),
+                        new BigDecimal("6200"),
                         new BigDecimal("107.10"),
                         "NHB Residex")));
         Map<BenchmarkDefinition, List<IndexObservation>> partialBenchmarkUpdate = Map.of(benchmark, List.of(

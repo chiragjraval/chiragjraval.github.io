@@ -33,6 +33,41 @@
   margin-bottom: 1rem;
 }
 
+.nhb-series-picker {
+  border: 0;
+  grid-column: 1 / -1;
+  margin: 0;
+  min-width: 0;
+  padding: 0;
+}
+
+.nhb-series-picker legend {
+  float: none;
+  margin-bottom: 0.35rem;
+  width: auto;
+}
+
+.nhb-series-picker p {
+  margin-bottom: 0.5rem;
+}
+
+.nhb-series-options {
+  display: grid;
+  gap: 0.5rem 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+}
+
+.nhb-series-option {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nhb-series-option input {
+  flex: 0 0 auto;
+  margin-top: 0.2rem;
+}
+
 .nhb-chart-grid {
   display: grid;
   gap: 1rem;

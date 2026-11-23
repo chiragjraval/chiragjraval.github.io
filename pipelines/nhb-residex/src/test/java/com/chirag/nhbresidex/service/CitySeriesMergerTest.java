@@ -49,6 +49,9 @@ class CitySeriesMergerTest {
                 LocalDate.parse(date),
                 baseYear,
                 new BigDecimal(price),
+                new BigDecimal(price).add(new BigDecimal("100")),
+                new BigDecimal(price).add(new BigDecimal("200")),
+                new BigDecimal(price).add(new BigDecimal("300")),
                 BigDecimal.ONE,
                 "fixture");
     }

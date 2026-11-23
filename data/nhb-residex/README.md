@@ -17,7 +17,9 @@ feature. The pipeline itself never performs Git operations.
 
 ## Value semantics
 
-- NHB `weightedAverageComposite` is measured in INR per sq. ft.
+- NHB composite and carpet-area price series are measured in INR per sq. ft.
+  The API provides the composite price plus unit-size bands for <=60 sq. m.,
+  >60 to <=110 sq. m., and >110 sq. m. Each quarter may omit unavailable bands.
 - `quarterEnd` is an ISO-8601 date. For overlapping quarters, the observation
   from the newest base year wins: `2024-25`, then `2017-18`, then `2012-13`.
 - `hfcIndex` is retained with the selected observation's `baseYear`; index
@@ -39,7 +41,7 @@ only after this workflow is committed to the default branch, on `main`, and
 when `PAGES_DEPLOYMENT_ENABLED=true`. Monitor the initial full-universe runs
 for NHB throttling or incomplete responses.
 
-NHB may return older-quarter rows without `WTAVG_COMPOSITE` from a newer
+NHB may return older-quarter rows without carpet-area prices from a newer
 base-year endpoint. Those rows are logged and skipped so a valid observation
 from an older base-year endpoint can be used; malformed numeric prices still
 fail the collection.

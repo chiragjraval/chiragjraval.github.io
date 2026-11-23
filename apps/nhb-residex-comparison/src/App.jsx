@@ -1,8 +1,9 @@
 import { useEffect, useMemo, useState } from 'react';
-import { alignSeries } from './utils/alignSeries.js';
+import { alignSeries, HOUSING_SERIES } from './utils/alignSeries.js';
 import { loadBenchmark, loadCity, loadManifest } from './utils/dataClient.js';
 import RawSeriesChart from './components/RawSeriesChart.jsx';
 import RelativeSeriesChart from './components/RelativeSeriesChart.jsx';
+import RebasedSeriesChart from './components/RebasedSeriesChart.jsx';
 import './App.css';
 
 const dataBaseUrl = import.meta.env.VITE_NHB_DATA_BASE_URL || '/nhb-residex/';
@@ -13,6 +14,7 @@ export default function App() {
   const [stateId, setStateId] = useState('');
   const [cityFile, setCityFile] = useState('');
   const [benchmarkId, setBenchmarkId] = useState('');
+  const [selectedSeriesIds, setSelectedSeriesIds] = useState(['composite']);
   const [series, setSeries] = useState(null);
   const [seriesError, setSeriesError] = useState('');
   const [loadingManifest, setLoadingManifest] = useState(true);
@@ -62,6 +64,10 @@ export default function App() {
   const selectedBenchmark = manifest?.benchmarks.find(
     (benchmark) => benchmark.id === benchmarkId,
   );
+  const selectedSeries = HOUSING_SERIES.filter((item) => selectedSeriesIds.includes(item.id));
+  const availableSeries = selectedSeries.filter((item) => (
+    series?.aligned.some((point) => point[`price_${item.id}`] !== null)
+  ));
 
   useEffect(() => {
     if (!selectedCity || !selectedBenchmark) {
@@ -104,6 +110,14 @@ export default function App() {
       .filter((city) => city.stateId === nextStateId)
       .sort((left, right) => left.cityName.localeCompare(right.cityName))[0];
     setCityFile(firstCity?.file ?? '');
+  }
+
+  function toggleSeries(seriesId) {
+    setSelectedSeriesIds((current) => (
+      current.includes(seriesId)
+        ? current.filter((id) => id !== seriesId)
+        : [...current, seriesId]
+    ));
   }
 
   return (
@@ -163,6 +177,24 @@ export default function App() {
                 ))}
               </select>
             </div>
+            <fieldset className="nhb-series-picker">
+              <legend className="form-label">Housing price series</legend>
+              <p className="nhb-muted">
+                Select one or more carpet-area price series. All values are in INR per sq. ft.
+              </p>
+              <div className="nhb-series-options">
+                {HOUSING_SERIES.map((item) => (
+                  <label className="nhb-series-option" key={item.id}>
+                    <input
+                      type="checkbox"
+                      checked={selectedSeriesIds.includes(item.id)}
+                      onChange={() => toggleSeries(item.id)}
+                    />
+                    <span>{item.label}</span>
+                  </label>
+                ))}
+              </div>
+            </fieldset>
           </section>
 
           {loadingSeries && <p className="nhb-notice" role="status">Loading selected series…</p>}
@@ -172,32 +204,65 @@ export default function App() {
               No benchmark observation is available on or before the selected city series.
             </p>
           )}
+          {!loadingSeries && selectedSeriesIds.length === 0 && (
+            <p className="nhb-notice" role="status">
+              Select at least one housing price series to display the charts.
+            </p>
+          )}
+          {!loadingSeries && selectedSeriesIds.length > 0 && series?.aligned.length > 0
+            && availableSeries.length === 0 && (
+              <p className="nhb-notice" role="status">
+                No observations are available for the selected housing price series.
+              </p>
+            )}
 
-          {series?.aligned.length > 0 && (
+          {series?.aligned.length > 0 && availableSeries.length > 0 && (
             <>
               <p className="nhb-muted">
                 {selectedCity.cityName}, {selectedCity.stateName} · {selectedBenchmark.name}
                 {' · '}Relative comparison starts {series.aligned[0].quarterEnd}
               </p>
               <div className="nhb-chart-grid">
-                <section className="nhb-chart-card" aria-labelledby="raw-chart-heading">
-                  <h2 id="raw-chart-heading">Raw values</h2>
-                  <p className="nhb-muted">
-                    Separate axes are used because housing prices and index points have
-                    different units.
-                  </p>
-                  <RawSeriesChart
-                    data={series.aligned}
-                    benchmarkName={selectedBenchmark.name}
-                  />
-                </section>
                 <section className="nhb-chart-card" aria-labelledby="relative-chart-heading">
                   <h2 id="relative-chart-heading">Relative performance</h2>
                   <p className="nhb-muted">
-                    Each point is the raw NHB price divided by the matched index value,
-                    in INR per sq. ft. per index point. No rebasing is applied.
+                    A rising ratio means housing prices are outperforming the selected market
+                    index; a falling ratio means the market index is outperforming housing.
                   </p>
-                  <RelativeSeriesChart data={series.aligned} />
+                  <p className="nhb-muted">
+                    Each selected housing price series is divided by the matched index value.
+                    No rebasing is applied.
+                  </p>
+                  <RelativeSeriesChart
+                    data={series.aligned}
+                    housingSeries={availableSeries}
+                    benchmarkName={selectedBenchmark.name}
+                  />
+                </section>
+                <section className="nhb-chart-card" aria-labelledby="raw-chart-heading">
+                  <h2 id="raw-chart-heading">Raw values</h2>
+                  <p className="nhb-muted">
+                    Selected NHB prices and matched index values share one raw-value axis.
+                    Units differ, so use the line labels and tooltips; housing labels include
+                    each area range.
+                  </p>
+                  <RawSeriesChart
+                    data={series.aligned}
+                    housingSeries={availableSeries}
+                    benchmarkName={selectedBenchmark.name}
+                  />
+                </section>
+                <section className="nhb-chart-card" aria-labelledby="rebased-chart-heading">
+                  <h2 id="rebased-chart-heading">Rebased values</h2>
+                  <p className="nhb-muted">
+                    Each selected housing series and the selected index starts at 100 at its
+                    first available quarter.
+                  </p>
+                  <RebasedSeriesChart
+                    data={series.aligned}
+                    housingSeries={availableSeries}
+                    benchmarkName={selectedBenchmark.name}
+                  />
                 </section>
               </div>
             </>

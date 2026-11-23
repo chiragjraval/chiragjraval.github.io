@@ -173,27 +173,28 @@ public final class NhbResidexClient {
             }
 
             LocalDate quarterEnd = parseQuarterEnd(text(row, "QTR_YEAR"));
-            JsonNode priceNode = row.get("WTAVG_COMPOSITE");
-            if (priceNode == null || priceNode.isNull() || priceNode.asText().isBlank()) {
+            BigDecimal composite = optionalDecimal(row.get("WTAVG_COMPOSITE"), "WTAVG_COMPOSITE");
+            BigDecimal lessThan60 = optionalDecimal(row.get("WTAVG_LESSTHAN60"), "WTAVG_LESSTHAN60");
+            BigDecimal from60To110 = optionalDecimal(row.get("WTAVG_60TO110"), "WTAVG_60TO110");
+            BigDecimal greaterThan110 = optionalDecimal(row.get("WTAVG_GREATER110"), "WTAVG_GREATER110");
+            if (composite == null && lessThan60 == null && from60To110 == null && greaterThan110 == null) {
                 missingPriceQuarters.add(quarterEnd);
                 continue;
             }
-            BigDecimal price = decimal(priceNode, "WTAVG_COMPOSITE");
-            JsonNode indexNode = row.get("HFC_INDEX");
-            BigDecimal index = indexNode == null || indexNode.isNull() || indexNode.asText().isBlank()
-                    ? null
-                    : decimal(indexNode, "HFC_INDEX");
-            if (price.signum() <= 0) {
-                throw new IOException("NHB price must be greater than zero for " + quarterEnd);
-            }
+            validatePositive(composite, "WTAVG_COMPOSITE", quarterEnd);
+            validatePositive(lessThan60, "WTAVG_LESSTHAN60", quarterEnd);
+            validatePositive(from60To110, "WTAVG_60TO110", quarterEnd);
+            validatePositive(greaterThan110, "WTAVG_GREATER110", quarterEnd);
+            BigDecimal index = optionalDecimal(row.get("HFC_INDEX"), "HFC_INDEX");
             if (index != null && index.signum() <= 0) {
                 throw new IOException("NHB index must be greater than zero for " + quarterEnd);
             }
-            observations.add(new QuarterObservation(quarterEnd, baseYear, price, index, sourceEndpoint));
+            observations.add(new QuarterObservation(
+                    quarterEnd, baseYear, composite, lessThan60, from60To110, greaterThan110, index, sourceEndpoint));
         }
         if (!missingPriceQuarters.isEmpty()) {
             LOGGER.warn(
-                    "Skipped {} NHB row(s) without WTAVG_COMPOSITE for city {} base year {} from {}: {}",
+                    "Skipped {} NHB row(s) without carpet-area prices for city {} base year {} from {}: {}",
                     missingPriceQuarters.size(),
                     city == null ? "unknown" : city.cityName(),
                     baseYear,
@@ -243,6 +244,20 @@ public final class NhbResidexClient {
             return new BigDecimal(node.asText().replace(",", "").trim());
         } catch (NumberFormatException exception) {
             throw new IOException("Invalid numeric NHB field " + field + ": " + node.asText(), exception);
+        }
+    }
+
+    private static BigDecimal optionalDecimal(JsonNode node, String field) throws IOException {
+        if (node == null || node.isNull() || node.asText().isBlank()) {
+            return null;
+        }
+        return decimal(node, field);
+    }
+
+    private static void validatePositive(BigDecimal value, String field, LocalDate quarterEnd)
+            throws IOException {
+        if (value != null && value.signum() <= 0) {
+            throw new IOException("NHB " + field + " must be greater than zero for " + quarterEnd);
         }
     }
 
