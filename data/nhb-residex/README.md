@@ -20,6 +20,8 @@ feature. The pipeline itself never performs Git operations.
 - NHB composite and carpet-area price series are measured in INR per sq. ft.
   The API provides the composite price plus unit-size bands for <=60 sq. m.,
   >60 to <=110 sq. m., and >110 sq. m. Each quarter may omit unavailable bands.
+  Zero-valued area-band responses are treated as unavailable and logged;
+  negative or malformed prices fail collection.
 - `quarterEnd` is an ISO-8601 date. For overlapping quarters, the observation
   from the newest base year wins: `2024-25`, then `2017-18`, then `2012-13`.
 - `hfcIndex` is retained with the selected observation's `baseYear`; index

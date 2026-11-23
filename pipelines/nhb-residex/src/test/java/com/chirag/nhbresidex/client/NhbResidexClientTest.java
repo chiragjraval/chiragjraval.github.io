@@ -70,6 +70,20 @@ class NhbResidexClientTest {
         assertEquals("6100", observations.getFirst().weightedAverageLessThan60().toPlainString());
     }
 
+    @Test
+    void treatsZeroAreaPricesAsUnavailableAndRejectsNegativeAreaPrices() throws Exception {
+        List<QuarterObservation> observations = NhbResidexClient.parseTrendResponse(
+                "{\"status\":1,\"data\":\"[{\\\"QTR_YEAR\\\":\\\"Mar-2018\\\",\\\"WTAVG_COMPOSITE\\\":\\\"4800\\\",\\\"WTAVG_LESSTHAN60\\\":\\\"0\\\",\\\"WTAVG_60TO110\\\":\\\"5100\\\"}]\"}",
+                "2017-18");
+
+        assertEquals(1, observations.size());
+        assertNull(observations.getFirst().weightedAverageLessThan60());
+        assertEquals("5100", observations.getFirst().weightedAverage60To110().toPlainString());
+        assertThrows(IOException.class, () -> NhbResidexClient.parseTrendResponse(
+                "{\"status\":1,\"data\":\"[{\\\"QTR_YEAR\\\":\\\"Mar-2018\\\",\\\"WTAVG_COMPOSITE\\\":\\\"4800\\\",\\\"WTAVG_GREATER110\\\":\\\"-1\\\"}]\"}",
+                "2017-18"));
+    }
+
     private String fixture(String path) throws Exception {
         try (InputStream stream = getClass().getClassLoader().getResourceAsStream(path)) {
             if (stream == null) {

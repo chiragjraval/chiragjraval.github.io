@@ -165,6 +165,7 @@ public final class NhbResidexClient {
 
         List<QuarterObservation> observations = new ArrayList<>();
         List<LocalDate> missingPriceQuarters = new ArrayList<>();
+        List<String> zeroAreaPrices = new ArrayList<>();
         for (JsonNode row : rows) {
             JsonNode methodId = row.get("PRICE_METHOD_ID");
             if (methodId != null && !methodId.isNull()
@@ -174,23 +175,32 @@ public final class NhbResidexClient {
 
             LocalDate quarterEnd = parseQuarterEnd(text(row, "QTR_YEAR"));
             BigDecimal composite = optionalDecimal(row.get("WTAVG_COMPOSITE"), "WTAVG_COMPOSITE");
-            BigDecimal lessThan60 = optionalDecimal(row.get("WTAVG_LESSTHAN60"), "WTAVG_LESSTHAN60");
-            BigDecimal from60To110 = optionalDecimal(row.get("WTAVG_60TO110"), "WTAVG_60TO110");
-            BigDecimal greaterThan110 = optionalDecimal(row.get("WTAVG_GREATER110"), "WTAVG_GREATER110");
+            BigDecimal lessThan60 = optionalAreaPrice(
+                    row.get("WTAVG_LESSTHAN60"), "WTAVG_LESSTHAN60", quarterEnd, zeroAreaPrices);
+            BigDecimal from60To110 = optionalAreaPrice(
+                    row.get("WTAVG_60TO110"), "WTAVG_60TO110", quarterEnd, zeroAreaPrices);
+            BigDecimal greaterThan110 = optionalAreaPrice(
+                    row.get("WTAVG_GREATER110"), "WTAVG_GREATER110", quarterEnd, zeroAreaPrices);
             if (composite == null && lessThan60 == null && from60To110 == null && greaterThan110 == null) {
                 missingPriceQuarters.add(quarterEnd);
                 continue;
             }
             validatePositive(composite, "WTAVG_COMPOSITE", quarterEnd);
-            validatePositive(lessThan60, "WTAVG_LESSTHAN60", quarterEnd);
-            validatePositive(from60To110, "WTAVG_60TO110", quarterEnd);
-            validatePositive(greaterThan110, "WTAVG_GREATER110", quarterEnd);
             BigDecimal index = optionalDecimal(row.get("HFC_INDEX"), "HFC_INDEX");
             if (index != null && index.signum() <= 0) {
                 throw new IOException("NHB index must be greater than zero for " + quarterEnd);
             }
             observations.add(new QuarterObservation(
                     quarterEnd, baseYear, composite, lessThan60, from60To110, greaterThan110, index, sourceEndpoint));
+        }
+        if (!zeroAreaPrices.isEmpty()) {
+            LOGGER.warn(
+                    "Ignored {} zero NHB carpet-area price value(s) for city {} base year {} from {}: {}",
+                    zeroAreaPrices.size(),
+                    city == null ? "unknown" : city.cityName(),
+                    baseYear,
+                    sourceEndpoint,
+                    zeroAreaPrices);
         }
         if (!missingPriceQuarters.isEmpty()) {
             LOGGER.warn(
@@ -252,6 +262,22 @@ public final class NhbResidexClient {
             return null;
         }
         return decimal(node, field);
+    }
+
+    private static BigDecimal optionalAreaPrice(
+            JsonNode node, String field, LocalDate quarterEnd, List<String> zeroAreaPrices) throws IOException {
+        BigDecimal value = optionalDecimal(node, field);
+        if (value == null) {
+            return null;
+        }
+        if (value.signum() < 0) {
+            throw new IOException("NHB " + field + " must not be negative for " + quarterEnd);
+        }
+        if (value.signum() == 0) {
+            zeroAreaPrices.add(field + " for " + quarterEnd);
+            return null;
+        }
+        return value;
     }
 
     private static void validatePositive(BigDecimal value, String field, LocalDate quarterEnd)
