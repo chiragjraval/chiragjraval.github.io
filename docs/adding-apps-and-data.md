@@ -10,11 +10,9 @@ Keep application assets, generated data, and pipeline code in separate paths. Av
 4. Add the app's source paths to `.github/workflows/stock-screener.yml`, build it independently, and place the build under its own artifact path.
 5. Add a precise path scope to `.github/workflows/deploy.yml`. Replace only that app's published directory; do not clear the Pages root or another app's content.
 
-> TODO: When the next app is introduced, add its build/artifact and exact deployment scope. Do not add placeholder app code or data in advance.
-
-The current first-release routes are `/`, `/financial-data-lab/`, and
-`/financial-data-lab/stock-screeners/`. The public user-site root is not
-available until the repository rename and approved Pages cutover.
+Current app routes include `/financial-data-lab/stock-screeners/` and
+`/financial-data-lab/nhb-residex/`. The public user-site root is not available
+until the repository rename and approved Pages cutover.
 
 ## Add a pipeline and dataset
 
@@ -24,4 +22,6 @@ available until the repository rename and approved Pages cutover.
 4. Add focused tests and path-aware workflow jobs. Name artifacts by pipeline/dataset and deploy them to an exact path.
 5. Extend the serialized publisher for the new scope while preserving existing apps and datasets. Do not grant write permissions to build or scrape jobs.
 
-> TODO: Before adding a new production dataset, decide whether its refresh schedule and deployment gate can share the stock-screener workflow or need a separate workflow.
+The NHB Residex implementation is an example of this separation: the Java
+pipeline writes static JSON, the React app reads it, and its manual data
+workflow publishes only the NHB production data path.

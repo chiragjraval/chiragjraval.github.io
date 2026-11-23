@@ -22,7 +22,9 @@ on:
       - .github/workflows/stock-screener.yml
       - .github/workflows/deploy.yml
       - apps/stock-screener/**
+      - apps/nhb-residex-comparison/**
       - data/stock-screener/prod/**
+      - pipelines/nhb-residex/**
       - pipelines/stock-screener/**
       - public/**
       - shared/**
@@ -50,11 +52,13 @@ jobs:
           filters: |
             site:
               - 'apps/stock-screener/**'
+              - 'apps/nhb-residex-comparison/**'
               - 'public/**'
               - 'shared/**'
             data:
               - 'data/stock-screener/prod/**'
             pipeline:
+              - 'pipelines/nhb-residex/**'
               - 'pipelines/stock-screener/**'
               - 'pom.xml'
 
@@ -84,7 +88,9 @@ jobs:
         with:
           node-version: '24.11.1'
           cache: npm
-          cache-dependency-path: apps/stock-screener/package-lock.json
+          cache-dependency-path: |
+            apps/stock-screener/package-lock.json
+            apps/nhb-residex-comparison/package-lock.json
       - name: Build frontend
         working-directory: apps/stock-screener
         env:
@@ -93,14 +99,24 @@ jobs:
         run: |
           npm ci
           npm run build
+      - name: Build NHB comparison app
+        working-directory: apps/nhb-residex-comparison
+        env:
+          VITE_BASE_PATH: /financial-data-lab/nhb-residex/
+          VITE_NHB_DATA_BASE_URL: /data/nhb-residex/prod/
+        run: |
+          npm ci
+          npm test
+          npm run build
       - name: Assemble site artifact
         run: |
-          mkdir -p artifact/site/shared/theme artifact/site/shared/config artifact/site/shared/ui artifact/site/financial-data-lab/stock-screeners
+          mkdir -p artifact/site/shared/theme artifact/site/shared/config artifact/site/shared/ui artifact/site/financial-data-lab/stock-screeners artifact/site/financial-data-lab/nhb-residex
           cp -a public/. artifact/site/
           cp shared/theme/tokens.css artifact/site/shared/theme/tokens.css
           cp shared/config/site.js artifact/site/shared/config/site.js
           cp shared/ui/site-shell.js artifact/site/shared/ui/site-shell.js
           cp -a apps/stock-screener/build/. artifact/site/financial-data-lab/stock-screeners/
+          cp -a apps/nhb-residex-comparison/build/. artifact/site/financial-data-lab/nhb-residex/
       - uses: actions/upload-artifact@v4
         with:
           name: stock-screener-site

@@ -1,6 +1,7 @@
 # npm node directories
 apps/stock-screener/node/
 apps/stock-screener/node_modules/
+apps/nhb-residex-comparison/node_modules/
 
 # npm build directories
 apps/stock-screener/build/
@@ -8,6 +9,9 @@ apps/stock-screener/build/
 # generated test environment files
 data/stock-screener/test/
 apps/stock-screener/public/screener-data/
+data/nhb-residex/test/
+data/nhb-residex/dev/
+apps/nhb-residex-comparison/public/nhb-residex/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

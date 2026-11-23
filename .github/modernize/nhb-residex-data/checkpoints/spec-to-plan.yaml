@@ -1,0 +1,143 @@
+# Spec-to-Plan Traceability Checkpoint
+metadata:
+  generated: "2026-11-23"
+  source_spec: ".github/modernize/nhb-residex-data/nhb-residex-data-fetcher-prompt.md"
+  target_plan: ".github/modernize/nhb-residex-data/nhb-residex-data-fetcher-plan.md"
+
+summary:
+  total_requirements: 7
+  covered_requirements: 7
+  missing_requirements: 0
+  coverage_percentage: 100.0
+
+requirements:
+  - req_id: "REQ-001"
+    req_description: "Retrieve NHB state/city catalogs and every city's quarterly data for all three base-year series."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-2"
+      phase_name: "Foundational data pipeline"
+      items:
+        - item_id: "1.2"
+          description: "Capture NHB response fixtures and field semantics"
+        - item_id: "2.1"
+          description: "Add an isolated NHB Maven module and fixture mode"
+        - item_id: "2.2"
+          description: "Fetch NHB catalogs and all city series"
+        - item_id: "2.3"
+          description: "Normalize, merge, and write changed city data"
+        - item_id: "2.5"
+          description: "Define static dataset files and production preflight"
+        - item_id: "3.2"
+          description: "Add state, city, and benchmark selection"
+    notes: "All-city scope; no state-level time series."
+  - req_id: "REQ-002"
+    req_description: "Prefer newer base-year data for overlaps and persist/publish only changed canonical data."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-2"
+      phase_name: "Foundational data pipeline"
+      items:
+        - item_id: "1.3"
+          description: "Define merge and comparison semantics"
+        - item_id: "2.3"
+          description: "Normalize, merge, and write changed city data"
+        - item_id: "2.5"
+          description: "Define static dataset files and production preflight"
+        - item_id: "4.1"
+          description: "Add weekly, data-only workflow"
+    notes: "Precedence: 2024-25 > 2017-18 > 2012-13."
+  - req_id: "REQ-003"
+    req_description: "Provide the four NIFTY index series with correct dates and index values."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-1"
+      phase_name: "Setup and source/data contract"
+      items:
+        - item_id: "1.1"
+          description: "Select and validate the Screener NIFTY source"
+        - item_id: "2.4"
+          description: "Implement selected benchmark connectors"
+        - item_id: "2.5"
+          description: "Define static dataset files and production preflight"
+    notes: "Technical source contract; provider-terms analysis deferred at the user's request."
+  - req_id: "REQ-004"
+    req_description: "Add Financial Data Lab city/benchmark selection with raw-value and relative-ratio charts."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-3"
+      phase_name: "Financial Data Lab comparison page"
+      items:
+        - item_id: "3.1"
+          description: "Add a separate comparison app and route"
+        - item_id: "3.2"
+          description: "Add state, city, and benchmark selection"
+        - item_id: "3.3"
+          description: "Render raw-value charts with units"
+        - item_id: "3.4"
+          description: "Render aligned relative-ratio charts"
+        - item_id: "3.5"
+          description: "Complete accessible loading/error/empty states"
+    notes: ""
+  - req_id: "REQ-005"
+    req_description: "Use latest-on-or-before date alignment and a no-look-ahead raw price-to-index ratio."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-1 and Phase-3"
+      phase_name: "Contract and comparison page"
+      items:
+        - item_id: "1.3"
+          description: "Define merge and comparison semantics"
+        - item_id: "2.4"
+          description: "Implement selected benchmark connectors"
+        - item_id: "3.4"
+          description: "Render aligned relative-ratio charts"
+    notes: "Do not interpolate missing observations."
+  - req_id: "REQ-006"
+    req_description: "Refresh weekly and deploy only changed data without rebuilding the frontend or replacing unrelated Pages content."
+    priority: "P1"
+    plan_mapping:
+      phase: "Phase-4"
+      phase_name: "Weekly refresh, deployment, and verification"
+      items:
+        - item_id: "1.1"
+          description: "Compare technical benchmark sources"
+        - item_id: "2.5"
+          description: "Define static dataset files and production preflight"
+        - item_id: "4.1"
+          description: "Add weekly, data-only workflow"
+        - item_id: "4.2"
+          description: "Extend the Pages overlay for only the new app/data paths"
+    notes: "Scheduled collection remains gated by PAGES_DEPLOYMENT_ENABLED."
+  - req_id: "REQ-007"
+    req_description: "Preserve stock-screener behavior and verify/document the new pipeline and app."
+    priority: "P1"
+    plan_mapping:
+      phase: "All phases"
+      phase_name: "Cross-cutting"
+      items:
+        - item_id: "1.2"
+          description: "Capture NHB response fixtures and field semantics"
+        - item_id: "1.3"
+          description: "Define merge and comparison semantics"
+        - item_id: "2.1"
+          description: "Add an isolated NHB Maven module and fixture mode"
+        - item_id: "2.5"
+          description: "Define static dataset files and production preflight"
+        - item_id: "3.1"
+          description: "Add a separate comparison app and route"
+        - item_id: "3.5"
+          description: "Complete accessible loading/error/empty states"
+        - item_id: "4.2"
+          description: "Extend the Pages overlay for only the new app/data paths"
+        - item_id: "4.3"
+          description: "Verify behavior and update operating documentation"
+    notes: ""
+
+missing_requirements: []
+orphan_plan_items: []
+validation:
+  passed: true
+  errors: []
+  warnings:
+    - "Benchmark provider qualification is an explicit hard gate; no compliant free provider is confirmed yet."

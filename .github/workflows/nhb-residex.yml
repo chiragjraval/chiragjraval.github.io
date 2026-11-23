@@ -1,0 +1,61 @@
+name: NHB Residex Data
+
+on:
+  schedule:
+    - cron: '0 1 * * 6'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Run a live all-city collection and publish validated production data
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nhb-residex-production
+  cancel-in-progress: false
+
+jobs:
+  collect-and-publish:
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      vars.PAGES_DEPLOYMENT_ENABLED == 'true' &&
+      (github.event_name == 'schedule' || inputs.publish == true)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 25
+        uses: actions/setup-java@v4
+        with:
+          java-version: '25'
+          distribution: temurin
+          cache: maven
+      - name: Collect and validate production data
+        run: |
+          mvn -B -pl pipelines/nhb-residex exec:java "-Dexec.args=--live -e PROD --confirm-prod"
+          test -f data/nhb-residex/prod/manifest.json
+          jq -e '.schemaVersion == 1 and (.cities | type == "array" and length > 0) and (.benchmarks | type == "array" and length == 4)' data/nhb-residex/prod/manifest.json > /dev/null
+      - name: Assemble NHB data artifact
+        run: |
+          mkdir -p artifact/data/nhb-residex
+          cp -a data/nhb-residex/prod artifact/data/nhb-residex/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nhb-residex-data-prod
+          path: artifact/
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    needs: collect-and-publish
+    if: needs.collect-and-publish.result == 'success'
+    permissions:
+      contents: write
+    uses: ./.github/workflows/deploy.yml
+    with:
+      include-site: false
+      include-data: false
+      include-nhb-data: true

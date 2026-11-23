@@ -9,7 +9,9 @@ rename and cutover are:
 | Personal home | `/` |
 | Financial Data Lab | `/financial-data-lab/` |
 | Stock Screeners | `/financial-data-lab/stock-screeners/` |
+| NHB Residex Comparison | `/financial-data-lab/nhb-residex/` |
 | Production data | `/data/stock-screener/prod/` |
+| NHB and NIFTY production data | `/data/nhb-residex/prod/` |
 
 Until cutover, the live site remains at
 `https://chiragjraval.github.io/daily_custom_stock_screener/`. The repository
@@ -34,11 +36,17 @@ daily at 18:00 UTC and supports manual dispatch.
   the variable unset or false, scheduled runs do not scrape production and
   push events do not publish to Pages.
 
+[`nhb-residex.yml`](../.github/workflows/nhb-residex.yml) is manual-only. It
+collects and publishes all-city production data only when dispatched from
+`main` with `publish=true` and `PAGES_DEPLOYMENT_ENABLED=true`. NHB collection
+is not scheduled until its refresh behavior and request limits are confirmed.
+The workflow builds no frontend and overlays only `/data/nhb-residex/prod/`.
+
 [`deploy.yml`](../.github/workflows/deploy.yml) downloads the requested
 artifacts and overlays the root home, Financial Data Lab route, screener route,
-shared assets, and/or production-data path. It preserves unrelated
-`gh-pages` content and serializes branch updates. Only the reusable deployment
-job receives `contents: write`.
+NHB comparison route, shared assets, and/or production-data paths. It preserves
+unrelated `gh-pages` content and serializes branch updates. Only the reusable
+deployment job receives `contents: write`.
 
 ## First user-site rollout checklist
 

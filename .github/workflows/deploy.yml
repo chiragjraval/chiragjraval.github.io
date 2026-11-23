@@ -11,6 +11,11 @@ on:
         description: Download and replace the production stock-screener dataset
         required: true
         type: boolean
+      include-nhb-data:
+        description: Download and replace the production NHB Residex dataset
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -40,12 +45,18 @@ jobs:
         with:
           name: stock-screener-data-prod
           path: incoming/data
+      - uses: actions/download-artifact@v4
+        if: inputs.include-nhb-data
+        with:
+          name: nhb-residex-data-prod
+          path: incoming/nhb-data
       - name: Replace only the selected Pages paths
         run: |
           if [[ "${{ inputs.include-site }}" == "true" ]]; then
             test -f incoming/site/index.html
             test -f incoming/site/financial-data-lab/index.html
             test -f incoming/site/financial-data-lab/stock-screeners/index.html
+            test -f incoming/site/financial-data-lab/nhb-residex/index.html
             test -f incoming/site/shared/config/site.js
             test -f incoming/site/shared/theme/tokens.css
             test -f incoming/site/shared/ui/site-shell.js
@@ -57,6 +68,10 @@ jobs:
             test -f incoming/data/data/stock-screener/prod/summary.json
             jq -e '.companies | type == "array"' incoming/data/data/stock-screener/prod/summary.json > /dev/null
           fi
+          if [[ "${{ inputs.include-nhb-data }}" == "true" ]]; then
+            test -f incoming/nhb-data/data/nhb-residex/prod/manifest.json
+            jq -e '.schemaVersion == 1 and (.cities | type == "array" and length > 0) and (.benchmarks | type == "array" and length == 4)' incoming/nhb-data/data/nhb-residex/prod/manifest.json > /dev/null
+          fi
           if [[ "${{ inputs.include-site }}" == "true" ]]; then
             rm -rf gh-pages/shared gh-pages/financial-data-lab/stock-screeners gh-pages/stock-screeners
             rm -f gh-pages/index.html gh-pages/portal.js
@@ -65,6 +80,8 @@ jobs:
             cp incoming/site/index.html gh-pages/index.html
             cp incoming/site/financial-data-lab/index.html gh-pages/financial-data-lab/index.html
             cp -a incoming/site/financial-data-lab/stock-screeners gh-pages/financial-data-lab/
+            rm -rf gh-pages/financial-data-lab/nhb-residex
+            cp -a incoming/site/financial-data-lab/nhb-residex gh-pages/financial-data-lab/
             rm -rf gh-pages/daily_custom_stock_screener gh-pages/stock-screeners
             cp -a incoming/site/daily_custom_stock_screener gh-pages/
             cp -a incoming/site/stock-screeners gh-pages/
@@ -72,6 +89,11 @@ jobs:
           if [[ "${{ inputs.include-data }}" == "true" ]]; then
             rm -rf gh-pages/data/stock-screener/prod gh-pages/screener-data/prod gh-pages/stock-screener/prod
             cp -a incoming/data/. gh-pages/
+          fi
+          if [[ "${{ inputs.include-nhb-data }}" == "true" ]]; then
+            rm -rf gh-pages/data/nhb-residex/prod
+            mkdir -p gh-pages/data/nhb-residex
+            cp -a incoming/nhb-data/data/nhb-residex/prod gh-pages/data/nhb-residex/
           fi
           git -C gh-pages config user.name "github-actions[bot]"
           git -C gh-pages config user.email "41898282+github-actions[bot]@users.noreply.github.com"
