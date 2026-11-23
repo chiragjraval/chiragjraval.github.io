@@ -126,8 +126,9 @@ before Stock Screeners.
 1. A user can select a state and city, then a benchmark with available data.
 2. The raw chart shows every selected NHB price band and the matched benchmark
    on one axis; line labels and tooltips make the different units explicit and
-   identify each housing area range. Plot every available observation and
-   provide a compact X-axis label for every quarter.
+   identify each housing area range. Plot every available observation, let
+   the chart library choose a readable subset of slanted X-axis labels, and
+   keep every plotted point available in the hover tooltip.
 3. For each selected housing series, the relative chart shows the raw NHB
    price divided by the latest benchmark value on or before each quarter end.
    The ratio has no look-ahead or synthetic points and is labeled in INR per

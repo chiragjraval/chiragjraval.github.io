@@ -24,12 +24,10 @@ export default function RelativeSeriesChart({ data, housingSeries, benchmarkName
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis
             dataKey="quarterEnd"
-            interval={0}
-            tick={{ fontSize: 9 }}
             tickFormatter={formatQuarter}
-            angle={-60}
+            angle={-45}
             textAnchor="end"
-            height={52}
+            height={50}
           />
           <YAxis
             label={{ value: 'INR per sq. ft. per index point', angle: -90, position: 'insideLeft' }}
