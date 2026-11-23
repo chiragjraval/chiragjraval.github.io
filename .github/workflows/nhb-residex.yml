@@ -35,7 +35,7 @@ jobs:
           cache: maven
       - name: Collect and validate production data
         run: |
-          mvn -B -pl pipelines/nhb-residex exec:java "-Dexec.args=--live -e PROD --confirm-prod"
+          mvn -B -pl pipelines/nhb-residex compile exec:java "-Dexec.args=--live -e PROD --confirm-prod"
           test -f data/nhb-residex/prod/manifest.json
           jq -e '.schemaVersion == 1 and (.cities | type == "array" and length > 0) and (.benchmarks | type == "array" and length == 4)' data/nhb-residex/prod/manifest.json > /dev/null
       - name: Assemble NHB data artifact
