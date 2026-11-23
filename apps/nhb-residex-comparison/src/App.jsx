@@ -25,11 +25,13 @@ export default function App() {
     loadManifest(dataBaseUrl, controller.signal)
       .then((value) => {
         setManifest(value);
-        const firstCity = value.cities[0];
+        const defaultCity = value.cities.find(
+          (city) => city.stateName === 'Karnataka' && city.cityName === 'Bengaluru',
+        ) ?? value.cities[0];
         const firstBenchmark = value.benchmarks[0];
-        if (firstCity) {
-          setStateId(firstCity.stateId);
-          setCityFile(firstCity.file);
+        if (defaultCity) {
+          setStateId(defaultCity.stateId);
+          setCityFile(defaultCity.file);
         }
         if (firstBenchmark) {
           setBenchmarkId(firstBenchmark.id);
