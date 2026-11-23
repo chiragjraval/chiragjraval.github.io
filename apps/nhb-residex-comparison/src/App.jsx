@@ -167,7 +167,7 @@ export default function App() {
               </select>
             </div>
             <div>
-              <label className="form-label" htmlFor="nhb-benchmark">NIFTY index</label>
+              <label className="form-label" htmlFor="nhb-benchmark">Index to Compare</label>
               <select
                 className="form-select"
                 id="nhb-benchmark"

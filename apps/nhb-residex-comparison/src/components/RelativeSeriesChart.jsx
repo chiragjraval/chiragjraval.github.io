@@ -8,16 +8,27 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
+import ChartFrame from './ChartFrame.jsx';
+import {
+  CHART_MARGIN,
+  TOOLTIP_CONTENT_STYLE,
+  TOOLTIP_POSITION,
+  TOOLTIP_WRAPPER_STYLE,
+  Y_AXIS_TICK,
+} from './chartOptions.js';
 
 const SYNC_ID = 'nhb-residex-date';
 
 export default function RelativeSeriesChart({ data, housingSeries, benchmarkName }) {
   return (
-    <div className="chart-frame" role="img" aria-label="NHB carpet-area price to selected NIFTY index ratios by quarter">
+    <ChartFrame
+      label="INR/sq. ft. per index point"
+      ariaLabel="NHB carpet-area price to selected NIFTY index ratios by quarter"
+    >
       <ResponsiveContainer width="100%" height="100%">
         <LineChart
           data={data}
-          margin={{ top: 12, right: 20, bottom: 12, left: 12 }}
+          margin={CHART_MARGIN}
           syncId={SYNC_ID}
           syncMethod="value"
         >
@@ -29,18 +40,18 @@ export default function RelativeSeriesChart({ data, housingSeries, benchmarkName
             textAnchor="end"
             height={50}
           />
-          <YAxis
-            label={{ value: 'INR per sq. ft. per index point', angle: -90, position: 'insideLeft' }}
-            width={82}
-          />
+          <YAxis width={50} tick={Y_AXIS_TICK} />
           <Tooltip
             cursor={{ stroke: '#587086', strokeWidth: 1, strokeDasharray: '4 4' }}
+            position={TOOLTIP_POSITION}
+            contentStyle={TOOLTIP_CONTENT_STYLE}
+            wrapperStyle={TOOLTIP_WRAPPER_STYLE}
             formatter={(value, name) => [Number(value).toFixed(4), name]}
             labelFormatter={(label, payload) => {
               const benchmarkDate = payload?.[0]?.payload?.benchmarkDate;
               return benchmarkDate
-                ? `NHB quarter end: ${label}; ${benchmarkName} date: ${benchmarkDate}`
-                : `NHB quarter end: ${label}`;
+                ? `Q end: ${label} · ${benchmarkName}: ${benchmarkDate}`
+                : `Q end: ${label}`;
             }}
           />
           <Legend />
@@ -57,7 +68,7 @@ export default function RelativeSeriesChart({ data, housingSeries, benchmarkName
           ))}
         </LineChart>
       </ResponsiveContainer>
-    </div>
+    </ChartFrame>
   );
 }
 

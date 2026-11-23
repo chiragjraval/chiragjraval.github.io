@@ -8,16 +8,27 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
+import ChartFrame from './ChartFrame.jsx';
+import {
+  CHART_MARGIN,
+  TOOLTIP_CONTENT_STYLE,
+  TOOLTIP_POSITION,
+  TOOLTIP_WRAPPER_STYLE,
+  Y_AXIS_TICK,
+} from './chartOptions.js';
 
 const SYNC_ID = 'nhb-residex-date';
 
 export default function RawSeriesChart({ data, housingSeries, benchmarkName }) {
   return (
-    <div className="chart-frame" role="img" aria-label="Selected NHB carpet-area prices and matched index values by quarter">
+    <ChartFrame
+      label="Raw value (INR/sq. ft. or index points)"
+      ariaLabel="Selected NHB carpet-area prices and matched index values by quarter"
+    >
       <ResponsiveContainer width="100%" height="100%">
         <LineChart
           data={data}
-          margin={{ top: 12, right: 20, bottom: 12, left: 12 }}
+          margin={CHART_MARGIN}
           syncId={SYNC_ID}
           syncMethod="value"
         >
@@ -29,12 +40,12 @@ export default function RawSeriesChart({ data, housingSeries, benchmarkName }) {
             textAnchor="end"
             height={50}
           />
-          <YAxis
-            label={{ value: 'Raw value (INR per sq. ft. or index points)', angle: -90, position: 'insideLeft' }}
-            width={94}
-          />
+          <YAxis width={56} tick={Y_AXIS_TICK} />
           <Tooltip
             cursor={{ stroke: '#587086', strokeWidth: 1, strokeDasharray: '4 4' }}
+            position={TOOLTIP_POSITION}
+            contentStyle={TOOLTIP_CONTENT_STYLE}
+            wrapperStyle={TOOLTIP_WRAPPER_STYLE}
             formatter={(value, name) => [
               Number(value).toLocaleString('en-IN', { maximumFractionDigits: 2 }),
               name,
@@ -42,8 +53,8 @@ export default function RawSeriesChart({ data, housingSeries, benchmarkName }) {
             labelFormatter={(label, payload) => {
               const benchmarkDate = payload?.[0]?.payload?.benchmarkDate;
               return benchmarkDate
-                ? `NHB quarter end: ${label}; ${benchmarkName} date: ${benchmarkDate}`
-                : `NHB quarter end: ${label}`;
+                ? `Q end: ${label} · ${benchmarkName}: ${benchmarkDate}`
+                : `Q end: ${label}`;
             }}
           />
           <Legend />
@@ -69,7 +80,7 @@ export default function RawSeriesChart({ data, housingSeries, benchmarkName }) {
           />
         </LineChart>
       </ResponsiveContainer>
-    </div>
+    </ChartFrame>
   );
 }
 
