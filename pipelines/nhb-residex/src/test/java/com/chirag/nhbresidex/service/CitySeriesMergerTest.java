@@ -25,6 +25,46 @@ class CitySeriesMergerTest {
     }
 
     @Test
+    void fillsMissingFieldsFromOlderBaseYearInsteadOfDroppingThem() {
+        List<QuarterObservation> merged = CitySeriesMerger.merge(List.of(
+                new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2012-13", new BigDecimal("4853"),
+                        new BigDecimal("4366"), new BigDecimal("4604"), new BigDecimal("5330"),
+                        new BigDecimal("103"), "old"),
+                new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2017-18", null,
+                        new BigDecimal("4366"), new BigDecimal("4604"), new BigDecimal("5330"),
+                        new BigDecimal("76"), "new")));
+
+        assertEquals(1, merged.size());
+        QuarterObservation value = merged.getFirst();
+        assertEquals("2017-18", value.baseYear());
+        assertEquals(new BigDecimal("4853"), value.weightedAverageComposite());
+        assertEquals(new BigDecimal("76"), value.hfcIndex());
+        assertEquals("new", value.sourceEndpoint());
+    }
+
+    @Test
+    void prefersNewerBaseYearForFieldsPresentInBothRows() {
+        List<QuarterObservation> merged = CitySeriesMerger.merge(List.of(
+                new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2012-13", new BigDecimal("4853"),
+                        new BigDecimal("4366"), new BigDecimal("4604"), new BigDecimal("5330"),
+                        new BigDecimal("103"), "old"),
+                new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2017-18", new BigDecimal("4900"),
+                        new BigDecimal("4400"), new BigDecimal("4650"), new BigDecimal("5350"),
+                        new BigDecimal("76"), "new")));
+
+        assertEquals(1, merged.size());
+        QuarterObservation value = merged.getFirst();
+        assertEquals("2017-18", value.baseYear());
+        assertEquals(new BigDecimal("4900"), value.weightedAverageComposite());
+        assertEquals(new BigDecimal("4400"), value.weightedAverageLessThan60());
+        assertEquals(new BigDecimal("76"), value.hfcIndex());
+    }
+
+    @Test
     void rejectsConflictingRowsFromSameBaseYear() {
         assertThrows(IllegalArgumentException.class, () -> CitySeriesMerger.merge(List.of(
                 observation("2024-25", "2025-06-30", "5473"),
@@ -42,6 +82,22 @@ class CitySeriesMergerTest {
         assertEquals(2, merged.size());
         assertEquals(new BigDecimal("5477"), merged.getFirst().weightedAverageComposite());
         assertEquals("2024-25", merged.getFirst().baseYear());
+    }
+
+    @Test
+    void upsertReplacesExistingRowsWithBackfilledCompositeFromOlderBaseYear() {
+        List<QuarterObservation> merged = CitySeriesMerger.upsert(
+                List.of(new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2017-18", null,
+                        new BigDecimal("4366"), new BigDecimal("4604"), new BigDecimal("5330"),
+                        new BigDecimal("76"), "fixture")),
+                List.of(new QuarterObservation(
+                        LocalDate.parse("2013-06-30"), "2017-18", new BigDecimal("4853"),
+                        new BigDecimal("4366"), new BigDecimal("4604"), new BigDecimal("5330"),
+                        new BigDecimal("76"), "fixture")));
+
+        assertEquals(1, merged.size());
+        assertEquals(new BigDecimal("4853"), merged.getFirst().weightedAverageComposite());
     }
 
     private QuarterObservation observation(String baseYear, String date, String price) {

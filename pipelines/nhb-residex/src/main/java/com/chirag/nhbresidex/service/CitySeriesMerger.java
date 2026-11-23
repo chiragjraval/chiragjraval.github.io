@@ -2,6 +2,7 @@ package com.chirag.nhbresidex.service;
 
 import com.chirag.nhbresidex.model.QuarterObservation;
 
+import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.Collection;
 import java.util.Comparator;
@@ -34,9 +35,10 @@ public final class CitySeriesMerger {
 
             int currentPriority = BASE_YEAR_PRIORITY.get(current.baseYear());
             if (candidatePriority > currentPriority) {
-                byQuarter.put(candidate.quarterEnd(), candidate);
-            } else if (candidatePriority.equals(currentPriority)
-                    && !candidate.equals(current)) {
+                byQuarter.put(candidate.quarterEnd(), coalesce(candidate, current));
+            } else if (candidatePriority < currentPriority) {
+                byQuarter.put(candidate.quarterEnd(), coalesce(current, candidate));
+            } else if (!candidate.equals(current)) {
                 throw new IllegalArgumentException(
                         "Conflicting observations for " + candidate.quarterEnd()
                                 + " from base year " + candidate.baseYear());
@@ -46,6 +48,27 @@ public final class CitySeriesMerger {
         return byQuarter.values().stream()
                 .sorted(Comparator.comparing(QuarterObservation::quarterEnd))
                 .toList();
+    }
+
+    private static QuarterObservation coalesce(
+            QuarterObservation preferred, QuarterObservation fallback) {
+        return new QuarterObservation(
+                preferred.quarterEnd(),
+                preferred.baseYear(),
+                firstNonNull(preferred.weightedAverageComposite(),
+                        fallback.weightedAverageComposite()),
+                firstNonNull(preferred.weightedAverageLessThan60(),
+                        fallback.weightedAverageLessThan60()),
+                firstNonNull(preferred.weightedAverage60To110(),
+                        fallback.weightedAverage60To110()),
+                firstNonNull(preferred.weightedAverageGreaterThan110(),
+                        fallback.weightedAverageGreaterThan110()),
+                firstNonNull(preferred.hfcIndex(), fallback.hfcIndex()),
+                preferred.sourceEndpoint());
+    }
+
+    private static BigDecimal firstNonNull(BigDecimal preferred, BigDecimal fallback) {
+        return preferred != null ? preferred : fallback;
     }
 
     public static java.util.List<QuarterObservation> upsert(
