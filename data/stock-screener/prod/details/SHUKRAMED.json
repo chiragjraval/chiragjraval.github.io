@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHUKRAMED",
       "companyName" : "Shukra Medtech",
-      "marketCap" : 3724.00,
-      "peRatio" : 84.00,
+      "marketCap" : 3890.00,
+      "peRatio" : 87.80,
       "description" : "Incorporated in 1993, Shukra Pharmaceuticals Ltd manufactures and markets pharmaceutical products, and does laboratory testing[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.94,
-      "pricePercentageAboveDma100" : 2.11,
-      "pricePercentageAboveDma200" : 1.45,
+      "pricePercentageAboveDma50" : 3.73,
+      "pricePercentageAboveDma100" : 1.85,
+      "pricePercentageAboveDma200" : 1.14,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.44,
       "operatingProfitMarginPercentile" : 19.53,
       "netProfitMarginPercentile" : 9.84,
-      "totalTechnicalScore" : 42.50,
+      "totalTechnicalScore" : 41.72,
       "totalFundamentalScore" : 48.82,
-      "totalScore" : 91.31
+      "totalScore" : 90.53
     }
   },
   "attributes" : {
     "companyCode" : "SHUKRAMED",
     "companyName" : "Shukra Medtech",
-    "marketCap" : 3724.00,
-    "peRatio" : 84.00,
+    "marketCap" : 3890.00,
+    "peRatio" : 87.80,
     "description" : "Incorporated in 1993, Shukra Pharmaceuticals Ltd manufactures and markets pharmaceutical products, and does laboratory testing[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 38.85,
-    "dma50" : 36.75,
-    "dma100" : null,
-    "dma200" : 25.28,
-    "volume" : 159447.00
-  }, {
     "date" : "2025-11-25",
     "price" : 39.94,
     "dma50" : 36.88,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 31.64,
     "dma50" : 37.57,
-    "dma100" : 43.06,
+    "dma100" : null,
     "dma200" : 35.54,
     "volume" : 488488.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 53.33,
     "dma200" : 49.22,
     "volume" : 4678278.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 87.91,
+    "dma50" : 70.12,
+    "dma100" : 53.92,
+    "dma200" : 49.60,
+    "volume" : 10988264.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 84.16,
-    "dma50" : 69.39,
-    "dma100" : 53.33,
-    "dma200" : 49.22,
-    "volume" : 4678278.00
+    "date" : "2026-11-23",
+    "price" : 87.91,
+    "dma50" : 70.12,
+    "dma100" : 53.92,
+    "dma200" : 49.60,
+    "volume" : 10988264.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-06-30",
@@ -2556,15 +2556,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.94,
-    "pricePercentageAboveDma100" : 2.11,
-    "pricePercentageAboveDma200" : 1.45,
+    "pricePercentageAboveDma50" : 3.73,
+    "pricePercentageAboveDma100" : 1.85,
+    "pricePercentageAboveDma200" : 1.14,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.44,
     "operatingProfitMarginPercentile" : 19.53,
     "netProfitMarginPercentile" : 9.84,
-    "totalTechnicalScore" : 42.50,
+    "totalTechnicalScore" : 41.72,
     "totalFundamentalScore" : 48.82,
-    "totalScore" : 91.31
+    "totalScore" : 90.53
   }
 }

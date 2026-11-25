@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "UDS",
       "companyName" : "Updater Services",
-      "marketCap" : 1433.00,
-      "peRatio" : 13.80,
+      "marketCap" : 1397.00,
+      "peRatio" : 13.50,
       "description" : "UDS offes integrated facilities management services and other services. Its service portfolio caters to the needs of diverse customer segments across a range of sectors including FMCG, manufacturing and engineering, banking, financial services, and insurance (BFSI), healthcare, information technology / information technology enabled services (IT / ITeS), automobiles, logistics and warehousing, airports, ports, infrastructure and retail, among others.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.88,
-      "pricePercentageAboveDma100" : 4.84,
-      "pricePercentageAboveDma200" : 4.71,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.98,
+      "pricePercentageAboveDma200" : 4.84,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.85,
       "operatingProfitMarginPercentile" : 10.59,
       "netProfitMarginPercentile" : 7.09,
-      "totalTechnicalScore" : 44.43,
+      "totalTechnicalScore" : 39.83,
       "totalFundamentalScore" : 31.52,
-      "totalScore" : 75.96
+      "totalScore" : 71.36
     }
   },
   "attributes" : {
     "companyCode" : "UDS",
     "companyName" : "Updater Services",
-    "marketCap" : 1433.00,
-    "peRatio" : 13.80,
+    "marketCap" : 1397.00,
+    "peRatio" : 13.50,
     "description" : "UDS offes integrated facilities management services and other services. Its service portfolio caters to the needs of diverse customer segments across a range of sectors including FMCG, manufacturing and engineering, banking, financial services, and insurance (BFSI), healthcare, information technology / information technology enabled services (IT / ITeS), automobiles, logistics and warehousing, airports, ports, infrastructure and retail, among others.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 187.09,
-    "dma50" : 226.52,
-    "dma100" : null,
-    "dma200" : 272.46,
-    "volume" : 146654.00
-  }, {
     "date" : "2025-11-25",
     "price" : 185.25,
     "dma50" : 224.90,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 159.65,
     "dma50" : 153.88,
-    "dma100" : 162.71,
+    "dma100" : null,
     "dma200" : 200.86,
     "volume" : 156474.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 207.41,
     "dma200" : 202.21,
     "volume" : 60141.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 208.61,
+    "dma50" : 209.17,
+    "dma100" : 207.67,
+    "dma200" : 202.27,
+    "volume" : 47912.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 214.02,
-    "dma50" : 209.19,
-    "dma100" : 207.41,
-    "dma200" : 202.21,
-    "volume" : 60141.00
+    "date" : "2026-11-23",
+    "price" : 208.61,
+    "dma50" : 209.17,
+    "dma100" : 207.67,
+    "dma200" : 202.27,
+    "volume" : 47912.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1960,21 +1960,21 @@
     "netProfit" : 17.29
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.88,
-    "pricePercentageAboveDma100" : 4.84,
-    "pricePercentageAboveDma200" : 4.71,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.98,
+    "pricePercentageAboveDma200" : 4.84,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.85,
     "operatingProfitMarginPercentile" : 10.59,
     "netProfitMarginPercentile" : 7.09,
-    "totalTechnicalScore" : 44.43,
+    "totalTechnicalScore" : 39.83,
     "totalFundamentalScore" : 31.52,
-    "totalScore" : 75.96
+    "totalScore" : 71.36
   }
 }

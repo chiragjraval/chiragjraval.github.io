@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MIDHANI",
       "companyName" : "Mishra Dhatu Nig",
-      "marketCap" : 7254.00,
-      "peRatio" : 48.60,
+      "marketCap" : 7128.00,
+      "peRatio" : 47.80,
       "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.18,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 5.21,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.29,
       "operatingProfitMarginPercentile" : 5.77,
       "netProfitMarginPercentile" : 3.14,
-      "totalTechnicalScore" : 25.61,
+      "totalTechnicalScore" : 25.85,
       "totalFundamentalScore" : 27.19,
-      "totalScore" : 52.81
+      "totalScore" : 53.04
     }
   },
   "attributes" : {
     "companyCode" : "MIDHANI",
     "companyName" : "Mishra Dhatu Nig",
-    "marketCap" : 7254.00,
-    "peRatio" : 48.60,
+    "marketCap" : 7128.00,
+    "peRatio" : 47.80,
     "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 327.05,
-    "dma50" : 377.37,
-    "dma100" : null,
-    "dma200" : 376.79,
-    "volume" : 444346.00
-  }, {
     "date" : "2025-11-25",
     "price" : 329.50,
     "dma50" : 375.49,
@@ -709,7 +702,7 @@
     "price" : 348.65,
     "dma50" : 328.14,
     "dma100" : null,
-    "dma200" : 349.79,
+    "dma200" : 349.80,
     "volume" : 1082302.00
   }, {
     "date" : "2026-04-16",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 385.90,
     "dma50" : 336.87,
-    "dma100" : 335.33,
+    "dma100" : null,
     "dma200" : 351.07,
     "volume" : 838117.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 412.49,
     "dma200" : 397.32,
     "volume" : 478455.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 380.50,
+    "dma50" : 400.80,
+    "dma100" : 412.07,
+    "dma200" : 397.15,
+    "volume" : 353739.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 387.20,
-    "dma50" : 401.63,
-    "dma100" : 412.49,
-    "dma200" : 397.32,
-    "volume" : 478455.00
+    "date" : "2026-11-23",
+    "price" : 380.50,
+    "dma50" : 400.80,
+    "dma100" : 412.07,
+    "dma200" : 397.15,
+    "volume" : 353739.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2186,15 +2186,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.18,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 5.21,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.29,
     "operatingProfitMarginPercentile" : 5.77,
     "netProfitMarginPercentile" : 3.14,
-    "totalTechnicalScore" : 25.61,
+    "totalTechnicalScore" : 25.85,
     "totalFundamentalScore" : 27.19,
-    "totalScore" : 52.81
+    "totalScore" : 53.04
   }
 }

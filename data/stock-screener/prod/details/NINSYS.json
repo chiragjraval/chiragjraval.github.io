@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NINSYS",
       "companyName" : "NINtec Systems",
-      "marketCap" : 1764.00,
-      "peRatio" : 48.60,
+      "marketCap" : 1800.00,
+      "peRatio" : 49.60,
       "description" : "Incorporated in 1997, NINtec Systems Ltd provides software development services and solutions"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.49,
-      "pricePercentageAboveDma100" : 4.16,
-      "pricePercentageAboveDma200" : 3.24,
+      "pricePercentageAboveDma50" : 4.41,
+      "pricePercentageAboveDma100" : 4.05,
+      "pricePercentageAboveDma200" : 3.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 1.05,
       "operatingProfitMarginPercentile" : 19.13,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 41.89,
+      "totalTechnicalScore" : 41.59,
       "totalFundamentalScore" : 30.18,
-      "totalScore" : 72.07
+      "totalScore" : 71.77
     }
   },
   "attributes" : {
     "companyCode" : "NINSYS",
     "companyName" : "NINtec Systems",
-    "marketCap" : 1764.00,
-    "peRatio" : 48.60,
+    "marketCap" : 1800.00,
+    "peRatio" : 49.60,
     "description" : "Incorporated in 1997, NINtec Systems Ltd provides software development services and solutions"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 411.45,
-    "dma50" : 431.33,
-    "dma100" : null,
-    "dma200" : 452.71,
-    "volume" : 11876.00
-  }, {
     "date" : "2025-11-25",
     "price" : 411.50,
     "dma50" : 430.55,
@@ -303,7 +296,7 @@
     "price" : 364.00,
     "dma50" : 404.73,
     "dma100" : null,
-    "dma200" : 436.20,
+    "dma200" : 436.19,
     "volume" : 9355.00
   }, {
     "date" : "2026-01-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 500.45,
     "dma50" : 378.52,
-    "dma100" : 368.40,
+    "dma100" : null,
     "dma200" : 398.39,
     "volume" : 17587.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 813.45,
     "dma200" : 702.10,
     "volume" : 5130.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 968.90,
+    "dma50" : 866.01,
+    "dma100" : 814.75,
+    "dma200" : 704.75,
+    "volume" : 9450.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 949.60,
-    "dma50" : 861.81,
-    "dma100" : 813.45,
-    "dma200" : 702.10,
-    "volume" : 5130.00
+    "date" : "2026-11-23",
+    "price" : 968.90,
+    "dma50" : 866.01,
+    "dma100" : 814.75,
+    "dma200" : 704.75,
+    "volume" : 9450.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-09-30",
@@ -2026,15 +2026,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.49,
-    "pricePercentageAboveDma100" : 4.16,
-    "pricePercentageAboveDma200" : 3.24,
+    "pricePercentageAboveDma50" : 4.41,
+    "pricePercentageAboveDma100" : 4.05,
+    "pricePercentageAboveDma200" : 3.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 1.05,
     "operatingProfitMarginPercentile" : 19.13,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 41.89,
+    "totalTechnicalScore" : 41.59,
     "totalFundamentalScore" : 30.18,
-    "totalScore" : 72.07
+    "totalScore" : 71.77
   }
 }

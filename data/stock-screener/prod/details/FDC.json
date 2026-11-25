@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FDC",
       "companyName" : "FDC",
-      "marketCap" : 6147.00,
-      "peRatio" : 18.70,
+      "marketCap" : 6071.00,
+      "peRatio" : 18.50,
       "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 4.92,
-      "pricePercentageAboveDma200" : 5.01,
+      "pricePercentageAboveDma50" : 4.93,
+      "pricePercentageAboveDma100" : 4.98,
+      "pricePercentageAboveDma200" : 5.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 6.59,
       "netProfitMarginPercentile" : 2.69,
-      "totalTechnicalScore" : 24.79,
+      "totalTechnicalScore" : 24.97,
       "totalFundamentalScore" : 26.88,
-      "totalScore" : 51.67
+      "totalScore" : 51.85
     }
   },
   "attributes" : {
     "companyCode" : "FDC",
     "companyName" : "FDC",
-    "marketCap" : 6147.00,
-    "peRatio" : 18.70,
+    "marketCap" : 6071.00,
+    "peRatio" : 18.50,
     "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 409.40,
-    "dma50" : 437.66,
-    "dma100" : null,
-    "dma200" : 455.50,
-    "volume" : 211873.00
-  }, {
     "date" : "2025-11-25",
     "price" : 417.10,
     "dma50" : 436.85,
@@ -352,7 +345,7 @@
     "price" : 372.05,
     "dma50" : 406.07,
     "dma100" : null,
-    "dma200" : 437.45,
+    "dma200" : 437.46,
     "volume" : 51657.00
   }, {
     "date" : "2026-01-29",
@@ -632,7 +625,7 @@
     "price" : 329.90,
     "dma50" : 368.62,
     "dma100" : null,
-    "dma200" : 413.40,
+    "dma200" : 413.41,
     "volume" : 181343.00
   }, {
     "date" : "2026-03-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 359.00,
     "dma50" : 358.74,
-    "dma100" : 380.57,
+    "dma100" : null,
     "dma200" : 403.43,
     "volume" : 37640.00
   }, {
@@ -778,7 +771,7 @@
     "date" : "2026-04-29",
     "price" : 363.25,
     "dma50" : 360.16,
-    "dma100" : 378.16,
+    "dma100" : 378.17,
     "dma200" : 401.64,
     "volume" : 27013.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 371.64,
     "dma200" : 378.49,
     "volume" : 103375.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 372.90,
+    "dma50" : 367.45,
+    "dma100" : 371.07,
+    "dma200" : 378.43,
+    "volume" : 79891.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 377.55,
-    "dma50" : 367.23,
-    "dma100" : 371.64,
-    "dma200" : 378.49,
-    "volume" : 103375.00
+    "date" : "2026-11-23",
+    "price" : 372.90,
+    "dma50" : 367.45,
+    "dma100" : 371.07,
+    "dma200" : 378.43,
+    "volume" : 79891.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 4.92,
-    "pricePercentageAboveDma200" : 5.01,
+    "pricePercentageAboveDma50" : 4.93,
+    "pricePercentageAboveDma100" : 4.98,
+    "pricePercentageAboveDma200" : 5.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 6.59,
     "netProfitMarginPercentile" : 2.69,
-    "totalTechnicalScore" : 24.79,
+    "totalTechnicalScore" : 24.97,
     "totalFundamentalScore" : 26.88,
-    "totalScore" : 51.67
+    "totalScore" : 51.85
   }
 }

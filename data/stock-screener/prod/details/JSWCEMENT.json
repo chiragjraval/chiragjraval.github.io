@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JSWCEMENT",
       "companyName" : "JSW Cement",
-      "marketCap" : 17242.00,
-      "peRatio" : 21.90,
+      "marketCap" : 17143.00,
+      "peRatio" : 21.80,
       "description" : "JSW Cement is a leading Indian manufacturer of green cement, known for its sustainability and use in major infrastructure projects"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.93,
+      "pricePercentageAboveDma50" : 4.81,
+      "pricePercentageAboveDma100" : 4.95,
+      "pricePercentageAboveDma200" : 4.96,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.00,
       "netProfitMarginPercentile" : 6.00,
-      "totalTechnicalScore" : 29.63,
+      "totalTechnicalScore" : 29.72,
       "totalFundamentalScore" : 34.00,
-      "totalScore" : 63.63
+      "totalScore" : 63.72
     }
   },
   "attributes" : {
     "companyCode" : "JSWCEMENT",
     "companyName" : "JSW Cement",
-    "marketCap" : 17242.00,
-    "peRatio" : 21.90,
+    "marketCap" : 17143.00,
+    "peRatio" : 21.80,
     "description" : "JSW Cement is a leading Indian manufacturer of green cement, known for its sustainability and use in major infrastructure projects"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 118.23,
-    "dma50" : 134.76,
-    "dma100" : null,
-    "dma200" : 142.52,
-    "volume" : 6014619.00
-  }, {
     "date" : "2025-11-25",
     "price" : 116.17,
     "dma50" : 134.04,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 127.72,
     "dma50" : 121.74,
-    "dma100" : 119.34,
+    "dma100" : null,
     "dma200" : 128.25,
     "volume" : 1444632.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 124.68,
     "dma200" : 124.82,
     "volume" : 1369039.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 125.74,
+    "dma50" : 121.04,
+    "dma100" : 124.57,
+    "dma200" : 124.83,
+    "volume" : 809496.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 126.47,
-    "dma50" : 120.84,
-    "dma100" : 124.68,
-    "dma200" : 124.82,
-    "volume" : 1369039.00
+    "date" : "2026-11-23",
+    "price" : 125.74,
+    "dma50" : 121.04,
+    "dma100" : 124.57,
+    "dma200" : 124.83,
+    "volume" : 809496.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1896,15 +1896,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.93,
+    "pricePercentageAboveDma50" : 4.81,
+    "pricePercentageAboveDma100" : 4.95,
+    "pricePercentageAboveDma200" : 4.96,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.00,
     "netProfitMarginPercentile" : 6.00,
-    "totalTechnicalScore" : 29.63,
+    "totalTechnicalScore" : 29.72,
     "totalFundamentalScore" : 34.00,
-    "totalScore" : 63.63
+    "totalScore" : 63.72
   }
 }

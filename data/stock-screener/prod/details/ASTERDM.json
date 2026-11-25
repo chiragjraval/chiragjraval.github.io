@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTERDM",
       "companyName" : "Aster DM Quality",
-      "marketCap" : 67929.00,
-      "peRatio" : 130.00,
+      "marketCap" : 68893.00,
+      "peRatio" : 131.00,
       "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.61,
-      "pricePercentageAboveDma100" : 4.86,
-      "pricePercentageAboveDma200" : 4.56,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.79,
+      "pricePercentageAboveDma200" : 4.49,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.41,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 6.05,
-      "totalTechnicalScore" : 39.03,
+      "totalTechnicalScore" : 43.83,
       "totalFundamentalScore" : 42.14,
-      "totalScore" : 81.17
+      "totalScore" : 85.97
     }
   },
   "attributes" : {
     "companyCode" : "ASTERDM",
     "companyName" : "Aster DM Quality",
-    "marketCap" : 67929.00,
-    "peRatio" : 130.00,
+    "marketCap" : 68893.00,
+    "peRatio" : 131.00,
     "description" : "Aster DM Healthcare Limited is one of the largest integrated private healthcare service providers operating in GCC (Gulf Cooperation Council) countries and an emerging player in India. With an inherent emphasis on clinical excellence, it is one of the few entities in the world with a strong presence across primary, secondary, tertiary and quaternary healthcare. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 667.85,
-    "dma50" : 666.74,
-    "dma100" : null,
-    "dma200" : 588.14,
-    "volume" : 1061722.00
-  }, {
     "date" : "2025-11-25",
     "price" : 660.00,
     "dma50" : 666.48,
@@ -464,7 +457,7 @@
     "price" : 629.20,
     "dma50" : 597.77,
     "dma100" : null,
-    "dma200" : 593.22,
+    "dma200" : 593.23,
     "volume" : 450892.00
   }, {
     "date" : "2026-02-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 684.30,
     "dma50" : 651.58,
-    "dma100" : 626.19,
+    "dma100" : null,
     "dma200" : 615.76,
     "volume" : 1360857.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 757.63,
     "dma200" : 716.89,
     "volume" : 2809610.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 790.35,
+    "dma50" : 725.76,
+    "dma100" : 757.78,
+    "dma200" : 717.62,
+    "volume" : 2297543.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 779.30,
-    "dma50" : 723.12,
-    "dma100" : 757.63,
-    "dma200" : 716.89,
-    "volume" : 2809610.00
+    "date" : "2026-11-23",
+    "price" : 790.35,
+    "dma50" : 725.76,
+    "dma100" : 757.78,
+    "dma200" : 717.62,
+    "volume" : 2297543.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2176,15 +2176,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.61,
-    "pricePercentageAboveDma100" : 4.86,
-    "pricePercentageAboveDma200" : 4.56,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.79,
+    "pricePercentageAboveDma200" : 4.49,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.41,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 6.05,
-    "totalTechnicalScore" : 39.03,
+    "totalTechnicalScore" : 43.83,
     "totalFundamentalScore" : 42.14,
-    "totalScore" : 81.17
+    "totalScore" : 85.97
   }
 }

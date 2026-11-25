@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PGHL",
       "companyName" : "P & G Health Ltd",
-      "marketCap" : 9278.00,
-      "peRatio" : 26.00,
+      "marketCap" : 9503.00,
+      "peRatio" : 26.70,
       "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.07,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.96,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 19.99,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 25.27,
+      "totalTechnicalScore" : 34.91,
       "totalFundamentalScore" : 44.35,
-      "totalScore" : 69.62
+      "totalScore" : 79.26
     }
   },
   "attributes" : {
     "companyCode" : "PGHL",
     "companyName" : "P & G Health Ltd",
-    "marketCap" : 9278.00,
-    "peRatio" : 26.00,
+    "marketCap" : 9503.00,
+    "peRatio" : 26.70,
     "description" : "Procter & Gamble Health Ltd, formerly Merck Ltd, manufactures and markets vitamins, minerals, supplements and other healthcare products under brands including Neurobion, Livogen, Seven Seas, Evion, Polybion and Nasivion. It is part of the US-based P&G Group and operates a plant at Usgaon, Goa[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 5867.00,
-    "dma50" : 6067.10,
-    "dma100" : null,
-    "dma200" : 5840.01,
-    "volume" : 13213.00
-  }, {
     "date" : "2025-11-25",
     "price" : 5825.50,
     "dma50" : 6057.63,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 5132.90,
     "dma50" : 5035.74,
-    "dma100" : 5288.20,
+    "dma100" : null,
     "dma200" : 5434.19,
     "volume" : 10129.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 5842.00,
     "dma200" : 5673.51,
     "volume" : 24411.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 5725.00,
+    "dma50" : 5572.04,
+    "dma100" : 5835.80,
+    "dma200" : 5674.02,
+    "volume" : 35008.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 5589.50,
-    "dma50" : 5565.80,
-    "dma100" : 5842.00,
-    "dma200" : 5673.51,
-    "volume" : 24411.00
+    "date" : "2026-11-23",
+    "price" : 5725.00,
+    "dma50" : 5572.04,
+    "dma100" : 5835.80,
+    "dma200" : 5674.02,
+    "volume" : 35008.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.07,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.96,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 19.99,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 25.27,
+    "totalTechnicalScore" : 34.91,
     "totalFundamentalScore" : 44.35,
-    "totalScore" : 69.62
+    "totalScore" : 79.26
   }
 }

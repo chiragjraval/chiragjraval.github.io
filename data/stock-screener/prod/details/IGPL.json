@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "IGPL",
       "companyName" : "I G Petrochems",
-      "marketCap" : 1605.00,
-      "peRatio" : 9.52,
+      "marketCap" : 1550.00,
+      "peRatio" : 9.19,
       "description" : "I G Petrochemicals Ltd, incorporated in 1988, manufactures Phthalic Anhydride (PAN), Maleic Anhydride (MAN) and Benzoic Acid which are used in manufacturing of dyes, polyester resins etc. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 4.97,
-      "pricePercentageAboveDma200" : 4.66,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.39,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 4.85,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 16.55,
       "netProfitMarginPercentile" : 8.51,
-      "totalTechnicalScore" : 39.87,
+      "totalTechnicalScore" : 40.39,
       "totalFundamentalScore" : 43.85,
-      "totalScore" : 83.73
+      "totalScore" : 84.24
     }
   },
   "attributes" : {
     "companyCode" : "IGPL",
     "companyName" : "I G Petrochems",
-    "marketCap" : 1605.00,
-    "peRatio" : 9.52,
+    "marketCap" : 1550.00,
+    "peRatio" : 9.19,
     "description" : "I G Petrochemicals Ltd, incorporated in 1988, manufactures Phthalic Anhydride (PAN), Maleic Anhydride (MAN) and Benzoic Acid which are used in manufacturing of dyes, polyester resins etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 377.30,
-    "dma50" : 411.57,
-    "dma100" : null,
-    "dma200" : 450.88,
-    "volume" : 19528.00
-  }, {
     "date" : "2025-11-25",
     "price" : 376.70,
     "dma50" : 410.20,
@@ -65,7 +58,7 @@
     "price" : 380.80,
     "dma50" : 407.82,
     "dma100" : null,
-    "dma200" : 448.73,
+    "dma200" : 448.74,
     "volume" : 12003.00
   }, {
     "date" : "2025-11-28",
@@ -107,7 +100,7 @@
     "price" : 395.90,
     "dma50" : 404.89,
     "dma100" : null,
-    "dma200" : 445.54,
+    "dma200" : 445.55,
     "volume" : 14969.00
   }, {
     "date" : "2025-12-08",
@@ -135,7 +128,7 @@
     "price" : 398.15,
     "dma50" : 402.89,
     "dma100" : null,
-    "dma200" : 443.41,
+    "dma200" : 443.42,
     "volume" : 13635.00
   }, {
     "date" : "2025-12-12",
@@ -184,7 +177,7 @@
     "price" : 391.70,
     "dma50" : 401.36,
     "dma100" : null,
-    "dma200" : 440.26,
+    "dma200" : 440.27,
     "volume" : 11191.00
   }, {
     "date" : "2025-12-23",
@@ -289,7 +282,7 @@
     "price" : 368.10,
     "dma50" : 394.68,
     "dma100" : null,
-    "dma200" : 432.91,
+    "dma200" : 432.92,
     "volume" : 5703.00
   }, {
     "date" : "2026-01-14",
@@ -660,7 +653,7 @@
     "price" : 350.85,
     "dma50" : 359.23,
     "dma100" : null,
-    "dma200" : 401.21,
+    "dma200" : 401.22,
     "volume" : 41379.00
   }, {
     "date" : "2026-04-06",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 425.30,
     "dma50" : 378.48,
-    "dma100" : 374.42,
+    "dma100" : null,
     "dma200" : 401.97,
     "volume" : 21114.00
   }, {
@@ -1598,7 +1591,7 @@
     "price" : 573.65,
     "dma50" : 542.19,
     "dma100" : 492.24,
-    "dma200" : 471.52,
+    "dma200" : 471.53,
     "volume" : 15931.00
   }, {
     "date" : "2026-10-19",
@@ -1768,14 +1761,21 @@
     "dma100" : 518.43,
     "dma200" : 488.22,
     "volume" : 25478.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 503.20,
+    "dma50" : 545.52,
+    "dma100" : 518.96,
+    "dma200" : 488.37,
+    "volume" : 101098.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 521.20,
-    "dma50" : 547.25,
-    "dma100" : 518.43,
-    "dma200" : 488.22,
-    "volume" : 25478.00
+    "date" : "2026-11-23",
+    "price" : 503.20,
+    "dma50" : 545.52,
+    "dma100" : 518.96,
+    "dma200" : 488.37,
+    "volume" : 101098.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 4.97,
-    "pricePercentageAboveDma200" : 4.66,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.39,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 4.85,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 16.55,
     "netProfitMarginPercentile" : 8.51,
-    "totalTechnicalScore" : 39.87,
+    "totalTechnicalScore" : 40.39,
     "totalFundamentalScore" : 43.85,
-    "totalScore" : 83.73
+    "totalScore" : 84.24
   }
 }

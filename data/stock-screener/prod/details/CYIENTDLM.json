@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CYIENTDLM",
       "companyName" : "Cyient DLM",
-      "marketCap" : 6496.00,
-      "peRatio" : 77.40,
+      "marketCap" : 6166.00,
+      "peRatio" : 73.40,
       "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 4.71,
-      "pricePercentageAboveDma200" : 3.76,
+      "pricePercentageAboveDma50" : 5.26,
+      "pricePercentageAboveDma100" : 5.00,
+      "pricePercentageAboveDma200" : 4.09,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.31,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 8.82,
-      "totalTechnicalScore" : 38.48,
+      "totalTechnicalScore" : 39.34,
       "totalFundamentalScore" : 32.90,
-      "totalScore" : 71.38
+      "totalScore" : 72.24
     }
   },
   "attributes" : {
     "companyCode" : "CYIENTDLM",
     "companyName" : "Cyient DLM",
-    "marketCap" : 6496.00,
-    "peRatio" : 77.40,
+    "marketCap" : 6166.00,
+    "peRatio" : 73.40,
     "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 420.05,
-    "dma50" : 448.02,
-    "dma100" : null,
-    "dma200" : 479.85,
-    "volume" : 784276.00
-  }, {
     "date" : "2025-11-25",
     "price" : 432.85,
     "dma50" : 447.43,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 375.25,
     "dma50" : 327.80,
-    "dma100" : 362.63,
+    "dma100" : null,
     "dma200" : 397.71,
     "volume" : 4329636.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 773.20,
     "dma200" : 655.65,
     "volume" : 150974.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 776.70,
+    "dma50" : 818.57,
+    "dma100" : 776.32,
+    "dma200" : 656.85,
+    "volume" : 207036.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 818.25,
-    "dma50" : 820.28,
-    "dma100" : 773.20,
-    "dma200" : 655.65,
-    "volume" : 150974.00
+    "date" : "2026-11-23",
+    "price" : 776.70,
+    "dma50" : 818.57,
+    "dma100" : 776.32,
+    "dma200" : 656.85,
+    "volume" : 207036.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1966,15 +1966,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 4.71,
-    "pricePercentageAboveDma200" : 3.76,
+    "pricePercentageAboveDma50" : 5.26,
+    "pricePercentageAboveDma100" : 5.00,
+    "pricePercentageAboveDma200" : 4.09,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.31,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 8.82,
-    "totalTechnicalScore" : 38.48,
+    "totalTechnicalScore" : 39.34,
     "totalFundamentalScore" : 32.90,
-    "totalScore" : 71.38
+    "totalScore" : 72.24
   }
 }

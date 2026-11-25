@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IIFLCAPS",
       "companyName" : "IIFL Capital",
-      "marketCap" : 9827.00,
-      "peRatio" : 16.00,
+      "marketCap" : 10037.00,
+      "peRatio" : 16.40,
       "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.47,
-      "pricePercentageAboveDma100" : 5.43,
-      "pricePercentageAboveDma200" : 5.33,
+      "pricePercentageAboveDma50" : 5.36,
+      "pricePercentageAboveDma100" : 5.33,
+      "pricePercentageAboveDma200" : 5.23,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 17.06,
       "netProfitMarginPercentile" : 3.24,
-      "totalTechnicalScore" : 36.24,
+      "totalTechnicalScore" : 35.93,
       "totalFundamentalScore" : 32.29,
-      "totalScore" : 68.53
+      "totalScore" : 68.22
     }
   },
   "attributes" : {
     "companyCode" : "IIFLCAPS",
     "companyName" : "IIFL Capital",
-    "marketCap" : 9827.00,
-    "peRatio" : 16.00,
+    "marketCap" : 10037.00,
+    "peRatio" : 16.40,
     "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 292.30,
-    "dma50" : 318.79,
-    "dma100" : null,
-    "dma200" : 299.36,
-    "volume" : 710419.00
-  }, {
     "date" : "2025-11-25",
     "price" : 295.20,
     "dma50" : 317.86,
@@ -58,7 +51,7 @@
     "price" : 309.50,
     "dma50" : 317.53,
     "dma100" : null,
-    "dma200" : 299.42,
+    "dma200" : 299.41,
     "volume" : 517453.00
   }, {
     "date" : "2025-11-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 324.25,
     "dma50" : 297.87,
-    "dma100" : 317.27,
+    "dma100" : null,
     "dma200" : 307.17,
     "volume" : 1397595.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 340.95,
     "dma200" : 333.55,
     "volume" : 4090169.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 318.10,
+    "dma50" : 343.09,
+    "dma100" : 340.74,
+    "dma200" : 333.40,
+    "volume" : 2461593.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 311.45,
-    "dma50" : 344.11,
-    "dma100" : 340.95,
-    "dma200" : 333.55,
-    "volume" : 4090169.00
+    "date" : "2026-11-23",
+    "price" : 318.10,
+    "dma50" : 343.09,
+    "dma100" : 340.74,
+    "dma200" : 333.40,
+    "volume" : 2461593.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2136,15 +2136,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.47,
-    "pricePercentageAboveDma100" : 5.43,
-    "pricePercentageAboveDma200" : 5.33,
+    "pricePercentageAboveDma50" : 5.36,
+    "pricePercentageAboveDma100" : 5.33,
+    "pricePercentageAboveDma200" : 5.23,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 17.06,
     "netProfitMarginPercentile" : 3.24,
-    "totalTechnicalScore" : 36.24,
+    "totalTechnicalScore" : 35.93,
     "totalFundamentalScore" : 32.29,
-    "totalScore" : 68.53
+    "totalScore" : 68.22
   }
 }

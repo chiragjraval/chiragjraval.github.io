@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UTTAMSUGAR",
       "companyName" : "Uttam Sug.Mills",
-      "marketCap" : 1357.00,
-      "peRatio" : 15.50,
+      "marketCap" : 1329.00,
+      "peRatio" : 15.20,
       "description" : "Incorporated in 1993, Uttam Sugar Mills Ltd manufactures Sugar, Industrial Alcohol and does Power Generation[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.65,
-      "pricePercentageAboveDma100" : 3.92,
-      "pricePercentageAboveDma200" : 3.68,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 4.07,
+      "pricePercentageAboveDma200" : 3.83,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.15,
       "operatingProfitMarginPercentile" : 13.86,
       "netProfitMarginPercentile" : 8.45,
-      "totalTechnicalScore" : 42.25,
+      "totalTechnicalScore" : 42.66,
       "totalFundamentalScore" : 26.46,
-      "totalScore" : 68.71
+      "totalScore" : 69.12
     }
   },
   "attributes" : {
     "companyCode" : "UTTAMSUGAR",
     "companyName" : "Uttam Sug.Mills",
-    "marketCap" : 1357.00,
-    "peRatio" : 15.50,
+    "marketCap" : 1329.00,
+    "peRatio" : 15.20,
     "description" : "Incorporated in 1993, Uttam Sugar Mills Ltd manufactures Sugar, Industrial Alcohol and does Power Generation[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 228.39,
-    "dma50" : 248.29,
-    "dma100" : null,
-    "dma200" : 267.37,
-    "volume" : 12635.00
-  }, {
     "date" : "2025-11-25",
     "price" : 231.11,
     "dma50" : 247.62,
@@ -233,7 +226,7 @@
     "price" : 251.30,
     "dma50" : 248.70,
     "dma100" : null,
-    "dma200" : 262.44,
+    "dma200" : 262.43,
     "volume" : 113167.00
   }, {
     "date" : "2026-01-02",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 252.43,
     "dma50" : 228.89,
-    "dma100" : 227.83,
+    "dma100" : null,
     "dma200" : 241.59,
     "volume" : 156003.00
   }, {
@@ -835,7 +828,7 @@
     "price" : 250.55,
     "dma50" : 240.59,
     "dma100" : 231.10,
-    "dma200" : 243.60,
+    "dma200" : 243.59,
     "volume" : 67790.00
   }, {
     "date" : "2026-05-13",
@@ -1768,14 +1761,21 @@
     "dma100" : 292.46,
     "dma200" : 281.61,
     "volume" : 183065.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 348.50,
+    "dma50" : 333.20,
+    "dma100" : 293.61,
+    "dma200" : 282.28,
+    "volume" : 171663.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 355.80,
-    "dma50" : 332.58,
-    "dma100" : 292.46,
-    "dma200" : 281.61,
-    "volume" : 183065.00
+    "date" : "2026-11-23",
+    "price" : 348.50,
+    "dma50" : 333.20,
+    "dma100" : 293.61,
+    "dma200" : 282.28,
+    "volume" : 171663.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.65,
-    "pricePercentageAboveDma100" : 3.92,
-    "pricePercentageAboveDma200" : 3.68,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 4.07,
+    "pricePercentageAboveDma200" : 3.83,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.15,
     "operatingProfitMarginPercentile" : 13.86,
     "netProfitMarginPercentile" : 8.45,
-    "totalTechnicalScore" : 42.25,
+    "totalTechnicalScore" : 42.66,
     "totalFundamentalScore" : 26.46,
-    "totalScore" : 68.71
+    "totalScore" : 69.12
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TCPLPACK",
       "companyName" : "TCPL Packaging",
-      "marketCap" : 3993.00,
-      "peRatio" : 29.00,
+      "marketCap" : 3921.00,
+      "peRatio" : 28.50,
       "description" : "Incorporated in 1987, TCPL Packaging Ltd manufactures paperboard-based packaging materials and flexible packaging products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.75,
-      "pricePercentageAboveDma100" : 4.28,
-      "pricePercentageAboveDma200" : 3.83,
+      "pricePercentageAboveDma50" : 4.85,
+      "pricePercentageAboveDma100" : 4.40,
+      "pricePercentageAboveDma200" : 3.95,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.49,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 47.86,
+      "totalTechnicalScore" : 48.20,
       "totalFundamentalScore" : 42.57,
-      "totalScore" : 90.43
+      "totalScore" : 90.78
     }
   },
   "attributes" : {
     "companyCode" : "TCPLPACK",
     "companyName" : "TCPL Packaging",
-    "marketCap" : 3993.00,
-    "peRatio" : 29.00,
+    "marketCap" : 3921.00,
+    "peRatio" : 28.50,
     "description" : "Incorporated in 1987, TCPL Packaging Ltd manufactures paperboard-based packaging materials and flexible packaging products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 3073.70,
-    "dma50" : 3342.09,
-    "dma100" : null,
-    "dma200" : 3468.26,
-    "volume" : 5005.00
-  }, {
     "date" : "2025-11-25",
     "price" : 3139.90,
     "dma50" : 3334.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 2670.20,
     "dma50" : 2587.07,
-    "dma100" : 2751.96,
+    "dma100" : null,
     "dma200" : 2978.42,
     "volume" : 1472.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3833.31,
     "dma200" : 3555.79,
     "volume" : 10774.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 4308.80,
+    "dma50" : 4181.79,
+    "dma100" : 3846.64,
+    "dma200" : 3563.29,
+    "volume" : 9877.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 4387.40,
-    "dma50" : 4176.60,
-    "dma100" : 3833.31,
-    "dma200" : 3555.79,
-    "volume" : 10774.00
+    "date" : "2026-11-23",
+    "price" : 4308.80,
+    "dma50" : 4181.79,
+    "dma100" : 3846.64,
+    "dma200" : 3563.29,
+    "volume" : 9877.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.75,
-    "pricePercentageAboveDma100" : 4.28,
-    "pricePercentageAboveDma200" : 3.83,
+    "pricePercentageAboveDma50" : 4.85,
+    "pricePercentageAboveDma100" : 4.40,
+    "pricePercentageAboveDma200" : 3.95,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.49,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 47.86,
+    "totalTechnicalScore" : 48.20,
     "totalFundamentalScore" : 42.57,
-    "totalScore" : 90.43
+    "totalScore" : 90.78
   }
 }

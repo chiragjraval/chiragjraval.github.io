@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASHIKAG",
       "companyName" : "Ashika Global Securities.",
-      "marketCap" : 2883.00,
-      "peRatio" : 36.10,
+      "marketCap" : 2873.00,
+      "peRatio" : 36.00,
       "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.02,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.94,
+      "pricePercentageAboveDma100" : 5.22,
+      "pricePercentageAboveDma200" : 5.04,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.02,
       "operatingProfitMarginPercentile" : 16.80,
       "netProfitMarginPercentile" : 6.17,
-      "totalTechnicalScore" : 25.14,
+      "totalTechnicalScore" : 30.20,
       "totalFundamentalScore" : 32.99,
-      "totalScore" : 58.13
+      "totalScore" : 63.18
     }
   },
   "attributes" : {
     "companyCode" : "ASHIKAG",
     "companyName" : "Ashika Global Securities.",
-    "marketCap" : 2883.00,
-    "peRatio" : 36.10,
+    "marketCap" : 2873.00,
+    "peRatio" : 36.00,
     "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 320.25,
-    "dma50" : 356.18,
-    "dma100" : null,
-    "dma200" : 405.52,
-    "volume" : 28547.00
-  }, {
     "date" : "2025-11-25",
     "price" : 309.55,
     "dma50" : 354.35,
@@ -317,7 +310,7 @@
     "price" : 378.70,
     "dma50" : 365.15,
     "dma100" : null,
-    "dma200" : 390.09,
+    "dma200" : 390.10,
     "volume" : 86984.00
   }, {
     "date" : "2026-01-21",
@@ -359,7 +352,7 @@
     "price" : 359.80,
     "dma50" : 365.47,
     "dma100" : null,
-    "dma200" : 388.74,
+    "dma200" : 388.75,
     "volume" : 86868.00
   }, {
     "date" : "2026-01-30",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 394.90,
     "dma50" : 354.01,
-    "dma100" : 355.79,
+    "dma100" : null,
     "dma200" : 374.26,
     "volume" : 98308.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 406.23,
     "dma200" : 391.78,
     "volume" : 426729.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 388.70,
+    "dma50" : 384.18,
+    "dma100" : 406.34,
+    "dma200" : 391.75,
+    "volume" : 123230.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 390.00,
-    "dma50" : 383.99,
-    "dma100" : 406.23,
-    "dma200" : 391.78,
-    "volume" : 426729.00
+    "date" : "2026-11-23",
+    "price" : 388.70,
+    "dma50" : 384.18,
+    "dma100" : 406.34,
+    "dma200" : 391.75,
+    "volume" : 123230.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.02,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.94,
+    "pricePercentageAboveDma100" : 5.22,
+    "pricePercentageAboveDma200" : 5.04,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.02,
     "operatingProfitMarginPercentile" : 16.80,
     "netProfitMarginPercentile" : 6.17,
-    "totalTechnicalScore" : 25.14,
+    "totalTechnicalScore" : 30.20,
     "totalFundamentalScore" : 32.99,
-    "totalScore" : 58.13
+    "totalScore" : 63.18
   }
 }

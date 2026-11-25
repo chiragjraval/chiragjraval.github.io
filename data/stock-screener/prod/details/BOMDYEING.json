@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BOMDYEING",
       "companyName" : "Bombay Dyeing",
-      "marketCap" : 2076.00,
-      "peRatio" : 63.90,
+      "marketCap" : 2038.00,
+      "peRatio" : 62.80,
       "description" : "Bombay Dyeing & Manufacturing Company is currently engaged in the business of Real Estate Development, Polyester Staple Fibre and Retail (Textiles).[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.09,
-      "pricePercentageAboveDma100" : 5.45,
-      "pricePercentageAboveDma200" : 5.68,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.52,
+      "pricePercentageAboveDma200" : 5.75,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 7.13,
       "netProfitMarginPercentile" : 7.72,
-      "totalTechnicalScore" : 16.21,
+      "totalTechnicalScore" : 16.44,
       "totalFundamentalScore" : 33.40,
-      "totalScore" : 49.61
+      "totalScore" : 49.84
     }
   },
   "attributes" : {
     "companyCode" : "BOMDYEING",
     "companyName" : "Bombay Dyeing",
-    "marketCap" : 2076.00,
-    "peRatio" : 63.90,
+    "marketCap" : 2038.00,
+    "peRatio" : 62.80,
     "description" : "Bombay Dyeing & Manufacturing Company is currently engaged in the business of Real Estate Development, Polyester Staple Fibre and Retail (Textiles).[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 141.99,
-    "dma50" : 163.58,
-    "dma100" : null,
-    "dma200" : 166.03,
-    "volume" : 500835.00
-  }, {
     "date" : "2025-11-25",
     "price" : 143.20,
     "dma50" : 162.78,
@@ -107,7 +100,7 @@
     "price" : 133.46,
     "dma50" : 156.75,
     "dma100" : null,
-    "dma200" : 163.90,
+    "dma200" : 163.89,
     "volume" : 555080.00
   }, {
     "date" : "2025-12-08",
@@ -177,7 +170,7 @@
     "price" : 131.36,
     "dma50" : 148.06,
     "dma100" : null,
-    "dma200" : 160.71,
+    "dma200" : 160.70,
     "volume" : 777550.00
   }, {
     "date" : "2025-12-22",
@@ -198,14 +191,14 @@
     "price" : 131.67,
     "dma50" : 146.32,
     "dma100" : null,
-    "dma200" : 159.88,
+    "dma200" : 159.87,
     "volume" : 493275.00
   }, {
     "date" : "2025-12-26",
     "price" : 129.72,
     "dma50" : 145.67,
     "dma100" : null,
-    "dma200" : 159.58,
+    "dma200" : 159.57,
     "volume" : 438984.00
   }, {
     "date" : "2025-12-29",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 115.97,
     "dma50" : 111.20,
-    "dma100" : 119.03,
+    "dma100" : null,
     "dma200" : 134.43,
     "volume" : 1039677.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 110.37,
     "dma200" : 116.32,
     "volume" : 362482.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 98.68,
+    "dma50" : 102.14,
+    "dma100" : 110.04,
+    "dma200" : 116.14,
+    "volume" : 418488.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 100.54,
-    "dma50" : 102.28,
-    "dma100" : 110.37,
-    "dma200" : 116.32,
-    "volume" : 362482.00
+    "date" : "2026-11-23",
+    "price" : 98.68,
+    "dma50" : 102.14,
+    "dma100" : 110.04,
+    "dma200" : 116.14,
+    "volume" : 418488.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.09,
-    "pricePercentageAboveDma100" : 5.45,
-    "pricePercentageAboveDma200" : 5.68,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.52,
+    "pricePercentageAboveDma200" : 5.75,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 7.13,
     "netProfitMarginPercentile" : 7.72,
-    "totalTechnicalScore" : 16.21,
+    "totalTechnicalScore" : 16.44,
     "totalFundamentalScore" : 33.40,
-    "totalScore" : 49.61
+    "totalScore" : 49.84
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "TSFINV",
       "companyName" : "Tsf Investments",
-      "marketCap" : 9447.00,
+      "marketCap" : 9435.00,
       "peRatio" : 17.60,
       "description" : "Sundaram Finance Holdings Ltd is primarily engaged in the business of Investments, business processing, and support services. It has a 100% subsidiary which is an outsourcing company offering various support services to large and mid-sized firms in and outside India. [1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma50" : 4.88,
       "pricePercentageAboveDma100" : 5.03,
-      "pricePercentageAboveDma200" : 4.98,
+      "pricePercentageAboveDma200" : 4.99,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 10.86,
       "operatingProfitMarginPercentile" : 19.87,
       "netProfitMarginPercentile" : 9.65,
-      "totalTechnicalScore" : 29.89,
+      "totalTechnicalScore" : 29.91,
       "totalFundamentalScore" : 40.38,
-      "totalScore" : 70.26
+      "totalScore" : 70.28
     }
   },
   "attributes" : {
     "companyCode" : "TSFINV",
     "companyName" : "Tsf Investments",
-    "marketCap" : 9447.00,
+    "marketCap" : 9435.00,
     "peRatio" : 17.60,
     "description" : "Sundaram Finance Holdings Ltd is primarily engaged in the business of Investments, business processing, and support services. It has a 100% subsidiary which is an outsourcing company offering various support services to large and mid-sized firms in and outside India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 527.80,
-    "dma50" : 580.79,
-    "dma100" : null,
-    "dma200" : 479.00,
-    "volume" : 142220.00
-  }, {
     "date" : "2025-11-25",
     "price" : 527.00,
     "dma50" : 578.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 418.40,
     "dma50" : 395.82,
-    "dma100" : 423.72,
+    "dma100" : null,
     "dma200" : 437.39,
     "volume" : 73496.00
   }, {
@@ -1184,7 +1177,7 @@
     "date" : "2026-07-23",
     "price" : 434.75,
     "dma50" : 433.46,
-    "dma100" : 405.05,
+    "dma100" : 405.06,
     "dma200" : 431.34,
     "volume" : 68555.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 427.87,
     "dma200" : 423.95,
     "volume" : 33219.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 424.80,
+    "dma50" : 415.14,
+    "dma100" : 427.61,
+    "dma200" : 423.96,
+    "volume" : 52383.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 425.35,
-    "dma50" : 414.74,
-    "dma100" : 427.87,
-    "dma200" : 423.95,
-    "volume" : 33219.00
+    "date" : "2026-11-23",
+    "price" : 424.80,
+    "dma50" : 415.14,
+    "dma100" : 427.61,
+    "dma200" : 423.96,
+    "volume" : 52383.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2186,15 +2186,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma50" : 4.88,
     "pricePercentageAboveDma100" : 5.03,
-    "pricePercentageAboveDma200" : 4.98,
+    "pricePercentageAboveDma200" : 4.99,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 10.86,
     "operatingProfitMarginPercentile" : 19.87,
     "netProfitMarginPercentile" : 9.65,
-    "totalTechnicalScore" : 29.89,
+    "totalTechnicalScore" : 29.91,
     "totalFundamentalScore" : 40.38,
-    "totalScore" : 70.26
+    "totalScore" : 70.28
   }
 }

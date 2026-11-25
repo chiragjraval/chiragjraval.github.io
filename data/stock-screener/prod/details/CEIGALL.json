@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CEIGALL",
       "companyName" : "Ceigall India",
-      "marketCap" : 6609.00,
-      "peRatio" : 18.60,
+      "marketCap" : 6555.00,
+      "peRatio" : 18.50,
       "description" : "Founded in 2002, Ceigall India Limited is an infrastructure construction company with expertise in specialized structural projects, including elevated roads, flyovers, bridges, railway overpasses, tunnels, highways, expressways, and runways.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.00,
-      "pricePercentageAboveDma100" : 4.77,
-      "pricePercentageAboveDma200" : 4.50,
+      "pricePercentageAboveDma50" : 5.04,
+      "pricePercentageAboveDma100" : 4.81,
+      "pricePercentageAboveDma200" : 4.55,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.00,
       "operatingProfitMarginPercentile" : 10.89,
       "netProfitMarginPercentile" : 5.00,
-      "totalTechnicalScore" : 44.27,
+      "totalTechnicalScore" : 39.40,
       "totalFundamentalScore" : 33.89,
-      "totalScore" : 78.16
+      "totalScore" : 73.29
     }
   },
   "attributes" : {
     "companyCode" : "CEIGALL",
     "companyName" : "Ceigall India",
-    "marketCap" : 6609.00,
-    "peRatio" : 18.60,
+    "marketCap" : 6555.00,
+    "peRatio" : 18.50,
     "description" : "Founded in 2002, Ceigall India Limited is an infrastructure construction company with expertise in specialized structural projects, including elevated roads, flyovers, bridges, railway overpasses, tunnels, highways, expressways, and runways.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 239.90,
-    "dma50" : 253.68,
-    "dma100" : null,
-    "dma200" : 271.98,
-    "volume" : 144455.00
-  }, {
     "date" : "2025-11-25",
     "price" : 238.20,
     "dma50" : 253.08,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 326.35,
     "dma50" : 284.82,
-    "dma100" : 271.14,
+    "dma100" : null,
     "dma200" : 274.35,
     "volume" : 944105.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 363.02,
     "dma200" : 344.72,
     "volume" : 110780.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 376.30,
+    "dma50" : 379.17,
+    "dma100" : 362.87,
+    "dma200" : 345.04,
+    "volume" : 147743.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 379.40,
-    "dma50" : 379.28,
-    "dma100" : 363.02,
-    "dma200" : 344.72,
-    "volume" : 110780.00
+    "date" : "2026-11-23",
+    "price" : 376.30,
+    "dma50" : 379.17,
+    "dma100" : 362.87,
+    "dma200" : 345.04,
+    "volume" : 147743.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-06-30",
@@ -1930,21 +1930,21 @@
     "netProfit" : 81.96
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.00,
-    "pricePercentageAboveDma100" : 4.77,
-    "pricePercentageAboveDma200" : 4.50,
+    "pricePercentageAboveDma50" : 5.04,
+    "pricePercentageAboveDma100" : 4.81,
+    "pricePercentageAboveDma200" : 4.55,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.00,
     "operatingProfitMarginPercentile" : 10.89,
     "netProfitMarginPercentile" : 5.00,
-    "totalTechnicalScore" : 44.27,
+    "totalTechnicalScore" : 39.40,
     "totalFundamentalScore" : 33.89,
-    "totalScore" : 78.16
+    "totalScore" : 73.29
   }
 }

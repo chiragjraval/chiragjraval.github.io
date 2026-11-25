@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHREEPUSHK",
       "companyName" : "Sh.Pushkar Chem.",
-      "marketCap" : 1646.00,
-      "peRatio" : 18.40,
+      "marketCap" : 1665.00,
+      "peRatio" : 18.60,
       "description" : "Incorporated in 1993, Shree Pushkar Chemicals & Fertilisers Ltd in the business of manufacturing and trading of Chemicals and Fertilisers[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 4.58,
-      "pricePercentageAboveDma200" : 4.17,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.53,
+      "pricePercentageAboveDma200" : 4.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.57,
       "operatingProfitMarginPercentile" : 15.40,
       "netProfitMarginPercentile" : 7.40,
-      "totalTechnicalScore" : 38.82,
+      "totalTechnicalScore" : 38.66,
       "totalFundamentalScore" : 42.37,
-      "totalScore" : 81.19
+      "totalScore" : 81.02
     }
   },
   "attributes" : {
     "companyCode" : "SHREEPUSHK",
     "companyName" : "Sh.Pushkar Chem.",
-    "marketCap" : 1646.00,
-    "peRatio" : 18.40,
+    "marketCap" : 1665.00,
+    "peRatio" : 18.60,
     "description" : "Incorporated in 1993, Shree Pushkar Chemicals & Fertilisers Ltd in the business of manufacturing and trading of Chemicals and Fertilisers[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 392.50,
-    "dma50" : 399.50,
-    "dma100" : null,
-    "dma200" : 348.52,
-    "volume" : 78223.00
-  }, {
     "date" : "2025-11-25",
     "price" : 410.00,
     "dma50" : 399.91,
@@ -254,7 +247,7 @@
     "price" : 355.85,
     "dma50" : 387.64,
     "dma100" : null,
-    "dma200" : 357.94,
+    "dma200" : 357.93,
     "volume" : 49539.00
   }, {
     "date" : "2026-01-07",
@@ -611,7 +604,7 @@
     "price" : 298.50,
     "dma50" : 330.29,
     "dma100" : null,
-    "dma200" : 345.69,
+    "dma200" : 345.68,
     "volume" : 33022.00
   }, {
     "date" : "2026-03-23",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 336.35,
     "dma50" : 330.30,
-    "dma100" : 345.55,
+    "dma100" : null,
     "dma200" : 342.56,
     "volume" : 22708.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 469.18,
     "dma200" : 436.90,
     "volume" : 51708.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 514.90,
+    "dma50" : 516.41,
+    "dma100" : 470.25,
+    "dma200" : 437.67,
+    "volume" : 51427.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 509.05,
-    "dma50" : 516.47,
-    "dma100" : 469.18,
-    "dma200" : 436.90,
-    "volume" : 51708.00
+    "date" : "2026-11-23",
+    "price" : 514.90,
+    "dma50" : 516.41,
+    "dma100" : 470.25,
+    "dma200" : 437.67,
+    "volume" : 51427.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-06-30",
@@ -2296,15 +2296,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 4.58,
-    "pricePercentageAboveDma200" : 4.17,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.53,
+    "pricePercentageAboveDma200" : 4.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.57,
     "operatingProfitMarginPercentile" : 15.40,
     "netProfitMarginPercentile" : 7.40,
-    "totalTechnicalScore" : 38.82,
+    "totalTechnicalScore" : 38.66,
     "totalFundamentalScore" : 42.37,
-    "totalScore" : 81.19
+    "totalScore" : 81.02
   }
 }

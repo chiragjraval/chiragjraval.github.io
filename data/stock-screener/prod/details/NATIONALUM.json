@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NATIONALUM",
       "companyName" : "Natl. Aluminium",
-      "marketCap" : 55687.00,
-      "peRatio" : 7.78,
+      "marketCap" : 54851.00,
+      "peRatio" : 7.67,
       "description" : "Incorporated in 1981, National Aluminium Company Limited (NALCO) manufactures and sells Alumina and Aluminium[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.43,
-      "pricePercentageAboveDma100" : 5.66,
-      "pricePercentageAboveDma200" : 5.57,
+      "pricePercentageAboveDma50" : 5.48,
+      "pricePercentageAboveDma100" : 5.72,
+      "pricePercentageAboveDma200" : 5.63,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 16.32,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 21.65,
+      "totalTechnicalScore" : 21.83,
       "totalFundamentalScore" : 39.88,
-      "totalScore" : 61.54
+      "totalScore" : 61.71
     }
   },
   "attributes" : {
     "companyCode" : "NATIONALUM",
     "companyName" : "Natl. Aluminium",
-    "marketCap" : 55687.00,
-    "peRatio" : 7.78,
+    "marketCap" : 54851.00,
+    "peRatio" : 7.67,
     "description" : "Incorporated in 1981, National Aluminium Company Limited (NALCO) manufactures and sells Alumina and Aluminium[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 251.06,
-    "dma50" : 233.39,
-    "dma100" : null,
-    "dma200" : 205.74,
-    "volume" : 9731810.00
-  }, {
     "date" : "2025-11-25",
     "price" : 253.97,
     "dma50" : 234.20,
@@ -163,7 +156,7 @@
     "price" : 279.45,
     "dma50" : 250.77,
     "dma100" : null,
-    "dma200" : 215.43,
+    "dma200" : 215.42,
     "volume" : 9190687.00
   }, {
     "date" : "2025-12-18",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 435.95,
     "dma50" : 386.06,
-    "dma100" : 350.06,
+    "dma100" : null,
     "dma200" : 304.74,
     "volume" : 12994194.00
   }, {
@@ -855,7 +848,7 @@
     "date" : "2026-05-15",
     "price" : 403.60,
     "dma50" : 398.69,
-    "dma100" : 373.80,
+    "dma100" : 373.79,
     "dma200" : 320.96,
     "volume" : 9029314.00
   }, {
@@ -1045,7 +1038,7 @@
     "price" : 348.55,
     "dma50" : 391.69,
     "dma100" : 390.59,
-    "dma200" : 337.92,
+    "dma200" : 337.91,
     "volume" : 14582394.00
   }, {
     "date" : "2026-06-25",
@@ -1254,8 +1247,8 @@
     "date" : "2026-08-06",
     "price" : 381.00,
     "dma50" : 364.35,
-    "dma100" : 385.53,
-    "dma200" : 341.21,
+    "dma100" : 385.52,
+    "dma200" : 341.20,
     "volume" : 6867966.00
   }, {
     "date" : "2026-08-07",
@@ -1618,7 +1611,7 @@
     "date" : "2026-10-22",
     "price" : 310.90,
     "dma50" : 347.02,
-    "dma100" : 361.77,
+    "dma100" : 361.76,
     "dma200" : 347.27,
     "volume" : 3986208.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 349.26,
     "dma200" : 342.06,
     "volume" : 11935329.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 298.65,
+    "dma50" : 330.16,
+    "dma100" : 348.90,
+    "dma200" : 341.62,
+    "volume" : 11900835.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 303.20,
-    "dma50" : 331.44,
-    "dma100" : 349.26,
-    "dma200" : 342.06,
-    "volume" : 11935329.00
+    "date" : "2026-11-23",
+    "price" : 298.65,
+    "dma50" : 330.16,
+    "dma100" : 348.90,
+    "dma200" : 341.62,
+    "volume" : 11900835.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.43,
-    "pricePercentageAboveDma100" : 5.66,
-    "pricePercentageAboveDma200" : 5.57,
+    "pricePercentageAboveDma50" : 5.48,
+    "pricePercentageAboveDma100" : 5.72,
+    "pricePercentageAboveDma200" : 5.63,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 16.32,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 21.65,
+    "totalTechnicalScore" : 21.83,
     "totalFundamentalScore" : 39.88,
-    "totalScore" : 61.54
+    "totalScore" : 61.71
   }
 }

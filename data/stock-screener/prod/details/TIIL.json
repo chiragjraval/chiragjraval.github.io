@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TIIL",
       "companyName" : "Technocraf.Inds.",
-      "marketCap" : 6426.00,
-      "peRatio" : 17.00,
+      "marketCap" : 6332.00,
+      "peRatio" : 16.80,
       "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 4.96,
-      "pricePercentageAboveDma200" : 4.71,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.04,
+      "pricePercentageAboveDma200" : 4.79,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.95,
       "operatingProfitMarginPercentile" : 13.94,
       "netProfitMarginPercentile" : 7.62,
-      "totalTechnicalScore" : 44.59,
+      "totalTechnicalScore" : 34.82,
       "totalFundamentalScore" : 35.51,
-      "totalScore" : 80.10
+      "totalScore" : 70.33
     }
   },
   "attributes" : {
     "companyCode" : "TIIL",
     "companyName" : "Technocraf.Inds.",
-    "marketCap" : 6426.00,
-    "peRatio" : 17.00,
+    "marketCap" : 6332.00,
+    "peRatio" : 16.80,
     "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 2357.30,
-    "dma50" : 2460.72,
-    "dma100" : null,
-    "dma200" : 2648.71,
-    "volume" : 7708.00
-  }, {
     "date" : "2025-11-25",
     "price" : 2401.30,
     "dma50" : 2458.39,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 2533.50,
     "dma50" : 2286.66,
-    "dma100" : 2233.72,
+    "dma100" : null,
     "dma200" : 2391.58,
     "volume" : 5840.00
   }, {
@@ -779,7 +772,7 @@
     "price" : 2499.10,
     "dma50" : 2327.03,
     "dma100" : 2239.43,
-    "dma200" : 2397.31,
+    "dma200" : 2397.30,
     "volume" : 9698.00
   }, {
     "date" : "2026-04-30",
@@ -1198,7 +1191,7 @@
     "date" : "2026-07-27",
     "price" : 2593.00,
     "dma50" : 2516.79,
-    "dma100" : 2430.19,
+    "dma100" : 2430.18,
     "dma200" : 2458.56,
     "volume" : 4864.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2813.05,
     "dma200" : 2681.01,
     "volume" : 18328.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 2792.90,
+    "dma50" : 2787.71,
+    "dma100" : 2815.45,
+    "dma200" : 2682.13,
+    "volume" : 8058.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 2834.20,
-    "dma50" : 2787.49,
-    "dma100" : 2813.05,
-    "dma200" : 2681.01,
-    "volume" : 18328.00
+    "date" : "2026-11-23",
+    "price" : 2792.90,
+    "dma50" : 2787.71,
+    "dma100" : 2815.45,
+    "dma200" : 2682.13,
+    "volume" : 8058.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2591,20 +2591,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 4.96,
-    "pricePercentageAboveDma200" : 4.71,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.04,
+    "pricePercentageAboveDma200" : 4.79,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.95,
     "operatingProfitMarginPercentile" : 13.94,
     "netProfitMarginPercentile" : 7.62,
-    "totalTechnicalScore" : 44.59,
+    "totalTechnicalScore" : 34.82,
     "totalFundamentalScore" : 35.51,
-    "totalScore" : 80.10
+    "totalScore" : 70.33
   }
 }

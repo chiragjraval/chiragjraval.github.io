@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PARACABLES",
       "companyName" : "Paramount Comm.",
-      "marketCap" : 1943.00,
-      "peRatio" : 27.00,
+      "marketCap" : 1869.00,
+      "peRatio" : 26.00,
       "description" : "Paramount Communications Ltd is engaged in manufacturing of Wires and Cables comprising of power cables, telecom cables, railway cables and specialised cables. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.25,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 4.85,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.48,
+      "pricePercentageAboveDma200" : 5.04,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 14.25,
       "netProfitMarginPercentile" : 8.71,
-      "totalTechnicalScore" : 30.41,
+      "totalTechnicalScore" : 25.94,
       "totalFundamentalScore" : 36.70,
-      "totalScore" : 67.11
+      "totalScore" : 62.64
     }
   },
   "attributes" : {
     "companyCode" : "PARACABLES",
     "companyName" : "Paramount Comm.",
-    "marketCap" : 1943.00,
-    "peRatio" : 27.00,
+    "marketCap" : 1869.00,
+    "peRatio" : 26.00,
     "description" : "Paramount Communications Ltd is engaged in manufacturing of Wires and Cables comprising of power cables, telecom cables, railway cables and specialised cables. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 39.04,
-    "dma50" : 43.69,
-    "dma100" : null,
-    "dma200" : 52.75,
-    "volume" : 721476.00
-  }, {
     "date" : "2025-11-25",
     "price" : 39.25,
     "dma50" : 43.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 38.22,
     "dma50" : 35.49,
-    "dma100" : 35.80,
+    "dma100" : null,
     "dma200" : 41.88,
     "volume" : 650717.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 63.36,
     "dma200" : 57.64,
     "volume" : 1513450.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 57.12,
+    "dma50" : 62.33,
+    "dma100" : 63.19,
+    "dma200" : 57.63,
+    "volume" : 1745949.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 59.39,
-    "dma50" : 62.54,
-    "dma100" : 63.36,
-    "dma200" : 57.64,
-    "volume" : 1513450.00
+    "date" : "2026-11-23",
+    "price" : 57.12,
+    "dma50" : 62.33,
+    "dma100" : 63.19,
+    "dma200" : 57.63,
+    "volume" : 1745949.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.25,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 4.85,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.48,
+    "pricePercentageAboveDma200" : 5.04,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 14.25,
     "netProfitMarginPercentile" : 8.71,
-    "totalTechnicalScore" : 30.41,
+    "totalTechnicalScore" : 25.94,
     "totalFundamentalScore" : 36.70,
-    "totalScore" : 67.11
+    "totalScore" : 62.64
   }
 }

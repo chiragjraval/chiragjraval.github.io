@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SWANDEF",
       "companyName" : "Swan Defence",
-      "marketCap" : 15070.00,
-      "peRatio" : 43.10,
+      "marketCap" : 15091.00,
+      "peRatio" : 43.20,
       "description" : "Incorporated in 1997, Swan Defence and Heavy Industries Ltd is engaged in the construction of vessels, repairs, and refits of ships and rigs and heavy engineering[1]"
     },
     "companyScore" : {
@@ -22,31 +22,24 @@
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.77,
       "pricePercentageAboveDma100" : 4.47,
-      "pricePercentageAboveDma200" : 3.29,
+      "pricePercentageAboveDma200" : 3.31,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.94,
       "operatingProfitMarginPercentile" : 19.82,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 42.53,
+      "totalTechnicalScore" : 42.55,
       "totalFundamentalScore" : 43.76,
-      "totalScore" : 86.29
+      "totalScore" : 86.31
     }
   },
   "attributes" : {
     "companyCode" : "SWANDEF",
     "companyName" : "Swan Defence",
-    "marketCap" : 15070.00,
-    "peRatio" : 43.10,
+    "marketCap" : 15091.00,
+    "peRatio" : 43.20,
     "description" : "Incorporated in 1997, Swan Defence and Heavy Industries Ltd is engaged in the construction of vessels, repairs, and refits of ships and rigs and heavy engineering[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 1087.85,
-    "dma50" : 501.48,
-    "dma100" : null,
-    "dma200" : 188.00,
-    "volume" : 53781.00
-  }, {
     "date" : "2025-12-01",
     "price" : 1142.20,
     "dma50" : 526.60,
@@ -65,7 +58,7 @@
     "price" : 1259.20,
     "dma50" : 580.68,
     "dma100" : null,
-    "dma200" : 217.92,
+    "dma200" : 217.93,
     "volume" : 6834.00
   }, {
     "date" : "2025-12-22",
@@ -163,7 +156,7 @@
     "price" : 1789.80,
     "dma50" : 1060.83,
     "dma100" : null,
-    "dma200" : 409.26,
+    "dma200" : 409.27,
     "volume" : 15501.00
   }, {
     "date" : "2026-02-23",
@@ -254,14 +247,14 @@
     "price" : 2279.20,
     "dma50" : 1496.17,
     "dma100" : null,
-    "dma200" : 616.62,
+    "dma200" : 616.63,
     "volume" : 6587.00
   }, {
     "date" : "2026-03-19",
     "price" : 2165.30,
     "dma50" : 1522.41,
     "dma100" : null,
-    "dma200" : 632.03,
+    "dma200" : 632.04,
     "volume" : 3623.00
   }, {
     "date" : "2026-03-20",
@@ -408,7 +401,7 @@
     "price" : 1819.20,
     "dma50" : 1688.67,
     "dma100" : null,
-    "dma200" : 855.13,
+    "dma200" : 855.14,
     "volume" : 8939.00
   }, {
     "date" : "2026-04-24",
@@ -499,7 +492,7 @@
     "price" : 1895.00,
     "dma50" : 1761.00,
     "dma100" : null,
-    "dma200" : 978.19,
+    "dma200" : 978.20,
     "volume" : 8387.00
   }, {
     "date" : "2026-05-14",
@@ -743,7 +736,7 @@
     "date" : "2026-07-03",
     "price" : 2339.80,
     "dma50" : 2003.53,
-    "dma100" : 1901.27,
+    "dma100" : null,
     "dma200" : 1294.59,
     "volume" : 36135.00
   }, {
@@ -877,7 +870,7 @@
     "price" : 2435.00,
     "dma50" : 2172.81,
     "dma100" : 2034.05,
-    "dma200" : 1470.37,
+    "dma200" : 1470.38,
     "volume" : 72393.00
   }, {
     "date" : "2026-07-31",
@@ -1087,7 +1080,7 @@
     "price" : 2662.80,
     "dma50" : 2382.57,
     "dma100" : 2192.22,
-    "dma200" : 1730.35,
+    "dma200" : 1730.36,
     "volume" : 24403.00
   }, {
     "date" : "2026-09-11",
@@ -1395,7 +1388,7 @@
     "price" : 2791.50,
     "dma50" : 2714.66,
     "dma100" : 2558.09,
-    "dma200" : 2102.84,
+    "dma200" : 2102.85,
     "volume" : 11714.00
   }, {
     "date" : "2026-11-17",
@@ -1425,14 +1418,21 @@
     "dma100" : 2584.57,
     "dma200" : 2132.23,
     "volume" : 18558.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 2864.60,
+    "dma50" : 2740.14,
+    "dma100" : 2590.67,
+    "dma200" : 2139.52,
+    "volume" : 7038.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 2860.60,
-    "dma50" : 2735.06,
-    "dma100" : 2584.57,
-    "dma200" : 2132.23,
-    "volume" : 18558.00
+    "date" : "2026-11-23",
+    "price" : 2864.60,
+    "dma50" : 2740.14,
+    "dma100" : 2590.67,
+    "dma200" : 2139.52,
+    "volume" : 7038.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-12-31",
@@ -2155,13 +2155,13 @@
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.77,
     "pricePercentageAboveDma100" : 4.47,
-    "pricePercentageAboveDma200" : 3.29,
+    "pricePercentageAboveDma200" : 3.31,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.94,
     "operatingProfitMarginPercentile" : 19.82,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 42.53,
+    "totalTechnicalScore" : 42.55,
     "totalFundamentalScore" : 43.76,
-    "totalScore" : 86.29
+    "totalScore" : 86.31
   }
 }

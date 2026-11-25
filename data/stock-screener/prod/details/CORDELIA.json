@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CORDELIA",
       "companyName" : "Waterways Leisur",
-      "marketCap" : 6212.00,
-      "peRatio" : 86.20,
+      "marketCap" : 6122.00,
+      "peRatio" : 85.00,
       "description" : "Waterways Leisure Tourism Limited (WLTL) is the pioneer in delivering luxury cruise holidays for Indians in India. A multi-destination cruise operator, WLTL brings the international cruising experience to India through excellence in service and niche itineraries. India’s finest entertainment shows, exquisite cuisines, and unmatched hospitality have been curated for Indian and international travellers. WLTL operates Cordelia Cruises in India.[1]"
     },
     "companyScore" : {
@@ -19,24 +19,24 @@
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.38,
-      "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.89,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.43,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 4.96,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 8.00,
       "netProfitMarginPercentile" : 4.23,
-      "totalTechnicalScore" : 20.27,
+      "totalTechnicalScore" : 30.86,
       "totalFundamentalScore" : 32.23,
-      "totalScore" : 52.51
+      "totalScore" : 63.09
     }
   },
   "attributes" : {
     "companyCode" : "CORDELIA",
     "companyName" : "Waterways Leisur",
-    "marketCap" : 6212.00,
-    "peRatio" : 86.20,
+    "marketCap" : 6122.00,
+    "peRatio" : 85.00,
     "description" : "Waterways Leisure Tourism Limited (WLTL) is the pioneer in delivering luxury cruise holidays for Indians in India. A multi-destination cruise operator, WLTL brings the international cruising experience to India through excellence in service and niche itineraries. India’s finest entertainment shows, exquisite cuisines, and unmatched hospitality have been curated for Indian and international travellers. WLTL operates Cordelia Cruises in India.[1]"
   },
   "technicalHistory" : [ {
@@ -739,14 +739,21 @@
     "dma100" : null,
     "dma200" : 83.92,
     "volume" : 532462.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 84.56,
+    "dma50" : 92.60,
+    "dma100" : 93.15,
+    "dma200" : 83.93,
+    "volume" : 453134.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 85.81,
-    "dma50" : 92.93,
-    "dma100" : null,
-    "dma200" : 83.92,
-    "volume" : 532462.00
+    "date" : "2026-11-23",
+    "price" : 84.56,
+    "dma50" : 92.60,
+    "dma100" : 93.15,
+    "dma200" : 83.93,
+    "volume" : 453134.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -816,16 +823,16 @@
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
-    "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.38,
-    "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.89,
+    "dma100HigherThanDma200" : 5.00,
+    "pricePercentageAboveDma50" : 5.43,
+    "pricePercentageAboveDma100" : 5.46,
+    "pricePercentageAboveDma200" : 4.96,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 8.00,
     "netProfitMarginPercentile" : 4.23,
-    "totalTechnicalScore" : 20.27,
+    "totalTechnicalScore" : 30.86,
     "totalFundamentalScore" : 32.23,
-    "totalScore" : 52.51
+    "totalScore" : 63.09
   }
 }

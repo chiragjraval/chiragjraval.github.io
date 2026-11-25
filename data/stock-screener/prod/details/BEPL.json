@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "BEPL",
       "companyName" : "Bhansali Engg.",
-      "marketCap" : 2738.00,
+      "marketCap" : 2728.00,
       "peRatio" : 12.30,
       "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.35,
-      "pricePercentageAboveDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.38,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 25.60,
+      "totalTechnicalScore" : 25.65,
       "totalFundamentalScore" : 41.56,
-      "totalScore" : 67.16
+      "totalScore" : 67.21
     }
   },
   "attributes" : {
     "companyCode" : "BEPL",
     "companyName" : "Bhansali Engg.",
-    "marketCap" : 2738.00,
+    "marketCap" : 2728.00,
     "peRatio" : 12.30,
     "description" : "Bhansali Engineering Polymers Ltd is engaged in manufacturing and sale of ABS Resins, AES Resins, ASA resins, SAN resins and their alloys with other plastics in the Indian market. Its customers include leading companies dealing in Automobiles, Home Appliances, Electronics, Healthcare and Kitchenware.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 90.36,
-    "dma50" : 99.21,
-    "dma100" : null,
-    "dma200" : 108.67,
-    "volume" : 316651.00
-  }, {
     "date" : "2025-11-25",
     "price" : 91.21,
     "dma50" : 98.90,
@@ -296,7 +289,7 @@
     "price" : 85.87,
     "dma50" : 91.12,
     "dma100" : null,
-    "dma200" : 102.73,
+    "dma200" : 102.72,
     "volume" : 192238.00
   }, {
     "date" : "2026-01-16",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 102.66,
     "dma50" : 88.56,
-    "dma100" : 86.82,
+    "dma100" : null,
     "dma200" : 94.88,
     "volume" : 533364.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 118.40,
     "dma200" : 110.11,
     "volume" : 334663.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 109.61,
+    "dma50" : 115.43,
+    "dma100" : 118.52,
+    "dma200" : 110.10,
+    "volume" : 316589.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 110.04,
-    "dma50" : 115.67,
-    "dma100" : 118.40,
-    "dma200" : 110.11,
-    "volume" : 334663.00
+    "date" : "2026-11-23",
+    "price" : 109.61,
+    "dma50" : 115.43,
+    "dma100" : 118.52,
+    "dma200" : 110.10,
+    "volume" : 316589.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.35,
-    "pricePercentageAboveDma200" : 5.00,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.38,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 25.60,
+    "totalTechnicalScore" : 25.65,
     "totalFundamentalScore" : 41.56,
-    "totalScore" : 67.16
+    "totalScore" : 67.21
   }
 }

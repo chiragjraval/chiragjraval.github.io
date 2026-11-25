@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SSWL",
       "companyName" : "Steel Str. Wheel",
-      "marketCap" : 8253.00,
-      "peRatio" : 27.20,
+      "marketCap" : 7713.00,
+      "peRatio" : 25.40,
       "description" : "**Company Overview ** Steel Strips Wheels Ltd was incorporated in 1985 and started its operations in 1991. It designs, manufactures, and supplies Steel Wheel Rims and Alloy Wheels for a wide range of domestic and global automobile makers. It is Headquarter in Chandigarh. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.34,
-      "pricePercentageAboveDma100" : 2.97,
-      "pricePercentageAboveDma200" : 2.07,
+      "pricePercentageAboveDma50" : 4.72,
+      "pricePercentageAboveDma100" : 3.47,
+      "pricePercentageAboveDma200" : 2.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.07,
       "operatingProfitMarginPercentile" : 10.80,
       "netProfitMarginPercentile" : 8.88,
-      "totalTechnicalScore" : 39.37,
+      "totalTechnicalScore" : 40.81,
       "totalFundamentalScore" : 37.75,
-      "totalScore" : 77.13
+      "totalScore" : 78.57
     }
   },
   "attributes" : {
     "companyCode" : "SSWL",
     "companyName" : "Steel Str. Wheel",
-    "marketCap" : 8253.00,
-    "peRatio" : 27.20,
+    "marketCap" : 7713.00,
+    "peRatio" : 25.40,
     "description" : "**Company Overview ** Steel Strips Wheels Ltd was incorporated in 1985 and started its operations in 1991. It designs, manufactures, and supplies Steel Wheel Rims and Alloy Wheels for a wide range of domestic and global automobile makers. It is Headquarter in Chandigarh. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 193.92,
-    "dma50" : 219.33,
-    "dma100" : null,
-    "dma200" : 222.20,
-    "volume" : 206307.00
-  }, {
     "date" : "2025-11-25",
     "price" : 193.03,
     "dma50" : 218.29,
@@ -562,7 +555,7 @@
     "price" : 195.44,
     "dma50" : 206.63,
     "dma100" : null,
-    "dma200" : 212.20,
+    "dma200" : 212.19,
     "volume" : 110528.00
   }, {
     "date" : "2026-03-12",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 216.28,
     "dma50" : 201.73,
-    "dma100" : 199.93,
+    "dma100" : null,
     "dma200" : 208.49,
     "volume" : 228899.00
   }, {
@@ -996,7 +989,7 @@
     "price" : 234.84,
     "dma50" : 213.11,
     "dma100" : 206.62,
-    "dma200" : 210.41,
+    "dma200" : 210.40,
     "volume" : 1408738.00
   }, {
     "date" : "2026-06-16",
@@ -1768,14 +1761,21 @@
     "dma100" : 373.00,
     "dma200" : 330.85,
     "volume" : 407982.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 490.45,
+    "dma50" : 464.36,
+    "dma100" : 375.43,
+    "dma200" : 332.44,
+    "volume" : 1735164.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 524.80,
-    "dma50" : 463.29,
-    "dma100" : 373.00,
-    "dma200" : 330.85,
-    "volume" : 407982.00
+    "date" : "2026-11-23",
+    "price" : 490.45,
+    "dma50" : 464.36,
+    "dma100" : 375.43,
+    "dma200" : 332.44,
+    "volume" : 1735164.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.34,
-    "pricePercentageAboveDma100" : 2.97,
-    "pricePercentageAboveDma200" : 2.07,
+    "pricePercentageAboveDma50" : 4.72,
+    "pricePercentageAboveDma100" : 3.47,
+    "pricePercentageAboveDma200" : 2.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.07,
     "operatingProfitMarginPercentile" : 10.80,
     "netProfitMarginPercentile" : 8.88,
-    "totalTechnicalScore" : 39.37,
+    "totalTechnicalScore" : 40.81,
     "totalFundamentalScore" : 37.75,
-    "totalScore" : 77.13
+    "totalScore" : 78.57
   }
 }

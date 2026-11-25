@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IBULLSLTD",
       "companyName" : "Indiabulls",
-      "marketCap" : 6738.00,
-      "peRatio" : 10.60,
+      "marketCap" : 6763.00,
+      "peRatio" : 10.70,
       "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 4.23,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.22,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.06,
       "operatingProfitMarginPercentile" : 19.70,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 39.58,
+      "totalTechnicalScore" : 39.52,
       "totalFundamentalScore" : 43.97,
-      "totalScore" : 83.55
+      "totalScore" : 83.49
     }
   },
   "attributes" : {
     "companyCode" : "IBULLSLTD",
     "companyName" : "Indiabulls",
-    "marketCap" : 6738.00,
-    "peRatio" : 10.60,
+    "marketCap" : 6763.00,
+    "peRatio" : 10.70,
     "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 19.96,
-    "dma50" : 18.01,
-    "dma100" : null,
-    "dma200" : 15.85,
-    "volume" : 38380.00
-  }, {
     "date" : "2025-12-01",
     "price" : 19.02,
     "dma50" : 18.05,
@@ -492,7 +485,7 @@
     "price" : 9.25,
     "dma50" : 11.66,
     "dma100" : null,
-    "dma200" : 14.26,
+    "dma200" : 14.27,
     "volume" : 6358207.00
   }, {
     "date" : "2026-03-10",
@@ -534,7 +527,7 @@
     "price" : 9.85,
     "dma50" : 11.30,
     "dma100" : null,
-    "dma200" : 14.01,
+    "dma200" : 14.02,
     "volume" : 16882725.00
   }, {
     "date" : "2026-03-18",
@@ -743,7 +736,7 @@
     "date" : "2026-05-05",
     "price" : 21.92,
     "dma50" : 14.01,
-    "dma100" : 13.12,
+    "dma100" : null,
     "dma200" : 14.06,
     "volume" : 47879814.00
   }, {
@@ -800,7 +793,7 @@
     "price" : 19.24,
     "dma50" : 15.66,
     "dma100" : 13.25,
-    "dma200" : 14.52,
+    "dma200" : 14.53,
     "volume" : 6273061.00
   }, {
     "date" : "2026-05-18",
@@ -1712,14 +1705,21 @@
     "dma100" : 29.50,
     "dma200" : 25.03,
     "volume" : 41254773.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 29.00,
+    "dma50" : 30.30,
+    "dma100" : 29.52,
+    "dma200" : 25.07,
+    "volume" : 10963021.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 28.89,
-    "dma50" : 30.36,
-    "dma100" : 29.50,
-    "dma200" : 25.03,
-    "volume" : 41254773.00
+    "date" : "2026-11-23",
+    "price" : 29.00,
+    "dma50" : 30.30,
+    "dma100" : 29.52,
+    "dma200" : 25.07,
+    "volume" : 10963021.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2400,15 +2400,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 4.23,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.22,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.06,
     "operatingProfitMarginPercentile" : 19.70,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 39.58,
+    "totalTechnicalScore" : 39.52,
     "totalFundamentalScore" : 43.97,
-    "totalScore" : 83.55
+    "totalScore" : 83.49
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PFOCUS",
       "companyName" : "Prime Focus",
-      "marketCap" : 19680.00,
-      "peRatio" : 87.60,
+      "marketCap" : 18430.00,
+      "peRatio" : 82.10,
       "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.57,
-      "pricePercentageAboveDma100" : 5.61,
-      "pricePercentageAboveDma200" : 5.30,
+      "pricePercentageAboveDma50" : 5.82,
+      "pricePercentageAboveDma100" : 5.89,
+      "pricePercentageAboveDma200" : 5.59,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.75,
       "operatingProfitMarginPercentile" : 13.59,
       "netProfitMarginPercentile" : 1.68,
-      "totalTechnicalScore" : 31.47,
+      "totalTechnicalScore" : 32.30,
       "totalFundamentalScore" : 26.02,
-      "totalScore" : 57.49
+      "totalScore" : 58.32
     }
   },
   "attributes" : {
     "companyCode" : "PFOCUS",
     "companyName" : "Prime Focus",
-    "marketCap" : 19680.00,
-    "peRatio" : 87.60,
+    "marketCap" : 18430.00,
+    "peRatio" : 82.10,
     "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 166.19,
-    "dma50" : 171.29,
-    "dma100" : null,
-    "dma200" : 148.75,
-    "volume" : 4160396.00
-  }, {
     "date" : "2025-11-25",
     "price" : 170.12,
     "dma50" : 171.24,
@@ -562,7 +555,7 @@
     "price" : 275.55,
     "dma50" : 251.28,
     "dma100" : null,
-    "dma200" : 196.79,
+    "dma200" : 196.78,
     "volume" : 2799752.00
   }, {
     "date" : "2026-03-12",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 332.50,
     "dma50" : 295.67,
-    "dma100" : 254.77,
+    "dma100" : null,
     "dma200" : 223.73,
     "volume" : 718538.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 287.75,
     "dma200" : 268.55,
     "volume" : 5122406.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 236.65,
+    "dma50" : 283.01,
+    "dma100" : 287.80,
+    "dma200" : 268.23,
+    "volume" : 4554339.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 252.70,
-    "dma50" : 284.91,
-    "dma100" : 287.75,
-    "dma200" : 268.55,
-    "volume" : 5122406.00
+    "date" : "2026-11-23",
+    "price" : 236.65,
+    "dma50" : 283.01,
+    "dma100" : 287.80,
+    "dma200" : 268.23,
+    "volume" : 4554339.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2636,15 +2636,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.57,
-    "pricePercentageAboveDma100" : 5.61,
-    "pricePercentageAboveDma200" : 5.30,
+    "pricePercentageAboveDma50" : 5.82,
+    "pricePercentageAboveDma100" : 5.89,
+    "pricePercentageAboveDma200" : 5.59,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.75,
     "operatingProfitMarginPercentile" : 13.59,
     "netProfitMarginPercentile" : 1.68,
-    "totalTechnicalScore" : 31.47,
+    "totalTechnicalScore" : 32.30,
     "totalFundamentalScore" : 26.02,
-    "totalScore" : 57.49
+    "totalScore" : 58.32
   }
 }

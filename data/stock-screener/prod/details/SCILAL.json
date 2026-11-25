@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SCILAL",
       "companyName" : "Shipping Land",
-      "marketCap" : 1661.00,
-      "peRatio" : 46.00,
+      "marketCap" : 1638.00,
+      "peRatio" : 45.40,
       "description" : "Incorporated in 2021, Shipping Corporation of India Land & Assets Ltd was formed as a wholly owned subsidiary of The Shipping Corporation of India Limited (SCI) with the object of holding and disposing the Non-Core Assets of SCI distinct from the disinvestment transaction[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.19,
-      "pricePercentageAboveDma100" : 5.43,
-      "pricePercentageAboveDma200" : 5.70,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 5.48,
+      "pricePercentageAboveDma200" : 5.75,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.67,
       "operatingProfitMarginPercentile" : 17.67,
       "netProfitMarginPercentile" : 9.48,
-      "totalTechnicalScore" : 16.31,
+      "totalTechnicalScore" : 16.47,
       "totalFundamentalScore" : 38.82,
-      "totalScore" : 55.13
+      "totalScore" : 55.29
     }
   },
   "attributes" : {
     "companyCode" : "SCILAL",
     "companyName" : "Shipping Land",
-    "marketCap" : 1661.00,
-    "peRatio" : 46.00,
+    "marketCap" : 1638.00,
+    "peRatio" : 45.40,
     "description" : "Incorporated in 2021, Shipping Corporation of India Land & Assets Ltd was formed as a wholly owned subsidiary of The Shipping Corporation of India Limited (SCI) with the object of holding and disposing the Non-Core Assets of SCI distinct from the disinvestment transaction[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 47.84,
-    "dma50" : 49.93,
-    "dma100" : null,
-    "dma200" : 52.68,
-    "volume" : 451664.00
-  }, {
     "date" : "2025-11-25",
     "price" : 47.55,
     "dma50" : 49.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 46.92,
     "dma50" : 43.59,
-    "dma100" : 44.94,
+    "dma100" : null,
     "dma200" : 47.48,
     "volume" : 418198.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 38.98,
     "dma200" : 41.46,
     "volume" : 259414.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 35.17,
+    "dma50" : 36.96,
+    "dma100" : 38.89,
+    "dma200" : 41.40,
+    "volume" : 141558.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 35.65,
-    "dma50" : 37.03,
-    "dma100" : 38.98,
-    "dma200" : 41.46,
-    "volume" : 259414.00
+    "date" : "2026-11-23",
+    "price" : 35.17,
+    "dma50" : 36.96,
+    "dma100" : 38.89,
+    "dma200" : 41.40,
+    "volume" : 141558.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-12-31",
@@ -1956,15 +1956,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.19,
-    "pricePercentageAboveDma100" : 5.43,
-    "pricePercentageAboveDma200" : 5.70,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 5.48,
+    "pricePercentageAboveDma200" : 5.75,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.67,
     "operatingProfitMarginPercentile" : 17.67,
     "netProfitMarginPercentile" : 9.48,
-    "totalTechnicalScore" : 16.31,
+    "totalTechnicalScore" : 16.47,
     "totalFundamentalScore" : 38.82,
-    "totalScore" : 55.13
+    "totalScore" : 55.29
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AEROFLEX",
       "companyName" : "Aeroflex",
-      "marketCap" : 6260.00,
-      "peRatio" : 70.00,
+      "marketCap" : 6141.00,
+      "peRatio" : 68.60,
       "description" : "Incorporated in 1993, Aeroflex Industries Limited, manufactures and supplies environment-friendly metallic flexible flow solution products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.31,
-      "pricePercentageAboveDma100" : 5.16,
-      "pricePercentageAboveDma200" : 4.34,
+      "pricePercentageAboveDma50" : 5.39,
+      "pricePercentageAboveDma100" : 5.25,
+      "pricePercentageAboveDma200" : 4.45,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 18.82,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 34.81,
+      "totalTechnicalScore" : 35.09,
       "totalFundamentalScore" : 48.82,
-      "totalScore" : 83.63
+      "totalScore" : 83.91
     }
   },
   "attributes" : {
     "companyCode" : "AEROFLEX",
     "companyName" : "Aeroflex",
-    "marketCap" : 6260.00,
-    "peRatio" : 70.00,
+    "marketCap" : 6141.00,
+    "peRatio" : 68.60,
     "description" : "Incorporated in 1993, Aeroflex Industries Limited, manufactures and supplies environment-friendly metallic flexible flow solution products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 173.91,
-    "dma50" : 180.86,
-    "dma100" : null,
-    "dma200" : 182.91,
-    "volume" : 288490.00
-  }, {
     "date" : "2025-11-25",
     "price" : 184.37,
     "dma50" : 181.00,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 304.52,
     "dma50" : 245.20,
-    "dma100" : 210.29,
+    "dma100" : null,
     "dma200" : 206.17,
     "volume" : 3497770.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 488.99,
     "dma200" : 417.61,
     "volume" : 1190831.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 464.05,
+    "dma50" : 502.77,
+    "dma100" : 488.75,
+    "dma200" : 418.08,
+    "volume" : 1628836.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 473.05,
-    "dma50" : 504.35,
-    "dma100" : 488.99,
-    "dma200" : 417.61,
-    "volume" : 1190831.00
+    "date" : "2026-11-23",
+    "price" : 464.05,
+    "dma50" : 502.77,
+    "dma100" : 488.75,
+    "dma200" : 418.08,
+    "volume" : 1628836.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1966,15 +1966,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.31,
-    "pricePercentageAboveDma100" : 5.16,
-    "pricePercentageAboveDma200" : 4.34,
+    "pricePercentageAboveDma50" : 5.39,
+    "pricePercentageAboveDma100" : 5.25,
+    "pricePercentageAboveDma200" : 4.45,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 18.82,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 34.81,
+    "totalTechnicalScore" : 35.09,
     "totalFundamentalScore" : 48.82,
-    "totalScore" : 83.63
+    "totalScore" : 83.91
   }
 }

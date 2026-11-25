@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JTLIND",
       "companyName" : "JTL Industries",
-      "marketCap" : 2846.00,
-      "peRatio" : 25.80,
+      "marketCap" : 2877.00,
+      "peRatio" : 26.00,
       "description" : "JTL Infra Ltd is an integrated manufacturer and supplier of steel tubes, pipes and allied products with manufacturing facilities in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.37,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma50" : 5.23,
+      "pricePercentageAboveDma100" : 5.31,
+      "pricePercentageAboveDma200" : 5.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.55,
       "operatingProfitMarginPercentile" : 16.06,
       "netProfitMarginPercentile" : 8.33,
-      "totalTechnicalScore" : 25.78,
+      "totalTechnicalScore" : 25.61,
       "totalFundamentalScore" : 37.94,
-      "totalScore" : 63.72
+      "totalScore" : 63.55
     }
   },
   "attributes" : {
     "companyCode" : "JTLIND",
     "companyName" : "JTL Industries",
-    "marketCap" : 2846.00,
-    "peRatio" : 25.80,
+    "marketCap" : 2877.00,
+    "peRatio" : 26.00,
     "description" : "JTL Infra Ltd is an integrated manufacturer and supplier of steel tubes, pipes and allied products with manufacturing facilities in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 63.08,
-    "dma50" : 67.74,
-    "dma100" : null,
-    "dma200" : 76.55,
-    "volume" : 865318.00
-  }, {
     "date" : "2025-11-25",
     "price" : 63.20,
     "dma50" : 67.56,
@@ -730,7 +723,7 @@
     "price" : 67.94,
     "dma50" : 59.04,
     "dma100" : null,
-    "dma200" : 66.70,
+    "dma200" : 66.69,
     "volume" : 3587078.00
   }, {
     "date" : "2026-04-21",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 71.40,
     "dma50" : 59.97,
-    "dma100" : 61.71,
+    "dma100" : null,
     "dma200" : 66.78,
     "volume" : 3311443.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 80.36,
     "dma200" : 76.40,
     "volume" : 2450641.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 75.31,
+    "dma50" : 78.95,
+    "dma100" : 80.31,
+    "dma200" : 76.39,
+    "volume" : 12193166.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 74.49,
-    "dma50" : 79.10,
-    "dma100" : 80.36,
-    "dma200" : 76.40,
-    "volume" : 2450641.00
+    "date" : "2026-11-23",
+    "price" : 75.31,
+    "dma50" : 78.95,
+    "dma100" : 80.31,
+    "dma200" : 76.39,
+    "volume" : 12193166.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2456,15 +2456,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.37,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma50" : 5.23,
+    "pricePercentageAboveDma100" : 5.31,
+    "pricePercentageAboveDma200" : 5.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.55,
     "operatingProfitMarginPercentile" : 16.06,
     "netProfitMarginPercentile" : 8.33,
-    "totalTechnicalScore" : 25.78,
+    "totalTechnicalScore" : 25.61,
     "totalFundamentalScore" : 37.94,
-    "totalScore" : 63.72
+    "totalScore" : 63.55
   }
 }

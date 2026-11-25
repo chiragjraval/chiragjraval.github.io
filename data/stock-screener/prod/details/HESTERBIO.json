@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "HESTERBIO",
       "companyName" : "Hester Bios",
-      "marketCap" : 1982.00,
-      "peRatio" : 33.80,
+      "marketCap" : 1878.00,
+      "peRatio" : 32.00,
       "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.41,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 4.71,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.18,
       "operatingProfitMarginPercentile" : 9.30,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 39.19,
+      "totalTechnicalScore" : 30.02,
       "totalFundamentalScore" : 30.92,
-      "totalScore" : 70.11
+      "totalScore" : 60.94
     }
   },
   "attributes" : {
     "companyCode" : "HESTERBIO",
     "companyName" : "Hester Bios",
-    "marketCap" : 1982.00,
-    "peRatio" : 33.80,
+    "marketCap" : 1878.00,
+    "peRatio" : 32.00,
     "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 1643.00,
-    "dma50" : 1747.06,
-    "dma100" : null,
-    "dma200" : 1866.14,
-    "volume" : 2678.00
-  }, {
     "date" : "2025-11-25",
     "price" : 1646.90,
     "dma50" : 1743.13,
@@ -737,13 +730,13 @@
     "price" : 1501.90,
     "dma50" : 1466.10,
     "dma100" : null,
-    "dma200" : 1635.66,
+    "dma200" : 1635.65,
     "volume" : 2898.00
   }, {
     "date" : "2026-04-22",
     "price" : 1489.40,
     "dma50" : 1467.01,
-    "dma100" : 1517.27,
+    "dma100" : null,
     "dma200" : 1634.20,
     "volume" : 6695.00
   }, {
@@ -1129,7 +1122,7 @@
     "price" : 2545.00,
     "dma50" : 1991.00,
     "dma100" : 1727.27,
-    "dma200" : 1776.65,
+    "dma200" : 1776.64,
     "volume" : 513087.00
   }, {
     "date" : "2026-07-14",
@@ -1768,14 +1761,21 @@
     "dma100" : 2297.33,
     "dma200" : 2083.41,
     "volume" : 5555.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 2207.30,
+    "dma50" : 2262.39,
+    "dma100" : 2297.42,
+    "dma200" : 2084.64,
+    "volume" : 9734.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 2329.90,
-    "dma50" : 2264.64,
-    "dma100" : 2297.33,
-    "dma200" : 2083.41,
-    "volume" : 5555.00
+    "date" : "2026-11-23",
+    "price" : 2207.30,
+    "dma50" : 2262.39,
+    "dma100" : 2297.42,
+    "dma200" : 2084.64,
+    "volume" : 9734.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 16.66
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.41,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 4.71,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.18,
     "operatingProfitMarginPercentile" : 9.30,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 39.19,
+    "totalTechnicalScore" : 30.02,
     "totalFundamentalScore" : 30.92,
-    "totalScore" : 70.11
+    "totalScore" : 60.94
   }
 }

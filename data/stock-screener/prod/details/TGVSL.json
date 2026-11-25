@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TGVSL",
       "companyName" : "TGV Sraac",
-      "marketCap" : 1333.00,
-      "peRatio" : 8.47,
+      "marketCap" : 1343.00,
+      "peRatio" : 8.53,
       "description" : "Incorporated in 1981, TGV Sraac Ltd is a producer of Chlor-Alkali products, Chloromethane and also manufactures Castor Derivatives and Fatty Acids[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.70,
-      "pricePercentageAboveDma100" : 4.40,
-      "pricePercentageAboveDma200" : 4.33,
+      "pricePercentageAboveDma50" : 4.67,
+      "pricePercentageAboveDma100" : 4.36,
+      "pricePercentageAboveDma200" : 4.29,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 15.40,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 48.42,
+      "totalTechnicalScore" : 48.33,
       "totalFundamentalScore" : 38.33,
-      "totalScore" : 86.76
+      "totalScore" : 86.67
     }
   },
   "attributes" : {
     "companyCode" : "TGVSL",
     "companyName" : "TGV Sraac",
-    "marketCap" : 1333.00,
-    "peRatio" : 8.47,
+    "marketCap" : 1343.00,
+    "peRatio" : 8.53,
     "description" : "Incorporated in 1981, TGV Sraac Ltd is a producer of Chlor-Alkali products, Chloromethane and also manufactures Castor Derivatives and Fatty Acids[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 113.45,
-    "dma50" : 118.16,
-    "dma100" : null,
-    "dma200" : 112.03,
-    "volume" : 119996.00
-  }, {
     "date" : "2025-11-25",
     "price" : 113.00,
     "dma50" : 117.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 107.06,
     "dma50" : 95.80,
-    "dma100" : 98.07,
+    "dma100" : null,
     "dma200" : 102.08,
     "volume" : 166060.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 111.03,
     "dma200" : 109.71,
     "volume" : 255629.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 125.39,
+    "dma50" : 117.72,
+    "dma100" : 111.26,
+    "dma200" : 109.87,
+    "volume" : 379561.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 124.45,
-    "dma50" : 117.40,
-    "dma100" : 111.03,
-    "dma200" : 109.71,
-    "volume" : 255629.00
+    "date" : "2026-11-23",
+    "price" : 125.39,
+    "dma50" : 117.72,
+    "dma100" : 111.26,
+    "dma200" : 109.87,
+    "volume" : 379561.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.70,
-    "pricePercentageAboveDma100" : 4.40,
-    "pricePercentageAboveDma200" : 4.33,
+    "pricePercentageAboveDma50" : 4.67,
+    "pricePercentageAboveDma100" : 4.36,
+    "pricePercentageAboveDma200" : 4.29,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 15.40,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 48.42,
+    "totalTechnicalScore" : 48.33,
     "totalFundamentalScore" : 38.33,
-    "totalScore" : 86.76
+    "totalScore" : 86.67
   }
 }

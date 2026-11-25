@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GAIL",
       "companyName" : "GAIL (India)",
-      "marketCap" : 125874.00,
-      "peRatio" : 9.97,
+      "marketCap" : 122034.00,
+      "peRatio" : 9.67,
       "description" : "Incorporated in 1984, GAIL, a Government of India undertaking, is an integrated natural gas company in India. It owns over 11,500 km of natural gas pipelines, over 2300 km of LPG pipelines, six LPG gas-processing units and a petrochemicals facility. It also has a joint-venture interest in Petronet LNG Ltd, Ratnagiri Gas and Power Pvt Ltd, and in the CGD business in several cities. GAIL has wholly owned subsidiaries in Singapore and the US for expanding its presence outside India in the segments of LNG, petrochemical trading and shale gas assets."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.61,
-      "pricePercentageAboveDma100" : 4.51,
-      "pricePercentageAboveDma200" : 4.45,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 4.68,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 10.57,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 43.57,
+      "totalTechnicalScore" : 44.09,
       "totalFundamentalScore" : 32.93,
-      "totalScore" : 76.50
+      "totalScore" : 77.02
     }
   },
   "attributes" : {
     "companyCode" : "GAIL",
     "companyName" : "GAIL (India)",
-    "marketCap" : 125874.00,
-    "peRatio" : 9.97,
+    "marketCap" : 122034.00,
+    "peRatio" : 9.67,
     "description" : "Incorporated in 1984, GAIL, a Government of India undertaking, is an integrated natural gas company in India. It owns over 11,500 km of natural gas pipelines, over 2300 km of LPG pipelines, six LPG gas-processing units and a petrochemicals facility. It also has a joint-venture interest in Petronet LNG Ltd, Ratnagiri Gas and Power Pvt Ltd, and in the CGD business in several cities. GAIL has wholly owned subsidiaries in Singapore and the US for expanding its presence outside India in the segments of LNG, petrochemical trading and shale gas assets."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 181.09,
-    "dma50" : 180.68,
-    "dma100" : null,
-    "dma200" : 182.50,
-    "volume" : 14483978.00
-  }, {
     "date" : "2025-11-25",
     "price" : 180.22,
     "dma50" : 180.66,
@@ -324,7 +317,7 @@
     "price" : 162.68,
     "dma50" : 171.07,
     "dma100" : null,
-    "dma200" : 178.32,
+    "dma200" : 178.31,
     "volume" : 16477482.00
   }, {
     "date" : "2026-01-22",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 166.12,
     "dma50" : 155.15,
-    "dma100" : 162.05,
+    "dma100" : null,
     "dma200" : 168.08,
     "volume" : 15516767.00
   }, {
@@ -954,7 +947,7 @@
     "price" : 167.40,
     "dma50" : 161.27,
     "dma100" : 159.58,
-    "dma200" : 166.99,
+    "dma200" : 166.98,
     "volume" : 8443646.00
   }, {
     "date" : "2026-06-08",
@@ -1768,14 +1761,21 @@
     "dma100" : 174.37,
     "dma200" : 172.38,
     "volume" : 5996739.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 185.60,
+    "dma50" : 178.05,
+    "dma100" : 174.48,
+    "dma200" : 172.51,
+    "volume" : 4312589.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 191.44,
-    "dma50" : 177.74,
-    "dma100" : 174.37,
-    "dma200" : 172.38,
-    "volume" : 5996739.00
+    "date" : "2026-11-23",
+    "price" : 185.60,
+    "dma50" : 178.05,
+    "dma100" : 174.48,
+    "dma200" : 172.51,
+    "volume" : 4312589.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.61,
-    "pricePercentageAboveDma100" : 4.51,
-    "pricePercentageAboveDma200" : 4.45,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 4.68,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 10.57,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 43.57,
+    "totalTechnicalScore" : 44.09,
     "totalFundamentalScore" : 32.93,
-    "totalScore" : 76.50
+    "totalScore" : 77.02
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TIMKEN",
       "companyName" : "Timken India",
-      "marketCap" : 23324.00,
-      "peRatio" : 53.50,
+      "marketCap" : 23119.00,
+      "peRatio" : 53.00,
       "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.93,
-      "pricePercentageAboveDma100" : 5.03,
-      "pricePercentageAboveDma200" : 5.12,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 13.79,
       "netProfitMarginPercentile" : 6.09,
-      "totalTechnicalScore" : 20.08,
+      "totalTechnicalScore" : 20.21,
       "totalFundamentalScore" : 34.58,
-      "totalScore" : 54.67
+      "totalScore" : 54.79
     }
   },
   "attributes" : {
     "companyCode" : "TIMKEN",
     "companyName" : "Timken India",
-    "marketCap" : 23324.00,
-    "peRatio" : 53.50,
+    "marketCap" : 23119.00,
+    "peRatio" : 53.00,
     "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 3134.40,
-    "dma50" : 3043.86,
-    "dma100" : null,
-    "dma200" : 3068.02,
-    "volume" : 70794.00
-  }, {
     "date" : "2025-11-25",
     "price" : 3116.10,
     "dma50" : 3046.70,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 3633.00,
     "dma50" : 3327.19,
-    "dma100" : 3184.42,
+    "dma100" : null,
     "dma200" : 3166.87,
     "volume" : 132744.00
   }, {
@@ -1465,7 +1458,7 @@
     "price" : 3124.20,
     "dma50" : 3223.90,
     "dma100" : 3360.08,
-    "dma200" : 3264.76,
+    "dma200" : 3264.77,
     "volume" : 284618.00
   }, {
     "date" : "2026-09-21",
@@ -1768,14 +1761,21 @@
     "dma100" : 3122.31,
     "dma200" : 3178.54,
     "volume" : 90995.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 3073.60,
+    "dma50" : 3056.93,
+    "dma100" : 3118.21,
+    "dma200" : 3177.49,
+    "volume" : 28366.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 3100.80,
-    "dma50" : 3056.25,
-    "dma100" : 3122.31,
-    "dma200" : 3178.54,
-    "volume" : 90995.00
+    "date" : "2026-11-23",
+    "price" : 3073.60,
+    "dma50" : 3056.93,
+    "dma100" : 3118.21,
+    "dma200" : 3177.49,
+    "volume" : 28366.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.93,
-    "pricePercentageAboveDma100" : 5.03,
-    "pricePercentageAboveDma200" : 5.12,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 13.79,
     "netProfitMarginPercentile" : 6.09,
-    "totalTechnicalScore" : 20.08,
+    "totalTechnicalScore" : 20.21,
     "totalFundamentalScore" : 34.58,
-    "totalScore" : 54.67
+    "totalScore" : 54.79
   }
 }

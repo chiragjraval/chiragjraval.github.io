@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ENGINERSIN",
       "companyName" : "Engineers India",
-      "marketCap" : 16667.00,
-      "peRatio" : 18.60,
+      "marketCap" : 16771.00,
+      "peRatio" : 18.70,
       "description" : "EIL is a CPSU with majority ownership of the GoI operating under the administrative control of MoPNG. The Co. provides consultancy and engineering services and undertakes turnkey contracts. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.40,
-      "pricePercentageAboveDma200" : 4.09,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 4.38,
+      "pricePercentageAboveDma200" : 4.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.78,
       "operatingProfitMarginPercentile" : 12.41,
       "netProfitMarginPercentile" : 7.24,
-      "totalTechnicalScore" : 43.28,
+      "totalTechnicalScore" : 43.21,
       "totalFundamentalScore" : 25.44,
-      "totalScore" : 68.72
+      "totalScore" : 68.65
     }
   },
   "attributes" : {
     "companyCode" : "ENGINERSIN",
     "companyName" : "Engineers India",
-    "marketCap" : 16667.00,
-    "peRatio" : 18.60,
+    "marketCap" : 16771.00,
+    "peRatio" : 18.70,
     "description" : "EIL is a CPSU with majority ownership of the GoI operating under the administrative control of MoPNG. The Co. provides consultancy and engineering services and undertakes turnkey contracts. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 199.26,
-    "dma50" : 200.58,
-    "dma100" : null,
-    "dma200" : 201.44,
-    "volume" : 3137260.00
-  }, {
     "date" : "2025-11-25",
     "price" : 195.43,
     "dma50" : 200.37,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 245.58,
     "dma50" : 206.69,
-    "dma100" : 198.16,
+    "dma100" : null,
     "dma200" : 200.51,
     "volume" : 6654955.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 264.74,
     "dma200" : 251.03,
     "volume" : 1888327.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 298.40,
+    "dma50" : 285.22,
+    "dma100" : 265.35,
+    "dma200" : 251.51,
+    "volume" : 1721616.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 296.55,
-    "dma50" : 284.68,
-    "dma100" : 264.74,
-    "dma200" : 251.03,
-    "volume" : 1888327.00
+    "date" : "2026-11-23",
+    "price" : 298.40,
+    "dma50" : 285.22,
+    "dma100" : 265.35,
+    "dma200" : 251.51,
+    "volume" : 1721616.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.40,
-    "pricePercentageAboveDma200" : 4.09,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 4.38,
+    "pricePercentageAboveDma200" : 4.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.78,
     "operatingProfitMarginPercentile" : 12.41,
     "netProfitMarginPercentile" : 7.24,
-    "totalTechnicalScore" : 43.28,
+    "totalTechnicalScore" : 43.21,
     "totalFundamentalScore" : 25.44,
-    "totalScore" : 68.72
+    "totalScore" : 68.65
   }
 }

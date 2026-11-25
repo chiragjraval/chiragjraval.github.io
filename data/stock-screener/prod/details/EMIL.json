@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EMIL",
       "companyName" : "Electronics Mart",
-      "marketCap" : 5299.00,
-      "peRatio" : 23.00,
+      "marketCap" : 5154.00,
+      "peRatio" : 22.40,
       "description" : "Incorporated in 1980, Electronics Mart India Limited is the 4th largest consumer durable and electronics retailer in India. The company offers a diversified range of products with a focus on large appliances (air conditioners, televisions, washing machines, and refrigerators), mobiles and small appliances, IT, and others. The company's offering includes more than 6,000 SKUs (stock keeping units) across product categories from more than 70 consumer durable and electronic brands.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.71,
-      "pricePercentageAboveDma100" : 5.80,
-      "pricePercentageAboveDma200" : 5.32,
+      "pricePercentageAboveDma50" : 5.80,
+      "pricePercentageAboveDma100" : 5.92,
+      "pricePercentageAboveDma200" : 5.44,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.29,
       "operatingProfitMarginPercentile" : 12.38,
       "netProfitMarginPercentile" : 4.76,
-      "totalTechnicalScore" : 26.84,
+      "totalTechnicalScore" : 27.16,
       "totalFundamentalScore" : 32.44,
-      "totalScore" : 59.27
+      "totalScore" : 59.60
     }
   },
   "attributes" : {
     "companyCode" : "EMIL",
     "companyName" : "Electronics Mart",
-    "marketCap" : 5299.00,
-    "peRatio" : 23.00,
+    "marketCap" : 5154.00,
+    "peRatio" : 22.40,
     "description" : "Incorporated in 1980, Electronics Mart India Limited is the 4th largest consumer durable and electronics retailer in India. The company offers a diversified range of products with a focus on large appliances (air conditioners, televisions, washing machines, and refrigerators), mobiles and small appliances, IT, and others. The company's offering includes more than 6,000 SKUs (stock keeping units) across product categories from more than 70 consumer durable and electronic brands.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 121.43,
-    "dma50" : 139.45,
-    "dma100" : null,
-    "dma200" : 144.21,
-    "volume" : 374348.00
-  }, {
     "date" : "2025-11-25",
     "price" : 120.55,
     "dma50" : 138.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 108.99,
     "dma50" : 98.92,
-    "dma100" : 100.48,
+    "dma100" : null,
     "dma200" : 115.79,
     "volume" : 558462.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 164.06,
     "dma200" : 147.12,
     "volume" : 1925870.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 133.97,
+    "dma50" : 159.58,
+    "dma100" : 164.12,
+    "dma200" : 146.98,
+    "volume" : 581032.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 137.72,
-    "dma50" : 160.63,
-    "dma100" : 164.06,
-    "dma200" : 147.12,
-    "volume" : 1925870.00
+    "date" : "2026-11-23",
+    "price" : 133.97,
+    "dma50" : 159.58,
+    "dma100" : 164.12,
+    "dma200" : 146.98,
+    "volume" : 581032.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-09-30",
@@ -2006,15 +2006,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.71,
-    "pricePercentageAboveDma100" : 5.80,
-    "pricePercentageAboveDma200" : 5.32,
+    "pricePercentageAboveDma50" : 5.80,
+    "pricePercentageAboveDma100" : 5.92,
+    "pricePercentageAboveDma200" : 5.44,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.29,
     "operatingProfitMarginPercentile" : 12.38,
     "netProfitMarginPercentile" : 4.76,
-    "totalTechnicalScore" : 26.84,
+    "totalTechnicalScore" : 27.16,
     "totalFundamentalScore" : 32.44,
-    "totalScore" : 59.27
+    "totalScore" : 59.60
   }
 }

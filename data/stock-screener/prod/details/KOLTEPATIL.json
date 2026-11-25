@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "KOLTEPATIL",
       "companyName" : "Kolte Patil Dev.",
-      "marketCap" : 3887.00,
-      "peRatio" : 27.80,
+      "marketCap" : 3761.00,
+      "peRatio" : 26.90,
       "description" : "Business Overview Company is in real estate business (Residential & Commercial) with dominant presence in the Pune and growing presence in Mumbai and Bengaluru. Company markets its projects under two brands: 'Kolte-Patil’ (addressing the mid-income segment) ‘24K’ (addressing the premium luxury segment). [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 4.89,
-      "pricePercentageAboveDma200" : 4.69,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 4.86,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.69,
       "operatingProfitMarginPercentile" : 13.59,
       "netProfitMarginPercentile" : 5.84,
-      "totalTechnicalScore" : 39.63,
+      "totalTechnicalScore" : 35.13,
       "totalFundamentalScore" : 37.13,
-      "totalScore" : 76.76
+      "totalScore" : 72.26
     }
   },
   "attributes" : {
     "companyCode" : "KOLTEPATIL",
     "companyName" : "Kolte Patil Dev.",
-    "marketCap" : 3887.00,
-    "peRatio" : 27.80,
+    "marketCap" : 3761.00,
+    "peRatio" : 26.90,
     "description" : "Business Overview Company is in real estate business (Residential & Commercial) with dominant presence in the Pune and growing presence in Mumbai and Bengaluru. Company markets its projects under two brands: 'Kolte-Patil’ (addressing the mid-income segment) ‘24K’ (addressing the premium luxury segment). [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 384.00,
-    "dma50" : 425.34,
-    "dma100" : null,
-    "dma200" : 413.63,
-    "volume" : 47655.00
-  }, {
     "date" : "2025-11-25",
     "price" : 385.65,
     "dma50" : 423.78,
@@ -555,7 +548,7 @@
     "price" : 329.45,
     "dma50" : 362.98,
     "dma100" : null,
-    "dma200" : 389.95,
+    "dma200" : 389.94,
     "volume" : 210963.00
   }, {
     "date" : "2026-03-11",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 400.25,
     "dma50" : 346.76,
-    "dma100" : 360.53,
+    "dma100" : null,
     "dma200" : 376.74,
     "volume" : 98917.00
   }, {
@@ -1269,7 +1262,7 @@
     "price" : 462.20,
     "dma50" : 385.32,
     "dma100" : 367.54,
-    "dma200" : 378.80,
+    "dma200" : 378.79,
     "volume" : 500725.00
   }, {
     "date" : "2026-08-11",
@@ -1768,14 +1761,21 @@
     "dma100" : 429.23,
     "dma200" : 412.76,
     "volume" : 30086.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 424.10,
+    "dma50" : 441.68,
+    "dma100" : 429.83,
+    "dma200" : 412.88,
+    "volume" : 67544.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 438.30,
-    "dma50" : 442.39,
-    "dma100" : 429.23,
-    "dma200" : 412.76,
-    "volume" : 30086.00
+    "date" : "2026-11-23",
+    "price" : 424.10,
+    "dma50" : 441.68,
+    "dma100" : 429.83,
+    "dma200" : 412.88,
+    "volume" : 67544.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2611,20 +2611,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 4.89,
-    "pricePercentageAboveDma200" : 4.69,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 4.86,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.69,
     "operatingProfitMarginPercentile" : 13.59,
     "netProfitMarginPercentile" : 5.84,
-    "totalTechnicalScore" : 39.63,
+    "totalTechnicalScore" : 35.13,
     "totalFundamentalScore" : 37.13,
-    "totalScore" : 76.76
+    "totalScore" : 72.26
   }
 }

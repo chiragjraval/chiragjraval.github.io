@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUBROS",
       "companyName" : "Subros",
-      "marketCap" : 4183.00,
-      "peRatio" : 23.80,
+      "marketCap" : 4230.00,
+      "peRatio" : 24.10,
       "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.09,
-      "pricePercentageAboveDma100" : 5.52,
-      "pricePercentageAboveDma200" : 5.61,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.46,
+      "pricePercentageAboveDma200" : 5.55,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 17.49,
       "netProfitMarginPercentile" : 9.47,
-      "totalTechnicalScore" : 21.22,
+      "totalTechnicalScore" : 21.05,
       "totalFundamentalScore" : 46.00,
-      "totalScore" : 67.22
+      "totalScore" : 67.05
     }
   },
   "attributes" : {
     "companyCode" : "SUBROS",
     "companyName" : "Subros",
-    "marketCap" : 4183.00,
-    "peRatio" : 23.80,
+    "marketCap" : 4230.00,
+    "peRatio" : 24.10,
     "description" : "Subros Limited was incorporated in 1985 as a joint venture public limited company with Suri family of India (36.79% ownership), Denso Corporation, Japan (20% ownership) & Suzuki Motor Corporation, Japan (11.96% ownership). It is engaged in the business of manufacturing and supplying Auto Air Conditioning products for all major Automakers in Passenger and Commercial Vehicle Space. It has a technical collaboration with Denso Corporation [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 837.00,
-    "dma50" : 979.07,
-    "dma100" : null,
-    "dma200" : 861.65,
-    "volume" : 58065.00
-  }, {
     "date" : "2025-11-25",
     "price" : 837.10,
     "dma50" : 973.50,
@@ -121,7 +114,7 @@
     "price" : 851.80,
     "dma50" : 937.15,
     "dma100" : null,
-    "dma200" : 861.57,
+    "dma200" : 861.56,
     "volume" : 58021.00
   }, {
     "date" : "2025-12-10",
@@ -303,7 +296,7 @@
     "price" : 829.45,
     "dma50" : 886.72,
     "dma100" : null,
-    "dma200" : 861.36,
+    "dma200" : 861.35,
     "volume" : 27890.00
   }, {
     "date" : "2026-01-19",
@@ -513,7 +506,7 @@
     "price" : 792.00,
     "dma50" : 825.38,
     "dma100" : null,
-    "dma200" : 844.64,
+    "dma200" : 844.63,
     "volume" : 26988.00
   }, {
     "date" : "2026-03-02",
@@ -702,7 +695,7 @@
     "price" : 748.10,
     "dma50" : 739.03,
     "dma100" : null,
-    "dma200" : 808.97,
+    "dma200" : 808.96,
     "volume" : 47094.00
   }, {
     "date" : "2026-04-15",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 788.10,
     "dma50" : 748.08,
-    "dma100" : 791.59,
+    "dma100" : null,
     "dma200" : 807.35,
     "volume" : 45676.00
   }, {
@@ -877,7 +870,7 @@
     "price" : 714.20,
     "dma50" : 755.46,
     "dma100" : 773.58,
-    "dma200" : 799.96,
+    "dma200" : 799.95,
     "volume" : 60190.00
   }, {
     "date" : "2026-05-21",
@@ -996,7 +989,7 @@
     "price" : 743.70,
     "dma50" : 738.60,
     "dma100" : 749.43,
-    "dma200" : 787.69,
+    "dma200" : 787.68,
     "volume" : 86744.00
   }, {
     "date" : "2026-06-16",
@@ -1178,7 +1171,7 @@
     "price" : 794.90,
     "dma50" : 786.41,
     "dma100" : 753.19,
-    "dma200" : 793.17,
+    "dma200" : 793.16,
     "volume" : 30173.00
   }, {
     "date" : "2026-07-23",
@@ -1768,14 +1761,21 @@
     "dma100" : 716.21,
     "dma200" : 730.00,
     "volume" : 169774.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 648.35,
+    "dma50" : 652.47,
+    "dma100" : 714.32,
+    "dma200" : 729.19,
+    "volume" : 319865.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 641.25,
-    "dma50" : 652.64,
-    "dma100" : 716.21,
-    "dma200" : 730.00,
-    "volume" : 169774.00
+    "date" : "2026-11-23",
+    "price" : 648.35,
+    "dma50" : 652.47,
+    "dma100" : 714.32,
+    "dma200" : 729.19,
+    "volume" : 319865.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.09,
-    "pricePercentageAboveDma100" : 5.52,
-    "pricePercentageAboveDma200" : 5.61,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.46,
+    "pricePercentageAboveDma200" : 5.55,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 17.49,
     "netProfitMarginPercentile" : 9.47,
-    "totalTechnicalScore" : 21.22,
+    "totalTechnicalScore" : 21.05,
     "totalFundamentalScore" : 46.00,
-    "totalScore" : 67.22
+    "totalScore" : 67.05
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SANSTAR",
       "companyName" : "Sanstar",
-      "marketCap" : 1938.00,
-      "peRatio" : 39.40,
+      "marketCap" : 1893.00,
+      "peRatio" : 38.40,
       "description" : "We are one of the major manufacturers of plant based speciality products and ingredient solutions in India for food, animal nutrition and other industrial applications, with an installed capacity of 1,100 metric tons per day."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.15,
-      "pricePercentageAboveDma100" : 5.44,
-      "pricePercentageAboveDma200" : 5.24,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.54,
+      "pricePercentageAboveDma200" : 5.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.00,
       "operatingProfitMarginPercentile" : 8.15,
       "netProfitMarginPercentile" : 2.99,
-      "totalTechnicalScore" : 20.83,
+      "totalTechnicalScore" : 21.14,
       "totalFundamentalScore" : 29.14,
-      "totalScore" : 49.98
+      "totalScore" : 50.29
     }
   },
   "attributes" : {
     "companyCode" : "SANSTAR",
     "companyName" : "Sanstar",
-    "marketCap" : 1938.00,
-    "peRatio" : 39.40,
+    "marketCap" : 1893.00,
+    "peRatio" : 38.40,
     "description" : "We are one of the major manufacturers of plant based speciality products and ingredient solutions in India for food, animal nutrition and other industrial applications, with an installed capacity of 1,100 metric tons per day."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 91.94,
-    "dma50" : 93.22,
-    "dma100" : null,
-    "dma200" : 96.34,
-    "volume" : 254686.00
-  }, {
     "date" : "2025-11-25",
     "price" : 90.63,
     "dma50" : 93.12,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 89.96,
     "dma50" : 85.12,
-    "dma100" : 88.25,
+    "dma100" : null,
     "dma200" : 90.61,
     "volume" : 139125.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 106.09,
     "dma200" : 101.77,
     "volume" : 41868.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 94.52,
+    "dma50" : 99.59,
+    "dma100" : 105.85,
+    "dma200" : 101.70,
+    "volume" : 194231.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 96.79,
-    "dma50" : 99.79,
-    "dma100" : 106.09,
-    "dma200" : 101.77,
-    "volume" : 41868.00
+    "date" : "2026-11-23",
+    "price" : 94.52,
+    "dma50" : 99.59,
+    "dma100" : 105.85,
+    "dma200" : 101.70,
+    "volume" : 194231.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-06-30",
@@ -1936,15 +1936,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.15,
-    "pricePercentageAboveDma100" : 5.44,
-    "pricePercentageAboveDma200" : 5.24,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.54,
+    "pricePercentageAboveDma200" : 5.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.00,
     "operatingProfitMarginPercentile" : 8.15,
     "netProfitMarginPercentile" : 2.99,
-    "totalTechnicalScore" : 20.83,
+    "totalTechnicalScore" : 21.14,
     "totalFundamentalScore" : 29.14,
-    "totalScore" : 49.98
+    "totalScore" : 50.29
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BODALCHEM",
       "companyName" : "Bodal Chemicals",
-      "marketCap" : 1852.00,
-      "peRatio" : 12.80,
+      "marketCap" : 1771.00,
+      "peRatio" : 12.30,
       "description" : "Bodal Chemicals Limited is one of India’s leading integrated Dyestuff companies and is the largest domestic manufacturer of Dye Intermediates. It offers a wide range of Dyestuffs, Dye Intermediates, Basic Chemicals, and its variants to diverse customers across India and the world. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 4.15,
-      "pricePercentageAboveDma200" : 3.28,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 4.44,
+      "pricePercentageAboveDma200" : 3.59,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.07,
       "operatingProfitMarginPercentile" : 14.71,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 37.65,
+      "totalTechnicalScore" : 38.46,
       "totalFundamentalScore" : 40.95,
-      "totalScore" : 78.60
+      "totalScore" : 79.40
     }
   },
   "attributes" : {
     "companyCode" : "BODALCHEM",
     "companyName" : "Bodal Chemicals",
-    "marketCap" : 1852.00,
-    "peRatio" : 12.80,
+    "marketCap" : 1771.00,
+    "peRatio" : 12.30,
     "description" : "Bodal Chemicals Limited is one of India’s leading integrated Dyestuff companies and is the largest domestic manufacturer of Dye Intermediates. It offers a wide range of Dyestuffs, Dye Intermediates, Basic Chemicals, and its variants to diverse customers across India and the world. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 55.34,
-    "dma50" : 60.94,
-    "dma100" : null,
-    "dma200" : 66.64,
-    "volume" : 161818.00
-  }, {
     "date" : "2025-11-25",
     "price" : 53.93,
     "dma50" : 60.66,
@@ -86,7 +79,7 @@
     "price" : 53.15,
     "dma50" : 59.45,
     "dma100" : null,
-    "dma200" : 65.91,
+    "dma200" : 65.90,
     "volume" : 142811.00
   }, {
     "date" : "2025-12-03",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 69.68,
     "dma50" : 56.24,
-    "dma100" : 52.19,
+    "dma100" : null,
     "dma200" : 57.94,
     "volume" : 453624.00
   }, {
@@ -1766,16 +1759,23 @@
     "price" : 147.08,
     "dma50" : 154.12,
     "dma100" : 125.72,
-    "dma200" : 109.37,
+    "dma200" : 109.36,
     "volume" : 142240.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 140.59,
+    "dma50" : 153.59,
+    "dma100" : 126.50,
+    "dma200" : 109.68,
+    "volume" : 282521.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 147.08,
-    "dma50" : 154.12,
-    "dma100" : 125.72,
-    "dma200" : 109.37,
-    "volume" : 142240.00
+    "date" : "2026-11-23",
+    "price" : 140.59,
+    "dma50" : 153.59,
+    "dma100" : 126.50,
+    "dma200" : 109.68,
+    "volume" : 282521.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 4.15,
-    "pricePercentageAboveDma200" : 3.28,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 4.44,
+    "pricePercentageAboveDma200" : 3.59,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.07,
     "operatingProfitMarginPercentile" : 14.71,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 37.65,
+    "totalTechnicalScore" : 38.46,
     "totalFundamentalScore" : 40.95,
-    "totalScore" : 78.60
+    "totalScore" : 79.40
   }
 }

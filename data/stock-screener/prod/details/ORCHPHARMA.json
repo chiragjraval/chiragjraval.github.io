@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ORCHPHARMA",
       "companyName" : "Orchid Pharma",
-      "marketCap" : 5751.00,
-      "peRatio" : 110.00,
+      "marketCap" : 5703.00,
+      "peRatio" : 109.00,
       "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.82,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 4.57,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 14.34,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 39.44,
+      "totalTechnicalScore" : 39.58,
       "totalFundamentalScore" : 35.38,
-      "totalScore" : 74.82
+      "totalScore" : 74.96
     }
   },
   "attributes" : {
     "companyCode" : "ORCHPHARMA",
     "companyName" : "Orchid Pharma",
-    "marketCap" : 5751.00,
-    "peRatio" : 110.00,
+    "marketCap" : 5703.00,
+    "peRatio" : 109.00,
     "description" : "Orchid Pharma is a pharmaceutical company engaged in the development and manufacture of active pharmaceutical ingredients (APIs) and finished dosage forms. It is also engaged in research of new drugs. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 834.70,
-    "dma50" : 775.75,
-    "dma100" : null,
-    "dma200" : 851.43,
-    "volume" : 85161.00
-  }, {
     "date" : "2025-11-25",
     "price" : 842.10,
     "dma50" : 778.35,
@@ -135,7 +128,7 @@
     "price" : 848.95,
     "dma50" : 805.73,
     "dma100" : null,
-    "dma200" : 851.26,
+    "dma200" : 851.27,
     "volume" : 32435.00
   }, {
     "date" : "2025-12-12",
@@ -422,7 +415,7 @@
     "price" : 688.55,
     "dma50" : 738.85,
     "dma100" : null,
-    "dma200" : 812.76,
+    "dma200" : 812.77,
     "volume" : 50924.00
   }, {
     "date" : "2026-02-11",
@@ -436,7 +429,7 @@
     "price" : 672.20,
     "dma50" : 734.39,
     "dma100" : null,
-    "dma200" : 810.15,
+    "dma200" : 810.16,
     "volume" : 237564.00
   }, {
     "date" : "2026-02-13",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 551.95,
     "dma50" : 581.26,
-    "dma100" : 676.04,
+    "dma100" : null,
     "dma200" : 720.63,
     "volume" : 67475.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 971.95,
     "dma200" : 883.63,
     "volume" : 70148.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 952.25,
+    "dma50" : 927.30,
+    "dma100" : 971.72,
+    "dma200" : 884.31,
+    "volume" : 58812.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 960.40,
-    "dma50" : 926.28,
-    "dma100" : 971.95,
-    "dma200" : 883.63,
-    "volume" : 70148.00
+    "date" : "2026-11-23",
+    "price" : 952.25,
+    "dma50" : 927.30,
+    "dma100" : 971.72,
+    "dma200" : 884.31,
+    "volume" : 58812.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.82,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 4.57,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 14.34,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 39.44,
+    "totalTechnicalScore" : 39.58,
     "totalFundamentalScore" : 35.38,
-    "totalScore" : 74.82
+    "totalScore" : 74.96
   }
 }

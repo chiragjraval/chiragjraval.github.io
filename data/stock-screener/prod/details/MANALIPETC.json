@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANALIPETC",
       "companyName" : "Manali Petrochem",
-      "marketCap" : 1303.00,
-      "peRatio" : 7.97,
+      "marketCap" : 1296.00,
+      "peRatio" : 7.93,
       "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.10,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.60,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.63,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 39.63,
+      "totalTechnicalScore" : 39.71,
       "totalFundamentalScore" : 46.29,
-      "totalScore" : 85.91
+      "totalScore" : 86.00
     }
   },
   "attributes" : {
     "companyCode" : "MANALIPETC",
     "companyName" : "Manali Petrochem",
-    "marketCap" : 1303.00,
-    "peRatio" : 7.97,
+    "marketCap" : 1296.00,
+    "peRatio" : 7.93,
     "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 64.69,
-    "dma50" : 69.16,
-    "dma100" : null,
-    "dma200" : 67.40,
-    "volume" : 154248.00
-  }, {
     "date" : "2025-11-25",
     "price" : 65.77,
     "dma50" : 69.03,
@@ -93,7 +86,7 @@
     "price" : 63.02,
     "dma50" : 68.13,
     "dma100" : null,
-    "dma200" : 67.24,
+    "dma200" : 67.23,
     "volume" : 129263.00
   }, {
     "date" : "2025-12-04",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 55.17,
     "dma50" : 52.04,
-    "dma100" : 56.05,
+    "dma100" : null,
     "dma200" : 59.33,
     "volume" : 140515.00
   }, {
@@ -1255,7 +1248,7 @@
     "price" : 65.54,
     "dma50" : 63.25,
     "dma100" : 57.96,
-    "dma200" : 60.88,
+    "dma200" : 60.87,
     "volume" : 237545.00
   }, {
     "date" : "2026-08-07",
@@ -1768,14 +1761,21 @@
     "dma100" : 74.73,
     "dma200" : 70.06,
     "volume" : 405496.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 75.33,
+    "dma50" : 77.15,
+    "dma100" : 74.83,
+    "dma200" : 70.12,
+    "volume" : 352423.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 75.73,
-    "dma50" : 77.23,
-    "dma100" : 74.73,
-    "dma200" : 70.06,
-    "volume" : 405496.00
+    "date" : "2026-11-23",
+    "price" : 75.33,
+    "dma50" : 77.15,
+    "dma100" : 74.83,
+    "dma200" : 70.12,
+    "volume" : 352423.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.10,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.60,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.63,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 39.63,
+    "totalTechnicalScore" : 39.71,
     "totalFundamentalScore" : 46.29,
-    "totalScore" : 85.91
+    "totalScore" : 86.00
   }
 }

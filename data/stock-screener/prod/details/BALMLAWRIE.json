@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "BALMLAWRIE",
       "companyName" : "Balmer Lawrie",
-      "marketCap" : 2846.00,
-      "peRatio" : 9.42,
+      "marketCap" : 2792.00,
+      "peRatio" : 9.24,
       "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.09,
-      "pricePercentageAboveDma200" : 5.22,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 5.31,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 20.27,
+      "totalTechnicalScore" : 15.54,
       "totalFundamentalScore" : 43.03,
-      "totalScore" : 63.30
+      "totalScore" : 58.57
     }
   },
   "attributes" : {
     "companyCode" : "BALMLAWRIE",
     "companyName" : "Balmer Lawrie",
-    "marketCap" : 2846.00,
-    "peRatio" : 9.42,
+    "marketCap" : 2792.00,
+    "peRatio" : 9.24,
     "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 186.34,
-    "dma50" : 202.09,
-    "dma100" : null,
-    "dma200" : 209.74,
-    "volume" : 125312.00
-  }, {
     "date" : "2025-11-25",
     "price" : 185.21,
     "dma50" : 201.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 178.45,
     "dma50" : 171.03,
-    "dma100" : 174.80,
+    "dma100" : null,
     "dma200" : 186.79,
     "volume" : 92913.00
   }, {
@@ -1199,7 +1192,7 @@
     "price" : 176.65,
     "dma50" : 179.15,
     "dma100" : 177.20,
-    "dma200" : 184.25,
+    "dma200" : 184.24,
     "volume" : 49854.00
   }, {
     "date" : "2026-07-28",
@@ -1717,7 +1710,7 @@
     "price" : 179.61,
     "dma50" : 163.79,
     "dma100" : 170.40,
-    "dma200" : 174.67,
+    "dma200" : 174.66,
     "volume" : 24866399.00
   }, {
     "date" : "2026-11-12",
@@ -1768,14 +1761,21 @@
     "dma100" : 169.51,
     "dma200" : 174.27,
     "volume" : 241398.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 163.27,
+    "dma50" : 164.90,
+    "dma100" : 169.34,
+    "dma200" : 174.16,
+    "volume" : 134867.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 166.44,
-    "dma50" : 164.96,
-    "dma100" : 169.51,
-    "dma200" : 174.27,
-    "volume" : 241398.00
+    "date" : "2026-11-23",
+    "price" : 163.27,
+    "dma50" : 164.90,
+    "dma100" : 169.34,
+    "dma200" : 174.16,
+    "volume" : 134867.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 67.63
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.09,
-    "pricePercentageAboveDma200" : 5.22,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 5.31,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 20.27,
+    "totalTechnicalScore" : 15.54,
     "totalFundamentalScore" : 43.03,
-    "totalScore" : 63.30
+    "totalScore" : 58.57
   }
 }

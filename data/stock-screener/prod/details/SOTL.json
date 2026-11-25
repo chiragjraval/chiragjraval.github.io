@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SOTL",
       "companyName" : "Savita Oil Tech",
-      "marketCap" : 4044.00,
-      "peRatio" : 6.75,
+      "marketCap" : 3907.00,
+      "peRatio" : 6.52,
       "description" : "Savita Oil Technologies Limited, established in 1961, is a specialty petroleum products company engaged in manufacturing Transformer Oils, White Oils etc. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 0.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.65,
-      "pricePercentageAboveDma100" : 5.63,
-      "pricePercentageAboveDma200" : 4.94,
+      "pricePercentageAboveDma50" : 5.77,
+      "pricePercentageAboveDma100" : 5.78,
+      "pricePercentageAboveDma200" : 5.12,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 19.08,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 36.22,
+      "totalTechnicalScore" : 26.67,
       "totalFundamentalScore" : 48.38,
-      "totalScore" : 84.60
+      "totalScore" : 75.05
     }
   },
   "attributes" : {
     "companyCode" : "SOTL",
     "companyName" : "Savita Oil Tech",
-    "marketCap" : 4044.00,
-    "peRatio" : 6.75,
+    "marketCap" : 3907.00,
+    "peRatio" : 6.52,
     "description" : "Savita Oil Technologies Limited, established in 1961, is a specialty petroleum products company engaged in manufacturing Transformer Oils, White Oils etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 356.35,
-    "dma50" : 393.75,
-    "dma100" : null,
-    "dma200" : 417.36,
-    "volume" : 39338.00
-  }, {
     "date" : "2025-11-25",
     "price" : 365.95,
     "dma50" : 392.66,
@@ -79,7 +72,7 @@
     "price" : 374.75,
     "dma50" : 390.04,
     "dma100" : null,
-    "dma200" : 415.21,
+    "dma200" : 415.20,
     "volume" : 7688.00
   }, {
     "date" : "2025-12-02",
@@ -100,7 +93,7 @@
     "price" : 370.55,
     "dma50" : 387.65,
     "dma100" : null,
-    "dma200" : 413.84,
+    "dma200" : 413.83,
     "volume" : 22465.00
   }, {
     "date" : "2025-12-05",
@@ -114,14 +107,14 @@
     "price" : 352.75,
     "dma50" : 385.39,
     "dma100" : null,
-    "dma200" : 412.74,
+    "dma200" : 412.73,
     "volume" : 19406.00
   }, {
     "date" : "2025-12-09",
     "price" : 367.50,
     "dma50" : 384.68,
     "dma100" : null,
-    "dma200" : 412.29,
+    "dma200" : 412.28,
     "volume" : 21224.00
   }, {
     "date" : "2025-12-10",
@@ -149,7 +142,7 @@
     "price" : 372.90,
     "dma50" : 382.59,
     "dma100" : null,
-    "dma200" : 410.65,
+    "dma200" : 410.64,
     "volume" : 8986.00
   }, {
     "date" : "2025-12-16",
@@ -331,7 +324,7 @@
     "price" : 361.10,
     "dma50" : 372.75,
     "dma100" : null,
-    "dma200" : 401.12,
+    "dma200" : 401.11,
     "volume" : 27048.00
   }, {
     "date" : "2026-01-23",
@@ -583,7 +576,7 @@
     "price" : 322.35,
     "dma50" : 359.66,
     "dma100" : null,
-    "dma200" : 387.62,
+    "dma200" : 387.61,
     "volume" : 37649.00
   }, {
     "date" : "2026-03-17",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 368.20,
     "dma50" : 348.30,
-    "dma100" : 357.35,
+    "dma100" : null,
     "dma200" : 377.42,
     "volume" : 28862.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 674.34,
     "dma200" : 583.48,
     "volume" : 169626.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 569.90,
+    "dma50" : 674.27,
+    "dma100" : 674.91,
+    "dma200" : 583.34,
+    "volume" : 190109.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 589.90,
-    "dma50" : 678.53,
-    "dma100" : 674.34,
-    "dma200" : 583.48,
-    "volume" : 169626.00
+    "date" : "2026-11-23",
+    "price" : 569.90,
+    "dma50" : 674.27,
+    "dma100" : 674.91,
+    "dma200" : 583.34,
+    "volume" : 190109.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 0.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.65,
-    "pricePercentageAboveDma100" : 5.63,
-    "pricePercentageAboveDma200" : 4.94,
+    "pricePercentageAboveDma50" : 5.77,
+    "pricePercentageAboveDma100" : 5.78,
+    "pricePercentageAboveDma200" : 5.12,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 19.08,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 36.22,
+    "totalTechnicalScore" : 26.67,
     "totalFundamentalScore" : 48.38,
-    "totalScore" : 84.60
+    "totalScore" : 75.05
   }
 }

@@ -20,7 +20,7 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma50" : 5.02,
       "pricePercentageAboveDma100" : 5.04,
       "pricePercentageAboveDma200" : 4.95,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
@@ -29,7 +29,7 @@
       "netProfitMarginPercentile" : 9.80,
       "totalTechnicalScore" : 30.01,
       "totalFundamentalScore" : 45.73,
-      "totalScore" : 75.75
+      "totalScore" : 75.74
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Incorporated in 1971, Benares Hotels Limited (BHL) operates its hotels, viz. Taj Ganges and Taj Nadesar Palace in Varanasi, and Ginger, Gondia in Maharashtra. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 9311.20,
-    "dma50" : 9422.52,
-    "dma100" : null,
-    "dma200" : 9564.66,
-    "volume" : 229.00
-  }, {
     "date" : "2025-11-25",
     "price" : 9300.85,
     "dma50" : 9417.75,
@@ -72,7 +65,7 @@
     "price" : 9351.60,
     "dma50" : 9406.80,
     "dma100" : null,
-    "dma200" : 9554.90,
+    "dma200" : 9554.89,
     "volume" : 195.00
   }, {
     "date" : "2025-12-01",
@@ -149,7 +142,7 @@
     "price" : 9301.25,
     "dma50" : 9377.45,
     "dma100" : null,
-    "dma200" : 9530.85,
+    "dma200" : 9530.84,
     "volume" : 75.00
   }, {
     "date" : "2025-12-16",
@@ -268,7 +261,7 @@
     "price" : 9513.25,
     "dma50" : 9443.22,
     "dma100" : null,
-    "dma200" : 9526.42,
+    "dma200" : 9526.41,
     "volume" : 390.00
   }, {
     "date" : "2026-01-09",
@@ -359,7 +352,7 @@
     "price" : 9512.25,
     "dma50" : 9474.79,
     "dma100" : null,
-    "dma200" : 9526.03,
+    "dma200" : 9526.02,
     "volume" : 404.00
   }, {
     "date" : "2026-01-30",
@@ -583,7 +576,7 @@
     "price" : 9436.85,
     "dma50" : 9496.56,
     "dma100" : null,
-    "dma200" : 9521.06,
+    "dma200" : 9521.05,
     "volume" : 904.00
   }, {
     "date" : "2026-03-17",
@@ -737,13 +730,13 @@
     "price" : 10010.00,
     "dma50" : 9607.34,
     "dma100" : null,
-    "dma200" : 9545.92,
+    "dma200" : 9545.91,
     "volume" : 240.00
   }, {
     "date" : "2026-04-22",
     "price" : 10008.15,
     "dma50" : 9623.05,
-    "dma100" : 9513.79,
+    "dma100" : null,
     "dma200" : 9550.51,
     "volume" : 542.00
   }, {
@@ -919,7 +912,7 @@
     "price" : 10230.25,
     "dma50" : 9896.33,
     "dma100" : 9679.59,
-    "dma200" : 9659.57,
+    "dma200" : 9659.56,
     "volume" : 1516.00
   }, {
     "date" : "2026-06-01",
@@ -1297,7 +1290,7 @@
     "price" : 10177.35,
     "dma50" : 10231.98,
     "dma100" : 10112.82,
-    "dma200" : 9930.68,
+    "dma200" : 9930.67,
     "volume" : 63.00
   }, {
     "date" : "2026-08-17",
@@ -1768,14 +1761,21 @@
     "dma100" : 10279.09,
     "dma200" : 10100.58,
     "volume" : 80.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 10200.00,
+    "dma50" : 10250.66,
+    "dma100" : 10277.11,
+    "dma200" : 10101.57,
+    "volume" : 37.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
+    "date" : "2026-11-23",
     "price" : 10200.00,
-    "dma50" : 10252.73,
-    "dma100" : 10279.09,
-    "dma200" : 10100.58,
-    "volume" : 80.00
+    "dma50" : 10250.66,
+    "dma100" : 10277.11,
+    "dma200" : 10101.57,
+    "volume" : 37.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,7 +2666,7 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma50" : 5.02,
     "pricePercentageAboveDma100" : 5.04,
     "pricePercentageAboveDma200" : 4.95,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
@@ -2675,6 +2675,6 @@
     "netProfitMarginPercentile" : 9.80,
     "totalTechnicalScore" : 30.01,
     "totalFundamentalScore" : 45.73,
-    "totalScore" : 75.75
+    "totalScore" : 75.74
   }
 }

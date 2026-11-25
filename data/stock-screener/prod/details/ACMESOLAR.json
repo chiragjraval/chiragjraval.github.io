@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ACMESOLAR",
       "companyName" : "ACME Solar Hold.",
-      "marketCap" : 28657.00,
-      "peRatio" : 38.10,
+      "marketCap" : 29095.00,
+      "peRatio" : 38.70,
       "description" : "Incorporated in 2015, ACME Solar Holdings is a renewable energy company in India with a portfolio of solar, wind, hybrid, and firm and dispatchable renewable energy (“FDRE”) projects.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 4.93,
-      "pricePercentageAboveDma200" : 4.32,
+      "pricePercentageAboveDma50" : 4.96,
+      "pricePercentageAboveDma100" : 4.85,
+      "pricePercentageAboveDma200" : 4.24,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 15.38,
       "netProfitMarginPercentile" : 6.92,
-      "totalTechnicalScore" : 39.28,
+      "totalTechnicalScore" : 44.05,
       "totalFundamentalScore" : 42.31,
-      "totalScore" : 81.59
+      "totalScore" : 86.36
     }
   },
   "attributes" : {
     "companyCode" : "ACMESOLAR",
     "companyName" : "ACME Solar Hold.",
-    "marketCap" : 28657.00,
-    "peRatio" : 38.10,
+    "marketCap" : 29095.00,
+    "peRatio" : 38.70,
     "description" : "Incorporated in 2015, ACME Solar Holdings is a renewable energy company in India with a portfolio of solar, wind, hybrid, and firm and dispatchable renewable energy (“FDRE”) projects.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 233.15,
-    "dma50" : 269.55,
-    "dma100" : null,
-    "dma200" : 261.16,
-    "volume" : 902182.00
-  }, {
     "date" : "2025-11-25",
     "price" : 236.85,
     "dma50" : 268.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 303.55,
     "dma50" : 258.30,
-    "dma100" : 237.33,
+    "dma100" : null,
     "dma200" : 249.17,
     "volume" : 1792170.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 399.77,
     "dma200" : 356.63,
     "volume" : 659183.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 411.60,
+    "dma50" : 408.47,
+    "dma100" : 399.98,
+    "dma200" : 357.17,
+    "volume" : 1799206.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 405.40,
-    "dma50" : 408.34,
-    "dma100" : 399.77,
-    "dma200" : 356.63,
-    "volume" : 659183.00
+    "date" : "2026-11-23",
+    "price" : 411.60,
+    "dma50" : 408.47,
+    "dma100" : 399.98,
+    "dma200" : 357.17,
+    "volume" : 1799206.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1920,21 +1920,21 @@
     "netProfit" : 241.19
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 4.93,
-    "pricePercentageAboveDma200" : 4.32,
+    "pricePercentageAboveDma50" : 4.96,
+    "pricePercentageAboveDma100" : 4.85,
+    "pricePercentageAboveDma200" : 4.24,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 15.38,
     "netProfitMarginPercentile" : 6.92,
-    "totalTechnicalScore" : 39.28,
+    "totalTechnicalScore" : 44.05,
     "totalFundamentalScore" : 42.31,
-    "totalScore" : 81.59
+    "totalScore" : 86.36
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SMCGLOBAL",
       "companyName" : "SMC Global Sec.",
-      "marketCap" : 1792.00,
-      "peRatio" : 15.40,
+      "marketCap" : 1692.00,
+      "peRatio" : 14.60,
       "description" : "Incorporated in 1994, SMC Global Securities Ltd offers financial services, with operations spanning across Broking, Distribution & Trading, Financing, and also Insurance Broking, supported by their subsidiary companies"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 4.77,
+      "pricePercentageAboveDma50" : 5.63,
+      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma200" : 5.06,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 9.85,
       "netProfitMarginPercentile" : 0.97,
-      "totalTechnicalScore" : 40.24,
+      "totalTechnicalScore" : 36.05,
       "totalFundamentalScore" : 24.15,
-      "totalScore" : 64.39
+      "totalScore" : 60.20
     }
   },
   "attributes" : {
     "companyCode" : "SMCGLOBAL",
     "companyName" : "SMC Global Sec.",
-    "marketCap" : 1792.00,
-    "peRatio" : 15.40,
+    "marketCap" : 1692.00,
+    "peRatio" : 14.60,
     "description" : "Incorporated in 1994, SMC Global Securities Ltd offers financial services, with operations spanning across Broking, Distribution & Trading, Financing, and also Insurance Broking, supported by their subsidiary companies"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 57.88,
-    "dma50" : 66.78,
-    "dma100" : null,
-    "dma200" : 67.00,
-    "volume" : 52035.00
-  }, {
     "date" : "2025-11-25",
     "price" : 58.08,
     "dma50" : 66.44,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 64.90,
     "dma50" : 68.34,
-    "dma100" : 74.82,
+    "dma100" : null,
     "dma200" : 70.98,
     "volume" : 188708.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 86.91,
     "dma200" : 81.89,
     "volume" : 9814225.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 80.82,
+    "dma50" : 92.38,
+    "dma100" : 87.01,
+    "dma200" : 81.88,
+    "volume" : 1050485.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 85.58,
-    "dma50" : 92.85,
-    "dma100" : 86.91,
-    "dma200" : 81.89,
-    "volume" : 9814225.00
+    "date" : "2026-11-23",
+    "price" : 80.82,
+    "dma50" : 92.38,
+    "dma100" : 87.01,
+    "dma200" : 81.88,
+    "volume" : 1050485.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-09-30",
@@ -2102,19 +2102,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 4.77,
+    "pricePercentageAboveDma50" : 5.63,
+    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma200" : 5.06,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 9.85,
     "netProfitMarginPercentile" : 0.97,
-    "totalTechnicalScore" : 40.24,
+    "totalTechnicalScore" : 36.05,
     "totalFundamentalScore" : 24.15,
-    "totalScore" : 64.39
+    "totalScore" : 60.20
   }
 }

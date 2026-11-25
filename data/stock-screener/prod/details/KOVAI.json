@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KOVAI",
       "companyName" : "Kovai Medical",
-      "marketCap" : 7200.00,
-      "peRatio" : 26.20,
+      "marketCap" : 7241.00,
+      "peRatio" : 26.40,
       "description" : "Kovai Medical Center & Hospital Ltd is a Coimbatore-based company which is in the business of advanced healthcare services. It also forayed into education services in 2019 with the commencement of its new Medical College in Coimbatore.[1]"
     },
     "companyScore" : {
@@ -20,38 +20,31 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.60,
-      "pricePercentageAboveDma100" : 4.53,
-      "pricePercentageAboveDma200" : 4.41,
+      "pricePercentageAboveDma50" : 4.58,
+      "pricePercentageAboveDma100" : 4.50,
+      "pricePercentageAboveDma200" : 4.39,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 48.54,
+      "totalTechnicalScore" : 48.47,
       "totalFundamentalScore" : 40.93,
-      "totalScore" : 89.47
+      "totalScore" : 89.40
     }
   },
   "attributes" : {
     "companyCode" : "KOVAI",
     "companyName" : "Kovai Medical",
-    "marketCap" : 7200.00,
-    "peRatio" : 26.20,
+    "marketCap" : 7241.00,
+    "peRatio" : 26.40,
     "description" : "Kovai Medical Center & Hospital Ltd is a Coimbatore-based company which is in the business of advanced healthcare services. It also forayed into education services in 2019 with the commencement of its new Medical College in Coimbatore.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 5997.75,
-    "dma50" : 6265.42,
-    "dma100" : null,
-    "dma200" : 5985.42,
-    "volume" : 9354.00
-  }, {
     "date" : "2025-11-25",
     "price" : 6006.15,
     "dma50" : 6255.25,
     "dma100" : null,
-    "dma200" : 5985.62,
+    "dma200" : 5985.63,
     "volume" : 5118.00
   }, {
     "date" : "2025-11-26",
@@ -317,7 +310,7 @@
     "price" : 5428.55,
     "dma50" : 5822.88,
     "dma100" : null,
-    "dma200" : 5913.26,
+    "dma200" : 5913.27,
     "volume" : 2213.00
   }, {
     "date" : "2026-01-21",
@@ -667,7 +660,7 @@
     "price" : 5204.55,
     "dma50" : 5307.17,
     "dma100" : null,
-    "dma200" : 5655.40,
+    "dma200" : 5655.41,
     "volume" : 3722.00
   }, {
     "date" : "2026-04-07",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 5637.80,
     "dma50" : 5355.05,
-    "dma100" : 5486.02,
+    "dma100" : null,
     "dma200" : 5632.13,
     "volume" : 2626.00
   }, {
@@ -835,7 +828,7 @@
     "price" : 5423.00,
     "dma50" : 5476.79,
     "dma100" : 5449.91,
-    "dma200" : 5635.72,
+    "dma200" : 5635.73,
     "volume" : 6369.00
   }, {
     "date" : "2026-05-13",
@@ -1129,7 +1122,7 @@
     "price" : 5995.50,
     "dma50" : 5756.47,
     "dma100" : 5504.20,
-    "dma200" : 5668.66,
+    "dma200" : 5668.67,
     "volume" : 4518.00
   }, {
     "date" : "2026-07-14",
@@ -1297,7 +1290,7 @@
     "price" : 6038.50,
     "dma50" : 5848.35,
     "dma100" : 5659.52,
-    "dma200" : 5718.54,
+    "dma200" : 5718.55,
     "volume" : 8179.00
   }, {
     "date" : "2026-08-17",
@@ -1768,14 +1761,21 @@
     "dma100" : 6015.22,
     "dma200" : 5887.27,
     "volume" : 6245.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 6619.00,
+    "dma50" : 6110.19,
+    "dma100" : 6020.91,
+    "dma200" : 5894.55,
+    "volume" : 5183.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 6581.00,
-    "dma50" : 6089.42,
-    "dma100" : 6015.22,
-    "dma200" : 5887.27,
-    "volume" : 6245.00
+    "date" : "2026-11-23",
+    "price" : 6619.00,
+    "dma50" : 6110.19,
+    "dma100" : 6020.91,
+    "dma200" : 5894.55,
+    "volume" : 5183.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.60,
-    "pricePercentageAboveDma100" : 4.53,
-    "pricePercentageAboveDma200" : 4.41,
+    "pricePercentageAboveDma50" : 4.58,
+    "pricePercentageAboveDma100" : 4.50,
+    "pricePercentageAboveDma200" : 4.39,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 48.54,
+    "totalTechnicalScore" : 48.47,
     "totalFundamentalScore" : 40.93,
-    "totalScore" : 89.47
+    "totalScore" : 89.40
   }
 }

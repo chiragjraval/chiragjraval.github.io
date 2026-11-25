@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "VBL",
       "companyName" : "Varun Beverages",
-      "marketCap" : 144602.00,
+      "marketCap" : 144483.00,
       "peRatio" : 41.80,
       "description" : "Varun Beverages Ltd has been associated with PepsiCo since the 1990s and is a key player in beverage industry and one of the largest franchisee of PepsiCo in the world. The company produces and distributes a wide range of carbonated soft drinks, non-carbonated drinks and packaged water sold under trademarks owned by PepsiCo. PepsiCo brands produced and sold by the company include Pepsi, Seven-up, Mirinda Orange, Mountain Dew, Tropicana Juices and many more. [1]"
     },
@@ -21,7 +21,7 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.00,
-      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma100" : 5.09,
       "pricePercentageAboveDma200" : 5.27,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.00,
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "VBL",
     "companyName" : "Varun Beverages",
-    "marketCap" : 144602.00,
+    "marketCap" : 144483.00,
     "peRatio" : 41.80,
     "description" : "Varun Beverages Ltd has been associated with PepsiCo since the 1990s and is a key player in beverage industry and one of the largest franchisee of PepsiCo in the world. The company produces and distributes a wide range of carbonated soft drinks, non-carbonated drinks and packaged water sold under trademarks owned by PepsiCo. PepsiCo brands produced and sold by the company include Pepsi, Seven-up, Mirinda Orange, Mountain Dew, Tropicana Juices and many more. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 446.10,
-    "dma50" : 463.50,
-    "dma100" : null,
-    "dma200" : 493.02,
-    "volume" : 11028110.00
-  }, {
     "date" : "2025-11-25",
     "price" : 449.05,
     "dma50" : 462.93,
@@ -275,7 +268,7 @@
     "price" : 489.00,
     "dma50" : 478.53,
     "dma100" : null,
-    "dma200" : 489.81,
+    "dma200" : 489.80,
     "volume" : 4154484.00
   }, {
     "date" : "2026-01-12",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 494.95,
     "dma50" : 439.32,
-    "dma100" : 457.25,
+    "dma100" : null,
     "dma200" : 466.57,
     "volume" : 12458570.00
   }, {
@@ -814,7 +807,7 @@
     "price" : 510.60,
     "dma50" : 462.36,
     "dma100" : 460.76,
-    "dma200" : 470.60,
+    "dma200" : 470.59,
     "volume" : 4104026.00
   }, {
     "date" : "2026-05-08",
@@ -1030,7 +1023,7 @@
     "date" : "2026-06-22",
     "price" : 512.95,
     "dma50" : 506.98,
-    "dma100" : 471.88,
+    "dma100" : 471.87,
     "dma200" : 484.57,
     "volume" : 12001598.00
   }, {
@@ -1192,7 +1185,7 @@
     "price" : 457.20,
     "dma50" : 490.01,
     "dma100" : 477.75,
-    "dma200" : 484.14,
+    "dma200" : 484.13,
     "volume" : 2659170.00
   }, {
     "date" : "2026-07-27",
@@ -1625,7 +1618,7 @@
     "date" : "2026-10-23",
     "price" : 395.10,
     "dma50" : 430.83,
-    "dma100" : 456.11,
+    "dma100" : 456.10,
     "dma200" : 457.83,
     "volume" : 5097966.00
   }, {
@@ -1695,7 +1688,7 @@
     "date" : "2026-11-06",
     "price" : 438.00,
     "dma50" : 425.35,
-    "dma100" : 444.60,
+    "dma100" : 444.59,
     "dma200" : 453.61,
     "volume" : 4920303.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 435.81,
     "dma200" : 451.46,
     "volume" : 5921625.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 427.15,
+    "dma50" : 427.10,
+    "dma100" : 434.93,
+    "dma200" : 451.21,
+    "volume" : 2806458.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 427.50,
-    "dma50" : 427.09,
-    "dma100" : 435.81,
-    "dma200" : 451.46,
-    "volume" : 5921625.00
+    "date" : "2026-11-23",
+    "price" : 427.15,
+    "dma50" : 427.10,
+    "dma100" : 434.93,
+    "dma200" : 451.21,
+    "volume" : 2806458.00
   },
   "quarterlyResults" : [ {
     "date" : "2015-12-31",
@@ -2237,7 +2237,7 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.00,
-    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma100" : 5.09,
     "pricePercentageAboveDma200" : 5.27,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.00,

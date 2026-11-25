@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANAPPURAM",
       "companyName" : "Manappuram Fin.",
-      "marketCap" : 26348.00,
-      "peRatio" : 13.60,
+      "marketCap" : 25456.00,
+      "peRatio" : 13.20,
       "description" : "Manappuram Finance is a Non-Banking Finance Company (NBFC), which provides a wide range of fund based and fee based services including gold loans, money exchange facilities, etc. The Company is a Systemically Important Non-Deposit taking NBFC(NBFC-ND).(Source : 202003 Annual Report Page No:120)"
     },
     "companyScore" : {
@@ -20,38 +20,31 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.50,
-      "pricePercentageAboveDma100" : 5.74,
-      "pricePercentageAboveDma200" : 5.48,
+      "pricePercentageAboveDma50" : 5.63,
+      "pricePercentageAboveDma100" : 5.88,
+      "pricePercentageAboveDma200" : 5.63,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.46,
       "operatingProfitMarginPercentile" : 17.52,
       "netProfitMarginPercentile" : 8.56,
-      "totalTechnicalScore" : 31.73,
+      "totalTechnicalScore" : 32.14,
       "totalFundamentalScore" : 40.53,
-      "totalScore" : 72.26
+      "totalScore" : 72.67
     }
   },
   "attributes" : {
     "companyCode" : "MANAPPURAM",
     "companyName" : "Manappuram Fin.",
-    "marketCap" : 26348.00,
-    "peRatio" : 13.60,
+    "marketCap" : 25456.00,
+    "peRatio" : 13.20,
     "description" : "Manappuram Finance is a Non-Banking Finance Company (NBFC), which provides a wide range of fund based and fee based services including gold loans, money exchange facilities, etc. The Company is a Systemically Important Non-Deposit taking NBFC(NBFC-ND).(Source : 202003 Annual Report Page No:120)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 275.00,
-    "dma50" : 278.37,
-    "dma100" : null,
-    "dma200" : 254.10,
-    "volume" : 1847403.00
-  }, {
     "date" : "2025-11-25",
     "price" : 279.05,
     "dma50" : 278.40,
     "dma100" : null,
-    "dma200" : 254.35,
+    "dma200" : 254.34,
     "volume" : 2976632.00
   }, {
     "date" : "2025-11-26",
@@ -681,7 +674,7 @@
     "price" : 269.55,
     "dma50" : 273.95,
     "dma100" : null,
-    "dma200" : 271.83,
+    "dma200" : 271.82,
     "volume" : 6349194.00
   }, {
     "date" : "2026-04-09",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 295.05,
     "dma50" : 273.64,
-    "dma100" : 285.27,
+    "dma100" : null,
     "dma200" : 271.87,
     "volume" : 11348893.00
   }, {
@@ -1500,7 +1493,7 @@
     "price" : 334.00,
     "dma50" : 334.71,
     "dma100" : 331.62,
-    "dma200" : 311.91,
+    "dma200" : 311.90,
     "volume" : 4787785.00
   }, {
     "date" : "2026-09-28",
@@ -1768,14 +1761,21 @@
     "dma100" : 329.21,
     "dma200" : 310.43,
     "volume" : 10498138.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 271.00,
+    "dma50" : 310.41,
+    "dma100" : 328.75,
+    "dma200" : 310.04,
+    "volume" : 15198832.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 280.50,
-    "dma50" : 312.01,
-    "dma100" : 329.21,
-    "dma200" : 310.43,
-    "volume" : 10498138.00
+    "date" : "2026-11-23",
+    "price" : 271.00,
+    "dma50" : 310.41,
+    "dma100" : 328.75,
+    "dma200" : 310.04,
+    "volume" : 15198832.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.50,
-    "pricePercentageAboveDma100" : 5.74,
-    "pricePercentageAboveDma200" : 5.48,
+    "pricePercentageAboveDma50" : 5.63,
+    "pricePercentageAboveDma100" : 5.88,
+    "pricePercentageAboveDma200" : 5.63,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.46,
     "operatingProfitMarginPercentile" : 17.52,
     "netProfitMarginPercentile" : 8.56,
-    "totalTechnicalScore" : 31.73,
+    "totalTechnicalScore" : 32.14,
     "totalFundamentalScore" : 40.53,
-    "totalScore" : 72.26
+    "totalScore" : 72.67
   }
 }

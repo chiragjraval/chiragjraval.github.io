@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LANDMARK",
       "companyName" : "Landmark Cars",
-      "marketCap" : 1945.00,
-      "peRatio" : 30.10,
+      "marketCap" : 1928.00,
+      "peRatio" : 29.80,
       "description" : "Incorporated in 1998, Landmark Cars Limited is the leading premium automotive retail business in India with dealerships for Mercedes-Benz, Honda, Jeep, Volkswagen, and Renault. The company also caters to the commercial vehicle retail business of Ashok Leyland in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.19,
-      "pricePercentageAboveDma200" : 5.02,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 5.06,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 2.50,
       "operatingProfitMarginPercentile" : 14.00,
       "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 20.22,
+      "totalTechnicalScore" : 20.34,
       "totalFundamentalScore" : 24.00,
-      "totalScore" : 44.22
+      "totalScore" : 44.34
     }
   },
   "attributes" : {
     "companyCode" : "LANDMARK",
     "companyName" : "Landmark Cars",
-    "marketCap" : 1945.00,
-    "peRatio" : 30.10,
+    "marketCap" : 1928.00,
+    "peRatio" : 29.80,
     "description" : "Incorporated in 1998, Landmark Cars Limited is the leading premium automotive retail business in India with dealerships for Mercedes-Benz, Honda, Jeep, Volkswagen, and Renault. The company also caters to the commercial vehicle retail business of Ashok Leyland in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 539.65,
-    "dma50" : 590.23,
-    "dma100" : null,
-    "dma200" : 560.70,
-    "volume" : 20025.00
-  }, {
     "date" : "2025-11-25",
     "price" : 539.20,
     "dma50" : 588.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 424.80,
     "dma50" : 410.56,
-    "dma100" : 433.90,
+    "dma100" : null,
     "dma200" : 473.71,
     "volume" : 35574.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 487.80,
     "dma200" : 470.53,
     "volume" : 73651.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 465.05,
+    "dma50" : 469.54,
+    "dma100" : 488.19,
+    "dma200" : 470.48,
+    "volume" : 41276.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 469.00,
-    "dma50" : 469.72,
-    "dma100" : 487.80,
-    "dma200" : 470.53,
-    "volume" : 73651.00
+    "date" : "2026-11-23",
+    "price" : 465.05,
+    "dma50" : 469.54,
+    "dma100" : 488.19,
+    "dma200" : 470.48,
+    "volume" : 41276.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -1996,15 +1996,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.19,
-    "pricePercentageAboveDma200" : 5.02,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 5.06,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 2.50,
     "operatingProfitMarginPercentile" : 14.00,
     "netProfitMarginPercentile" : 7.50,
-    "totalTechnicalScore" : 20.22,
+    "totalTechnicalScore" : 20.34,
     "totalFundamentalScore" : 24.00,
-    "totalScore" : 44.22
+    "totalScore" : 44.34
   }
 }

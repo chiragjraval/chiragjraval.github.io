@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "SURAKSHA",
       "companyName" : "Suraksha Diagno.",
-      "marketCap" : 1622.00,
+      "marketCap" : 1620.00,
       "peRatio" : 38.80,
       "description" : "Incorporated in 2005, Suraksha Diagnostic offers an integrated pathology, radiology testing, and medical consultancy services solution.[1]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 4.92,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma100" : 4.94,
+      "pricePercentageAboveDma200" : 4.88,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.78,
       "operatingProfitMarginPercentile" : 19.51,
       "netProfitMarginPercentile" : 9.86,
-      "totalTechnicalScore" : 45.01,
+      "totalTechnicalScore" : 45.02,
       "totalFundamentalScore" : 47.15,
-      "totalScore" : 92.15
+      "totalScore" : 92.17
     }
   },
   "attributes" : {
     "companyCode" : "SURAKSHA",
     "companyName" : "Suraksha Diagno.",
-    "marketCap" : 1622.00,
+    "marketCap" : 1620.00,
     "peRatio" : 38.80,
     "description" : "Incorporated in 2005, Suraksha Diagnostic offers an integrated pathology, radiology testing, and medical consultancy services solution.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 294.75,
-    "dma50" : 308.53,
-    "dma100" : null,
-    "dma200" : 320.86,
-    "volume" : 18057.00
-  }, {
     "date" : "2025-11-25",
     "price" : 291.25,
     "dma50" : 307.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 284.50,
     "dma50" : 268.11,
-    "dma100" : 271.62,
+    "dma100" : null,
     "dma200" : 288.74,
     "volume" : 9925.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 306.78,
     "dma200" : 303.81,
     "volume" : 236557.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 311.15,
+    "dma50" : 324.67,
+    "dma100" : 307.21,
+    "dma200" : 303.88,
+    "volume" : 140309.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 311.50,
-    "dma50" : 325.22,
-    "dma100" : 306.78,
-    "dma200" : 303.81,
-    "volume" : 236557.00
+    "date" : "2026-11-23",
+    "price" : 311.15,
+    "dma50" : 324.67,
+    "dma100" : 307.21,
+    "dma200" : 303.88,
+    "volume" : 140309.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1927,14 +1927,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 4.92,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma100" : 4.94,
+    "pricePercentageAboveDma200" : 4.88,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.78,
     "operatingProfitMarginPercentile" : 19.51,
     "netProfitMarginPercentile" : 9.86,
-    "totalTechnicalScore" : 45.01,
+    "totalTechnicalScore" : 45.02,
     "totalFundamentalScore" : 47.15,
-    "totalScore" : 92.15
+    "totalScore" : 92.17
   }
 }

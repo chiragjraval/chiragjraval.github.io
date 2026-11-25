@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ELLEN",
       "companyName" : "Ellen.Indl.Gas",
-      "marketCap" : 3816.00,
-      "peRatio" : 31.90,
+      "marketCap" : 4000.00,
+      "peRatio" : 33.40,
       "description" : "Ellenbarrie Industrial Gases Ltd. is engaged in the business of oxygen and nitrogen. The Company is a manufacturer and supplier of industrial gases in the eastern and southern India, both in bulk and packaged form. It is engaged in the medical, chemical, construction, defense and energy businesses."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.69,
-      "pricePercentageAboveDma100" : 5.69,
-      "pricePercentageAboveDma200" : 5.76,
+      "pricePercentageAboveDma50" : 5.46,
+      "pricePercentageAboveDma100" : 5.49,
+      "pricePercentageAboveDma200" : 5.55,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.55,
       "operatingProfitMarginPercentile" : 17.82,
       "netProfitMarginPercentile" : 9.47,
-      "totalTechnicalScore" : 17.14,
+      "totalTechnicalScore" : 16.50,
       "totalFundamentalScore" : 41.84,
-      "totalScore" : 58.98
+      "totalScore" : 58.34
     }
   },
   "attributes" : {
     "companyCode" : "ELLEN",
     "companyName" : "Ellen.Indl.Gas",
-    "marketCap" : 3816.00,
-    "peRatio" : 31.90,
+    "marketCap" : 4000.00,
+    "peRatio" : 33.40,
     "description" : "Ellenbarrie Industrial Gases Ltd. is engaged in the business of oxygen and nitrogen. The Company is a manufacturer and supplier of industrial gases in the eastern and southern India, both in bulk and packaged form. It is engaged in the medical, chemical, construction, defense and energy businesses."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 391.55,
-    "dma50" : 461.58,
-    "dma100" : null,
-    "dma200" : 508.33,
-    "volume" : 117213.00
-  }, {
     "date" : "2025-11-25",
     "price" : 394.75,
     "dma50" : 458.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 255.68,
     "dma50" : 239.96,
-    "dma100" : 274.69,
+    "dma100" : null,
     "dma200" : 351.66,
     "volume" : 432944.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 314.44,
     "dma200" : 319.26,
     "volume" : 312703.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 283.85,
+    "dma50" : 312.76,
+    "dma100" : 314.67,
+    "dma200" : 318.90,
+    "volume" : 1232204.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 270.75,
-    "dma50" : 313.94,
-    "dma100" : 314.44,
-    "dma200" : 319.26,
-    "volume" : 312703.00
+    "date" : "2026-11-23",
+    "price" : 283.85,
+    "dma50" : 312.76,
+    "dma100" : 314.67,
+    "dma200" : 318.90,
+    "volume" : 1232204.00
   },
   "quarterlyResults" : [ {
     "date" : "2013-03-31",
@@ -2056,15 +2056,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.69,
-    "pricePercentageAboveDma100" : 5.69,
-    "pricePercentageAboveDma200" : 5.76,
+    "pricePercentageAboveDma50" : 5.46,
+    "pricePercentageAboveDma100" : 5.49,
+    "pricePercentageAboveDma200" : 5.55,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.55,
     "operatingProfitMarginPercentile" : 17.82,
     "netProfitMarginPercentile" : 9.47,
-    "totalTechnicalScore" : 17.14,
+    "totalTechnicalScore" : 16.50,
     "totalFundamentalScore" : 41.84,
-    "totalScore" : 58.98
+    "totalScore" : 58.34
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BLIL",
       "companyName" : "Balmer Law. Inv.",
-      "marketCap" : 1452.00,
-      "peRatio" : 7.46,
+      "marketCap" : 1447.00,
+      "peRatio" : 7.44,
       "description" : "Balmer Lawrie Investments Ltd is a Government Enterprise. It’s a major stakeholder of Balmer Lawrie & Co. Ltd. The company along with its subsidiaries is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, etc. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.21,
-      "pricePercentageAboveDma200" : 5.32,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 5.22,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.72,
       "operatingProfitMarginPercentile" : 19.90,
       "netProfitMarginPercentile" : 9.51,
-      "totalTechnicalScore" : 15.57,
+      "totalTechnicalScore" : 15.61,
       "totalFundamentalScore" : 30.14,
-      "totalScore" : 45.71
+      "totalScore" : 45.75
     }
   },
   "attributes" : {
     "companyCode" : "BLIL",
     "companyName" : "Balmer Law. Inv.",
-    "marketCap" : 1452.00,
-    "peRatio" : 7.46,
+    "marketCap" : 1447.00,
+    "peRatio" : 7.44,
     "description" : "Balmer Lawrie Investments Ltd is a Government Enterprise. It’s a major stakeholder of Balmer Lawrie & Co. Ltd. The company along with its subsidiaries is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 73.56,
-    "dma50" : 79.20,
-    "dma100" : null,
-    "dma200" : 79.71,
-    "volume" : 114221.00
-  }, {
     "date" : "2025-11-25",
     "price" : 73.45,
     "dma50" : 78.97,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 73.05,
     "dma50" : 71.31,
-    "dma100" : 71.58,
+    "dma100" : null,
     "dma200" : 74.47,
     "volume" : 79112.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 68.23,
     "dma200" : 69.83,
     "volume" : 69275.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 65.18,
+    "dma50" : 66.01,
+    "dma100" : 68.18,
+    "dma200" : 69.79,
+    "volume" : 61815.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 65.40,
-    "dma50" : 66.05,
-    "dma100" : 68.23,
-    "dma200" : 69.83,
-    "volume" : 69275.00
+    "date" : "2026-11-23",
+    "price" : 65.18,
+    "dma50" : 66.01,
+    "dma100" : 68.18,
+    "dma200" : 69.79,
+    "volume" : 61815.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.21,
-    "pricePercentageAboveDma200" : 5.32,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 5.22,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.72,
     "operatingProfitMarginPercentile" : 19.90,
     "netProfitMarginPercentile" : 9.51,
-    "totalTechnicalScore" : 15.57,
+    "totalTechnicalScore" : 15.61,
     "totalFundamentalScore" : 30.14,
-    "totalScore" : 45.71
+    "totalScore" : 45.75
   }
 }

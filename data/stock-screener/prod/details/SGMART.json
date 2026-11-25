@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SGMART",
       "companyName" : "SG Mart",
-      "marketCap" : 13831.00,
-      "peRatio" : 91.10,
+      "marketCap" : 13071.00,
+      "peRatio" : 86.10,
       "description" : "SG Mart offers a wide range of products with 27+ product categories, and 2500+ SKUs. These categories include steel construction products like TMT Rebars, HR Sheet, Welding rod, Binding wire, mesh net, tapping screw and barbed wire, tiles, cement, bath fittings, laminates and paints. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 3.53,
-      "pricePercentageAboveDma100" : 2.86,
-      "pricePercentageAboveDma200" : 1.84,
+      "pricePercentageAboveDma50" : 3.93,
+      "pricePercentageAboveDma100" : 3.29,
+      "pricePercentageAboveDma200" : 2.33,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 6.99,
       "operatingProfitMarginPercentile" : 17.12,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 43.23,
+      "totalTechnicalScore" : 44.55,
       "totalFundamentalScore" : 30.54,
-      "totalScore" : 73.77
+      "totalScore" : 75.09
     }
   },
   "attributes" : {
     "companyCode" : "SGMART",
     "companyName" : "SG Mart",
-    "marketCap" : 13831.00,
-    "peRatio" : 91.10,
+    "marketCap" : 13071.00,
+    "peRatio" : 86.10,
     "description" : "SG Mart offers a wide range of products with 27+ product categories, and 2500+ SKUs. These categories include steel construction products like TMT Rebars, HR Sheet, Welding rod, Binding wire, mesh net, tapping screw and barbed wire, tiles, cement, bath fittings, laminates and paints. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 345.10,
-    "dma50" : 352.48,
-    "dma100" : null,
-    "dma200" : 358.18,
-    "volume" : 183244.00
-  }, {
     "date" : "2025-11-25",
     "price" : 346.95,
     "dma50" : 352.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 543.90,
     "dma50" : 471.18,
-    "dma100" : 408.63,
+    "dma100" : null,
     "dma200" : 401.37,
     "volume" : 787891.00
   }, {
@@ -765,7 +758,7 @@
     "price" : 552.65,
     "dma50" : 479.76,
     "dma100" : 414.55,
-    "dma200" : 405.67,
+    "dma200" : 405.68,
     "volume" : 244978.00
   }, {
     "date" : "2026-04-28",
@@ -807,7 +800,7 @@
     "price" : 542.65,
     "dma50" : 495.03,
     "dma100" : 426.74,
-    "dma200" : 414.17,
+    "dma200" : 414.18,
     "volume" : 279891.00
   }, {
     "date" : "2026-05-07",
@@ -1768,14 +1761,21 @@
     "dma100" : 767.91,
     "dma200" : 672.50,
     "volume" : 1987645.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 1036.80,
+    "dma50" : 854.62,
+    "dma100" : 772.19,
+    "dma200" : 676.13,
+    "volume" : 12099251.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 1097.05,
-    "dma50" : 847.18,
-    "dma100" : 767.91,
-    "dma200" : 672.50,
-    "volume" : 1987645.00
+    "date" : "2026-11-23",
+    "price" : 1036.80,
+    "dma50" : 854.62,
+    "dma100" : 772.19,
+    "dma200" : 676.13,
+    "volume" : 12099251.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 3.53,
-    "pricePercentageAboveDma100" : 2.86,
-    "pricePercentageAboveDma200" : 1.84,
+    "pricePercentageAboveDma50" : 3.93,
+    "pricePercentageAboveDma100" : 3.29,
+    "pricePercentageAboveDma200" : 2.33,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 6.99,
     "operatingProfitMarginPercentile" : 17.12,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 43.23,
+    "totalTechnicalScore" : 44.55,
     "totalFundamentalScore" : 30.54,
-    "totalScore" : 73.77
+    "totalScore" : 75.09
   }
 }

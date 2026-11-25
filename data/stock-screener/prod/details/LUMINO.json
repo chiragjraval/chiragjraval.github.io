@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LUMINO",
       "companyName" : "Lumino Inds",
-      "marketCap" : 2800.00,
-      "peRatio" : 15.80,
+      "marketCap" : 2708.00,
+      "peRatio" : 15.20,
       "description" : "Lumino Industries Limited, headquartered in Kolkata and equipped with a manufacturing facility in Howrah, has expertise in serving the power and energy sector. It is a leading manufacturer of a wide range of products, including Cables, Conductors and Wires. It offers Engineering, Procurement, and Construction (EPC) major, deliver projects in key infrastructure sectors such as Distribution & Transmission, Railway electrification, Reconductoring with HTLS Conductors, Solar power projects and EHV[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.37,
+      "pricePercentageAboveDma50" : 5.51,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.66,
+      "pricePercentageAboveDma200" : 5.80,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 11.04,
+      "totalTechnicalScore" : 11.30,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 55.04
+      "totalScore" : 55.30
     }
   },
   "attributes" : {
     "companyCode" : "LUMINO",
     "companyName" : "Lumino Inds",
-    "marketCap" : 2800.00,
-    "peRatio" : 15.80,
+    "marketCap" : 2708.00,
+    "peRatio" : 15.20,
     "description" : "Lumino Industries Limited, headquartered in Kolkata and equipped with a manufacturing facility in Howrah, has expertise in serving the power and energy sector. It is a leading manufacturer of a wide range of products, including Cables, Conductors and Wires. It offers Engineering, Procurement, and Construction (EPC) major, deliver projects in key infrastructure sectors such as Distribution & Transmission, Railway electrification, Reconductoring with HTLS Conductors, Solar power projects and EHV[1]"
   },
   "technicalHistory" : [ {
@@ -417,14 +417,21 @@
     "dma100" : null,
     "dma200" : 106.01,
     "volume" : 2396908.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 88.93,
+    "dma50" : 98.93,
+    "dma100" : null,
+    "dma200" : 105.84,
+    "volume" : 2971201.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 91.94,
-    "dma50" : 99.34,
+    "date" : "2026-11-23",
+    "price" : 88.93,
+    "dma50" : 98.93,
     "dma100" : null,
-    "dma200" : 106.01,
-    "volume" : 2396908.00
+    "dma200" : 105.84,
+    "volume" : 2971201.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -495,15 +502,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.37,
+    "pricePercentageAboveDma50" : 5.51,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.66,
+    "pricePercentageAboveDma200" : 5.80,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 11.04,
+    "totalTechnicalScore" : 11.30,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 55.04
+    "totalScore" : 55.30
   }
 }

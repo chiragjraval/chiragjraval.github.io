@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HINDPETRO",
       "companyName" : "H P C L",
-      "marketCap" : 84336.00,
-      "peRatio" : 58.70,
+      "marketCap" : 81921.00,
+      "peRatio" : 57.00,
       "description" : "Hindustan Petroleum Corporation Ltd is mainly engaged in the business of refining of crude oil and marketing of petroleum products, production of hydrocarbons as well as providing services for management of E&P Blocks.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.59,
-      "pricePercentageAboveDma100" : 4.65,
-      "pricePercentageAboveDma200" : 4.79,
+      "pricePercentageAboveDma50" : 4.76,
+      "pricePercentageAboveDma100" : 4.80,
+      "pricePercentageAboveDma200" : 4.94,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 15.86,
       "netProfitMarginPercentile" : 5.86,
-      "totalTechnicalScore" : 29.03,
+      "totalTechnicalScore" : 29.50,
       "totalFundamentalScore" : 38.83,
-      "totalScore" : 67.87
+      "totalScore" : 68.33
     }
   },
   "attributes" : {
     "companyCode" : "HINDPETRO",
     "companyName" : "H P C L",
-    "marketCap" : 84336.00,
-    "peRatio" : 58.70,
+    "marketCap" : 81921.00,
+    "peRatio" : 57.00,
     "description" : "Hindustan Petroleum Corporation Ltd is mainly engaged in the business of refining of crude oil and marketing of petroleum products, production of hydrocarbons as well as providing services for management of E&P Blocks.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 463.05,
-    "dma50" : 454.77,
-    "dma100" : null,
-    "dma200" : 414.33,
-    "volume" : 8206232.00
-  }, {
     "date" : "2025-11-25",
     "price" : 455.25,
     "dma50" : 454.79,
@@ -261,7 +254,7 @@
     "price" : 476.45,
     "dma50" : 466.06,
     "dma100" : null,
-    "dma200" : 428.46,
+    "dma200" : 428.45,
     "volume" : 2619586.00
   }, {
     "date" : "2026-01-08",
@@ -359,7 +352,7 @@
     "price" : 432.60,
     "dma50" : 453.83,
     "dma100" : null,
-    "dma200" : 429.80,
+    "dma200" : 429.79,
     "volume" : 5602026.00
   }, {
     "date" : "2026-01-30",
@@ -478,7 +471,7 @@
     "price" : 430.90,
     "dma50" : 452.19,
     "dma100" : null,
-    "dma200" : 433.06,
+    "dma200" : 433.05,
     "volume" : 4885431.00
   }, {
     "date" : "2026-02-23",
@@ -653,7 +646,7 @@
     "price" : 335.55,
     "dma50" : 399.25,
     "dma100" : null,
-    "dma200" : 420.57,
+    "dma200" : 420.56,
     "volume" : 10981287.00
   }, {
     "date" : "2026-04-02",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 382.55,
     "dma50" : 384.14,
-    "dma100" : 424.20,
+    "dma100" : null,
     "dma200" : 413.19,
     "volume" : 4981893.00
   }, {
@@ -1143,7 +1136,7 @@
     "price" : 394.40,
     "dma50" : 390.92,
     "dma100" : 385.06,
-    "dma200" : 402.72,
+    "dma200" : 402.71,
     "volume" : 4839210.00
   }, {
     "date" : "2026-07-16",
@@ -1234,7 +1227,7 @@
     "price" : 395.00,
     "dma50" : 392.32,
     "dma100" : 379.62,
-    "dma200" : 401.75,
+    "dma200" : 401.74,
     "volume" : 5250359.00
   }, {
     "date" : "2026-08-04",
@@ -1768,14 +1761,21 @@
     "dma100" : 370.15,
     "dma200" : 380.64,
     "volume" : 5693850.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 385.00,
+    "dma50" : 367.27,
+    "dma100" : 370.08,
+    "dma200" : 380.68,
+    "volume" : 3571536.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 396.35,
-    "dma50" : 366.54,
-    "dma100" : 370.15,
-    "dma200" : 380.64,
-    "volume" : 5693850.00
+    "date" : "2026-11-23",
+    "price" : 385.00,
+    "dma50" : 367.27,
+    "dma100" : 370.08,
+    "dma200" : 380.68,
+    "volume" : 3571536.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.59,
-    "pricePercentageAboveDma100" : 4.65,
-    "pricePercentageAboveDma200" : 4.79,
+    "pricePercentageAboveDma50" : 4.76,
+    "pricePercentageAboveDma100" : 4.80,
+    "pricePercentageAboveDma200" : 4.94,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 15.86,
     "netProfitMarginPercentile" : 5.86,
-    "totalTechnicalScore" : 29.03,
+    "totalTechnicalScore" : 29.50,
     "totalFundamentalScore" : 38.83,
-    "totalScore" : 67.87
+    "totalScore" : 68.33
   }
 }

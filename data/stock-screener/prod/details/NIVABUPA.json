@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NIVABUPA",
       "companyName" : "Niva Bupa Health",
-      "marketCap" : 13761.00,
-      "peRatio" : 39.90,
+      "marketCap" : 13854.00,
+      "peRatio" : 40.10,
       "description" : "Incorporated in 2008, Niva Bupa Health Insurance Ltd is a Tech driven leading health insurer in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.16,
-      "pricePercentageAboveDma100" : 5.38,
-      "pricePercentageAboveDma200" : 5.31,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.35,
+      "pricePercentageAboveDma200" : 5.27,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.44,
       "operatingProfitMarginPercentile" : 13.85,
       "netProfitMarginPercentile" : 6.92,
-      "totalTechnicalScore" : 20.85,
+      "totalTechnicalScore" : 20.74,
       "totalFundamentalScore" : 25.21,
-      "totalScore" : 46.06
+      "totalScore" : 45.95
     }
   },
   "attributes" : {
     "companyCode" : "NIVABUPA",
     "companyName" : "Niva Bupa Health",
-    "marketCap" : 13761.00,
-    "peRatio" : 39.90,
+    "marketCap" : 13854.00,
+    "peRatio" : 40.10,
     "description" : "Incorporated in 2008, Niva Bupa Health Insurance Ltd is a Tech driven leading health insurer in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 74.27,
-    "dma50" : 77.85,
-    "dma100" : null,
-    "dma200" : 79.88,
-    "volume" : 626244.00
-  }, {
     "date" : "2025-11-25",
     "price" : 76.08,
     "dma50" : 77.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 80.05,
     "dma50" : 74.69,
-    "dma100" : 75.26,
+    "dma100" : null,
     "dma200" : 76.82,
     "volume" : 683360.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 80.54,
     "dma200" : 79.20,
     "volume" : 501084.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 74.86,
+    "dma50" : 76.73,
+    "dma100" : 80.43,
+    "dma200" : 79.16,
+    "volume" : 541717.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 74.36,
-    "dma50" : 76.80,
-    "dma100" : 80.54,
-    "dma200" : 79.20,
-    "volume" : 501084.00
+    "date" : "2026-11-23",
+    "price" : 74.86,
+    "dma50" : 76.73,
+    "dma100" : 80.43,
+    "dma200" : 79.16,
+    "volume" : 541717.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-09-30",
@@ -1926,15 +1926,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.16,
-    "pricePercentageAboveDma100" : 5.38,
-    "pricePercentageAboveDma200" : 5.31,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.35,
+    "pricePercentageAboveDma200" : 5.27,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.44,
     "operatingProfitMarginPercentile" : 13.85,
     "netProfitMarginPercentile" : 6.92,
-    "totalTechnicalScore" : 20.85,
+    "totalTechnicalScore" : 20.74,
     "totalFundamentalScore" : 25.21,
-    "totalScore" : 46.06
+    "totalScore" : 45.95
   }
 }

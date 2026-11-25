@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MOREPENLAB",
       "companyName" : "Morepen Labs.",
-      "marketCap" : 4940.00,
-      "peRatio" : 26.20,
+      "marketCap" : 4835.00,
+      "peRatio" : 25.60,
       "description" : "Morepen Laboratories Ltd is engaged in the business of manufacturing, producing, developing and marketing a wide range of Active Pharmaceutical Ingredients (APIs), branded and generic formulations and also the Home Health products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.73,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 4.41,
+      "pricePercentageAboveDma50" : 5.80,
+      "pricePercentageAboveDma100" : 5.42,
+      "pricePercentageAboveDma200" : 4.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 35.45,
+      "totalTechnicalScore" : 35.75,
       "totalFundamentalScore" : 49.76,
-      "totalScore" : 85.21
+      "totalScore" : 85.51
     }
   },
   "attributes" : {
     "companyCode" : "MOREPENLAB",
     "companyName" : "Morepen Labs.",
-    "marketCap" : 4940.00,
-    "peRatio" : 26.20,
+    "marketCap" : 4835.00,
+    "peRatio" : 25.60,
     "description" : "Morepen Laboratories Ltd is engaged in the business of manufacturing, producing, developing and marketing a wide range of Active Pharmaceutical Ingredients (APIs), branded and generic formulations and also the Home Health products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 43.10,
-    "dma50" : 48.39,
-    "dma100" : null,
-    "dma200" : 54.96,
-    "volume" : 1806920.00
-  }, {
     "date" : "2025-11-25",
     "price" : 42.89,
     "dma50" : 48.17,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 43.07,
     "dma50" : 39.65,
-    "dma100" : 39.71,
+    "dma100" : null,
     "dma200" : 45.21,
     "volume" : 5037691.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 96.13,
     "dma200" : 80.65,
     "volume" : 2015295.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 88.23,
+    "dma50" : 104.92,
+    "dma100" : 96.39,
+    "dma200" : 80.73,
+    "volume" : 2802480.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 90.15,
-    "dma50" : 105.60,
-    "dma100" : 96.13,
-    "dma200" : 80.65,
-    "volume" : 2015295.00
+    "date" : "2026-11-23",
+    "price" : 88.23,
+    "dma50" : 104.92,
+    "dma100" : 96.39,
+    "dma200" : 80.73,
+    "volume" : 2802480.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.73,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 4.41,
+    "pricePercentageAboveDma50" : 5.80,
+    "pricePercentageAboveDma100" : 5.42,
+    "pricePercentageAboveDma200" : 4.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 35.45,
+    "totalTechnicalScore" : 35.75,
     "totalFundamentalScore" : 49.76,
-    "totalScore" : 85.21
+    "totalScore" : 85.51
   }
 }

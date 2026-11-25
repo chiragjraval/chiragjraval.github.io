@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DSSL",
       "companyName" : "Dynacons Sys.",
-      "marketCap" : 1317.00,
-      "peRatio" : 14.30,
+      "marketCap" : 1311.00,
+      "peRatio" : 14.20,
       "description" : "Dynacons Systems & Solutions Ltd is a Mumbai-based digital-infrastructure/system-integration company delivering data-centre & cloud, network/cybersecurity, digital-workplace and managed-services solutions, mainly to BFSI, government/PSUs and large enterprises. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.32,
-      "pricePercentageAboveDma200" : 5.29,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.33,
+      "pricePercentageAboveDma200" : 5.31,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 19.08,
       "netProfitMarginPercentile" : 8.85,
-      "totalTechnicalScore" : 25.66,
+      "totalTechnicalScore" : 20.70,
       "totalFundamentalScore" : 45.28,
-      "totalScore" : 70.94
+      "totalScore" : 65.98
     }
   },
   "attributes" : {
     "companyCode" : "DSSL",
     "companyName" : "Dynacons Sys.",
-    "marketCap" : 1317.00,
-    "peRatio" : 14.30,
+    "marketCap" : 1311.00,
+    "peRatio" : 14.20,
     "description" : "Dynacons Systems & Solutions Ltd is a Mumbai-based digital-infrastructure/system-integration company delivering data-centre & cloud, network/cybersecurity, digital-workplace and managed-services solutions, mainly to BFSI, government/PSUs and large enterprises. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 916.95,
-    "dma50" : 946.29,
-    "dma100" : null,
-    "dma200" : 1033.16,
-    "volume" : 18176.00
-  }, {
     "date" : "2025-11-25",
     "price" : 924.90,
     "dma50" : 945.45,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 1052.65,
     "dma50" : 953.93,
-    "dma100" : 945.26,
+    "dma100" : null,
     "dma200" : 978.08,
     "volume" : 26169.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1103.70,
     "dma200" : 1097.06,
     "volume" : 60932.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 1029.15,
+    "dma50" : 1043.77,
+    "dma100" : 1100.96,
+    "dma200" : 1096.39,
+    "volume" : 27438.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 1033.75,
-    "dma50" : 1044.36,
-    "dma100" : 1103.70,
-    "dma200" : 1097.06,
-    "volume" : 60932.00
+    "date" : "2026-11-23",
+    "price" : 1029.15,
+    "dma50" : 1043.77,
+    "dma100" : 1100.96,
+    "dma200" : 1096.39,
+    "volume" : 27438.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.32,
-    "pricePercentageAboveDma200" : 5.29,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.33,
+    "pricePercentageAboveDma200" : 5.31,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 19.08,
     "netProfitMarginPercentile" : 8.85,
-    "totalTechnicalScore" : 25.66,
+    "totalTechnicalScore" : 20.70,
     "totalFundamentalScore" : 45.28,
-    "totalScore" : 70.94
+    "totalScore" : 65.98
   }
 }

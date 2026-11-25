@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AARTIPHARM",
       "companyName" : "Aarti Pharma",
-      "marketCap" : 8984.00,
-      "peRatio" : 34.50,
+      "marketCap" : 9255.00,
+      "peRatio" : 35.60,
       "description" : "Incorporated in 2019, Aarti Pharmalabs Ltd is a manufacturer of Pharmaceuticals and Nutraceuticals[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.53,
-      "pricePercentageAboveDma100" : 4.06,
-      "pricePercentageAboveDma200" : 3.86,
+      "pricePercentageAboveDma50" : 4.40,
+      "pricePercentageAboveDma100" : 3.90,
+      "pricePercentageAboveDma200" : 3.69,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 11.58,
       "netProfitMarginPercentile" : 3.81,
-      "totalTechnicalScore" : 47.45,
+      "totalTechnicalScore" : 46.99,
       "totalFundamentalScore" : 35.39,
-      "totalScore" : 82.84
+      "totalScore" : 82.38
     }
   },
   "attributes" : {
     "companyCode" : "AARTIPHARM",
     "companyName" : "Aarti Pharma",
-    "marketCap" : 8984.00,
-    "peRatio" : 34.50,
+    "marketCap" : 9255.00,
+    "peRatio" : 35.60,
     "description" : "Incorporated in 2019, Aarti Pharmalabs Ltd is a manufacturer of Pharmaceuticals and Nutraceuticals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 680.80,
-    "dma50" : 806.34,
-    "dma100" : null,
-    "dma200" : 799.91,
-    "volume" : 286934.00
-  }, {
     "date" : "2025-11-25",
     "price" : 678.90,
     "dma50" : 801.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 693.95,
     "dma50" : 688.55,
-    "dma100" : 716.01,
+    "dma100" : null,
     "dma200" : 741.76,
     "volume" : 182012.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 833.24,
     "dma200" : 807.19,
     "volume" : 374017.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 1020.65,
+    "dma50" : 910.51,
+    "dma100" : 836.43,
+    "dma200" : 809.32,
+    "volume" : 890461.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 990.70,
-    "dma50" : 906.01,
-    "dma100" : 833.24,
-    "dma200" : 807.19,
-    "volume" : 374017.00
+    "date" : "2026-11-23",
+    "price" : 1020.65,
+    "dma50" : 910.51,
+    "dma100" : 836.43,
+    "dma200" : 809.32,
+    "volume" : 890461.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-03-31",
@@ -1986,15 +1986,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.53,
-    "pricePercentageAboveDma100" : 4.06,
-    "pricePercentageAboveDma200" : 3.86,
+    "pricePercentageAboveDma50" : 4.40,
+    "pricePercentageAboveDma100" : 3.90,
+    "pricePercentageAboveDma200" : 3.69,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 11.58,
     "netProfitMarginPercentile" : 3.81,
-    "totalTechnicalScore" : 47.45,
+    "totalTechnicalScore" : 46.99,
     "totalFundamentalScore" : 35.39,
-    "totalScore" : 82.84
+    "totalScore" : 82.38
   }
 }

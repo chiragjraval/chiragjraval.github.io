@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MEDANTA",
       "companyName" : "Global Health",
-      "marketCap" : 39799.00,
-      "peRatio" : 61.50,
+      "marketCap" : 40337.00,
+      "peRatio" : 62.30,
       "description" : "Global Health Limited operates a network of multi-specialty tertiary and quaternary care hospitals under the Medanta brand, primarily across North and East India. The company specialises in cardiac sciences, oncology, neurosciences, digestive and hepatobiliary sciences, orthopaedics, organ transplantation, kidney and urology, and other complex medical procedures. As of June 2026, Medanta operated six hospitals across Gurugram, Lucknow, Patna, Ranchi, Indore and Noida, supported by an expanding diagnostics, pharmacy and outpatient network. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.62,
-      "pricePercentageAboveDma100" : 4.65,
-      "pricePercentageAboveDma200" : 4.35,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.59,
+      "pricePercentageAboveDma200" : 4.28,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.00,
       "operatingProfitMarginPercentile" : 18.18,
       "netProfitMarginPercentile" : 8.05,
-      "totalTechnicalScore" : 38.62,
+      "totalTechnicalScore" : 43.44,
       "totalFundamentalScore" : 41.22,
-      "totalScore" : 79.85
+      "totalScore" : 84.66
     }
   },
   "attributes" : {
     "companyCode" : "MEDANTA",
     "companyName" : "Global Health",
-    "marketCap" : 39799.00,
-    "peRatio" : 61.50,
+    "marketCap" : 40337.00,
+    "peRatio" : 62.30,
     "description" : "Global Health Limited operates a network of multi-specialty tertiary and quaternary care hospitals under the Medanta brand, primarily across North and East India. The company specialises in cardiac sciences, oncology, neurosciences, digestive and hepatobiliary sciences, orthopaedics, organ transplantation, kidney and urology, and other complex medical procedures. As of June 2026, Medanta operated six hospitals across Gurugram, Lucknow, Patna, Ranchi, Indore and Noida, supported by an expanding diagnostics, pharmacy and outpatient network. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 1250.50,
-    "dma50" : 1288.45,
-    "dma100" : null,
-    "dma200" : 1259.39,
-    "volume" : 243846.00
-  }, {
     "date" : "2025-11-25",
     "price" : 1249.60,
     "dma50" : 1286.93,
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 1111.85,
     "dma50" : 1080.64,
-    "dma100" : 1122.81,
+    "dma100" : null,
     "dma200" : 1163.86,
     "volume" : 548543.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1384.66,
     "dma200" : 1310.37,
     "volume" : 284434.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 1500.20,
+    "dma50" : 1379.77,
+    "dma100" : 1386.38,
+    "dma200" : 1312.26,
+    "volume" : 387750.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 1480.20,
-    "dma50" : 1374.86,
-    "dma100" : 1384.66,
-    "dma200" : 1310.37,
-    "volume" : 284434.00
+    "date" : "2026-11-23",
+    "price" : 1500.20,
+    "dma50" : 1379.77,
+    "dma100" : 1386.38,
+    "dma200" : 1312.26,
+    "volume" : 387750.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -1996,15 +1996,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.62,
-    "pricePercentageAboveDma100" : 4.65,
-    "pricePercentageAboveDma200" : 4.35,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.59,
+    "pricePercentageAboveDma200" : 4.28,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.00,
     "operatingProfitMarginPercentile" : 18.18,
     "netProfitMarginPercentile" : 8.05,
-    "totalTechnicalScore" : 38.62,
+    "totalTechnicalScore" : 43.44,
     "totalFundamentalScore" : 41.22,
-    "totalScore" : 79.85
+    "totalScore" : 84.66
   }
 }

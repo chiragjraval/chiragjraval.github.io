@@ -22,14 +22,14 @@
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.00,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.33,
+      "pricePercentageAboveDma200" : 3.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.60,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 18.33,
+      "totalTechnicalScore" : 18.35,
       "totalFundamentalScore" : 47.60,
-      "totalScore" : 65.92
+      "totalScore" : 65.95
     }
   },
   "attributes" : {
@@ -592,14 +592,21 @@
     "dma100" : null,
     "dma200" : 196.30,
     "volume" : 525075.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 261.95,
+    "dma50" : 262.12,
+    "dma100" : null,
+    "dma200" : 196.95,
+    "volume" : 180412.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 262.05,
-    "dma50" : 262.13,
+    "date" : "2026-11-23",
+    "price" : 261.95,
+    "dma50" : 262.12,
     "dma100" : null,
-    "dma200" : 196.30,
-    "volume" : 525075.00
+    "dma200" : 196.95,
+    "volume" : 180412.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -672,13 +679,13 @@
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.00,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.33,
+    "pricePercentageAboveDma200" : 3.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.60,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 18.33,
+    "totalTechnicalScore" : 18.35,
     "totalFundamentalScore" : 47.60,
-    "totalScore" : 65.92
+    "totalScore" : 65.95
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MATRIMONY",
       "companyName" : "Matrimony.com",
-      "marketCap" : 1063.00,
-      "peRatio" : 18.40,
+      "marketCap" : 1076.00,
+      "peRatio" : 18.60,
       "description" : "Incorporated in 2000, Matrimony.com Ltd provides matchmaking services and marriage services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.16,
-      "pricePercentageAboveDma100" : 4.90,
-      "pricePercentageAboveDma200" : 4.82,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 4.85,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.95,
       "operatingProfitMarginPercentile" : 17.62,
       "netProfitMarginPercentile" : 9.05,
-      "totalTechnicalScore" : 39.88,
+      "totalTechnicalScore" : 39.70,
       "totalFundamentalScore" : 45.61,
-      "totalScore" : 85.49
+      "totalScore" : 85.31
     }
   },
   "attributes" : {
     "companyCode" : "MATRIMONY",
     "companyName" : "Matrimony.com",
-    "marketCap" : 1063.00,
-    "peRatio" : 18.40,
+    "marketCap" : 1076.00,
+    "peRatio" : 18.60,
     "description" : "Incorporated in 2000, Matrimony.com Ltd provides matchmaking services and marriage services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-24",
-    "price" : 495.40,
-    "dma50" : 510.72,
-    "dma100" : null,
-    "dma200" : 535.86,
-    "volume" : 6965.00
-  }, {
     "date" : "2025-11-25",
     "price" : 484.70,
     "dma50" : 509.70,
@@ -114,7 +107,7 @@
     "price" : 525.35,
     "dma50" : 503.91,
     "dma100" : null,
-    "dma200" : 531.47,
+    "dma200" : 531.48,
     "volume" : 773340.00
   }, {
     "date" : "2025-12-09",
@@ -170,7 +163,7 @@
     "price" : 517.70,
     "dma50" : 510.50,
     "dma100" : null,
-    "dma200" : 531.24,
+    "dma200" : 531.25,
     "volume" : 29655.00
   }, {
     "date" : "2025-12-19",
@@ -743,7 +736,7 @@
     "date" : "2026-04-22",
     "price" : 434.70,
     "dma50" : 445.45,
-    "dma100" : 485.31,
+    "dma100" : null,
     "dma200" : 496.33,
     "volume" : 5348.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 503.96,
     "dma200" : 496.23,
     "volume" : 18153.00
+  }, {
+    "date" : "2026-11-23",
+    "price" : 520.60,
+    "dma50" : 530.54,
+    "dma100" : 505.10,
+    "dma200" : 496.47,
+    "volume" : 25124.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-20",
-    "price" : 514.15,
-    "dma50" : 530.95,
-    "dma100" : 503.96,
-    "dma200" : 496.23,
-    "volume" : 18153.00
+    "date" : "2026-11-23",
+    "price" : 520.60,
+    "dma50" : 530.54,
+    "dma100" : 505.10,
+    "dma200" : 496.47,
+    "volume" : 25124.00
   },
   "quarterlyResults" : [ {
     "date" : "2016-06-30",
@@ -2216,15 +2216,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.16,
-    "pricePercentageAboveDma100" : 4.90,
-    "pricePercentageAboveDma200" : 4.82,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 4.85,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.95,
     "operatingProfitMarginPercentile" : 17.62,
     "netProfitMarginPercentile" : 9.05,
-    "totalTechnicalScore" : 39.88,
+    "totalTechnicalScore" : 39.70,
     "totalFundamentalScore" : 45.61,
-    "totalScore" : 85.49
+    "totalScore" : 85.31
   }
 }
