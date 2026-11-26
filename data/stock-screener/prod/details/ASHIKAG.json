@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ASHIKAG",
       "companyName" : "Ashika Global Securities.",
-      "marketCap" : 2873.00,
-      "peRatio" : 36.00,
+      "marketCap" : 2915.00,
+      "peRatio" : 36.50,
       "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 5.22,
-      "pricePercentageAboveDma200" : 5.04,
+      "pricePercentageAboveDma50" : 4.87,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 4.97,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.02,
       "operatingProfitMarginPercentile" : 16.80,
       "netProfitMarginPercentile" : 6.17,
-      "totalTechnicalScore" : 30.20,
+      "totalTechnicalScore" : 34.99,
       "totalFundamentalScore" : 32.99,
-      "totalScore" : 63.18
+      "totalScore" : 67.97
     }
   },
   "attributes" : {
     "companyCode" : "ASHIKAG",
     "companyName" : "Ashika Global Securities.",
-    "marketCap" : 2873.00,
-    "peRatio" : 36.00,
+    "marketCap" : 2915.00,
+    "peRatio" : 36.50,
     "description" : "Ashika Global Securities Ltd (AGSL; formerly Ashika Credit Capital Ltd) is the listed holding company of the Ashika financial services group and an RBI-registered, non-deposit- taking Middle Layer NBFC-ICC. Subsidiaries span broking/MTF, distribution, investment /merchant banking, AIFs and emerging wealth/insurance services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 309.55,
-    "dma50" : 354.35,
-    "dma100" : null,
-    "dma200" : 404.57,
-    "volume" : 42117.00
-  }, {
     "date" : "2025-11-26",
     "price" : 323.85,
     "dma50" : 353.15,
@@ -310,7 +303,7 @@
     "price" : 378.70,
     "dma50" : 365.15,
     "dma100" : null,
-    "dma200" : 390.10,
+    "dma200" : 390.09,
     "volume" : 86984.00
   }, {
     "date" : "2026-01-21",
@@ -352,7 +345,7 @@
     "price" : 359.80,
     "dma50" : 365.47,
     "dma100" : null,
-    "dma200" : 388.75,
+    "dma200" : 388.74,
     "volume" : 86868.00
   }, {
     "date" : "2026-01-30",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 397.40,
     "dma50" : 355.71,
-    "dma100" : 356.67,
+    "dma100" : null,
     "dma200" : 374.49,
     "volume" : 193341.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 406.34,
     "dma200" : 391.75,
     "volume" : 123230.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 394.35,
+    "dma50" : 384.57,
+    "dma100" : 406.38,
+    "dma200" : 391.78,
+    "volume" : 126601.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 388.70,
-    "dma50" : 384.18,
-    "dma100" : 406.34,
-    "dma200" : 391.75,
-    "volume" : 123230.00
+    "date" : "2026-11-25",
+    "price" : 394.35,
+    "dma50" : 384.57,
+    "dma100" : 406.38,
+    "dma200" : 391.78,
+    "volume" : 126601.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2652,19 +2652,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 5.22,
-    "pricePercentageAboveDma200" : 5.04,
+    "pricePercentageAboveDma50" : 4.87,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 4.97,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.02,
     "operatingProfitMarginPercentile" : 16.80,
     "netProfitMarginPercentile" : 6.17,
-    "totalTechnicalScore" : 30.20,
+    "totalTechnicalScore" : 34.99,
     "totalFundamentalScore" : 32.99,
-    "totalScore" : 63.18
+    "totalScore" : 67.97
   }
 }

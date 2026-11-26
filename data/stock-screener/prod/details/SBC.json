@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SBC",
       "companyName" : "SBC Exports",
-      "marketCap" : 3241.00,
-      "peRatio" : 94.60,
+      "marketCap" : 3251.00,
+      "peRatio" : 94.90,
       "description" : "Incorporated in 2011, SBC Exports Ltd does trading and Manufacturing of Garments, Manpower Supply and Services & Tour Operator Services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.48,
-      "pricePercentageAboveDma100" : 3.40,
-      "pricePercentageAboveDma200" : 2.55,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.49,
+      "pricePercentageAboveDma100" : 3.42,
+      "pricePercentageAboveDma200" : 2.57,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.17,
       "operatingProfitMarginPercentile" : 15.52,
       "netProfitMarginPercentile" : 7.86,
-      "totalTechnicalScore" : 45.43,
+      "totalTechnicalScore" : 40.47,
       "totalFundamentalScore" : 42.54,
-      "totalScore" : 87.98
+      "totalScore" : 83.01
     }
   },
   "attributes" : {
     "companyCode" : "SBC",
     "companyName" : "SBC Exports",
-    "marketCap" : 3241.00,
-    "peRatio" : 94.60,
+    "marketCap" : 3251.00,
+    "peRatio" : 94.90,
     "description" : "Incorporated in 2011, SBC Exports Ltd does trading and Manufacturing of Garments, Manpower Supply and Services & Tour Operator Services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 26.10,
-    "dma50" : 23.38,
-    "dma100" : null,
-    "dma200" : 19.24,
-    "volume" : 16464593.00
-  }, {
     "date" : "2025-11-26",
     "price" : 25.83,
     "dma50" : 23.48,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 33.44,
     "dma50" : 31.53,
-    "dma100" : 30.02,
+    "dma100" : null,
     "dma200" : 26.38,
     "volume" : 11987701.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 51.58,
     "dma200" : 45.70,
     "volume" : 12044125.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 68.27,
+    "dma50" : 61.90,
+    "dma100" : 51.84,
+    "dma200" : 45.93,
+    "volume" : 10114471.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 68.07,
-    "dma50" : 61.64,
-    "dma100" : 51.58,
-    "dma200" : 45.70,
-    "volume" : 12044125.00
+    "date" : "2026-11-25",
+    "price" : 68.27,
+    "dma50" : 61.90,
+    "dma100" : 51.84,
+    "dma200" : 45.93,
+    "volume" : 10114471.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2076,15 +2076,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.48,
-    "pricePercentageAboveDma100" : 3.40,
-    "pricePercentageAboveDma200" : 2.55,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.49,
+    "pricePercentageAboveDma100" : 3.42,
+    "pricePercentageAboveDma200" : 2.57,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.17,
     "operatingProfitMarginPercentile" : 15.52,
     "netProfitMarginPercentile" : 7.86,
-    "totalTechnicalScore" : 45.43,
+    "totalTechnicalScore" : 40.47,
     "totalFundamentalScore" : 42.54,
-    "totalScore" : 87.98
+    "totalScore" : 83.01
   }
 }

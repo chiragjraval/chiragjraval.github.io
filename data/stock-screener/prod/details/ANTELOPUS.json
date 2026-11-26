@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ANTELOPUS",
       "companyName" : "Antelopus Selan",
-      "marketCap" : 2890.00,
-      "peRatio" : 15.60,
+      "marketCap" : 2707.00,
+      "peRatio" : 14.60,
       "description" : "Incorporated in 1985, Selan Exploration Technology Ltd is in the business of oil & gas exploration and production[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.73,
-      "pricePercentageAboveDma100" : 5.65,
-      "pricePercentageAboveDma200" : 5.11,
+      "pricePercentageAboveDma50" : 5.97,
+      "pricePercentageAboveDma100" : 5.92,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 17.76,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 31.49,
+      "totalTechnicalScore" : 32.31,
       "totalFundamentalScore" : 44.48,
-      "totalScore" : 75.97
+      "totalScore" : 76.79
     }
   },
   "attributes" : {
     "companyCode" : "ANTELOPUS",
     "companyName" : "Antelopus Selan",
-    "marketCap" : 2890.00,
-    "peRatio" : 15.60,
+    "marketCap" : 2707.00,
+    "peRatio" : 14.60,
     "description" : "Incorporated in 1985, Selan Exploration Technology Ltd is in the business of oil & gas exploration and production[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 403.50,
-    "dma50" : 533.87,
-    "dma100" : null,
-    "dma200" : 594.56,
-    "volume" : 873862.00
-  }, {
     "date" : "2025-11-26",
     "price" : 417.00,
     "dma50" : 529.28,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 638.35,
     "dma50" : 571.95,
-    "dma100" : 506.73,
+    "dma100" : null,
     "dma200" : 552.55,
     "volume" : 227327.00
   }, {
@@ -1164,7 +1157,7 @@
     "price" : 868.45,
     "dma50" : 786.25,
     "dma100" : 698.86,
-    "dma200" : 659.03,
+    "dma200" : 659.02,
     "volume" : 127024.00
   }, {
     "date" : "2026-07-22",
@@ -1768,14 +1761,21 @@
     "dma100" : 939.35,
     "dma200" : 836.66,
     "volume" : 87533.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 765.75,
+    "dma50" : 949.80,
+    "dma100" : 938.93,
+    "dma200" : 835.95,
+    "volume" : 157582.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 817.65,
-    "dma50" : 957.31,
-    "dma100" : 939.35,
-    "dma200" : 836.66,
-    "volume" : 87533.00
+    "date" : "2026-11-25",
+    "price" : 765.75,
+    "dma50" : 949.80,
+    "dma100" : 938.93,
+    "dma200" : 835.95,
+    "volume" : 157582.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.73,
-    "pricePercentageAboveDma100" : 5.65,
-    "pricePercentageAboveDma200" : 5.11,
+    "pricePercentageAboveDma50" : 5.97,
+    "pricePercentageAboveDma100" : 5.92,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 17.76,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 31.49,
+    "totalTechnicalScore" : 32.31,
     "totalFundamentalScore" : 44.48,
-    "totalScore" : 75.97
+    "totalScore" : 76.79
   }
 }

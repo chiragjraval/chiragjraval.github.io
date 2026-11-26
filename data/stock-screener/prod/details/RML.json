@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RML",
       "companyName" : "Rane (Madras)",
-      "marketCap" : 3127.00,
-      "peRatio" : 22.40,
+      "marketCap" : 3100.00,
+      "peRatio" : 22.20,
       "description" : "Established in 1960, Rane (Madras) Limited (RML) is part of the Rane Group of Companies, a leading auto component group based out of Chennai. RML has two divisions namely Steering and Linkages Division (SLD) and Light Metal Casting India Division (LMCI). Through its overseas subsidiary Rane Light Metal Castings Inc. (RLMCA), RML manufactures high pressure light metal casting components from its facility in Kentucky, USA.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.42,
-      "pricePercentageAboveDma100" : 5.38,
-      "pricePercentageAboveDma200" : 4.81,
+      "pricePercentageAboveDma50" : 5.45,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 4.86,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 17.91,
       "netProfitMarginPercentile" : 6.55,
-      "totalTechnicalScore" : 35.61,
+      "totalTechnicalScore" : 35.72,
       "totalFundamentalScore" : 40.84,
-      "totalScore" : 76.45
+      "totalScore" : 76.56
     }
   },
   "attributes" : {
     "companyCode" : "RML",
     "companyName" : "Rane (Madras)",
-    "marketCap" : 3127.00,
-    "peRatio" : 22.40,
+    "marketCap" : 3100.00,
+    "peRatio" : 22.20,
     "description" : "Established in 1960, Rane (Madras) Limited (RML) is part of the Rane Group of Companies, a leading auto component group based out of Chennai. RML has two divisions namely Steering and Linkages Division (SLD) and Light Metal Casting India Division (LMCI). Through its overseas subsidiary Rane Light Metal Castings Inc. (RLMCA), RML manufactures high pressure light metal casting components from its facility in Kentucky, USA.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 765.20,
-    "dma50" : 822.39,
-    "dma100" : null,
-    "dma200" : 831.20,
-    "volume" : 6799.00
-  }, {
     "date" : "2025-11-26",
     "price" : 798.75,
     "dma50" : 821.46,
@@ -429,7 +422,7 @@
     "price" : 852.55,
     "dma50" : 786.28,
     "dma100" : null,
-    "dma200" : 807.58,
+    "dma200" : 807.57,
     "volume" : 34834.00
   }, {
     "date" : "2026-02-13",
@@ -499,7 +492,7 @@
     "price" : 825.30,
     "dma50" : 798.91,
     "dma100" : null,
-    "dma200" : 809.26,
+    "dma200" : 809.25,
     "volume" : 23045.00
   }, {
     "date" : "2026-02-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 767.60,
     "dma50" : 755.60,
-    "dma100" : 769.65,
+    "dma100" : null,
     "dma200" : 790.48,
     "volume" : 9828.00
   }, {
@@ -765,7 +758,7 @@
     "price" : 769.65,
     "dma50" : 756.57,
     "dma100" : 769.01,
-    "dma200" : 789.70,
+    "dma200" : 789.69,
     "volume" : 9129.00
   }, {
     "date" : "2026-04-29",
@@ -891,7 +884,7 @@
     "price" : 927.60,
     "dma50" : 826.03,
     "dma100" : 794.29,
-    "dma200" : 805.90,
+    "dma200" : 805.89,
     "volume" : 63129.00
   }, {
     "date" : "2026-05-26",
@@ -1031,7 +1024,7 @@
     "price" : 1072.65,
     "dma50" : 902.68,
     "dma100" : 827.08,
-    "dma200" : 833.00,
+    "dma200" : 832.99,
     "volume" : 68795.00
   }, {
     "date" : "2026-06-24",
@@ -1430,7 +1423,7 @@
     "price" : 1360.00,
     "dma50" : 1159.67,
     "dma100" : 1056.91,
-    "dma200" : 981.59,
+    "dma200" : 981.58,
     "volume" : 79061.00
   }, {
     "date" : "2026-09-15",
@@ -1556,7 +1549,7 @@
     "price" : 1285.20,
     "dma50" : 1249.04,
     "dma100" : 1144.26,
-    "dma200" : 1039.47,
+    "dma200" : 1039.46,
     "volume" : 25713.00
   }, {
     "date" : "2026-10-12",
@@ -1584,7 +1577,7 @@
     "price" : 1277.60,
     "dma50" : 1255.84,
     "dma100" : 1159.80,
-    "dma200" : 1049.50,
+    "dma200" : 1049.49,
     "volume" : 13232.00
   }, {
     "date" : "2026-10-16",
@@ -1768,14 +1761,21 @@
     "dma100" : 1223.77,
     "dma200" : 1090.38,
     "volume" : 34237.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 1121.60,
+    "dma50" : 1231.28,
+    "dma100" : 1223.05,
+    "dma200" : 1090.69,
+    "volume" : 45538.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 1131.60,
-    "dma50" : 1235.76,
-    "dma100" : 1223.77,
-    "dma200" : 1090.38,
-    "volume" : 34237.00
+    "date" : "2026-11-25",
+    "price" : 1121.60,
+    "dma50" : 1231.28,
+    "dma100" : 1223.05,
+    "dma200" : 1090.69,
+    "volume" : 45538.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.42,
-    "pricePercentageAboveDma100" : 5.38,
-    "pricePercentageAboveDma200" : 4.81,
+    "pricePercentageAboveDma50" : 5.45,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 4.86,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 17.91,
     "netProfitMarginPercentile" : 6.55,
-    "totalTechnicalScore" : 35.61,
+    "totalTechnicalScore" : 35.72,
     "totalFundamentalScore" : 40.84,
-    "totalScore" : 76.45
+    "totalScore" : 76.56
   }
 }

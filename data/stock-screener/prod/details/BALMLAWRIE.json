@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BALMLAWRIE",
       "companyName" : "Balmer Lawrie",
-      "marketCap" : 2792.00,
-      "peRatio" : 9.24,
+      "marketCap" : 2811.00,
+      "peRatio" : 9.31,
       "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.18,
-      "pricePercentageAboveDma200" : 5.31,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 5.28,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 15.54,
+      "totalTechnicalScore" : 15.43,
       "totalFundamentalScore" : 43.03,
-      "totalScore" : 58.57
+      "totalScore" : 58.46
     }
   },
   "attributes" : {
     "companyCode" : "BALMLAWRIE",
     "companyName" : "Balmer Lawrie",
-    "marketCap" : 2792.00,
-    "peRatio" : 9.24,
+    "marketCap" : 2811.00,
+    "peRatio" : 9.31,
     "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 185.21,
-    "dma50" : 201.42,
-    "dma100" : null,
-    "dma200" : 209.49,
-    "volume" : 167255.00
-  }, {
     "date" : "2025-11-26",
     "price" : 186.98,
     "dma50" : 200.86,
@@ -499,7 +492,7 @@
     "price" : 180.81,
     "dma50" : 179.85,
     "dma100" : null,
-    "dma200" : 194.54,
+    "dma200" : 194.53,
     "volume" : 107227.00
   }, {
     "date" : "2026-02-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 179.61,
     "dma50" : 171.36,
-    "dma100" : 174.74,
+    "dma100" : null,
     "dma200" : 186.72,
     "volume" : 368827.00
   }, {
@@ -786,7 +779,7 @@
     "price" : 190.48,
     "dma50" : 174.27,
     "dma100" : 174.77,
-    "dma200" : 186.61,
+    "dma200" : 186.60,
     "volume" : 309156.00
   }, {
     "date" : "2026-05-05",
@@ -1768,14 +1761,21 @@
     "dma100" : 169.34,
     "dma200" : 174.16,
     "volume" : 134867.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 164.40,
+    "dma50" : 164.88,
+    "dma100" : 169.16,
+    "dma200" : 174.06,
+    "volume" : 161267.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 163.27,
-    "dma50" : 164.90,
-    "dma100" : 169.34,
-    "dma200" : 174.16,
-    "volume" : 134867.00
+    "date" : "2026-11-25",
+    "price" : 164.40,
+    "dma50" : 164.88,
+    "dma100" : 169.16,
+    "dma200" : 174.06,
+    "volume" : 161267.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.18,
-    "pricePercentageAboveDma200" : 5.31,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 5.28,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 15.54,
+    "totalTechnicalScore" : 15.43,
     "totalFundamentalScore" : 43.03,
-    "totalScore" : 58.57
+    "totalScore" : 58.46
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AJANTPHARM",
       "companyName" : "Ajanta Pharma",
-      "marketCap" : 41366.00,
-      "peRatio" : 32.80,
+      "marketCap" : 42149.00,
+      "peRatio" : 33.40,
       "description" : "Ajanta Pharma is primarily engaged in development, manufacturing and marketing of speciality pharmaceutical quality finished dosages.(Source : 202003-01 Annual Report Page No:70)."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.11,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 5.11,
+      "pricePercentageAboveDma200" : 4.78,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 15.09,
       "netProfitMarginPercentile" : 7.24,
-      "totalTechnicalScore" : 30.18,
+      "totalTechnicalScore" : 29.90,
       "totalFundamentalScore" : 41.85,
-      "totalScore" : 72.03
+      "totalScore" : 71.75
     }
   },
   "attributes" : {
     "companyCode" : "AJANTPHARM",
     "companyName" : "Ajanta Pharma",
-    "marketCap" : 41366.00,
-    "peRatio" : 32.80,
+    "marketCap" : 42149.00,
+    "peRatio" : 33.40,
     "description" : "Ajanta Pharma is primarily engaged in development, manufacturing and marketing of speciality pharmaceutical quality finished dosages.(Source : 202003-01 Annual Report Page No:70)."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 2509.20,
-    "dma50" : 2508.44,
-    "dma100" : null,
-    "dma200" : 2584.00,
-    "volume" : 61875.00
-  }, {
     "date" : "2025-11-26",
     "price" : 2535.10,
     "dma50" : 2509.49,
@@ -282,7 +275,7 @@
     "price" : 2730.60,
     "dma50" : 2669.55,
     "dma100" : null,
-    "dma200" : 2617.45,
+    "dma200" : 2617.44,
     "volume" : 44716.00
   }, {
     "date" : "2026-01-14",
@@ -695,7 +688,7 @@
     "price" : 2897.30,
     "dma50" : 2854.21,
     "dma100" : null,
-    "dma200" : 2730.94,
+    "dma200" : 2730.93,
     "volume" : 161303.00
   }, {
     "date" : "2026-04-15",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 2780.80,
     "dma50" : 2841.59,
-    "dma100" : 2802.76,
+    "dma100" : null,
     "dma200" : 2735.89,
     "volume" : 53152.00
   }, {
@@ -940,7 +933,7 @@
     "price" : 2947.70,
     "dma50" : 2966.48,
     "dma100" : 2899.70,
-    "dma200" : 2805.16,
+    "dma200" : 2805.15,
     "volume" : 71451.00
   }, {
     "date" : "2026-06-05",
@@ -1087,7 +1080,7 @@
     "price" : 3373.50,
     "dma50" : 3102.38,
     "dma100" : 2988.10,
-    "dma200" : 2876.68,
+    "dma200" : 2876.67,
     "volume" : 164978.00
   }, {
     "date" : "2026-07-07",
@@ -1768,14 +1761,21 @@
     "dma100" : 3451.60,
     "dma200" : 3226.60,
     "volume" : 112080.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 3373.00,
+    "dma50" : 3381.20,
+    "dma100" : 3451.88,
+    "dma200" : 3228.06,
+    "volume" : 112195.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 3310.40,
-    "dma50" : 3381.53,
-    "dma100" : 3451.60,
-    "dma200" : 3226.60,
-    "volume" : 112080.00
+    "date" : "2026-11-25",
+    "price" : 3373.00,
+    "dma50" : 3381.20,
+    "dma100" : 3451.88,
+    "dma200" : 3228.06,
+    "volume" : 112195.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.11,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 5.11,
+    "pricePercentageAboveDma200" : 4.78,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 15.09,
     "netProfitMarginPercentile" : 7.24,
-    "totalTechnicalScore" : 30.18,
+    "totalTechnicalScore" : 29.90,
     "totalFundamentalScore" : 41.85,
-    "totalScore" : 72.03
+    "totalScore" : 71.75
   }
 }

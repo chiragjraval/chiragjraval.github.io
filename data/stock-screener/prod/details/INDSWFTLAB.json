@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "INDSWFTLAB",
       "companyName" : "Ind-Swift Labs.",
-      "marketCap" : 2736.00,
-      "peRatio" : 29.80,
+      "marketCap" : 2761.00,
+      "peRatio" : 30.10,
       "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.47,
-      "pricePercentageAboveDma100" : 5.13,
-      "pricePercentageAboveDma200" : 3.95,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 3.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 19.51,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 34.55,
+      "totalTechnicalScore" : 34.43,
       "totalFundamentalScore" : 47.48,
-      "totalScore" : 82.03
+      "totalScore" : 81.91
     }
   },
   "attributes" : {
     "companyCode" : "INDSWFTLAB",
     "companyName" : "Ind-Swift Labs.",
-    "marketCap" : 2736.00,
-    "peRatio" : 29.80,
+    "marketCap" : 2761.00,
+    "peRatio" : 30.10,
     "description" : "Incorporated in 1995, Ind-Swift Laboratories Ltd is a pharmaceutical company focused on finished dosage formulations (FDF). Co. manufactures tablets, capsules, ointments, injectables, liquids and dry syrups across therapies including gynaecology, paediatrics, cardiology, diabetology and dermatology. Operations span domestic formulations and international markets through own brands, contract manufacturing and out-licensing.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 94.04,
-    "dma50" : 101.19,
-    "dma100" : null,
-    "dma200" : 101.40,
-    "volume" : 94962.00
-  }, {
     "date" : "2025-11-26",
     "price" : 96.23,
     "dma50" : 100.99,
@@ -65,7 +58,7 @@
     "price" : 97.48,
     "dma50" : 100.69,
     "dma100" : null,
-    "dma200" : 101.27,
+    "dma200" : 101.26,
     "volume" : 65317.00
   }, {
     "date" : "2025-12-01",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 137.97,
     "dma50" : 135.22,
-    "dma100" : 119.50,
+    "dma100" : null,
     "dma200" : 116.28,
     "volume" : 1142834.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 322.77,
     "dma200" : 260.07,
     "volume" : 354015.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 317.45,
+    "dma50" : 346.35,
+    "dma100" : 323.88,
+    "dma200" : 260.65,
+    "volume" : 403116.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 314.65,
-    "dma50" : 347.53,
-    "dma100" : 322.77,
-    "dma200" : 260.07,
-    "volume" : 354015.00
+    "date" : "2026-11-25",
+    "price" : 317.45,
+    "dma50" : 346.35,
+    "dma100" : 323.88,
+    "dma200" : 260.65,
+    "volume" : 403116.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.47,
-    "pricePercentageAboveDma100" : 5.13,
-    "pricePercentageAboveDma200" : 3.95,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 3.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 19.51,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 34.55,
+    "totalTechnicalScore" : 34.43,
     "totalFundamentalScore" : 47.48,
-    "totalScore" : 82.03
+    "totalScore" : 81.91
   }
 }

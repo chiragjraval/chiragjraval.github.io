@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IOC",
       "companyName" : "I O C L",
-      "marketCap" : 204758.00,
-      "peRatio" : 4.33,
+      "marketCap" : 208698.00,
+      "peRatio" : 4.42,
       "description" : "Indian Oil Corporation Ltd is a Maharatna Company controlled by GOI[1] that has business interests straddling the entire hydrocarbon value chain - from Refining, Pipeline transportation and marketing of Petroleum products to R&D, Exploration & production, marketing of natural gas and petrochemicals. It has the leadership position in the Oil refining & petroleum marketing sector of India.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 4.74,
-      "pricePercentageAboveDma200" : 4.90,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.64,
+      "pricePercentageAboveDma200" : 4.80,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 19.08,
       "netProfitMarginPercentile" : 9.43,
-      "totalTechnicalScore" : 34.41,
+      "totalTechnicalScore" : 34.12,
       "totalFundamentalScore" : 46.10,
-      "totalScore" : 80.50
+      "totalScore" : 80.22
     }
   },
   "attributes" : {
     "companyCode" : "IOC",
     "companyName" : "I O C L",
-    "marketCap" : 204758.00,
-    "peRatio" : 4.33,
+    "marketCap" : 208698.00,
+    "peRatio" : 4.42,
     "description" : "Indian Oil Corporation Ltd is a Maharatna Company controlled by GOI[1] that has business interests straddling the entire hydrocarbon value chain - from Refining, Pipeline transportation and marketing of Petroleum products to R&D, Exploration & production, marketing of natural gas and petrochemicals. It has the leadership position in the Oil refining & petroleum marketing sector of India.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 164.12,
-    "dma50" : 159.47,
-    "dma100" : null,
-    "dma200" : 148.43,
-    "volume" : 10099551.00
-  }, {
     "date" : "2025-11-26",
     "price" : 165.59,
     "dma50" : 159.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 145.48,
     "dma50" : 152.06,
-    "dma100" : 160.41,
+    "dma100" : null,
     "dma200" : 154.79,
     "volume" : 12706193.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 137.73,
     "dma200" : 142.06,
     "volume" : 14016654.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 147.79,
+    "dma50" : 139.08,
+    "dma100" : 137.79,
+    "dma200" : 142.12,
+    "volume" : 9830176.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 145.00,
-    "dma50" : 138.72,
-    "dma100" : 137.73,
-    "dma200" : 142.06,
-    "volume" : 14016654.00
+    "date" : "2026-11-25",
+    "price" : 147.79,
+    "dma50" : 139.08,
+    "dma100" : 137.79,
+    "dma200" : 142.12,
+    "volume" : 9830176.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 4.74,
-    "pricePercentageAboveDma200" : 4.90,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.64,
+    "pricePercentageAboveDma200" : 4.80,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 19.08,
     "netProfitMarginPercentile" : 9.43,
-    "totalTechnicalScore" : 34.41,
+    "totalTechnicalScore" : 34.12,
     "totalFundamentalScore" : 46.10,
-    "totalScore" : 80.50
+    "totalScore" : 80.22
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CYIENTDLM",
       "companyName" : "Cyient DLM",
-      "marketCap" : 6166.00,
-      "peRatio" : 73.40,
+      "marketCap" : 5937.00,
+      "peRatio" : 70.70,
       "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.26,
-      "pricePercentageAboveDma100" : 5.00,
-      "pricePercentageAboveDma200" : 4.09,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 4.31,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.31,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 8.82,
-      "totalTechnicalScore" : 39.34,
+      "totalTechnicalScore" : 34.93,
       "totalFundamentalScore" : 32.90,
-      "totalScore" : 72.24
+      "totalScore" : 67.83
     }
   },
   "attributes" : {
     "companyCode" : "CYIENTDLM",
     "companyName" : "Cyient DLM",
-    "marketCap" : 6166.00,
-    "peRatio" : 73.40,
+    "marketCap" : 5937.00,
+    "peRatio" : 70.70,
     "description" : "Cyient DLM is a leading electronics system design and manufacturing player, which provides system design, integration, testing, and manufacturing of electronic components and subsystems for original equipment manufacturers (OEMs) in the aerospace and defense sectors and other high-tech engineering segments. It has customers in India, Europe, North America, China and Japan.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 432.85,
-    "dma50" : 447.43,
-    "dma100" : null,
-    "dma200" : 479.38,
-    "volume" : 190059.00
-  }, {
     "date" : "2025-11-26",
     "price" : 431.95,
     "dma50" : 446.82,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 381.55,
     "dma50" : 329.90,
-    "dma100" : 362.12,
+    "dma100" : null,
     "dma200" : 397.55,
     "volume" : 970581.00
   }, {
@@ -785,7 +778,7 @@
     "date" : "2026-05-04",
     "price" : 400.70,
     "dma50" : 343.32,
-    "dma100" : 359.75,
+    "dma100" : 359.74,
     "dma200" : 397.26,
     "volume" : 256498.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 776.32,
     "dma200" : 656.85,
     "volume" : 207036.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 747.95,
+    "dma50" : 815.80,
+    "dma100" : 779.08,
+    "dma200" : 657.76,
+    "volume" : 201943.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 776.70,
-    "dma50" : 818.57,
-    "dma100" : 776.32,
-    "dma200" : 656.85,
-    "volume" : 207036.00
+    "date" : "2026-11-25",
+    "price" : 747.95,
+    "dma50" : 815.80,
+    "dma100" : 779.08,
+    "dma200" : 657.76,
+    "volume" : 201943.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1961,20 +1961,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.26,
-    "pricePercentageAboveDma100" : 5.00,
-    "pricePercentageAboveDma200" : 4.09,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 4.31,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.31,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 8.82,
-    "totalTechnicalScore" : 39.34,
+    "totalTechnicalScore" : 34.93,
     "totalFundamentalScore" : 32.90,
-    "totalScore" : 72.24
+    "totalScore" : 67.83
   }
 }

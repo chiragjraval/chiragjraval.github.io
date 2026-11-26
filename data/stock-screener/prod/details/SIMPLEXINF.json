@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SIMPLEXINF",
       "companyName" : "Simplex Infra",
-      "marketCap" : 2267.00,
-      "peRatio" : 37.80,
+      "marketCap" : 2414.00,
+      "peRatio" : 40.20,
       "description" : "Incorporated in 1924, Simplex Infrastructures Ltd is a civil engineering and construction contracting company[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.70,
-      "pricePercentageAboveDma100" : 4.47,
-      "pricePercentageAboveDma200" : 4.35,
+      "pricePercentageAboveDma50" : 4.56,
+      "pricePercentageAboveDma100" : 4.30,
+      "pricePercentageAboveDma200" : 4.19,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 48.52,
+      "totalTechnicalScore" : 48.05,
       "totalFundamentalScore" : 46.76,
-      "totalScore" : 95.28
+      "totalScore" : 94.81
     }
   },
   "attributes" : {
     "companyCode" : "SIMPLEXINF",
     "companyName" : "Simplex Infra",
-    "marketCap" : 2267.00,
-    "peRatio" : 37.80,
+    "marketCap" : 2414.00,
+    "peRatio" : 40.20,
     "description" : "Incorporated in 1924, Simplex Infrastructures Ltd is a civil engineering and construction contracting company[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 291.15,
-    "dma50" : 287.94,
-    "dma100" : null,
-    "dma200" : 278.75,
-    "volume" : 63168.00
-  }, {
     "date" : "2025-11-26",
     "price" : 288.85,
     "dma50" : 287.98,
@@ -352,7 +345,7 @@
     "price" : 219.44,
     "dma50" : 250.21,
     "dma100" : null,
-    "dma200" : 268.53,
+    "dma200" : 268.52,
     "volume" : 67897.00
   }, {
     "date" : "2026-01-30",
@@ -660,7 +653,7 @@
     "price" : 169.80,
     "dma50" : 193.71,
     "dma100" : null,
-    "dma200" : 241.21,
+    "dma200" : 241.20,
     "volume" : 212028.00
   }, {
     "date" : "2026-04-07",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 225.05,
     "dma50" : 200.45,
-    "dma100" : 222.13,
+    "dma100" : null,
     "dma200" : 237.64,
     "volume" : 39075.00
   }, {
@@ -890,7 +883,7 @@
     "date" : "2026-05-25",
     "price" : 238.12,
     "dma50" : 212.28,
-    "dma100" : 212.25,
+    "dma100" : 212.24,
     "dma200" : 234.75,
     "volume" : 370849.00
   }, {
@@ -975,7 +968,7 @@
     "price" : 248.45,
     "dma50" : 226.46,
     "dma100" : 212.13,
-    "dma200" : 236.39,
+    "dma200" : 236.38,
     "volume" : 138080.00
   }, {
     "date" : "2026-06-12",
@@ -1768,14 +1761,21 @@
     "dma100" : 259.03,
     "dma200" : 253.65,
     "volume" : 218304.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 295.40,
+    "dma50" : 271.33,
+    "dma100" : 259.33,
+    "dma200" : 254.07,
+    "volume" : 243239.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 286.60,
-    "dma50" : 270.34,
-    "dma100" : 259.03,
-    "dma200" : 253.65,
-    "volume" : 218304.00
+    "date" : "2026-11-25",
+    "price" : 295.40,
+    "dma50" : 271.33,
+    "dma100" : 259.33,
+    "dma200" : 254.07,
+    "volume" : 243239.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.70,
-    "pricePercentageAboveDma100" : 4.47,
-    "pricePercentageAboveDma200" : 4.35,
+    "pricePercentageAboveDma50" : 4.56,
+    "pricePercentageAboveDma100" : 4.30,
+    "pricePercentageAboveDma200" : 4.19,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 48.52,
+    "totalTechnicalScore" : 48.05,
     "totalFundamentalScore" : 46.76,
-    "totalScore" : 95.28
+    "totalScore" : 94.81
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KOPRAN",
       "companyName" : "Kopran",
-      "marketCap" : 1283.00,
-      "peRatio" : 32.70,
+      "marketCap" : 1400.00,
+      "peRatio" : 35.60,
       "description" : "Kopran Ltd. is a fully integrated pharmaceutical company that manufactures and supplies high-quality formulations and active pharmaceutical ingredients globally."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.81,
-      "pricePercentageAboveDma100" : 4.29,
-      "pricePercentageAboveDma200" : 3.73,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.37,
+      "pricePercentageAboveDma100" : 3.80,
+      "pricePercentageAboveDma200" : 3.18,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 7.80,
-      "totalTechnicalScore" : 42.83,
+      "totalTechnicalScore" : 46.35,
       "totalFundamentalScore" : 44.57,
-      "totalScore" : 87.41
+      "totalScore" : 90.93
     }
   },
   "attributes" : {
     "companyCode" : "KOPRAN",
     "companyName" : "Kopran",
-    "marketCap" : 1283.00,
-    "peRatio" : 32.70,
+    "marketCap" : 1400.00,
+    "peRatio" : 35.60,
     "description" : "Kopran Ltd. is a fully integrated pharmaceutical company that manufactures and supplies high-quality formulations and active pharmaceutical ingredients globally."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 130.15,
-    "dma50" : 157.81,
-    "dma100" : null,
-    "dma200" : 180.48,
-    "volume" : 458735.00
-  }, {
     "date" : "2025-11-26",
     "price" : 133.54,
     "dma50" : 156.86,
@@ -583,7 +576,7 @@
     "price" : 113.56,
     "dma50" : 131.53,
     "dma100" : null,
-    "dma200" : 155.67,
+    "dma200" : 155.66,
     "volume" : 235269.00
   }, {
     "date" : "2026-03-18",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 161.19,
     "dma50" : 137.30,
-    "dma100" : 135.68,
+    "dma100" : null,
     "dma200" : 151.96,
     "volume" : 334468.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 232.37,
     "dma200" : 211.63,
     "volume" : 234601.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 289.52,
+    "dma50" : 257.07,
+    "dma100" : 233.39,
+    "dma200" : 212.41,
+    "volume" : 13358852.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 265.35,
-    "dma50" : 255.75,
-    "dma100" : 232.37,
-    "dma200" : 211.63,
-    "volume" : 234601.00
+    "date" : "2026-11-25",
+    "price" : 289.52,
+    "dma50" : 257.07,
+    "dma100" : 233.39,
+    "dma200" : 212.41,
+    "volume" : 13358852.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.81,
-    "pricePercentageAboveDma100" : 4.29,
-    "pricePercentageAboveDma200" : 3.73,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.37,
+    "pricePercentageAboveDma100" : 3.80,
+    "pricePercentageAboveDma200" : 3.18,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 7.80,
-    "totalTechnicalScore" : 42.83,
+    "totalTechnicalScore" : 46.35,
     "totalFundamentalScore" : 44.57,
-    "totalScore" : 87.41
+    "totalScore" : 90.93
   }
 }

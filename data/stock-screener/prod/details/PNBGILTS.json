@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PNBGILTS",
       "companyName" : "PNB Gilts",
-      "marketCap" : 1472.00,
-      "peRatio" : 7.68,
+      "marketCap" : 1438.00,
+      "peRatio" : 7.51,
       "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.71,
-      "pricePercentageAboveDma100" : 4.85,
-      "pricePercentageAboveDma200" : 4.91,
+      "pricePercentageAboveDma50" : 4.84,
+      "pricePercentageAboveDma100" : 4.96,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.72,
       "operatingProfitMarginPercentile" : 18.62,
       "netProfitMarginPercentile" : 8.90,
-      "totalTechnicalScore" : 29.47,
+      "totalTechnicalScore" : 24.82,
       "totalFundamentalScore" : 36.23,
-      "totalScore" : 65.70
+      "totalScore" : 61.05
     }
   },
   "attributes" : {
     "companyCode" : "PNBGILTS",
     "companyName" : "PNB Gilts",
-    "marketCap" : 1472.00,
-    "peRatio" : 7.68,
+    "marketCap" : 1438.00,
+    "peRatio" : 7.51,
     "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 84.78,
-    "dma50" : 92.18,
-    "dma100" : null,
-    "dma200" : 97.76,
-    "volume" : 199939.00
-  }, {
     "date" : "2025-11-26",
     "price" : 85.99,
     "dma50" : 91.94,
@@ -107,7 +100,7 @@
     "price" : 80.67,
     "dma50" : 89.72,
     "dma100" : null,
-    "dma200" : 96.59,
+    "dma200" : 96.58,
     "volume" : 410248.00
   }, {
     "date" : "2025-12-09",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 72.55,
     "dma50" : 73.30,
-    "dma100" : 77.23,
+    "dma100" : null,
     "dma200" : 83.98,
     "volume" : 463063.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 79.37,
     "dma200" : 80.25,
     "volume" : 651718.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 79.91,
+    "dma50" : 77.39,
+    "dma100" : 79.26,
+    "dma200" : 80.25,
+    "volume" : 333967.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 81.75,
-    "dma50" : 77.29,
-    "dma100" : 79.37,
+    "date" : "2026-11-25",
+    "price" : 79.91,
+    "dma50" : 77.39,
+    "dma100" : 79.26,
     "dma200" : 80.25,
-    "volume" : 651718.00
+    "volume" : 333967.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.71,
-    "pricePercentageAboveDma100" : 4.85,
-    "pricePercentageAboveDma200" : 4.91,
+    "pricePercentageAboveDma50" : 4.84,
+    "pricePercentageAboveDma100" : 4.96,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.72,
     "operatingProfitMarginPercentile" : 18.62,
     "netProfitMarginPercentile" : 8.90,
-    "totalTechnicalScore" : 29.47,
+    "totalTechnicalScore" : 24.82,
     "totalFundamentalScore" : 36.23,
-    "totalScore" : 65.70
+    "totalScore" : 61.05
   }
 }

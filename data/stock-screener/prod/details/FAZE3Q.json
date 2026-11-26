@@ -9,49 +9,42 @@
     "attributes" : {
       "companyCode" : "FAZE3Q",
       "companyName" : "Faze Three",
-      "marketCap" : 1436.00,
-      "peRatio" : 28.10,
+      "marketCap" : 1370.00,
+      "peRatio" : 26.80,
       "description" : "Faze Three Limited, established in 1985, is primarily engaged in manufacturing and exports of end home textile products items like bathmats, rugs, blankets, throws, cushions, etc. The company has diversified its product mix across categories in the Home Textile segment and is also a direct exporter to top retail store chains in USA, UK and Europe. [1][2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.16,
-      "pricePercentageAboveDma100" : 4.19,
-      "pricePercentageAboveDma200" : 4.09,
+      "pricePercentageAboveDma50" : 4.45,
+      "pricePercentageAboveDma100" : 4.45,
+      "pricePercentageAboveDma200" : 4.37,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.73,
       "operatingProfitMarginPercentile" : 9.66,
       "netProfitMarginPercentile" : 4.37,
-      "totalTechnicalScore" : 42.44,
+      "totalTechnicalScore" : 48.27,
       "totalFundamentalScore" : 27.77,
-      "totalScore" : 70.20
+      "totalScore" : 76.04
     }
   },
   "attributes" : {
     "companyCode" : "FAZE3Q",
     "companyName" : "Faze Three",
-    "marketCap" : 1436.00,
-    "peRatio" : 28.10,
+    "marketCap" : 1370.00,
+    "peRatio" : 26.80,
     "description" : "Faze Three Limited, established in 1985, is primarily engaged in manufacturing and exports of end home textile products items like bathmats, rugs, blankets, throws, cushions, etc. The company has diversified its product mix across categories in the Home Textile segment and is also a direct exporter to top retail store chains in USA, UK and Europe. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 544.70,
-    "dma50" : 509.68,
-    "dma100" : null,
-    "dma200" : 504.14,
-    "volume" : 52860.00
-  }, {
     "date" : "2025-11-26",
     "price" : 547.00,
     "dma50" : 511.14,
     "dma100" : null,
-    "dma200" : 504.57,
+    "dma200" : 504.56,
     "volume" : 37940.00
   }, {
     "date" : "2025-11-27",
@@ -121,7 +114,7 @@
     "price" : 450.30,
     "dma50" : 501.25,
     "dma100" : null,
-    "dma200" : 502.57,
+    "dma200" : 502.56,
     "volume" : 24403.00
   }, {
     "date" : "2025-12-11",
@@ -212,7 +205,7 @@
     "price" : 409.05,
     "dma50" : 476.01,
     "dma100" : null,
-    "dma200" : 494.97,
+    "dma200" : 494.96,
     "volume" : 45611.00
   }, {
     "date" : "2025-12-31",
@@ -639,7 +632,7 @@
     "price" : 377.95,
     "dma50" : 447.84,
     "dma100" : null,
-    "dma200" : 472.14,
+    "dma200" : 472.13,
     "volume" : 23444.00
   }, {
     "date" : "2026-04-01",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 467.45,
     "dma50" : 452.28,
-    "dma100" : 449.28,
+    "dma100" : null,
     "dma200" : 469.81,
     "volume" : 5401.00
   }, {
@@ -1444,7 +1437,7 @@
     "price" : 447.20,
     "dma50" : 511.74,
     "dma100" : 524.38,
-    "dma200" : 504.53,
+    "dma200" : 504.52,
     "volume" : 35724.00
   }, {
     "date" : "2026-09-17",
@@ -1768,14 +1761,21 @@
     "dma100" : 502.60,
     "dma200" : 493.78,
     "volume" : 130942.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 557.00,
+    "dma50" : 502.19,
+    "dma100" : 502.00,
+    "dma200" : 494.41,
+    "volume" : 138290.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 583.95,
-    "dma50" : 499.95,
-    "dma100" : 502.60,
-    "dma200" : 493.78,
-    "volume" : 130942.00
+    "date" : "2026-11-25",
+    "price" : 557.00,
+    "dma50" : 502.19,
+    "dma100" : 502.00,
+    "dma200" : 494.41,
+    "volume" : 138290.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,18 +2663,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.16,
-    "pricePercentageAboveDma100" : 4.19,
-    "pricePercentageAboveDma200" : 4.09,
+    "pricePercentageAboveDma50" : 4.45,
+    "pricePercentageAboveDma100" : 4.45,
+    "pricePercentageAboveDma200" : 4.37,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.73,
     "operatingProfitMarginPercentile" : 9.66,
     "netProfitMarginPercentile" : 4.37,
-    "totalTechnicalScore" : 42.44,
+    "totalTechnicalScore" : 48.27,
     "totalFundamentalScore" : 27.77,
-    "totalScore" : 70.20
+    "totalScore" : 76.04
   }
 }

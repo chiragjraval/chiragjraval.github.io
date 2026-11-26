@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VARROC",
       "companyName" : "Varroc Engineer",
-      "marketCap" : 12083.00,
-      "peRatio" : 42.50,
+      "marketCap" : 12153.00,
+      "peRatio" : 42.80,
       "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.43,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 4.92,
+      "pricePercentageAboveDma200" : 4.40,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.71,
       "operatingProfitMarginPercentile" : 11.76,
       "netProfitMarginPercentile" : 7.37,
-      "totalTechnicalScore" : 39.46,
+      "totalTechnicalScore" : 39.38,
       "totalFundamentalScore" : 33.83,
-      "totalScore" : 73.29
+      "totalScore" : 73.21
     }
   },
   "attributes" : {
     "companyCode" : "VARROC",
     "companyName" : "Varroc Engineer",
-    "marketCap" : 12083.00,
-    "peRatio" : 42.50,
+    "marketCap" : 12153.00,
+    "peRatio" : 42.80,
     "description" : "Varroc Engineering Ltd was incorporated in 1988, is the flagship company of the Chhatrapati Sambhaji Nagar-based Varroc Group. Varroc is a global tier-1 automotive component group. It is engaged in the business of manufacturing and supplying automobile components to a wide range of OEMs across the globe[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 659.85,
-    "dma50" : 621.58,
-    "dma100" : null,
-    "dma200" : 568.67,
-    "volume" : 342825.00
-  }, {
     "date" : "2025-11-26",
     "price" : 660.05,
     "dma50" : 623.09,
@@ -646,7 +639,7 @@
     "price" : 478.35,
     "dma50" : 530.26,
     "dma100" : null,
-    "dma200" : 562.72,
+    "dma200" : 562.71,
     "volume" : 183939.00
   }, {
     "date" : "2026-04-02",
@@ -688,7 +681,7 @@
     "price" : 526.35,
     "dma50" : 522.90,
     "dma100" : null,
-    "dma200" : 558.78,
+    "dma200" : 558.77,
     "volume" : 225548.00
   }, {
     "date" : "2026-04-13",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 514.40,
     "dma50" : 524.52,
-    "dma100" : 563.01,
+    "dma100" : null,
     "dma200" : 556.49,
     "volume" : 112749.00
   }, {
@@ -876,7 +869,7 @@
     "date" : "2026-05-21",
     "price" : 568.20,
     "dma50" : 537.93,
-    "dma100" : 544.50,
+    "dma100" : 544.49,
     "dma200" : 554.92,
     "volume" : 79140.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 782.19,
     "dma200" : 709.61,
     "volume" : 164745.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 795.40,
+    "dma50" : 804.10,
+    "dma100" : 783.58,
+    "dma200" : 710.47,
+    "volume" : 84774.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 790.85,
-    "dma50" : 804.46,
-    "dma100" : 782.19,
-    "dma200" : 709.61,
-    "volume" : 164745.00
+    "date" : "2026-11-25",
+    "price" : 795.40,
+    "dma50" : 804.10,
+    "dma100" : 783.58,
+    "dma200" : 710.47,
+    "volume" : 84774.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2176,15 +2176,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.43,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 4.92,
+    "pricePercentageAboveDma200" : 4.40,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.71,
     "operatingProfitMarginPercentile" : 11.76,
     "netProfitMarginPercentile" : 7.37,
-    "totalTechnicalScore" : 39.46,
+    "totalTechnicalScore" : 39.38,
     "totalFundamentalScore" : 33.83,
-    "totalScore" : 73.29
+    "totalScore" : 73.21
   }
 }

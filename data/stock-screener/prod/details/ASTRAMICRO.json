@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTRAMICRO",
       "companyName" : "Astra Microwave",
-      "marketCap" : 15412.00,
-      "peRatio" : 71.30,
+      "marketCap" : 15198.00,
+      "peRatio" : 70.30,
       "description" : "Astra Microwave Products is engaged in the business of design, development and manufacture of sub-systems for Radio Frequency and microwave systems used in defense, space, meteorology and telecommunication."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.03,
-      "pricePercentageAboveDma100" : 5.18,
-      "pricePercentageAboveDma200" : 4.45,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.24,
+      "pricePercentageAboveDma200" : 4.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 16.78,
       "netProfitMarginPercentile" : 7.59,
-      "totalTechnicalScore" : 29.67,
+      "totalTechnicalScore" : 29.88,
       "totalFundamentalScore" : 37.62,
-      "totalScore" : 67.29
+      "totalScore" : 67.50
     }
   },
   "attributes" : {
     "companyCode" : "ASTRAMICRO",
     "companyName" : "Astra Microwave",
-    "marketCap" : 15412.00,
-    "peRatio" : 71.30,
+    "marketCap" : 15198.00,
+    "peRatio" : 70.30,
     "description" : "Astra Microwave Products is engaged in the business of design, development and manufacture of sub-systems for Radio Frequency and microwave systems used in defense, space, meteorology and telecommunication."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 943.70,
-    "dma50" : 1034.75,
-    "dma100" : null,
-    "dma200" : 967.39,
-    "volume" : 266103.00
-  }, {
     "date" : "2025-11-26",
     "price" : 945.90,
     "dma50" : 1031.27,
@@ -128,7 +121,7 @@
     "price" : 904.35,
     "dma50" : 987.47,
     "dma100" : null,
-    "dma200" : 961.21,
+    "dma200" : 961.20,
     "volume" : 161741.00
   }, {
     "date" : "2025-12-12",
@@ -219,7 +212,7 @@
     "price" : 981.25,
     "dma50" : 967.33,
     "dma100" : null,
-    "dma200" : 957.92,
+    "dma200" : 957.91,
     "volume" : 312999.00
   }, {
     "date" : "2026-01-01",
@@ -709,7 +702,7 @@
     "price" : 1074.70,
     "dma50" : 963.69,
     "dma100" : null,
-    "dma200" : 956.95,
+    "dma200" : 956.94,
     "volume" : 878934.00
   }, {
     "date" : "2026-04-17",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 1135.55,
     "dma50" : 989.86,
-    "dma100" : 954.25,
+    "dma100" : null,
     "dma200" : 964.27,
     "volume" : 498700.00
   }, {
@@ -1409,7 +1402,7 @@
     "price" : 1757.30,
     "dma50" : 1678.31,
     "dma100" : 1527.49,
-    "dma200" : 1356.65,
+    "dma200" : 1356.64,
     "volume" : 841327.00
   }, {
     "date" : "2026-09-09",
@@ -1768,14 +1761,21 @@
     "dma100" : 1684.69,
     "dma200" : 1463.66,
     "volume" : 178633.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 1600.70,
+    "dma50" : 1631.86,
+    "dma100" : 1682.74,
+    "dma200" : 1465.03,
+    "volume" : 155645.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 1623.30,
-    "dma50" : 1633.14,
-    "dma100" : 1684.69,
-    "dma200" : 1463.66,
-    "volume" : 178633.00
+    "date" : "2026-11-25",
+    "price" : 1600.70,
+    "dma50" : 1631.86,
+    "dma100" : 1682.74,
+    "dma200" : 1465.03,
+    "volume" : 155645.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.03,
-    "pricePercentageAboveDma100" : 5.18,
-    "pricePercentageAboveDma200" : 4.45,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.24,
+    "pricePercentageAboveDma200" : 4.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 16.78,
     "netProfitMarginPercentile" : 7.59,
-    "totalTechnicalScore" : 29.67,
+    "totalTechnicalScore" : 29.88,
     "totalFundamentalScore" : 37.62,
-    "totalScore" : 67.29
+    "totalScore" : 67.50
   }
 }

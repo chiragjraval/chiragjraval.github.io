@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JNPR",
       "companyName" : "Juniper Green",
-      "marketCap" : 13966.00,
-      "peRatio" : 220.00,
+      "marketCap" : 13828.00,
+      "peRatio" : 217.00,
       "description" : "Incorporated in 2011, Juniper Green Energy Limited is one of India's leading renewable energy independent power producers (IPPs), engaged in developing, building, operating, and maintaining utility-scale renewable energy projects.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma50" : 5.23,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.26,
+      "pricePercentageAboveDma200" : 5.30,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 4.00,
-      "totalTechnicalScore" : 10.45,
+      "totalTechnicalScore" : 10.53,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 54.45
+      "totalScore" : 54.53
     }
   },
   "attributes" : {
     "companyCode" : "JNPR",
     "companyName" : "Juniper Green",
-    "marketCap" : 13966.00,
-    "peRatio" : 220.00,
+    "marketCap" : 13828.00,
+    "peRatio" : 217.00,
     "description" : "Incorporated in 2011, Juniper Green Energy Limited is one of India's leading renewable energy independent power producers (IPPs), engaged in developing, building, operating, and maintaining utility-scale renewable energy projects.[1]"
   },
   "technicalHistory" : [ {
@@ -564,14 +564,21 @@
     "dma100" : null,
     "dma200" : 258.72,
     "volume" : 110085.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 243.03,
+    "dma50" : 254.79,
+    "dma100" : null,
+    "dma200" : 258.56,
+    "volume" : 253294.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 245.45,
-    "dma50" : 255.27,
+    "date" : "2026-11-25",
+    "price" : 243.03,
+    "dma50" : 254.79,
     "dma100" : null,
-    "dma200" : 258.72,
-    "volume" : 110085.00
+    "dma200" : 258.56,
+    "volume" : 253294.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -642,15 +649,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma50" : 5.23,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.26,
+    "pricePercentageAboveDma200" : 5.30,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 4.00,
-    "totalTechnicalScore" : 10.45,
+    "totalTechnicalScore" : 10.53,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 54.45
+    "totalScore" : 54.53
   }
 }

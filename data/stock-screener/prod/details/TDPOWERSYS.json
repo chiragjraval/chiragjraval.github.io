@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TDPOWERSYS",
       "companyName" : "TD Power Systems",
-      "marketCap" : 19457.00,
-      "peRatio" : 57.50,
+      "marketCap" : 18871.00,
+      "peRatio" : 55.70,
       "description" : "TD Power Systems Ltd is engaged in manufacturing AC generators and Electric motors for various applications which are specifically designed to suit the needs of the customers based on their requirements and specifications.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "priceHigherThanDma200" : 0.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.56,
-      "pricePercentageAboveDma100" : 5.56,
-      "pricePercentageAboveDma200" : 4.98,
+      "pricePercentageAboveDma50" : 5.67,
+      "pricePercentageAboveDma100" : 5.69,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 41.10,
+      "totalTechnicalScore" : 31.49,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 91.10
+      "totalScore" : 81.49
     }
   },
   "attributes" : {
     "companyCode" : "TDPOWERSYS",
     "companyName" : "TD Power Systems",
-    "marketCap" : 19457.00,
-    "peRatio" : 57.50,
+    "marketCap" : 18871.00,
+    "peRatio" : 55.70,
     "description" : "TD Power Systems Ltd is engaged in manufacturing AC generators and Electric motors for various applications which are specifically designed to suit the needs of the customers based on their requirements and specifications.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 380.33,
-    "dma50" : 341.15,
-    "dma100" : null,
-    "dma200" : 271.18,
-    "volume" : 1409321.00
-  }, {
     "date" : "2025-11-26",
     "price" : 397.83,
     "dma50" : 343.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 535.23,
     "dma50" : 439.12,
-    "dma100" : 396.84,
+    "dma100" : null,
     "dma200" : 358.24,
     "volume" : 2714699.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 681.17,
     "dma200" : 602.37,
     "volume" : 5588738.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 587.05,
+    "dma50" : 678.59,
+    "dma100" : 681.08,
+    "dma200" : 602.22,
+    "volume" : 5302992.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 605.30,
-    "dma50" : 682.32,
-    "dma100" : 681.17,
-    "dma200" : 602.37,
-    "volume" : 5588738.00
+    "date" : "2026-11-25",
+    "price" : 587.05,
+    "dma50" : 678.59,
+    "dma100" : 681.08,
+    "dma200" : 602.22,
+    "volume" : 5302992.00
   },
   "quarterlyResults" : [ {
     "date" : "2011-06-30",
@@ -2412,19 +2412,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "priceHigherThanDma200" : 0.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.56,
-    "pricePercentageAboveDma100" : 5.56,
-    "pricePercentageAboveDma200" : 4.98,
+    "pricePercentageAboveDma50" : 5.67,
+    "pricePercentageAboveDma100" : 5.69,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 41.10,
+    "totalTechnicalScore" : 31.49,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 91.10
+    "totalScore" : 81.49
   }
 }

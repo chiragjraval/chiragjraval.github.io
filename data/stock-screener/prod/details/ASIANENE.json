@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASIANENE",
       "companyName" : "Asian Energy",
-      "marketCap" : 1748.00,
-      "peRatio" : 21.90,
+      "marketCap" : 1679.00,
+      "peRatio" : 21.00,
       "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.74,
-      "pricePercentageAboveDma100" : 5.81,
-      "pricePercentageAboveDma200" : 5.39,
+      "pricePercentageAboveDma50" : 5.88,
+      "pricePercentageAboveDma100" : 5.98,
+      "pricePercentageAboveDma200" : 5.57,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 19.15,
       "netProfitMarginPercentile" : 9.83,
-      "totalTechnicalScore" : 26.94,
+      "totalTechnicalScore" : 27.43,
       "totalFundamentalScore" : 44.40,
-      "totalScore" : 71.34
+      "totalScore" : 71.83
     }
   },
   "attributes" : {
     "companyCode" : "ASIANENE",
     "companyName" : "Asian Energy",
-    "marketCap" : 1748.00,
-    "peRatio" : 21.90,
+    "marketCap" : 1679.00,
+    "peRatio" : 21.00,
     "description" : "Asian Energy Services Ltd is an oilfield service and reservoir imaging company, offering a suite of geophysical services specializing in land and well seismic services and operation and maintenance services for oilfields.[1] It is one of the few companies providing end-to-end services in the upstream oil segment.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 300.95,
-    "dma50" : 331.17,
-    "dma100" : null,
-    "dma200" : 323.89,
-    "volume" : 53981.00
-  }, {
     "date" : "2025-11-26",
     "price" : 299.20,
     "dma50" : 329.92,
@@ -492,7 +485,7 @@
     "price" : 305.55,
     "dma50" : 283.06,
     "dma100" : null,
-    "dma200" : 301.80,
+    "dma200" : 301.79,
     "volume" : 58067.00
   }, {
     "date" : "2026-02-26",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 313.09,
     "dma50" : 286.12,
-    "dma100" : 279.64,
+    "dma100" : null,
     "dma200" : 296.52,
     "volume" : 173294.00
   }, {
@@ -912,7 +905,7 @@
     "price" : 358.10,
     "dma50" : 311.77,
     "dma100" : 288.24,
-    "dma200" : 302.37,
+    "dma200" : 302.36,
     "volume" : 452962.00
   }, {
     "date" : "2026-06-01",
@@ -1768,14 +1761,21 @@
     "dma100" : 425.67,
     "dma200" : 386.54,
     "volume" : 111114.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 342.20,
+    "dma50" : 415.14,
+    "dma100" : 425.63,
+    "dma200" : 386.10,
+    "volume" : 225692.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 356.35,
-    "dma50" : 418.11,
-    "dma100" : 425.67,
-    "dma200" : 386.54,
-    "volume" : 111114.00
+    "date" : "2026-11-25",
+    "price" : 342.20,
+    "dma50" : 415.14,
+    "dma100" : 425.63,
+    "dma200" : 386.10,
+    "volume" : 225692.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.74,
-    "pricePercentageAboveDma100" : 5.81,
-    "pricePercentageAboveDma200" : 5.39,
+    "pricePercentageAboveDma50" : 5.88,
+    "pricePercentageAboveDma100" : 5.98,
+    "pricePercentageAboveDma200" : 5.57,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 19.15,
     "netProfitMarginPercentile" : 9.83,
-    "totalTechnicalScore" : 26.94,
+    "totalTechnicalScore" : 27.43,
     "totalFundamentalScore" : 44.40,
-    "totalScore" : 71.34
+    "totalScore" : 71.83
   }
 }

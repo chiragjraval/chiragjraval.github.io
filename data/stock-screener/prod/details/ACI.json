@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ACI",
       "companyName" : "Archean Chemical",
-      "marketCap" : 5230.00,
-      "peRatio" : 52.40,
+      "marketCap" : 5296.00,
+      "peRatio" : 53.10,
       "description" : "Archean Chemical Industries Limited is India's largest exporter of bromine and industrial salt in Fiscal 2021. The company is the leading specialty marine chemical manufacturer in India and is focused on producing and exporting bromine, industrial salt, and sulphate of potash to customers around the world.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.38,
-      "pricePercentageAboveDma100" : 5.68,
-      "pricePercentageAboveDma200" : 5.89,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.62,
+      "pricePercentageAboveDma200" : 5.83,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.93,
       "operatingProfitMarginPercentile" : 4.45,
       "netProfitMarginPercentile" : 1.90,
-      "totalTechnicalScore" : 16.95,
+      "totalTechnicalScore" : 16.76,
       "totalFundamentalScore" : 26.29,
-      "totalScore" : 43.23
+      "totalScore" : 43.04
     }
   },
   "attributes" : {
     "companyCode" : "ACI",
     "companyName" : "Archean Chemical",
-    "marketCap" : 5230.00,
-    "peRatio" : 52.40,
+    "marketCap" : 5296.00,
+    "peRatio" : 53.10,
     "description" : "Archean Chemical Industries Limited is India's largest exporter of bromine and industrial salt in Fiscal 2021. The company is the leading specialty marine chemical manufacturer in India and is focused on producing and exporting bromine, industrial salt, and sulphate of potash to customers around the world.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 531.45,
-    "dma50" : 631.54,
-    "dma100" : null,
-    "dma200" : 639.57,
-    "volume" : 114903.00
-  }, {
     "date" : "2025-11-26",
     "price" : 517.75,
     "dma50" : 627.07,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 596.85,
     "dma50" : 583.73,
-    "dma100" : 556.48,
+    "dma100" : null,
     "dma200" : 592.28,
     "volume" : 93415.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 490.44,
     "dma200" : 515.53,
     "volume" : 119465.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 428.95,
+    "dma50" : 457.04,
+    "dma100" : 489.41,
+    "dma200" : 514.67,
+    "volume" : 286596.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 423.65,
-    "dma50" : 458.19,
-    "dma100" : 490.44,
-    "dma200" : 515.53,
-    "volume" : 119465.00
+    "date" : "2026-11-25",
+    "price" : 428.95,
+    "dma50" : 457.04,
+    "dma100" : 489.41,
+    "dma200" : 514.67,
+    "volume" : 286596.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-09-30",
@@ -2006,15 +2006,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.38,
-    "pricePercentageAboveDma100" : 5.68,
-    "pricePercentageAboveDma200" : 5.89,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.62,
+    "pricePercentageAboveDma200" : 5.83,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.93,
     "operatingProfitMarginPercentile" : 4.45,
     "netProfitMarginPercentile" : 1.90,
-    "totalTechnicalScore" : 16.95,
+    "totalTechnicalScore" : 16.76,
     "totalFundamentalScore" : 26.29,
-    "totalScore" : 43.23
+    "totalScore" : 43.04
   }
 }

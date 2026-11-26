@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "STEL",
       "companyName" : "STEL Holdings",
-      "marketCap" : 1183.00,
+      "marketCap" : 1180.00,
       "peRatio" : 36.20,
       "description" : "Incorporated in 1990, STEL Holdings Ltd invests in securities of group companies[1]"
     },
@@ -17,36 +17,29 @@
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.41,
-      "pricePercentageAboveDma100" : 4.42,
-      "pricePercentageAboveDma200" : 4.06,
+      "pricePercentageAboveDma50" : 4.45,
+      "pricePercentageAboveDma100" : 4.44,
+      "pricePercentageAboveDma200" : 4.08,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.41,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 8.21,
-      "totalTechnicalScore" : 37.89,
+      "totalTechnicalScore" : 42.97,
       "totalFundamentalScore" : 46.62,
-      "totalScore" : 84.52
+      "totalScore" : 89.59
     }
   },
   "attributes" : {
     "companyCode" : "STEL",
     "companyName" : "STEL Holdings",
-    "marketCap" : 1183.00,
+    "marketCap" : 1180.00,
     "peRatio" : 36.20,
     "description" : "Incorporated in 1990, STEL Holdings Ltd invests in securities of group companies[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 498.80,
-    "dma50" : 442.19,
-    "dma100" : null,
-    "dma200" : 429.51,
-    "volume" : 11523.00
-  }, {
     "date" : "2025-11-26",
     "price" : 501.70,
     "dma50" : 444.53,
@@ -128,7 +121,7 @@
     "price" : 522.10,
     "dma50" : 478.42,
     "dma100" : null,
-    "dma200" : 441.54,
+    "dma200" : 441.53,
     "volume" : 8404.00
   }, {
     "date" : "2025-12-12",
@@ -198,7 +191,7 @@
     "price" : 513.60,
     "dma50" : 498.11,
     "dma100" : null,
-    "dma200" : 450.80,
+    "dma200" : 450.79,
     "volume" : 6532.00
   }, {
     "date" : "2025-12-29",
@@ -219,7 +212,7 @@
     "price" : 497.25,
     "dma50" : 498.61,
     "dma100" : null,
-    "dma200" : 452.33,
+    "dma200" : 452.32,
     "volume" : 10929.00
   }, {
     "date" : "2026-01-01",
@@ -303,7 +296,7 @@
     "price" : 430.00,
     "dma50" : 484.95,
     "dma100" : null,
-    "dma200" : 453.77,
+    "dma200" : 453.76,
     "volume" : 3471.00
   }, {
     "date" : "2026-01-20",
@@ -723,7 +716,7 @@
     "price" : 470.20,
     "dma50" : 468.51,
     "dma100" : null,
-    "dma200" : 459.22,
+    "dma200" : 459.21,
     "volume" : 5284.00
   }, {
     "date" : "2026-04-21",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 468.65,
     "dma50" : 468.66,
-    "dma100" : 482.10,
+    "dma100" : null,
     "dma200" : 459.53,
     "volume" : 4113.00
   }, {
@@ -1136,7 +1129,7 @@
     "price" : 558.45,
     "dma50" : 535.06,
     "dma100" : 496.89,
-    "dma200" : 486.88,
+    "dma200" : 486.87,
     "volume" : 1074.00
   }, {
     "date" : "2026-07-16",
@@ -1768,14 +1761,21 @@
     "dma100" : 574.48,
     "dma200" : 539.54,
     "volume" : 22402.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 639.55,
+    "dma50" : 575.80,
+    "dma100" : 575.15,
+    "dma200" : 540.54,
+    "volume" : 4848.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 640.85,
-    "dma50" : 573.20,
-    "dma100" : 574.48,
-    "dma200" : 539.54,
-    "volume" : 22402.00
+    "date" : "2026-11-25",
+    "price" : 639.55,
+    "dma50" : 575.80,
+    "dma100" : 575.15,
+    "dma200" : 540.54,
+    "volume" : 4848.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-03-31",
@@ -2463,18 +2463,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.41,
-    "pricePercentageAboveDma100" : 4.42,
-    "pricePercentageAboveDma200" : 4.06,
+    "pricePercentageAboveDma50" : 4.45,
+    "pricePercentageAboveDma100" : 4.44,
+    "pricePercentageAboveDma200" : 4.08,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.41,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 8.21,
-    "totalTechnicalScore" : 37.89,
+    "totalTechnicalScore" : 42.97,
     "totalFundamentalScore" : 46.62,
-    "totalScore" : 84.52
+    "totalScore" : 89.59
   }
 }

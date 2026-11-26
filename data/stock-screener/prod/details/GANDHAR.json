@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GANDHAR",
       "companyName" : "Gandhar Oil Ref.",
-      "marketCap" : 2428.00,
-      "peRatio" : 5.33,
+      "marketCap" : 2366.00,
+      "peRatio" : 5.20,
       "description" : "Incorporated in 1992, Gandhar Oil Limited is a prominent manufacturer of white oils that caters to the consumer and healthcare end industries.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.33,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 4.38,
+      "pricePercentageAboveDma50" : 5.43,
+      "pricePercentageAboveDma100" : 5.28,
+      "pricePercentageAboveDma200" : 4.53,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.78,
       "operatingProfitMarginPercentile" : 19.04,
       "netProfitMarginPercentile" : 9.38,
-      "totalTechnicalScore" : 34.85,
+      "totalTechnicalScore" : 35.23,
       "totalFundamentalScore" : 48.20,
-      "totalScore" : 83.05
+      "totalScore" : 83.43
     }
   },
   "attributes" : {
     "companyCode" : "GANDHAR",
     "companyName" : "Gandhar Oil Ref.",
-    "marketCap" : 2428.00,
-    "peRatio" : 5.33,
+    "marketCap" : 2366.00,
+    "peRatio" : 5.20,
     "description" : "Incorporated in 1992, Gandhar Oil Limited is a prominent manufacturer of white oils that caters to the consumer and healthcare end industries.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 131.09,
-    "dma50" : 140.40,
-    "dma100" : null,
-    "dma200" : 158.93,
-    "volume" : 149455.00
-  }, {
     "date" : "2025-11-26",
     "price" : 131.39,
     "dma50" : 140.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 139.68,
     "dma50" : 137.56,
-    "dma100" : 141.11,
+    "dma100" : null,
     "dma200" : 147.15,
     "volume" : 192582.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 255.37,
     "dma200" : 220.59,
     "volume" : 335837.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 241.74,
+    "dma50" : 264.52,
+    "dma100" : 255.92,
+    "dma200" : 220.80,
+    "volume" : 321752.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 248.06,
-    "dma50" : 265.45,
-    "dma100" : 255.37,
-    "dma200" : 220.59,
-    "volume" : 335837.00
+    "date" : "2026-11-25",
+    "price" : 241.74,
+    "dma50" : 264.52,
+    "dma100" : 255.92,
+    "dma200" : 220.80,
+    "volume" : 321752.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-12-31",
@@ -1956,15 +1956,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.33,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 4.38,
+    "pricePercentageAboveDma50" : 5.43,
+    "pricePercentageAboveDma100" : 5.28,
+    "pricePercentageAboveDma200" : 4.53,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.78,
     "operatingProfitMarginPercentile" : 19.04,
     "netProfitMarginPercentile" : 9.38,
-    "totalTechnicalScore" : 34.85,
+    "totalTechnicalScore" : 35.23,
     "totalFundamentalScore" : 48.20,
-    "totalScore" : 83.05
+    "totalScore" : 83.43
   }
 }

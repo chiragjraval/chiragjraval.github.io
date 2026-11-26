@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "E2E",
       "companyName" : "E2E Networks",
-      "marketCap" : 9302.00,
-      "peRatio" : 79.30,
+      "marketCap" : 9318.00,
+      "peRatio" : 79.40,
       "description" : "E2E Networks is an Nse-listed AI-focused hyper scale cloud platform, offering advanced cloud GPUs and a comprehensive ecosystem of cloud technologies designed for the development and deployment of AI/ML applications.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.97,
+      "pricePercentageAboveDma50" : 5.93,
       "pricePercentageAboveDma100" : 6.00,
-      "pricePercentageAboveDma200" : 5.19,
+      "pricePercentageAboveDma200" : 5.18,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.29,
-      "totalTechnicalScore" : 32.17,
+      "totalTechnicalScore" : 32.12,
       "totalFundamentalScore" : 49.29,
-      "totalScore" : 81.45
+      "totalScore" : 81.40
     }
   },
   "attributes" : {
     "companyCode" : "E2E",
     "companyName" : "E2E Networks",
-    "marketCap" : 9302.00,
-    "peRatio" : 79.30,
+    "marketCap" : 9318.00,
+    "peRatio" : 79.40,
     "description" : "E2E Networks is an Nse-listed AI-focused hyper scale cloud platform, offering advanced cloud GPUs and a comprehensive ecosystem of cloud technologies designed for the development and deployment of AI/ML applications.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 232.58,
-    "dma50" : 289.02,
-    "dma100" : null,
-    "dma200" : 273.58,
-    "volume" : 1031880.00
-  }, {
     "date" : "2025-11-26",
     "price" : 234.57,
     "dma50" : 286.88,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 290.65,
     "dma50" : 245.36,
-    "dma100" : 229.78,
+    "dma100" : null,
     "dma200" : 248.61,
     "volume" : 887560.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 566.20,
     "dma200" : 470.61,
     "volume" : 1809403.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 453.25,
+    "dma50" : 557.24,
+    "dma100" : 566.85,
+    "dma200" : 470.44,
+    "volume" : 2269875.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 452.45,
-    "dma50" : 561.49,
-    "dma100" : 566.20,
-    "dma200" : 470.61,
-    "volume" : 1809403.00
+    "date" : "2026-11-25",
+    "price" : 453.25,
+    "dma50" : 557.24,
+    "dma100" : 566.85,
+    "dma200" : 470.44,
+    "volume" : 2269875.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-12-31",
@@ -2076,15 +2076,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.97,
+    "pricePercentageAboveDma50" : 5.93,
     "pricePercentageAboveDma100" : 6.00,
-    "pricePercentageAboveDma200" : 5.19,
+    "pricePercentageAboveDma200" : 5.18,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.29,
-    "totalTechnicalScore" : 32.17,
+    "totalTechnicalScore" : 32.12,
     "totalFundamentalScore" : 49.29,
-    "totalScore" : 81.45
+    "totalScore" : 81.40
   }
 }

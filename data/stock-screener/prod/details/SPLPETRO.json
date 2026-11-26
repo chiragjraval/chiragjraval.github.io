@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SPLPETRO",
       "companyName" : "Supreme Petroch.",
-      "marketCap" : 13129.00,
-      "peRatio" : 24.40,
+      "marketCap" : 13071.00,
+      "peRatio" : 24.30,
       "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.30,
-      "pricePercentageAboveDma200" : 5.20,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 5.32,
+      "pricePercentageAboveDma200" : 5.22,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 11.72,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 25.72,
+      "totalTechnicalScore" : 25.77,
       "totalFundamentalScore" : 37.45,
-      "totalScore" : 63.17
+      "totalScore" : 63.22
     }
   },
   "attributes" : {
     "companyCode" : "SPLPETRO",
     "companyName" : "Supreme Petroch.",
-    "marketCap" : 13129.00,
-    "peRatio" : 24.40,
+    "marketCap" : 13071.00,
+    "peRatio" : 24.30,
     "description" : "Supreme Petrochem Ltd (SPL) is a petrochemical company engaged in the business of manufacturing Polystyrene, Compounds of Styrenics and other Polymers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 666.15,
-    "dma50" : 730.58,
-    "dma100" : null,
-    "dma200" : 741.40,
-    "volume" : 42181.00
-  }, {
     "date" : "2025-11-26",
     "price" : 660.40,
     "dma50" : 727.83,
@@ -156,7 +149,7 @@
     "price" : 639.60,
     "dma50" : 690.55,
     "dma100" : null,
-    "dma200" : 727.25,
+    "dma200" : 727.24,
     "volume" : 16803.00
   }, {
     "date" : "2025-12-18",
@@ -198,7 +191,7 @@
     "price" : 641.25,
     "dma50" : 679.85,
     "dma100" : null,
-    "dma200" : 722.18,
+    "dma200" : 722.17,
     "volume" : 17373.00
   }, {
     "date" : "2025-12-29",
@@ -240,7 +233,7 @@
     "price" : 642.60,
     "dma50" : 672.04,
     "dma100" : null,
-    "dma200" : 717.58,
+    "dma200" : 717.57,
     "volume" : 14562.00
   }, {
     "date" : "2026-01-06",
@@ -625,7 +618,7 @@
     "price" : 671.50,
     "dma50" : 648.14,
     "dma100" : null,
-    "dma200" : 679.00,
+    "dma200" : 678.99,
     "volume" : 51932.00
   }, {
     "date" : "2026-03-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 820.05,
     "dma50" : 703.72,
-    "dma100" : 649.41,
+    "dma100" : null,
     "dma200" : 691.28,
     "volume" : 714404.00
   }, {
@@ -877,7 +870,7 @@
     "price" : 689.15,
     "dma50" : 713.89,
     "dma100" : 665.73,
-    "dma200" : 697.68,
+    "dma200" : 697.67,
     "volume" : 25377.00
   }, {
     "date" : "2026-05-22",
@@ -1192,7 +1185,7 @@
     "price" : 760.90,
     "dma50" : 719.71,
     "dma100" : 716.08,
-    "dma200" : 704.09,
+    "dma200" : 704.08,
     "volume" : 568006.00
   }, {
     "date" : "2026-07-28",
@@ -1493,7 +1486,7 @@
     "price" : 880.00,
     "dma50" : 769.59,
     "dma100" : 729.88,
-    "dma200" : 723.55,
+    "dma200" : 723.54,
     "volume" : 178684.00
   }, {
     "date" : "2026-09-28",
@@ -1768,14 +1761,21 @@
     "dma100" : 742.38,
     "dma200" : 726.77,
     "volume" : 231952.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 695.10,
+    "dma50" : 729.91,
+    "dma100" : 742.22,
+    "dma200" : 726.45,
+    "volume" : 49048.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 698.20,
-    "dma50" : 731.34,
-    "dma100" : 742.38,
-    "dma200" : 726.77,
-    "volume" : 231952.00
+    "date" : "2026-11-25",
+    "price" : 695.10,
+    "dma50" : 729.91,
+    "dma100" : 742.22,
+    "dma200" : 726.45,
+    "volume" : 49048.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.30,
-    "pricePercentageAboveDma200" : 5.20,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 5.32,
+    "pricePercentageAboveDma200" : 5.22,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 11.72,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 25.72,
+    "totalTechnicalScore" : 25.77,
     "totalFundamentalScore" : 37.45,
-    "totalScore" : 63.17
+    "totalScore" : 63.22
   }
 }

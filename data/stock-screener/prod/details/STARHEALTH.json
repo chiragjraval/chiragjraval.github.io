@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "STARHEALTH",
       "companyName" : "Star Health Insu",
-      "marketCap" : 33205.00,
-      "peRatio" : 31.50,
+      "marketCap" : 33490.00,
+      "peRatio" : 31.80,
       "description" : "Star Health & Allied Insurance Ltd (Star) is India’s first Standalone Health Insurance provider and is the largest private health insurer in India with a market share of 15.8% in the Indian health insurance market in FY21 with leadership in the attractive retail health segment.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.90,
-      "pricePercentageAboveDma100" : 5.02,
-      "pricePercentageAboveDma200" : 4.73,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.69,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.29,
       "operatingProfitMarginPercentile" : 19.21,
       "netProfitMarginPercentile" : 9.62,
-      "totalTechnicalScore" : 34.64,
+      "totalTechnicalScore" : 39.52,
       "totalFundamentalScore" : 43.12,
-      "totalScore" : 77.76
+      "totalScore" : 82.64
     }
   },
   "attributes" : {
     "companyCode" : "STARHEALTH",
     "companyName" : "Star Health Insu",
-    "marketCap" : 33205.00,
-    "peRatio" : 31.50,
+    "marketCap" : 33490.00,
+    "peRatio" : 31.80,
     "description" : "Star Health & Allied Insurance Ltd (Star) is India’s first Standalone Health Insurance provider and is the largest private health insurer in India with a market share of 15.8% in the Indian health insurance market in FY21 with leadership in the attractive retail health segment.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 496.25,
-    "dma50" : 482.13,
-    "dma100" : null,
-    "dma200" : 459.93,
-    "volume" : 212892.00
-  }, {
     "date" : "2025-11-26",
     "price" : 489.80,
     "dma50" : 482.43,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 516.40,
     "dma50" : 471.78,
-    "dma100" : 463.02,
+    "dma100" : null,
     "dma200" : 462.86,
     "volume" : 308456.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 565.83,
     "dma200" : 534.90,
     "volume" : 219384.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 568.95,
+    "dma50" : 553.92,
+    "dma100" : 565.64,
+    "dma200" : 535.24,
+    "volume" : 481279.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 564.10,
-    "dma50" : 553.30,
-    "dma100" : 565.83,
-    "dma200" : 534.90,
-    "volume" : 219384.00
+    "date" : "2026-11-25",
+    "price" : 568.95,
+    "dma50" : 553.92,
+    "dma100" : 565.64,
+    "dma200" : 535.24,
+    "volume" : 481279.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2041,20 +2041,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.90,
-    "pricePercentageAboveDma100" : 5.02,
-    "pricePercentageAboveDma200" : 4.73,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.69,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.29,
     "operatingProfitMarginPercentile" : 19.21,
     "netProfitMarginPercentile" : 9.62,
-    "totalTechnicalScore" : 34.64,
+    "totalTechnicalScore" : 39.52,
     "totalFundamentalScore" : 43.12,
-    "totalScore" : 77.76
+    "totalScore" : 82.64
   }
 }

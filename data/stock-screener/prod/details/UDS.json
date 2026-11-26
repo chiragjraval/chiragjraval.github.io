@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "UDS",
       "companyName" : "Updater Services",
-      "marketCap" : 1397.00,
-      "peRatio" : 13.50,
+      "marketCap" : 1346.00,
+      "peRatio" : 13.00,
       "description" : "UDS offes integrated facilities management services and other services. Its service portfolio caters to the needs of diverse customer segments across a range of sectors including FMCG, manufacturing and engineering, banking, financial services, and insurance (BFSI), healthcare, information technology / information technology enabled services (IT / ITeS), automobiles, logistics and warehousing, airports, ports, infrastructure and retail, among others.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 4.98,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.16,
+      "pricePercentageAboveDma200" : 5.03,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.85,
       "operatingProfitMarginPercentile" : 10.59,
       "netProfitMarginPercentile" : 7.09,
-      "totalTechnicalScore" : 39.83,
+      "totalTechnicalScore" : 30.38,
       "totalFundamentalScore" : 31.52,
-      "totalScore" : 71.36
+      "totalScore" : 61.90
     }
   },
   "attributes" : {
     "companyCode" : "UDS",
     "companyName" : "Updater Services",
-    "marketCap" : 1397.00,
-    "peRatio" : 13.50,
+    "marketCap" : 1346.00,
+    "peRatio" : 13.00,
     "description" : "UDS offes integrated facilities management services and other services. Its service portfolio caters to the needs of diverse customer segments across a range of sectors including FMCG, manufacturing and engineering, banking, financial services, and insurance (BFSI), healthcare, information technology / information technology enabled services (IT / ITeS), automobiles, logistics and warehousing, airports, ports, infrastructure and retail, among others.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 185.25,
-    "dma50" : 224.90,
-    "dma100" : null,
-    "dma200" : 271.59,
-    "volume" : 160469.00
-  }, {
     "date" : "2025-11-26",
     "price" : 187.80,
     "dma50" : 223.45,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 160.72,
     "dma50" : 154.15,
-    "dma100" : 162.47,
+    "dma100" : null,
     "dma200" : 200.46,
     "volume" : 92294.00
   }, {
@@ -967,7 +960,7 @@
     "date" : "2026-06-10",
     "price" : 181.34,
     "dma50" : 169.27,
-    "dma100" : 159.43,
+    "dma100" : 159.42,
     "dma200" : 192.90,
     "volume" : 432674.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 207.67,
     "dma200" : 202.27,
     "volume" : 47912.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 201.02,
+    "dma50" : 208.85,
+    "dma100" : 207.79,
+    "dma200" : 202.26,
+    "volume" : 287715.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 208.61,
-    "dma50" : 209.17,
-    "dma100" : 207.67,
-    "dma200" : 202.27,
-    "volume" : 47912.00
+    "date" : "2026-11-25",
+    "price" : 201.02,
+    "dma50" : 208.85,
+    "dma100" : 207.79,
+    "dma200" : 202.26,
+    "volume" : 287715.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1961,20 +1961,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 4.98,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.16,
+    "pricePercentageAboveDma200" : 5.03,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.85,
     "operatingProfitMarginPercentile" : 10.59,
     "netProfitMarginPercentile" : 7.09,
-    "totalTechnicalScore" : 39.83,
+    "totalTechnicalScore" : 30.38,
     "totalFundamentalScore" : 31.52,
-    "totalScore" : 71.36
+    "totalScore" : 61.90
   }
 }

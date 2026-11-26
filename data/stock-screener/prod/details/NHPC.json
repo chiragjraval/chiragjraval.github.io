@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NHPC",
       "companyName" : "NHPC Ltd",
-      "marketCap" : 75699.00,
-      "peRatio" : 17.50,
+      "marketCap" : 75991.00,
+      "peRatio" : 17.60,
       "description" : "NHPC, a Navratna Ratna public sector utility, is Government of India’s flagship hydroelectric generation company. The company is primarily involved in the generation and sale of bulk power to various Power Utilities. Its other business includes providing project management / construction contracts/ consultancy assignment services and trading of power. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 5.11,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.95,
       "operatingProfitMarginPercentile" : 15.47,
       "netProfitMarginPercentile" : 5.99,
-      "totalTechnicalScore" : 15.24,
+      "totalTechnicalScore" : 15.18,
       "totalFundamentalScore" : 39.42,
-      "totalScore" : 54.66
+      "totalScore" : 54.60
     }
   },
   "attributes" : {
     "companyCode" : "NHPC",
     "companyName" : "NHPC Ltd",
-    "marketCap" : 75699.00,
-    "peRatio" : 17.50,
+    "marketCap" : 75991.00,
+    "peRatio" : 17.60,
     "description" : "NHPC, a Navratna Ratna public sector utility, is Government of India’s flagship hydroelectric generation company. The company is primarily involved in the generation and sale of bulk power to various Power Utilities. Its other business includes providing project management / construction contracts/ consultancy assignment services and trading of power. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 77.23,
-    "dma50" : 83.03,
-    "dma100" : null,
-    "dma200" : 83.87,
-    "volume" : 14169642.00
-  }, {
     "date" : "2025-11-26",
     "price" : 77.43,
     "dma50" : 82.81,
@@ -639,7 +632,7 @@
     "price" : 73.72,
     "dma50" : 76.41,
     "dma100" : null,
-    "dma200" : 79.93,
+    "dma200" : 79.92,
     "volume" : 22006189.00
   }, {
     "date" : "2026-04-01",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 81.46,
     "dma50" : 77.84,
-    "dma100" : 77.52,
+    "dma100" : null,
     "dma200" : 79.83,
     "volume" : 9395417.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 76.57,
     "dma200" : 77.32,
     "volume" : 7229710.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 75.65,
+    "dma50" : 75.92,
+    "dma100" : 76.52,
+    "dma200" : 77.30,
+    "volume" : 13327150.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 75.36,
-    "dma50" : 75.93,
-    "dma100" : 76.57,
-    "dma200" : 77.32,
-    "volume" : 7229710.00
+    "date" : "2026-11-25",
+    "price" : 75.65,
+    "dma50" : 75.92,
+    "dma100" : 76.52,
+    "dma200" : 77.30,
+    "volume" : 13327150.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2616,15 +2616,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 5.11,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.95,
     "operatingProfitMarginPercentile" : 15.47,
     "netProfitMarginPercentile" : 5.99,
-    "totalTechnicalScore" : 15.24,
+    "totalTechnicalScore" : 15.18,
     "totalFundamentalScore" : 39.42,
-    "totalScore" : 54.66
+    "totalScore" : 54.60
   }
 }

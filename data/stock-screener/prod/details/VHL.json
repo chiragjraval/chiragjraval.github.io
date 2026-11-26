@@ -9,56 +9,49 @@
     "attributes" : {
       "companyCode" : "VHL",
       "companyName" : "Vardhman Hold.",
-      "marketCap" : 1147.00,
-      "peRatio" : 3.62,
+      "marketCap" : 1106.00,
+      "peRatio" : 3.49,
       "description" : "Incorporated in 1962, Vardhman Holdings Ltd is in the business of lending and investing activities[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 4.87,
-      "pricePercentageAboveDma200" : 4.88,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 5.06,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.77,
       "operatingProfitMarginPercentile" : 19.98,
       "netProfitMarginPercentile" : 5.17,
-      "totalTechnicalScore" : 39.64,
+      "totalTechnicalScore" : 25.17,
       "totalFundamentalScore" : 37.93,
-      "totalScore" : 77.56
+      "totalScore" : 63.10
     }
   },
   "attributes" : {
     "companyCode" : "VHL",
     "companyName" : "Vardhman Hold.",
-    "marketCap" : 1147.00,
-    "peRatio" : 3.62,
+    "marketCap" : 1106.00,
+    "peRatio" : 3.49,
     "description" : "Incorporated in 1962, Vardhman Holdings Ltd is in the business of lending and investing activities[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 3649.00,
-    "dma50" : 3865.84,
-    "dma100" : null,
-    "dma200" : 3874.13,
-    "volume" : 648.00
-  }, {
     "date" : "2025-11-26",
     "price" : 3708.60,
     "dma50" : 3859.67,
     "dma100" : null,
-    "dma200" : 3872.49,
+    "dma200" : 3872.48,
     "volume" : 489.00
   }, {
     "date" : "2025-11-27",
     "price" : 3738.80,
     "dma50" : 3854.93,
     "dma100" : null,
-    "dma200" : 3871.16,
+    "dma200" : 3871.15,
     "volume" : 360.00
   }, {
     "date" : "2025-11-28",
@@ -86,7 +79,7 @@
     "price" : 3659.10,
     "dma50" : 3827.91,
     "dma100" : null,
-    "dma200" : 3863.39,
+    "dma200" : 3863.38,
     "volume" : 571.00
   }, {
     "date" : "2025-12-04",
@@ -352,7 +345,7 @@
     "price" : 3262.70,
     "dma50" : 3529.73,
     "dma100" : null,
-    "dma200" : 3744.20,
+    "dma200" : 3744.19,
     "volume" : 424.00
   }, {
     "date" : "2026-01-30",
@@ -723,7 +716,7 @@
     "price" : 3361.00,
     "dma50" : 3273.23,
     "dma100" : null,
-    "dma200" : 3536.69,
+    "dma200" : 3536.68,
     "volume" : 638.00
   }, {
     "date" : "2026-04-21",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 3313.60,
     "dma50" : 3283.07,
-    "dma100" : 3370.61,
+    "dma100" : null,
     "dma200" : 3531.50,
     "volume" : 443.00
   }, {
@@ -912,7 +905,7 @@
     "price" : 3446.20,
     "dma50" : 3420.75,
     "dma100" : 3349.12,
-    "dma200" : 3527.35,
+    "dma200" : 3527.34,
     "volume" : 294.00
   }, {
     "date" : "2026-06-01",
@@ -926,7 +919,7 @@
     "price" : 3370.30,
     "dma50" : 3417.94,
     "dma100" : 3344.90,
-    "dma200" : 3524.52,
+    "dma200" : 3524.51,
     "volume" : 219.00
   }, {
     "date" : "2026-06-03",
@@ -1768,14 +1761,21 @@
     "dma100" : 3501.97,
     "dma200" : 3510.43,
     "volume" : 459.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 3468.60,
+    "dma50" : 3516.67,
+    "dma100" : 3501.05,
+    "dma200" : 3510.01,
+    "volume" : 625.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 3595.70,
-    "dma50" : 3518.63,
-    "dma100" : 3501.97,
-    "dma200" : 3510.43,
-    "volume" : 459.00
+    "date" : "2026-11-25",
+    "price" : 3468.60,
+    "dma50" : 3516.67,
+    "dma100" : 3501.05,
+    "dma200" : 3510.01,
+    "volume" : 625.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 49.99
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 4.87,
-    "pricePercentageAboveDma200" : 4.88,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 5.06,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.77,
     "operatingProfitMarginPercentile" : 19.98,
     "netProfitMarginPercentile" : 5.17,
-    "totalTechnicalScore" : 39.64,
+    "totalTechnicalScore" : 25.17,
     "totalFundamentalScore" : 37.93,
-    "totalScore" : 77.56
+    "totalScore" : 63.10
   }
 }

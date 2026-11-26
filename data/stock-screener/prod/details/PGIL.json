@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PGIL",
       "companyName" : "Pearl Global Ind",
-      "marketCap" : 13683.00,
-      "peRatio" : 37.20,
+      "marketCap" : 13345.00,
+      "peRatio" : 36.30,
       "description" : "Pearl Global Industries Ltd. incorporated in 1987. [1] Pearl Global Industries Limited (PGIL) is a garment exporter, manufacturing from multiple sourcing regions within India and countries within South Asia. The product range includes knits, woven, and bottoms across men, women, and kids' wear segments. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.22,
-      "pricePercentageAboveDma100" : 3.77,
-      "pricePercentageAboveDma200" : 2.99,
+      "pricePercentageAboveDma50" : 4.39,
+      "pricePercentageAboveDma100" : 3.95,
+      "pricePercentageAboveDma200" : 3.19,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.90,
       "operatingProfitMarginPercentile" : 19.20,
       "netProfitMarginPercentile" : 8.31,
-      "totalTechnicalScore" : 45.98,
+      "totalTechnicalScore" : 46.53,
       "totalFundamentalScore" : 39.41,
-      "totalScore" : 85.39
+      "totalScore" : 85.94
     }
   },
   "attributes" : {
     "companyCode" : "PGIL",
     "companyName" : "Pearl Global Ind",
-    "marketCap" : 13683.00,
-    "peRatio" : 37.20,
+    "marketCap" : 13345.00,
+    "peRatio" : 36.30,
     "description" : "Pearl Global Industries Ltd. incorporated in 1987. [1] Pearl Global Industries Limited (PGIL) is a garment exporter, manufacturing from multiple sourcing regions within India and countries within South Asia. The product range includes knits, woven, and bottoms across men, women, and kids' wear segments. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 854.60,
-    "dma50" : 729.03,
-    "dma100" : null,
-    "dma200" : 666.07,
-    "volume" : 192282.00
-  }, {
     "date" : "2025-11-26",
     "price" : 877.30,
     "dma50" : 734.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 791.35,
     "dma50" : 769.18,
-    "dma100" : 782.33,
+    "dma100" : null,
     "dma200" : 736.52,
     "volume" : 48260.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1187.50,
     "dma200" : 1055.59,
     "volume" : 416062.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 1442.50,
+    "dma50" : 1286.34,
+    "dma100" : 1191.55,
+    "dma200" : 1059.44,
+    "volume" : 228224.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 1479.40,
-    "dma50" : 1279.97,
-    "dma100" : 1187.50,
-    "dma200" : 1055.59,
-    "volume" : 416062.00
+    "date" : "2026-11-25",
+    "price" : 1442.50,
+    "dma50" : 1286.34,
+    "dma100" : 1191.55,
+    "dma200" : 1059.44,
+    "volume" : 228224.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-03-31",
@@ -2626,15 +2626,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.22,
-    "pricePercentageAboveDma100" : 3.77,
-    "pricePercentageAboveDma200" : 2.99,
+    "pricePercentageAboveDma50" : 4.39,
+    "pricePercentageAboveDma100" : 3.95,
+    "pricePercentageAboveDma200" : 3.19,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.90,
     "operatingProfitMarginPercentile" : 19.20,
     "netProfitMarginPercentile" : 8.31,
-    "totalTechnicalScore" : 45.98,
+    "totalTechnicalScore" : 46.53,
     "totalFundamentalScore" : 39.41,
-    "totalScore" : 85.39
+    "totalScore" : 85.94
   }
 }

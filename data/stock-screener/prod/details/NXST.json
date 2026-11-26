@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "NXST",
       "companyName" : "Nexus Select",
-      "marketCap" : 24475.00,
+      "marketCap" : 24481.00,
       "peRatio" : 42.10,
       "description" : "Nexus Select Trust (NST) is the owner of India's leading consumption center platform of high-quality assets that serve as essential consumption infrastructure and is the first publicly listed consumption center REIT in India.[1][2]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma100" : 5.09,
       "pricePercentageAboveDma200" : 4.98,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 7.27,
       "operatingProfitMarginPercentile" : 19.92,
       "netProfitMarginPercentile" : 8.47,
-      "totalTechnicalScore" : 30.09,
+      "totalTechnicalScore" : 30.08,
       "totalFundamentalScore" : 35.66,
-      "totalScore" : 65.75
+      "totalScore" : 65.74
     }
   },
   "attributes" : {
     "companyCode" : "NXST",
     "companyName" : "Nexus Select",
-    "marketCap" : 24475.00,
+    "marketCap" : 24481.00,
     "peRatio" : 42.10,
     "description" : "Nexus Select Trust (NST) is the owner of India's leading consumption center platform of high-quality assets that serve as essential consumption infrastructure and is the first publicly listed consumption center REIT in India.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 163.87,
-    "dma50" : 160.32,
-    "dma100" : null,
-    "dma200" : 148.66,
-    "volume" : 205792.00
-  }, {
     "date" : "2025-11-26",
     "price" : 163.91,
     "dma50" : 160.46,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 154.76,
     "dma50" : 156.73,
-    "dma100" : 158.68,
+    "dma100" : null,
     "dma200" : 154.61,
     "volume" : 232365.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 164.70,
     "dma200" : 160.87,
     "volume" : 184363.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 161.59,
+    "dma50" : 161.95,
+    "dma100" : 164.68,
+    "dma200" : 160.88,
+    "volume" : 177095.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 161.55,
-    "dma50" : 161.96,
-    "dma100" : 164.70,
-    "dma200" : 160.87,
-    "volume" : 184363.00
+    "date" : "2026-11-25",
+    "price" : 161.59,
+    "dma50" : 161.95,
+    "dma100" : 164.68,
+    "dma200" : 160.88,
+    "volume" : 177095.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-03-31",
@@ -1947,14 +1947,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma100" : 5.09,
     "pricePercentageAboveDma200" : 4.98,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 7.27,
     "operatingProfitMarginPercentile" : 19.92,
     "netProfitMarginPercentile" : 8.47,
-    "totalTechnicalScore" : 30.09,
+    "totalTechnicalScore" : 30.08,
     "totalFundamentalScore" : 35.66,
-    "totalScore" : 65.75
+    "totalScore" : 65.74
   }
 }

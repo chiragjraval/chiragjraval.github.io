@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PRSMJOHNSN",
       "companyName" : "Prism Johnson",
-      "marketCap" : 5418.00,
-      "peRatio" : 34.10,
+      "marketCap" : 5370.00,
+      "peRatio" : 33.80,
       "description" : "Prism Johnson Limited was incorporated in 1992 and is amongst the largest integrated building materials companies in India, with a wide range of products, namely cement, ready-mixed concrete, tiles, sanitaryware and bath fittings. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 5.01,
-      "pricePercentageAboveDma200" : 5.36,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 5.40,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.40,
       "operatingProfitMarginPercentile" : 11.49,
       "netProfitMarginPercentile" : 5.86,
-      "totalTechnicalScore" : 20.29,
+      "totalTechnicalScore" : 20.42,
       "totalFundamentalScore" : 26.75,
-      "totalScore" : 47.05
+      "totalScore" : 47.17
     }
   },
   "attributes" : {
     "companyCode" : "PRSMJOHNSN",
     "companyName" : "Prism Johnson",
-    "marketCap" : 5418.00,
-    "peRatio" : 34.10,
+    "marketCap" : 5370.00,
+    "peRatio" : 33.80,
     "description" : "Prism Johnson Limited was incorporated in 1992 and is amongst the largest integrated building materials companies in India, with a wide range of products, namely cement, ready-mixed concrete, tiles, sanitaryware and bath fittings. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 137.06,
-    "dma50" : 148.63,
-    "dma100" : null,
-    "dma200" : 150.59,
-    "volume" : 104261.00
-  }, {
     "date" : "2025-11-26",
     "price" : 139.04,
     "dma50" : 148.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 131.46,
     "dma50" : 126.86,
-    "dma100" : 128.16,
+    "dma100" : null,
     "dma200" : 135.92,
     "volume" : 9748381.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 107.88,
     "dma200" : 115.95,
     "volume" : 98415.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 106.68,
+    "dma50" : 106.02,
+    "dma100" : 107.79,
+    "dma200" : 115.86,
+    "volume" : 188440.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 107.64,
-    "dma50" : 105.99,
-    "dma100" : 107.88,
-    "dma200" : 115.95,
-    "volume" : 98415.00
+    "date" : "2026-11-25",
+    "price" : 106.68,
+    "dma50" : 106.02,
+    "dma100" : 107.79,
+    "dma200" : 115.86,
+    "volume" : 188440.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 5.01,
-    "pricePercentageAboveDma200" : 5.36,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 5.40,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.40,
     "operatingProfitMarginPercentile" : 11.49,
     "netProfitMarginPercentile" : 5.86,
-    "totalTechnicalScore" : 20.29,
+    "totalTechnicalScore" : 20.42,
     "totalFundamentalScore" : 26.75,
-    "totalScore" : 47.05
+    "totalScore" : 47.17
   }
 }

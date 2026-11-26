@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NAVA",
       "companyName" : "Nava",
-      "marketCap" : 15588.00,
-      "peRatio" : 16.50,
+      "marketCap" : 15610.00,
+      "peRatio" : 16.60,
       "description" : "Nava Bharat Ventures Ltd was established in 1972 as an Indian ferro alloys manufacturer, Nava Bharat is now a multinational company, operating in India, South East Asia and Africa with businesses in metals manufacturing, power, mining, agribusiness and healthcare. [1] It owns Ferro Alloy facilities which are situated in Paloncha (Telangana) and Kharagprasad (Odisha). It also owns power generation capacity of 434 MW from its 8 thermal power plants located in different states of India. [2] Its 65% owned subsidiary Maamba Collieries Ltd is Zambia’s largest coal mine concessionaire, which also led to the development of a 300 MW power plant in Zambia which represents 10% of Zambia’s total installed power generation capacity. [2]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.93,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma100" : 5.05,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.57,
       "operatingProfitMarginPercentile" : 13.56,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 25.14,
+      "totalTechnicalScore" : 25.11,
       "totalFundamentalScore" : 31.57,
-      "totalScore" : 56.71
+      "totalScore" : 56.68
     }
   },
   "attributes" : {
     "companyCode" : "NAVA",
     "companyName" : "Nava",
-    "marketCap" : 15588.00,
-    "peRatio" : 16.50,
+    "marketCap" : 15610.00,
+    "peRatio" : 16.60,
     "description" : "Nava Bharat Ventures Ltd was established in 1972 as an Indian ferro alloys manufacturer, Nava Bharat is now a multinational company, operating in India, South East Asia and Africa with businesses in metals manufacturing, power, mining, agribusiness and healthcare. [1] It owns Ferro Alloy facilities which are situated in Paloncha (Telangana) and Kharagprasad (Odisha). It also owns power generation capacity of 434 MW from its 8 thermal power plants located in different states of India. [2] Its 65% owned subsidiary Maamba Collieries Ltd is Zambia’s largest coal mine concessionaire, which also led to the development of a 300 MW power plant in Zambia which represents 10% of Zambia’s total installed power generation capacity. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 515.45,
-    "dma50" : 594.64,
-    "dma100" : null,
-    "dma200" : 562.71,
-    "volume" : 310386.00
-  }, {
     "date" : "2025-11-26",
     "price" : 527.90,
     "dma50" : 592.02,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 685.95,
     "dma50" : 593.92,
-    "dma100" : 569.17,
+    "dma100" : null,
     "dma200" : 570.40,
     "volume" : 1648588.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 557.23,
     "dma200" : 566.18,
     "volume" : 298779.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 550.95,
+    "dma50" : 543.31,
+    "dma100" : 556.54,
+    "dma200" : 566.03,
+    "volume" : 252007.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 550.15,
-    "dma50" : 542.99,
-    "dma100" : 557.23,
-    "dma200" : 566.18,
-    "volume" : 298779.00
+    "date" : "2026-11-25",
+    "price" : 550.95,
+    "dma50" : 543.31,
+    "dma100" : 556.54,
+    "dma200" : 566.03,
+    "volume" : 252007.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.93,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma100" : 5.05,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.57,
     "operatingProfitMarginPercentile" : 13.56,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 25.14,
+    "totalTechnicalScore" : 25.11,
     "totalFundamentalScore" : 31.57,
-    "totalScore" : 56.71
+    "totalScore" : 56.68
   }
 }

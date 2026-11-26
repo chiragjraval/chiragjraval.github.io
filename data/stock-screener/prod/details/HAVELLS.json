@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HAVELLS",
       "companyName" : "Havells India",
-      "marketCap" : 74311.00,
-      "peRatio" : 43.80,
+      "marketCap" : 75089.00,
+      "peRatio" : 44.20,
       "description" : "Havells India Limited is a leading Fast Moving Electrical Goods (FMEG) Company and a major power distribution equipment manufacturer with a strong global presence. It enjoys enviable market dominance across a wide spectrum of products, including Industrial & Domestic Circuit Protection Devices, Cables & Wires, Motors, Fans, Modular Switches, Home Appliances, Air Conditioners, Electric Water Heaters, Power Capacitors, Luminaires for Domestic, Commercial and Industrial Applications. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.73,
-      "pricePercentageAboveDma100" : 4.90,
-      "pricePercentageAboveDma200" : 5.13,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.85,
+      "pricePercentageAboveDma200" : 5.08,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.87,
       "operatingProfitMarginPercentile" : 7.06,
       "netProfitMarginPercentile" : 2.90,
-      "totalTechnicalScore" : 29.76,
+      "totalTechnicalScore" : 29.62,
       "totalFundamentalScore" : 26.82,
-      "totalScore" : 56.59
+      "totalScore" : 56.44
     }
   },
   "attributes" : {
     "companyCode" : "HAVELLS",
     "companyName" : "Havells India",
-    "marketCap" : 74311.00,
-    "peRatio" : 43.80,
+    "marketCap" : 75089.00,
+    "peRatio" : 44.20,
     "description" : "Havells India Limited is a leading Fast Moving Electrical Goods (FMEG) Company and a major power distribution equipment manufacturer with a strong global presence. It enjoys enviable market dominance across a wide spectrum of products, including Industrial & Domestic Circuit Protection Devices, Cables & Wires, Motors, Fans, Modular Switches, Home Appliances, Air Conditioners, Electric Water Heaters, Power Capacitors, Luminaires for Domestic, Commercial and Industrial Applications. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 1419.40,
-    "dma50" : 1485.99,
-    "dma100" : null,
-    "dma200" : 1541.67,
-    "volume" : 880456.00
-  }, {
     "date" : "2025-11-26",
     "price" : 1439.80,
     "dma50" : 1484.18,
@@ -289,7 +282,7 @@
     "price" : 1437.10,
     "dma50" : 1447.84,
     "dma100" : null,
-    "dma200" : 1509.12,
+    "dma200" : 1509.13,
     "volume" : 803004.00
   }, {
     "date" : "2026-01-16",
@@ -478,7 +471,7 @@
     "price" : 1412.80,
     "dma50" : 1394.54,
     "dma100" : null,
-    "dma200" : 1473.67,
+    "dma200" : 1473.68,
     "volume" : 229774.00
   }, {
     "date" : "2026-02-24",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 1260.30,
     "dma50" : 1310.92,
-    "dma100" : 1361.03,
+    "dma100" : null,
     "dma200" : 1417.58,
     "volume" : 5962026.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1160.84,
     "dma200" : 1215.70,
     "volume" : 831887.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 1196.40,
+    "dma50" : 1127.02,
+    "dma100" : 1160.94,
+    "dma200" : 1215.50,
+    "volume" : 766283.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 1184.00,
-    "dma50" : 1124.19,
-    "dma100" : 1160.84,
-    "dma200" : 1215.70,
-    "volume" : 831887.00
+    "date" : "2026-11-25",
+    "price" : 1196.40,
+    "dma50" : 1127.02,
+    "dma100" : 1160.94,
+    "dma200" : 1215.50,
+    "volume" : 766283.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.73,
-    "pricePercentageAboveDma100" : 4.90,
-    "pricePercentageAboveDma200" : 5.13,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.85,
+    "pricePercentageAboveDma200" : 5.08,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.87,
     "operatingProfitMarginPercentile" : 7.06,
     "netProfitMarginPercentile" : 2.90,
-    "totalTechnicalScore" : 29.76,
+    "totalTechnicalScore" : 29.62,
     "totalFundamentalScore" : 26.82,
-    "totalScore" : 56.59
+    "totalScore" : 56.44
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HINDALCO",
       "companyName" : "Hindalco Inds.",
-      "marketCap" : 202352.00,
-      "peRatio" : 8.69,
+      "marketCap" : 199981.00,
+      "peRatio" : 8.59,
       "description" : "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is also engaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.34,
-      "pricePercentageAboveDma200" : 5.23,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 5.39,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 18.39,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 25.77,
+      "totalTechnicalScore" : 25.92,
       "totalFundamentalScore" : 45.18,
-      "totalScore" : 70.94
+      "totalScore" : 71.10
     }
   },
   "attributes" : {
     "companyCode" : "HINDALCO",
     "companyName" : "Hindalco Inds.",
-    "marketCap" : 202352.00,
-    "peRatio" : 8.69,
+    "marketCap" : 199981.00,
+    "peRatio" : 8.59,
     "description" : "Incorporated in 1958, Hindalco Industries Ltd. is a flagship company of the Aditya Birla Group. The Co and its subsidiaries are primarily engaged in the production of Aluminium and Copper. It is also engaged in the manufacturing of aluminium sheet, extrusion and light gauge products for use in packaging markets like beverage and food, can and foil products, etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 789.35,
-    "dma50" : 781.26,
-    "dma100" : null,
-    "dma200" : 713.03,
-    "volume" : 6440531.00
-  }, {
     "date" : "2025-11-26",
     "price" : 800.80,
     "dma50" : 782.03,
@@ -366,7 +359,7 @@
     "price" : 908.20,
     "dma50" : 891.40,
     "dma100" : null,
-    "dma200" : 779.03,
+    "dma200" : 779.04,
     "volume" : 9091250.00
   }, {
     "date" : "2026-02-02",
@@ -464,7 +457,7 @@
     "price" : 905.65,
     "dma50" : 909.25,
     "dma100" : null,
-    "dma200" : 799.44,
+    "dma200" : 799.45,
     "volume" : 3666585.00
   }, {
     "date" : "2026-02-20",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 1041.35,
     "dma50" : 948.94,
-    "dma100" : 915.95,
+    "dma100" : null,
     "dma200" : 848.38,
     "volume" : 4519950.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 965.90,
     "dma200" : 944.54,
     "volume" : 12205711.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 889.90,
+    "dma50" : 935.17,
+    "dma100" : 965.31,
+    "dma200" : 943.99,
+    "volume" : 10584478.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 900.45,
-    "dma50" : 937.02,
-    "dma100" : 965.90,
-    "dma200" : 944.54,
-    "volume" : 12205711.00
+    "date" : "2026-11-25",
+    "price" : 889.90,
+    "dma50" : 935.17,
+    "dma100" : 965.31,
+    "dma200" : 943.99,
+    "volume" : 10584478.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.34,
-    "pricePercentageAboveDma200" : 5.23,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 5.39,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 18.39,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 25.77,
+    "totalTechnicalScore" : 25.92,
     "totalFundamentalScore" : 45.18,
-    "totalScore" : 70.94
+    "totalScore" : 71.10
   }
 }

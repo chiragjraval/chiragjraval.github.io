@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "IRB",
       "companyName" : "IRB Infra.Devl.",
-      "marketCap" : 21016.00,
+      "marketCap" : 20943.00,
       "peRatio" : 19.00,
       "description" : "IRB Infrastructure Developers Ltd is an infrastructure development and construction company in India with extensive experience in the roads and highways sector. It is also in other business segments in the infrastructure sector, including maintenance of roads, construction, airport development and real estate.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.11,
-      "pricePercentageAboveDma100" : 5.33,
-      "pricePercentageAboveDma200" : 5.55,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 5.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.71,
       "operatingProfitMarginPercentile" : 19.95,
       "netProfitMarginPercentile" : 8.92,
-      "totalTechnicalScore" : 16.00,
+      "totalTechnicalScore" : 16.03,
       "totalFundamentalScore" : 34.58,
-      "totalScore" : 50.58
+      "totalScore" : 50.61
     }
   },
   "attributes" : {
     "companyCode" : "IRB",
     "companyName" : "IRB Infra.Devl.",
-    "marketCap" : 21016.00,
+    "marketCap" : 20943.00,
     "peRatio" : 19.00,
     "description" : "IRB Infrastructure Developers Ltd is an infrastructure development and construction company in India with extensive experience in the roads and highways sector. It is also in other business segments in the infrastructure sector, including maintenance of roads, construction, airport development and real estate.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 21.64,
-    "dma50" : 21.85,
-    "dma100" : null,
-    "dma200" : 23.38,
-    "volume" : 13406592.00
-  }, {
     "date" : "2025-11-26",
     "price" : 21.64,
     "dma50" : 21.84,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 22.15,
     "dma50" : 21.20,
-    "dma100" : 20.98,
+    "dma100" : null,
     "dma200" : 21.88,
     "volume" : 13881554.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 18.65,
     "dma200" : 19.56,
     "volume" : 9063543.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 17.34,
+    "dma50" : 17.78,
+    "dma100" : 18.60,
+    "dma200" : 19.54,
+    "volume" : 5934700.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 17.40,
-    "dma50" : 17.80,
-    "dma100" : 18.65,
-    "dma200" : 19.56,
-    "volume" : 9063543.00
+    "date" : "2026-11-25",
+    "price" : 17.34,
+    "dma50" : 17.78,
+    "dma100" : 18.60,
+    "dma200" : 19.54,
+    "volume" : 5934700.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-06-30",
@@ -2536,15 +2536,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.11,
-    "pricePercentageAboveDma100" : 5.33,
-    "pricePercentageAboveDma200" : 5.55,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 5.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.71,
     "operatingProfitMarginPercentile" : 19.95,
     "netProfitMarginPercentile" : 8.92,
-    "totalTechnicalScore" : 16.00,
+    "totalTechnicalScore" : 16.03,
     "totalFundamentalScore" : 34.58,
-    "totalScore" : 50.58
+    "totalScore" : 50.61
   }
 }

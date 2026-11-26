@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COALINDIA",
       "companyName" : "Coal India",
-      "marketCap" : 235416.00,
-      "peRatio" : 7.06,
+      "marketCap" : 237265.00,
+      "peRatio" : 7.11,
       "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.38,
-      "pricePercentageAboveDma200" : 5.43,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 5.24,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 5.39,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.29,
       "operatingProfitMarginPercentile" : 18.23,
       "netProfitMarginPercentile" : 8.33,
-      "totalTechnicalScore" : 21.10,
+      "totalTechnicalScore" : 15.97,
       "totalFundamentalScore" : 37.85,
-      "totalScore" : 58.95
+      "totalScore" : 53.82
     }
   },
   "attributes" : {
     "companyCode" : "COALINDIA",
     "companyName" : "Coal India",
-    "marketCap" : 235416.00,
-    "peRatio" : 7.06,
+    "marketCap" : 237265.00,
+    "peRatio" : 7.11,
     "description" : "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 370.05,
-    "dma50" : 384.18,
-    "dma100" : null,
-    "dma200" : 391.98,
-    "volume" : 5413288.00
-  }, {
     "date" : "2025-11-26",
     "price" : 377.35,
     "dma50" : 383.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 450.65,
     "dma50" : 439.97,
-    "dma100" : 423.69,
+    "dma100" : null,
     "dma200" : 415.82,
     "volume" : 9176692.00
   }, {
@@ -856,7 +849,7 @@
     "price" : 462.10,
     "dma50" : 451.89,
     "dma100" : 437.39,
-    "dma200" : 423.18,
+    "dma200" : 423.17,
     "volume" : 8114468.00
   }, {
     "date" : "2026-05-19",
@@ -1184,7 +1177,7 @@
     "date" : "2026-07-24",
     "price" : 427.40,
     "dma50" : 441.13,
-    "dma100" : 449.57,
+    "dma100" : 449.58,
     "dma200" : 431.11,
     "volume" : 5630193.00
   }, {
@@ -1394,7 +1387,7 @@
     "date" : "2026-09-04",
     "price" : 415.35,
     "dma50" : 418.83,
-    "dma100" : 438.12,
+    "dma100" : 438.13,
     "dma200" : 425.61,
     "volume" : 6358508.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 413.26,
     "dma200" : 418.33,
     "volume" : 8605046.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 385.00,
+    "dma50" : 404.33,
+    "dma100" : 412.72,
+    "dma200" : 417.99,
+    "volume" : 9449977.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 382.00,
-    "dma50" : 405.12,
-    "dma100" : 413.26,
-    "dma200" : 418.33,
-    "volume" : 8605046.00
+    "date" : "2026-11-25",
+    "price" : 385.00,
+    "dma50" : 404.33,
+    "dma100" : 412.72,
+    "dma200" : 417.99,
+    "volume" : 9449977.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2456,15 +2456,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.38,
-    "pricePercentageAboveDma200" : 5.43,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 5.24,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 5.39,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.29,
     "operatingProfitMarginPercentile" : 18.23,
     "netProfitMarginPercentile" : 8.33,
-    "totalTechnicalScore" : 21.10,
+    "totalTechnicalScore" : 15.97,
     "totalFundamentalScore" : 37.85,
-    "totalScore" : 58.95
+    "totalScore" : 53.82
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CYIENT",
       "companyName" : "Cyient",
-      "marketCap" : 12900.00,
-      "peRatio" : 31.30,
+      "marketCap" : 12797.00,
+      "peRatio" : 31.10,
       "description" : "Cyient (formerly Infotech Enterprises Limited) is an Indian multinational technology company that is focused on engineering, manufacturing, data analytics, and networks and operations. Infotech Enterprises Ltd. was established in 1991 in Hyderabad.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.74,
-      "pricePercentageAboveDma100" : 4.30,
-      "pricePercentageAboveDma200" : 4.43,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 4.36,
+      "pricePercentageAboveDma200" : 4.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 13.60,
       "netProfitMarginPercentile" : 2.53,
-      "totalTechnicalScore" : 38.47,
+      "totalTechnicalScore" : 38.63,
       "totalFundamentalScore" : 28.18,
-      "totalScore" : 66.65
+      "totalScore" : 66.81
     }
   },
   "attributes" : {
     "companyCode" : "CYIENT",
     "companyName" : "Cyient",
-    "marketCap" : 12900.00,
-    "peRatio" : 31.30,
+    "marketCap" : 12797.00,
+    "peRatio" : 31.10,
     "description" : "Cyient (formerly Infotech Enterprises Limited) is an Indian multinational technology company that is focused on engineering, manufacturing, data analytics, and networks and operations. Infotech Enterprises Ltd. was established in 1991 in Hyderabad.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 1103.60,
-    "dma50" : 1166.92,
-    "dma100" : null,
-    "dma200" : 1299.11,
-    "volume" : 311733.00
-  }, {
     "date" : "2025-11-26",
     "price" : 1118.40,
     "dma50" : 1165.01,
@@ -226,7 +219,7 @@
     "price" : 1109.10,
     "dma50" : 1148.07,
     "dma100" : null,
-    "dma200" : 1262.82,
+    "dma200" : 1262.81,
     "volume" : 163335.00
   }, {
     "date" : "2026-01-02",
@@ -520,7 +513,7 @@
     "price" : 882.25,
     "dma50" : 1058.20,
     "dma100" : null,
-    "dma200" : 1196.07,
+    "dma200" : 1196.06,
     "volume" : 277366.00
   }, {
     "date" : "2026-03-05",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 935.90,
     "dma50" : 931.18,
-    "dma100" : 1028.39,
+    "dma100" : null,
     "dma200" : 1107.74,
     "volume" : 244412.00
   }, {
@@ -1087,7 +1080,7 @@
     "price" : 869.95,
     "dma50" : 890.36,
     "dma100" : 901.75,
-    "dma200" : 1021.63,
+    "dma200" : 1021.62,
     "volume" : 292478.00
   }, {
     "date" : "2026-07-07",
@@ -1768,14 +1761,21 @@
     "dma100" : 1018.30,
     "dma200" : 1040.84,
     "volume" : 426018.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 1151.20,
+    "dma50" : 1105.79,
+    "dma100" : 1021.02,
+    "dma200" : 1041.93,
+    "volume" : 300002.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 1160.50,
-    "dma50" : 1103.94,
-    "dma100" : 1018.30,
-    "dma200" : 1040.84,
-    "volume" : 426018.00
+    "date" : "2026-11-25",
+    "price" : 1151.20,
+    "dma50" : 1105.79,
+    "dma100" : 1021.02,
+    "dma200" : 1041.93,
+    "volume" : 300002.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.74,
-    "pricePercentageAboveDma100" : 4.30,
-    "pricePercentageAboveDma200" : 4.43,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 4.36,
+    "pricePercentageAboveDma200" : 4.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 13.60,
     "netProfitMarginPercentile" : 2.53,
-    "totalTechnicalScore" : 38.47,
+    "totalTechnicalScore" : 38.63,
     "totalFundamentalScore" : 28.18,
-    "totalScore" : 66.65
+    "totalScore" : 66.81
   }
 }

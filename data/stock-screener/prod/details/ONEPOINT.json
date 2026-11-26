@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ONEPOINT",
       "companyName" : "One Point One",
-      "marketCap" : 1786.00,
+      "marketCap" : 1788.00,
       "peRatio" : 32.70,
       "description" : "Incorporated in One Point One Solutions Ltd is a customized Business Process Management service provider.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 4.72,
+      "pricePercentageAboveDma50" : 5.22,
+      "pricePercentageAboveDma100" : 4.73,
       "pricePercentageAboveDma200" : 4.50,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.00,
       "operatingProfitMarginPercentile" : 14.15,
       "netProfitMarginPercentile" : 9.80,
-      "totalTechnicalScore" : 44.46,
+      "totalTechnicalScore" : 44.44,
       "totalFundamentalScore" : 33.95,
-      "totalScore" : 78.40
+      "totalScore" : 78.39
     }
   },
   "attributes" : {
     "companyCode" : "ONEPOINT",
     "companyName" : "One Point One",
-    "marketCap" : 1786.00,
+    "marketCap" : 1788.00,
     "peRatio" : 32.70,
     "description" : "Incorporated in One Point One Solutions Ltd is a customized Business Process Management service provider.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 51.84,
-    "dma50" : 49.10,
-    "dma100" : null,
-    "dma200" : 51.23,
-    "volume" : 2185977.00
-  }, {
     "date" : "2025-11-26",
     "price" : 52.61,
     "dma50" : 49.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 54.65,
     "dma50" : 49.43,
-    "dma100" : 50.69,
+    "dma100" : null,
     "dma200" : 50.51,
     "volume" : 710774.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 64.37,
     "dma200" : 61.78,
     "volume" : 1322402.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 68.00,
+    "dma50" : 71.08,
+    "dma100" : 64.46,
+    "dma200" : 61.84,
+    "volume" : 3175492.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 67.93,
-    "dma50" : 71.20,
-    "dma100" : 64.37,
-    "dma200" : 61.78,
-    "volume" : 1322402.00
+    "date" : "2026-11-25",
+    "price" : 68.00,
+    "dma50" : 71.08,
+    "dma100" : 64.46,
+    "dma200" : 61.84,
+    "volume" : 3175492.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2156,15 +2156,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 4.72,
+    "pricePercentageAboveDma50" : 5.22,
+    "pricePercentageAboveDma100" : 4.73,
     "pricePercentageAboveDma200" : 4.50,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.00,
     "operatingProfitMarginPercentile" : 14.15,
     "netProfitMarginPercentile" : 9.80,
-    "totalTechnicalScore" : 44.46,
+    "totalTechnicalScore" : 44.44,
     "totalFundamentalScore" : 33.95,
-    "totalScore" : 78.40
+    "totalScore" : 78.39
   }
 }

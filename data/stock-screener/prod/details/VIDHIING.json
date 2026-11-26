@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VIDHIING",
       "companyName" : "Vidhi Specialty",
-      "marketCap" : 1505.00,
-      "peRatio" : 24.90,
+      "marketCap" : 1475.00,
+      "peRatio" : 24.40,
       "description" : "Vidhi Specialty Food Ingredients Limited, incorporated in 1994, is a leading manufacturer of Superior Synthetic and Natural Food Grade Colours. The company is Asia’s 2nd largest food colour manufacture. The company’s products have applications in industries of Food & Beverage, Confectionary, Pharmaceuticals, Pet Foods, Cosmetics, Inkjet Inks, Personal Care, and Home Care. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.35,
-      "pricePercentageAboveDma200" : 5.37,
+      "pricePercentageAboveDma50" : 5.37,
+      "pricePercentageAboveDma100" : 5.45,
+      "pricePercentageAboveDma200" : 5.45,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 16.09,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 16.02,
+      "totalTechnicalScore" : 16.27,
       "totalFundamentalScore" : 43.16,
-      "totalScore" : 59.18
+      "totalScore" : 59.44
     }
   },
   "attributes" : {
     "companyCode" : "VIDHIING",
     "companyName" : "Vidhi Specialty",
-    "marketCap" : 1505.00,
-    "peRatio" : 24.90,
+    "marketCap" : 1475.00,
+    "peRatio" : 24.40,
     "description" : "Vidhi Specialty Food Ingredients Limited, incorporated in 1994, is a leading manufacturer of Superior Synthetic and Natural Food Grade Colours. The company is Asia’s 2nd largest food colour manufacture. The company’s products have applications in industries of Food & Beverage, Confectionary, Pharmaceuticals, Pet Foods, Cosmetics, Inkjet Inks, Personal Care, and Home Care. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 369.25,
-    "dma50" : 360.24,
-    "dma100" : null,
-    "dma200" : 399.39,
-    "volume" : 10271.00
-  }, {
     "date" : "2025-11-26",
     "price" : 364.45,
     "dma50" : 360.41,
@@ -443,7 +436,7 @@
     "price" : 316.30,
     "dma50" : 327.36,
     "dma100" : null,
-    "dma200" : 368.74,
+    "dma200" : 368.73,
     "volume" : 11920.00
   }, {
     "date" : "2026-02-17",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 312.75,
     "dma50" : 309.27,
-    "dma100" : 318.79,
+    "dma100" : null,
     "dma200" : 345.88,
     "volume" : 13670.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 324.15,
     "dma200" : 325.13,
     "volume" : 5610.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 295.35,
+    "dma50" : 319.14,
+    "dma100" : 324.27,
+    "dma200" : 324.83,
+    "volume" : 83719.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 301.25,
-    "dma50" : 320.11,
-    "dma100" : 324.15,
-    "dma200" : 325.13,
-    "volume" : 5610.00
+    "date" : "2026-11-25",
+    "price" : 295.35,
+    "dma50" : 319.14,
+    "dma100" : 324.27,
+    "dma200" : 324.83,
+    "volume" : 83719.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.35,
-    "pricePercentageAboveDma200" : 5.37,
+    "pricePercentageAboveDma50" : 5.37,
+    "pricePercentageAboveDma100" : 5.45,
+    "pricePercentageAboveDma200" : 5.45,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 16.09,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 16.02,
+    "totalTechnicalScore" : 16.27,
     "totalFundamentalScore" : 43.16,
-    "totalScore" : 59.18
+    "totalScore" : 59.44
   }
 }

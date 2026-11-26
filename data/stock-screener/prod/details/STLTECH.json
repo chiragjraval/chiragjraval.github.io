@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "STLTECH",
       "companyName" : "Sterlite Tech.",
-      "marketCap" : 30380.00,
-      "peRatio" : 40.60,
+      "marketCap" : 29819.00,
+      "peRatio" : 39.80,
       "description" : "Sterlite Technologies Limited was established in July 2001 after the demerger of the telecom division of Sterlite Industries Ltd (SIL). In July 2006, STL acquired the transmission line business of SIL to foray into the power transmission cables business. STL has grown over the years to become the largest Optical Fiber and Optical Fiber Cables manufacturer in the country. The company also has sizeable presence in the overseas markets with an established presence in the global optical fiber market. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 6.12,
-      "pricePercentageAboveDma100" : 5.91,
-      "pricePercentageAboveDma200" : 4.84,
+      "pricePercentageAboveDma50" : 6.15,
+      "pricePercentageAboveDma100" : 5.99,
+      "pricePercentageAboveDma200" : 4.94,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 36.87,
+      "totalTechnicalScore" : 37.08,
       "totalFundamentalScore" : 49.52,
-      "totalScore" : 86.39
+      "totalScore" : 86.60
     }
   },
   "attributes" : {
     "companyCode" : "STLTECH",
     "companyName" : "Sterlite Tech.",
-    "marketCap" : 30380.00,
-    "peRatio" : 40.60,
+    "marketCap" : 29819.00,
+    "peRatio" : 39.80,
     "description" : "Sterlite Technologies Limited was established in July 2001 after the demerger of the telecom division of Sterlite Industries Ltd (SIL). In July 2006, STL acquired the transmission line business of SIL to foray into the power transmission cables business. STL has grown over the years to become the largest Optical Fiber and Optical Fiber Cables manufacturer in the country. The company also has sizeable presence in the overseas markets with an established presence in the global optical fiber market. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 105.63,
-    "dma50" : 115.69,
-    "dma100" : null,
-    "dma200" : 104.02,
-    "volume" : 875980.00
-  }, {
     "date" : "2025-11-26",
     "price" : 108.59,
     "dma50" : 115.41,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 276.45,
     "dma50" : 195.56,
-    "dma100" : 145.54,
+    "dma100" : null,
     "dma200" : 139.12,
     "volume" : 6488915.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 722.94,
     "dma200" : 572.67,
     "volume" : 818575.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 579.90,
+    "dma50" : 754.05,
+    "dma100" : 723.11,
+    "dma200" : 572.74,
+    "volume" : 6583614.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 590.80,
-    "dma50" : 761.16,
-    "dma100" : 722.94,
-    "dma200" : 572.67,
-    "volume" : 818575.00
+    "date" : "2026-11-25",
+    "price" : 579.90,
+    "dma50" : 754.05,
+    "dma100" : 723.11,
+    "dma200" : 572.74,
+    "volume" : 6583614.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 6.12,
-    "pricePercentageAboveDma100" : 5.91,
-    "pricePercentageAboveDma200" : 4.84,
+    "pricePercentageAboveDma50" : 6.15,
+    "pricePercentageAboveDma100" : 5.99,
+    "pricePercentageAboveDma200" : 4.94,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 36.87,
+    "totalTechnicalScore" : 37.08,
     "totalFundamentalScore" : 49.52,
-    "totalScore" : 86.39
+    "totalScore" : 86.60
   }
 }

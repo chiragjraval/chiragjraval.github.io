@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "PANAMAPET",
       "companyName" : "Panama Petrochem",
-      "marketCap" : 2493.00,
-      "peRatio" : 3.73,
+      "marketCap" : 2481.00,
+      "peRatio" : 3.71,
       "description" : "Panama Petrochem Ltd. was incorporated in 1982 by Amirali E Rayani and is engaged in the conversion and manufacturing of crude oil derivatives to 80+ specialty products across segments.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.48,
-      "pricePercentageAboveDma100" : 5.59,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 5.49,
+      "pricePercentageAboveDma100" : 5.61,
+      "pricePercentageAboveDma200" : 5.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.04,
       "operatingProfitMarginPercentile" : 19.77,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 31.06,
+      "totalTechnicalScore" : 26.11,
       "totalFundamentalScore" : 48.69,
-      "totalScore" : 79.75
+      "totalScore" : 74.80
     }
   },
   "attributes" : {
     "companyCode" : "PANAMAPET",
     "companyName" : "Panama Petrochem",
-    "marketCap" : 2493.00,
-    "peRatio" : 3.73,
+    "marketCap" : 2481.00,
+    "peRatio" : 3.71,
     "description" : "Panama Petrochem Ltd. was incorporated in 1982 by Amirali E Rayani and is engaged in the conversion and manufacturing of crude oil derivatives to 80+ specialty products across segments.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 296.05,
-    "dma50" : 291.91,
-    "dma100" : null,
-    "dma200" : 327.57,
-    "volume" : 62247.00
-  }, {
     "date" : "2025-11-26",
     "price" : 294.95,
     "dma50" : 292.03,
@@ -93,7 +86,7 @@
     "price" : 290.60,
     "dma50" : 292.51,
     "dma100" : null,
-    "dma200" : 325.34,
+    "dma200" : 325.33,
     "volume" : 22603.00
   }, {
     "date" : "2025-12-05",
@@ -184,7 +177,7 @@
     "price" : 293.25,
     "dma50" : 287.39,
     "dma100" : null,
-    "dma200" : 319.80,
+    "dma200" : 319.79,
     "volume" : 84120.00
   }, {
     "date" : "2025-12-24",
@@ -275,7 +268,7 @@
     "price" : 288.10,
     "dma50" : 290.73,
     "dma100" : null,
-    "dma200" : 316.82,
+    "dma200" : 316.81,
     "volume" : 57223.00
   }, {
     "date" : "2026-01-13",
@@ -436,7 +429,7 @@
     "price" : 291.60,
     "dma50" : 293.00,
     "dma100" : null,
-    "dma200" : 312.16,
+    "dma200" : 312.15,
     "volume" : 24877.00
   }, {
     "date" : "2026-02-16",
@@ -590,7 +583,7 @@
     "price" : 273.15,
     "dma50" : 282.43,
     "dma100" : null,
-    "dma200" : 305.07,
+    "dma200" : 305.06,
     "volume" : 49249.00
   }, {
     "date" : "2026-03-19",
@@ -646,7 +639,7 @@
     "price" : 255.72,
     "dma50" : 274.47,
     "dma100" : null,
-    "dma200" : 301.12,
+    "dma200" : 301.11,
     "volume" : 57668.00
   }, {
     "date" : "2026-04-02",
@@ -730,7 +723,7 @@
     "price" : 272.90,
     "dma50" : 273.04,
     "dma100" : null,
-    "dma200" : 297.67,
+    "dma200" : 297.66,
     "volume" : 14765.00
   }, {
     "date" : "2026-04-22",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 273.58,
     "dma50" : 273.24,
-    "dma100" : 282.17,
+    "dma100" : null,
     "dma200" : 297.23,
     "volume" : 12850.00
   }, {
@@ -856,7 +849,7 @@
     "price" : 301.85,
     "dma50" : 281.11,
     "dma100" : 282.55,
-    "dma200" : 295.97,
+    "dma200" : 295.96,
     "volume" : 53927.00
   }, {
     "date" : "2026-05-19",
@@ -1283,7 +1276,7 @@
     "price" : 488.20,
     "dma50" : 434.14,
     "dma100" : 360.81,
-    "dma200" : 354.90,
+    "dma200" : 354.89,
     "volume" : 5898488.00
   }, {
     "date" : "2026-08-14",
@@ -1768,14 +1761,21 @@
     "dma100" : 467.01,
     "dma200" : 411.46,
     "volume" : 135682.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 410.15,
+    "dma50" : 454.28,
+    "dma100" : 466.87,
+    "dma200" : 411.45,
+    "volume" : 71446.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 412.10,
-    "dma50" : 456.08,
-    "dma100" : 467.01,
-    "dma200" : 411.46,
-    "volume" : 135682.00
+    "date" : "2026-11-25",
+    "price" : 410.15,
+    "dma50" : 454.28,
+    "dma100" : 466.87,
+    "dma200" : 411.45,
+    "volume" : 71446.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.48,
-    "pricePercentageAboveDma100" : 5.59,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 5.49,
+    "pricePercentageAboveDma100" : 5.61,
+    "pricePercentageAboveDma200" : 5.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.04,
     "operatingProfitMarginPercentile" : 19.77,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 31.06,
+    "totalTechnicalScore" : 26.11,
     "totalFundamentalScore" : 48.69,
-    "totalScore" : 79.75
+    "totalScore" : 74.80
   }
 }

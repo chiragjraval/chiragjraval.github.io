@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KOTAKBANK",
       "companyName" : "Kotak Mah. Bank",
-      "marketCap" : 500253.00,
-      "peRatio" : 23.60,
+      "marketCap" : 506399.00,
+      "peRatio" : 23.90,
       "description" : "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.47,
-      "pricePercentageAboveDma100" : 4.03,
-      "pricePercentageAboveDma200" : 4.00,
+      "pricePercentageAboveDma50" : 4.43,
+      "pricePercentageAboveDma100" : 3.97,
+      "pricePercentageAboveDma200" : 3.94,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 9.40,
       "operatingProfitMarginPercentile" : 15.24,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 47.50,
+      "totalTechnicalScore" : 47.34,
       "totalFundamentalScore" : 32.91,
-      "totalScore" : 80.41
+      "totalScore" : 80.25
     }
   },
   "attributes" : {
     "companyCode" : "KOTAKBANK",
     "companyName" : "Kotak Mah. Bank",
-    "marketCap" : 500253.00,
-    "peRatio" : 23.60,
+    "marketCap" : 506399.00,
+    "peRatio" : 23.90,
     "description" : "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 413.98,
-    "dma50" : 418.76,
-    "dma100" : null,
-    "dma200" : 408.34,
-    "volume" : 15489215.00
-  }, {
     "date" : "2025-11-26",
     "price" : 420.76,
     "dma50" : 418.84,
@@ -86,7 +79,7 @@
     "price" : 429.22,
     "dma50" : 420.31,
     "dma100" : null,
-    "dma200" : 409.36,
+    "dma200" : 409.37,
     "volume" : 14566660.00
   }, {
     "date" : "2025-12-04",
@@ -492,7 +485,7 @@
     "price" : 424.95,
     "dma50" : 423.32,
     "dma100" : null,
-    "dma200" : 416.33,
+    "dma200" : 416.34,
     "volume" : 10299582.00
   }, {
     "date" : "2026-02-26",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 370.40,
     "dma50" : 386.90,
-    "dma100" : 408.82,
+    "dma100" : null,
     "dma200" : 404.61,
     "volume" : 31843771.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 421.15,
     "dma200" : 418.92,
     "volume" : 21263734.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 509.00,
+    "dma50" : 457.06,
+    "dma100" : 422.25,
+    "dma200" : 419.81,
+    "volume" : 16504900.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 502.85,
-    "dma50" : 454.94,
-    "dma100" : 421.15,
-    "dma200" : 418.92,
-    "volume" : 21263734.00
+    "date" : "2026-11-25",
+    "price" : 509.00,
+    "dma50" : 457.06,
+    "dma100" : 422.25,
+    "dma200" : 419.81,
+    "volume" : 16504900.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.47,
-    "pricePercentageAboveDma100" : 4.03,
-    "pricePercentageAboveDma200" : 4.00,
+    "pricePercentageAboveDma50" : 4.43,
+    "pricePercentageAboveDma100" : 3.97,
+    "pricePercentageAboveDma200" : 3.94,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 9.40,
     "operatingProfitMarginPercentile" : 15.24,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 47.50,
+    "totalTechnicalScore" : 47.34,
     "totalFundamentalScore" : 32.91,
-    "totalScore" : 80.41
+    "totalScore" : 80.25
   }
 }

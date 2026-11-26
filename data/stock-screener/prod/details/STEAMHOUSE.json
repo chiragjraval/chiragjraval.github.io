@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "STEAMHOUSE",
       "companyName" : "Steamhouse India",
-      "marketCap" : 4361.00,
-      "peRatio" : 100.00,
+      "marketCap" : 4678.00,
+      "peRatio" : 107.00,
       "description" : "Incorporated in June 2015, SteamHouse India is an industrial gas company specialising in the generation and centralised distribution of steam and nitrogen through its pipeline network.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.01,
+      "pricePercentageAboveDma50" : 3.64,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.03,
+      "pricePercentageAboveDma200" : 2.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 4.00,
-      "totalTechnicalScore" : 22.03,
+      "totalTechnicalScore" : 21.20,
       "totalFundamentalScore" : 40.00,
-      "totalScore" : 62.03
+      "totalScore" : 61.20
     }
   },
   "attributes" : {
     "companyCode" : "STEAMHOUSE",
     "companyName" : "Steamhouse India",
-    "marketCap" : 4361.00,
-    "peRatio" : 100.00,
+    "marketCap" : 4678.00,
+    "peRatio" : 107.00,
     "description" : "Incorporated in June 2015, SteamHouse India is an industrial gas company specialising in the generation and centralised distribution of steam and nitrogen through its pipeline network.[1]"
   },
   "technicalHistory" : [ {
@@ -361,14 +361,21 @@
     "dma100" : null,
     "dma200" : 113.14,
     "volume" : 756171.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 169.25,
+    "dma50" : 133.12,
+    "dma100" : null,
+    "dma200" : 113.70,
+    "volume" : 2599732.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 157.78,
-    "dma50" : 131.65,
+    "date" : "2026-11-25",
+    "price" : 169.25,
+    "dma50" : 133.12,
     "dma100" : null,
-    "dma200" : 113.14,
-    "volume" : 756171.00
+    "dma200" : 113.70,
+    "volume" : 2599732.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -439,15 +446,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.01,
+    "pricePercentageAboveDma50" : 3.64,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.03,
+    "pricePercentageAboveDma200" : 2.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 4.00,
-    "totalTechnicalScore" : 22.03,
+    "totalTechnicalScore" : 21.20,
     "totalFundamentalScore" : 40.00,
-    "totalScore" : 62.03
+    "totalScore" : 61.20
   }
 }

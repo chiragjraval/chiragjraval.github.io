@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MARINE",
       "companyName" : "Marine Electric.",
-      "marketCap" : 5695.00,
-      "peRatio" : 70.90,
+      "marketCap" : 5606.00,
+      "peRatio" : 69.80,
       "description" : "Marine Electricals (India) Limited is an integrated technical services provider in the fields of electrical automation and information and communication technology solutions. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 4.55,
-      "pricePercentageAboveDma200" : 3.74,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 4.65,
+      "pricePercentageAboveDma200" : 3.85,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.23,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 9.33,
-      "totalTechnicalScore" : 38.34,
+      "totalTechnicalScore" : 38.62,
       "totalFundamentalScore" : 45.23,
-      "totalScore" : 83.57
+      "totalScore" : 83.85
     }
   },
   "attributes" : {
     "companyCode" : "MARINE",
     "companyName" : "Marine Electric.",
-    "marketCap" : 5695.00,
-    "peRatio" : 70.90,
+    "marketCap" : 5606.00,
+    "peRatio" : 69.80,
     "description" : "Marine Electricals (India) Limited is an integrated technical services provider in the fields of electrical automation and information and communication technology solutions. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 229.15,
-    "dma50" : 225.80,
-    "dma100" : null,
-    "dma200" : 207.60,
-    "volume" : 459443.00
-  }, {
     "date" : "2025-11-26",
     "price" : 229.80,
     "dma50" : 225.96,
@@ -212,7 +205,7 @@
     "price" : 211.98,
     "dma50" : 216.53,
     "dma100" : null,
-    "dma200" : 208.46,
+    "dma200" : 208.45,
     "volume" : 195490.00
   }, {
     "date" : "2025-12-31",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 236.47,
     "dma50" : 191.03,
-    "dma100" : 194.67,
+    "dma100" : null,
     "dma200" : 197.97,
     "volume" : 2973410.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 373.48,
     "dma200" : 325.17,
     "volume" : 847814.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 400.60,
+    "dma50" : 410.05,
+    "dma100" : 374.64,
+    "dma200" : 325.92,
+    "volume" : 647562.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 406.95,
-    "dma50" : 410.43,
-    "dma100" : 373.48,
-    "dma200" : 325.17,
-    "volume" : 847814.00
+    "date" : "2026-11-25",
+    "price" : 400.60,
+    "dma50" : 410.05,
+    "dma100" : 374.64,
+    "dma200" : 325.92,
+    "volume" : 647562.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2096,15 +2096,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 4.55,
-    "pricePercentageAboveDma200" : 3.74,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 4.65,
+    "pricePercentageAboveDma200" : 3.85,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.23,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 9.33,
-    "totalTechnicalScore" : 38.34,
+    "totalTechnicalScore" : 38.62,
     "totalFundamentalScore" : 45.23,
-    "totalScore" : 83.57
+    "totalScore" : 83.85
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GAEL",
       "companyName" : "Guj. Ambuja Exp",
-      "marketCap" : 6565.00,
-      "peRatio" : 12.80,
+      "marketCap" : 6435.00,
+      "peRatio" : 12.60,
       "description" : "Gujarat Ambuja Exports is engaged in the manufacturing of Corn Starch Derivatives, Soya Derivatives, Feed Ingredients, Cotton Yarn, and Edible Oils. Since its incorporation in 1991, GAEL strives to serve the Food, Pharmaceutical, Feed, and many other industries with a long-term growth strategy in the Agro-Processing sector. (Source: Company Website)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.54,
-      "pricePercentageAboveDma200" : 5.29,
+      "pricePercentageAboveDma50" : 5.44,
+      "pricePercentageAboveDma100" : 5.62,
+      "pricePercentageAboveDma200" : 5.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.77,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 26.20,
+      "totalTechnicalScore" : 26.44,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 61.82
+      "totalScore" : 62.07
     }
   },
   "attributes" : {
     "companyCode" : "GAEL",
     "companyName" : "Guj. Ambuja Exp",
-    "marketCap" : 6565.00,
-    "peRatio" : 12.80,
+    "marketCap" : 6435.00,
+    "peRatio" : 12.60,
     "description" : "Gujarat Ambuja Exports is engaged in the manufacturing of Corn Starch Derivatives, Soya Derivatives, Feed Ingredients, Cotton Yarn, and Edible Oils. Since its incorporation in 1991, GAEL strives to serve the Food, Pharmaceutical, Feed, and many other industries with a long-term growth strategy in the Agro-Processing sector. (Source: Company Website)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 109.07,
-    "dma50" : 107.44,
-    "dma100" : null,
-    "dma200" : 112.50,
-    "volume" : 587327.00
-  }, {
     "date" : "2025-11-26",
     "price" : 108.44,
     "dma50" : 107.48,
@@ -233,7 +226,7 @@
     "price" : 137.71,
     "dma50" : 117.56,
     "dma100" : null,
-    "dma200" : 114.52,
+    "dma200" : 114.51,
     "volume" : 993527.00
   }, {
     "date" : "2026-01-05",
@@ -443,7 +436,7 @@
     "price" : 139.43,
     "dma50" : 130.64,
     "dma100" : null,
-    "dma200" : 120.19,
+    "dma200" : 120.18,
     "volume" : 748911.00
   }, {
     "date" : "2026-02-17",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 154.96,
     "dma50" : 141.10,
-    "dma100" : 134.02,
+    "dma100" : null,
     "dma200" : 127.60,
     "volume" : 1143022.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 160.54,
     "dma200" : 151.90,
     "volume" : 239655.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 140.30,
+    "dma50" : 153.83,
+    "dma100" : 160.29,
+    "dma200" : 151.79,
+    "volume" : 547086.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 143.13,
-    "dma50" : 154.39,
-    "dma100" : 160.54,
-    "dma200" : 151.90,
-    "volume" : 239655.00
+    "date" : "2026-11-25",
+    "price" : 140.30,
+    "dma50" : 153.83,
+    "dma100" : 160.29,
+    "dma200" : 151.79,
+    "volume" : 547086.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.54,
-    "pricePercentageAboveDma200" : 5.29,
+    "pricePercentageAboveDma50" : 5.44,
+    "pricePercentageAboveDma100" : 5.62,
+    "pricePercentageAboveDma200" : 5.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.77,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 26.20,
+    "totalTechnicalScore" : 26.44,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 61.82
+    "totalScore" : 62.07
   }
 }

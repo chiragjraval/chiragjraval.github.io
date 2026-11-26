@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TEMPSENS",
       "companyName" : "Tempsens Instruments",
-      "marketCap" : 4182.00,
-      "peRatio" : 59.50,
+      "marketCap" : 4086.00,
+      "peRatio" : 58.20,
       "description" : "Incorporated in 1990, Tempsens Instruments (India) Limited is a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions, and specialised cables.[1][2]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.34,
+      "pricePercentageAboveDma50" : 5.43,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.58,
+      "pricePercentageAboveDma200" : 5.67,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 4.00,
       "netProfitMarginPercentile" : 6.00,
-      "totalTechnicalScore" : 10.92,
+      "totalTechnicalScore" : 11.11,
       "totalFundamentalScore" : 30.00,
-      "totalScore" : 40.92
+      "totalScore" : 41.11
     }
   },
   "attributes" : {
     "companyCode" : "TEMPSENS",
     "companyName" : "Tempsens Instruments",
-    "marketCap" : 4182.00,
-    "peRatio" : 59.50,
+    "marketCap" : 4086.00,
+    "peRatio" : 58.20,
     "description" : "Incorporated in 1990, Tempsens Instruments (India) Limited is a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions, and specialised cables.[1][2]"
   },
   "technicalHistory" : [ {
@@ -452,14 +452,21 @@
     "dma100" : null,
     "dma200" : 564.11,
     "volume" : 437240.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 487.40,
+    "dma50" : 533.55,
+    "dma100" : null,
+    "dma200" : 563.35,
+    "volume" : 372156.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 498.90,
-    "dma50" : 535.44,
+    "date" : "2026-11-25",
+    "price" : 487.40,
+    "dma50" : 533.55,
     "dma100" : null,
-    "dma200" : 564.11,
-    "volume" : 437240.00
+    "dma200" : 563.35,
+    "volume" : 372156.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -530,15 +537,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.34,
+    "pricePercentageAboveDma50" : 5.43,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.58,
+    "pricePercentageAboveDma200" : 5.67,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 4.00,
     "netProfitMarginPercentile" : 6.00,
-    "totalTechnicalScore" : 10.92,
+    "totalTechnicalScore" : 11.11,
     "totalFundamentalScore" : 30.00,
-    "totalScore" : 40.92
+    "totalScore" : 41.11
   }
 }

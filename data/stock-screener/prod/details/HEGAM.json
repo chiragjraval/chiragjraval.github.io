@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 4.66,
-      "pricePercentageAboveDma200" : 4.34,
+      "pricePercentageAboveDma50" : 4.88,
+      "pricePercentageAboveDma100" : 4.68,
+      "pricePercentageAboveDma200" : 4.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.33,
       "operatingProfitMarginPercentile" : 13.56,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 43.88,
+      "totalTechnicalScore" : 43.91,
       "totalFundamentalScore" : 34.65,
-      "totalScore" : 78.54
+      "totalScore" : 78.56
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "HEG Ltd is a leading manufacturer and exporter of graphite electrodes in India. It operates the largest single-site integrated graphite electrodes plant in the world.[1] It is a part of LNJ Bhilwara Group which also has presence across IT Enabled services, power generation & textiles.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 192.34,
-    "dma50" : 191.52,
-    "dma100" : null,
-    "dma200" : 181.48,
-    "volume" : 21424904.00
-  }, {
     "date" : "2025-11-26",
     "price" : 200.49,
     "dma50" : 191.87,
@@ -331,7 +324,7 @@
     "price" : 193.62,
     "dma50" : 203.84,
     "dma100" : null,
-    "dma200" : 189.38,
+    "dma200" : 189.37,
     "volume" : 1913132.00
   }, {
     "date" : "2026-01-27",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 244.69,
     "dma50" : 206.72,
-    "dma100" : 202.58,
+    "dma100" : null,
     "dma200" : 195.26,
     "volume" : 9375241.00
   }, {
@@ -975,7 +968,7 @@
     "price" : 187.43,
     "dma50" : 209.18,
     "dma100" : 206.14,
-    "dma200" : 200.46,
+    "dma200" : 200.45,
     "volume" : 2027361.00
   }, {
     "date" : "2026-06-12",
@@ -1768,14 +1761,21 @@
     "dma100" : 242.38,
     "dma200" : 228.66,
     "volume" : 1148100.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 258.66,
+    "dma50" : 252.58,
+    "dma100" : 243.05,
+    "dma200" : 228.96,
+    "volume" : 2957288.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 258.67,
-    "dma50" : 252.33,
-    "dma100" : 242.38,
-    "dma200" : 228.66,
-    "volume" : 1148100.00
+    "date" : "2026-11-25",
+    "price" : 258.66,
+    "dma50" : 252.58,
+    "dma100" : 243.05,
+    "dma200" : 228.96,
+    "volume" : 2957288.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 4.66,
-    "pricePercentageAboveDma200" : 4.34,
+    "pricePercentageAboveDma50" : 4.88,
+    "pricePercentageAboveDma100" : 4.68,
+    "pricePercentageAboveDma200" : 4.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.33,
     "operatingProfitMarginPercentile" : 13.56,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 43.88,
+    "totalTechnicalScore" : 43.91,
     "totalFundamentalScore" : 34.65,
-    "totalScore" : 78.54
+    "totalScore" : 78.56
   }
 }

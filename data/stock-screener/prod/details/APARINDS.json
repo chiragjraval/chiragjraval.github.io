@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "APARINDS",
       "companyName" : "Apar Inds.",
-      "marketCap" : 59396.00,
-      "peRatio" : 42.40,
+      "marketCap" : 59672.00,
+      "peRatio" : 42.60,
       "description" : "Apar, founded by Mr. Dharmsinh D. Desai in 1958, is a market leader in India with a global presence. Contributing to India’s process of electrification it started from manufacturing power transmission cables to having three broad business segments, which are Conductors, Transformer and specialty oils (TSO), and Power/telecom Cables. [1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.46,
-      "pricePercentageAboveDma100" : 5.56,
-      "pricePercentageAboveDma200" : 4.97,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.53,
+      "pricePercentageAboveDma200" : 4.95,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.57,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 30.99,
+      "totalTechnicalScore" : 30.90,
       "totalFundamentalScore" : 40.99,
-      "totalScore" : 71.98
+      "totalScore" : 71.90
     }
   },
   "attributes" : {
     "companyCode" : "APARINDS",
     "companyName" : "Apar Inds.",
-    "marketCap" : 59396.00,
-    "peRatio" : 42.40,
+    "marketCap" : 59672.00,
+    "peRatio" : 42.60,
     "description" : "Apar, founded by Mr. Dharmsinh D. Desai in 1958, is a market leader in India with a global presence. Contributing to India’s process of electrification it started from manufacturing power transmission cables to having three broad business segments, which are Conductors, Transformer and specialty oils (TSO), and Power/telecom Cables. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 8932.00,
-    "dma50" : 8730.48,
-    "dma100" : null,
-    "dma200" : 8259.16,
-    "volume" : 34295.00
-  }, {
     "date" : "2025-11-26",
     "price" : 9156.50,
     "dma50" : 8747.18,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 11838.00,
     "dma50" : 10235.39,
-    "dma100" : 9320.94,
+    "dma100" : null,
     "dma200" : 9088.32,
     "volume" : 169487.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 15957.66,
     "dma200" : 14107.75,
     "volume" : 56948.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 14250.00,
+    "dma50" : 15561.00,
+    "dma100" : 15949.15,
+    "dma200" : 14109.16,
+    "volume" : 105543.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 14184.00,
-    "dma50" : 15614.51,
-    "dma100" : 15957.66,
-    "dma200" : 14107.75,
-    "volume" : 56948.00
+    "date" : "2026-11-25",
+    "price" : 14250.00,
+    "dma50" : 15561.00,
+    "dma100" : 15949.15,
+    "dma200" : 14109.16,
+    "volume" : 105543.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.46,
-    "pricePercentageAboveDma100" : 5.56,
-    "pricePercentageAboveDma200" : 4.97,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.53,
+    "pricePercentageAboveDma200" : 4.95,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.57,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 30.99,
+    "totalTechnicalScore" : 30.90,
     "totalFundamentalScore" : 40.99,
-    "totalScore" : 71.98
+    "totalScore" : 71.90
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AHCL",
       "companyName" : "Anlon Healthcare",
-      "marketCap" : 1309.00,
-      "peRatio" : 36.70,
+      "marketCap" : 1286.00,
+      "peRatio" : 36.00,
       "description" : "Incorporated in 2013, Anlon Healthcare Limited is a chemical manufacturing company engaged in the manufacturing of Pharma Intermediates and active pharmaceutical ingredients (APIs).[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 4.12,
-      "pricePercentageAboveDma200" : 3.49,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 4.25,
+      "pricePercentageAboveDma200" : 3.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 12.27,
       "netProfitMarginPercentile" : 6.58,
-      "totalTechnicalScore" : 37.69,
+      "totalTechnicalScore" : 38.02,
       "totalFundamentalScore" : 32.19,
-      "totalScore" : 69.88
+      "totalScore" : 70.21
     }
   },
   "attributes" : {
     "companyCode" : "AHCL",
     "companyName" : "Anlon Healthcare",
-    "marketCap" : 1309.00,
-    "peRatio" : 36.70,
+    "marketCap" : 1286.00,
+    "peRatio" : 36.00,
     "description" : "Incorporated in 2013, Anlon Healthcare Limited is a chemical manufacturing company engaged in the manufacturing of Pharma Intermediates and active pharmaceutical ingredients (APIs).[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 15.92,
-    "dma50" : 13.28,
-    "dma100" : null,
-    "dma200" : 10.90,
-    "volume" : 1343993.00
-  }, {
     "date" : "2025-11-26",
     "price" : 16.33,
     "dma50" : 13.40,
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 14.38,
     "dma50" : 12.64,
-    "dma100" : 13.10,
+    "dma100" : null,
     "dma200" : 12.14,
     "volume" : 9994049.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 20.94,
     "dma200" : 18.92,
     "volume" : 1722261.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 24.19,
+    "dma50" : 24.95,
+    "dma100" : 21.02,
+    "dma200" : 18.97,
+    "volume" : 2289131.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 24.62,
-    "dma50" : 24.98,
-    "dma100" : 20.94,
-    "dma200" : 18.92,
-    "volume" : 1722261.00
+    "date" : "2026-11-25",
+    "price" : 24.19,
+    "dma50" : 24.95,
+    "dma100" : 21.02,
+    "dma200" : 18.97,
+    "volume" : 2289131.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1896,15 +1896,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 4.12,
-    "pricePercentageAboveDma200" : 3.49,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 4.25,
+    "pricePercentageAboveDma200" : 3.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 12.27,
     "netProfitMarginPercentile" : 6.58,
-    "totalTechnicalScore" : 37.69,
+    "totalTechnicalScore" : 38.02,
     "totalFundamentalScore" : 32.19,
-    "totalScore" : 69.88
+    "totalScore" : 70.21
   }
 }

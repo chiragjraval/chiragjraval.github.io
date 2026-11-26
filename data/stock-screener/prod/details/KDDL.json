@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KDDL",
       "companyName" : "KDDL Ltd",
-      "marketCap" : 5663.00,
-      "peRatio" : 50.30,
+      "marketCap" : 5573.00,
+      "peRatio" : 49.50,
       "description" : "Incorporated in 1981, KDDL manufactures watch components like dials, hands and precision engineering goods under the brand name, Eigen. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.27,
-      "pricePercentageAboveDma100" : 3.91,
-      "pricePercentageAboveDma200" : 3.19,
+      "pricePercentageAboveDma50" : 4.39,
+      "pricePercentageAboveDma100" : 4.03,
+      "pricePercentageAboveDma200" : 3.32,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 16.78,
       "netProfitMarginPercentile" : 8.39,
-      "totalTechnicalScore" : 46.37,
+      "totalTechnicalScore" : 46.73,
       "totalFundamentalScore" : 41.80,
-      "totalScore" : 88.17
+      "totalScore" : 88.53
     }
   },
   "attributes" : {
     "companyCode" : "KDDL",
     "companyName" : "KDDL Ltd",
-    "marketCap" : 5663.00,
-    "peRatio" : 50.30,
+    "marketCap" : 5573.00,
+    "peRatio" : 49.50,
     "description" : "Incorporated in 1981, KDDL manufactures watch components like dials, hands and precision engineering goods under the brand name, Eigen. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 2467.20,
-    "dma50" : 2538.19,
-    "dma100" : null,
-    "dma200" : 2637.30,
-    "volume" : 5098.00
-  }, {
     "date" : "2025-11-26",
     "price" : 2503.00,
     "dma50" : 2536.81,
@@ -58,7 +51,7 @@
     "price" : 2478.50,
     "dma50" : 2534.52,
     "dma100" : null,
-    "dma200" : 2634.40,
+    "dma200" : 2634.39,
     "volume" : 22080.00
   }, {
     "date" : "2025-11-28",
@@ -205,7 +198,7 @@
     "price" : 2383.80,
     "dma50" : 2431.78,
     "dma100" : null,
-    "dma200" : 2581.78,
+    "dma200" : 2581.77,
     "volume" : 9053.00
   }, {
     "date" : "2025-12-30",
@@ -268,7 +261,7 @@
     "price" : 2347.30,
     "dma50" : 2423.93,
     "dma100" : null,
-    "dma200" : 2566.85,
+    "dma200" : 2566.84,
     "volume" : 13999.00
   }, {
     "date" : "2026-01-12",
@@ -471,7 +464,7 @@
     "price" : 2485.20,
     "dma50" : 2375.87,
     "dma100" : null,
-    "dma200" : 2507.78,
+    "dma200" : 2507.77,
     "volume" : 54154.00
   }, {
     "date" : "2026-02-23",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 2551.20,
     "dma50" : 2330.15,
-    "dma100" : 2335.73,
+    "dma100" : null,
     "dma200" : 2443.35,
     "volume" : 12853.00
   }, {
@@ -877,7 +870,7 @@
     "price" : 2883.70,
     "dma50" : 2370.77,
     "dma100" : 2343.81,
-    "dma200" : 2436.98,
+    "dma200" : 2436.97,
     "volume" : 858636.00
   }, {
     "date" : "2026-05-22",
@@ -1073,7 +1066,7 @@
     "price" : 3281.20,
     "dma50" : 2792.99,
     "dma100" : 2524.14,
-    "dma200" : 2564.38,
+    "dma200" : 2564.37,
     "volume" : 20467.00
   }, {
     "date" : "2026-07-03",
@@ -1768,14 +1761,21 @@
     "dma100" : 3779.92,
     "dma200" : 3380.14,
     "volume" : 82394.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 4531.20,
+    "dma50" : 4036.39,
+    "dma100" : 3792.42,
+    "dma200" : 3391.59,
+    "volume" : 73427.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 4604.00,
-    "dma50" : 4016.20,
-    "dma100" : 3779.92,
-    "dma200" : 3380.14,
-    "volume" : 82394.00
+    "date" : "2026-11-25",
+    "price" : 4531.20,
+    "dma50" : 4036.39,
+    "dma100" : 3792.42,
+    "dma200" : 3391.59,
+    "volume" : 73427.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.27,
-    "pricePercentageAboveDma100" : 3.91,
-    "pricePercentageAboveDma200" : 3.19,
+    "pricePercentageAboveDma50" : 4.39,
+    "pricePercentageAboveDma100" : 4.03,
+    "pricePercentageAboveDma200" : 3.32,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 16.78,
     "netProfitMarginPercentile" : 8.39,
-    "totalTechnicalScore" : 46.37,
+    "totalTechnicalScore" : 46.73,
     "totalFundamentalScore" : 41.80,
-    "totalScore" : 88.17
+    "totalScore" : 88.53
   }
 }

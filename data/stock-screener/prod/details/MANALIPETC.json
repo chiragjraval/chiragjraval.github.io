@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MANALIPETC",
       "companyName" : "Manali Petrochem",
-      "marketCap" : 1296.00,
-      "peRatio" : 7.93,
+      "marketCap" : 1213.00,
+      "peRatio" : 7.43,
       "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 4.97,
-      "pricePercentageAboveDma200" : 4.63,
+      "pricePercentageAboveDma50" : 5.41,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 4.97,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 39.71,
+      "totalTechnicalScore" : 35.68,
       "totalFundamentalScore" : 46.29,
-      "totalScore" : 86.00
+      "totalScore" : 81.96
     }
   },
   "attributes" : {
     "companyCode" : "MANALIPETC",
     "companyName" : "Manali Petrochem",
-    "marketCap" : 1296.00,
-    "peRatio" : 7.93,
+    "marketCap" : 1213.00,
+    "peRatio" : 7.43,
     "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 65.77,
-    "dma50" : 69.03,
-    "dma100" : null,
-    "dma200" : 67.38,
-    "volume" : 229285.00
-  }, {
     "date" : "2025-11-26",
     "price" : 66.77,
     "dma50" : 68.94,
@@ -226,7 +219,7 @@
     "price" : 62.86,
     "dma50" : 64.30,
     "dma100" : null,
-    "dma200" : 66.13,
+    "dma200" : 66.12,
     "volume" : 116723.00
   }, {
     "date" : "2026-01-02",
@@ -289,7 +282,7 @@
     "price" : 59.26,
     "dma50" : 63.02,
     "dma100" : null,
-    "dma200" : 65.62,
+    "dma200" : 65.61,
     "volume" : 185935.00
   }, {
     "date" : "2026-01-16",
@@ -373,7 +366,7 @@
     "price" : 58.74,
     "dma50" : 60.50,
     "dma100" : null,
-    "dma200" : 64.57,
+    "dma200" : 64.56,
     "volume" : 300371.00
   }, {
     "date" : "2026-02-03",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 54.16,
     "dma50" : 52.12,
-    "dma100" : 55.94,
+    "dma100" : null,
     "dma200" : 59.28,
     "volume" : 101129.00
   }, {
@@ -779,7 +772,7 @@
     "price" : 53.43,
     "dma50" : 52.44,
     "dma100" : 55.37,
-    "dma200" : 59.02,
+    "dma200" : 59.01,
     "volume" : 102641.00
   }, {
     "date" : "2026-05-04",
@@ -1059,7 +1052,7 @@
     "price" : 64.10,
     "dma50" : 60.37,
     "dma100" : 55.85,
-    "dma200" : 59.76,
+    "dma200" : 59.75,
     "volume" : 208847.00
   }, {
     "date" : "2026-07-01",
@@ -1768,14 +1761,21 @@
     "dma100" : 74.83,
     "dma200" : 70.12,
     "volume" : 352423.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 70.53,
+    "dma50" : 76.89,
+    "dma100" : 74.89,
+    "dma200" : 70.12,
+    "volume" : 764972.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 75.33,
-    "dma50" : 77.15,
-    "dma100" : 74.83,
+    "date" : "2026-11-25",
+    "price" : 70.53,
+    "dma50" : 76.89,
+    "dma100" : 74.89,
     "dma200" : 70.12,
-    "volume" : 352423.00
+    "volume" : 764972.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 4.97,
-    "pricePercentageAboveDma200" : 4.63,
+    "pricePercentageAboveDma50" : 5.41,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 4.97,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 39.71,
+    "totalTechnicalScore" : 35.68,
     "totalFundamentalScore" : 46.29,
-    "totalScore" : 86.00
+    "totalScore" : 81.96
   }
 }

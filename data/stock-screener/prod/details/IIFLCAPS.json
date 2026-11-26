@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "IIFLCAPS",
       "companyName" : "IIFL Capital",
-      "marketCap" : 10037.00,
-      "peRatio" : 16.40,
+      "marketCap" : 10550.00,
+      "peRatio" : 17.20,
       "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
-      "priceHigherThanDma200" : 0.00,
+      "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.33,
-      "pricePercentageAboveDma200" : 5.23,
+      "pricePercentageAboveDma50" : 5.12,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.99,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 17.06,
       "netProfitMarginPercentile" : 3.24,
-      "totalTechnicalScore" : 35.93,
+      "totalTechnicalScore" : 40.20,
       "totalFundamentalScore" : 32.29,
-      "totalScore" : 68.22
+      "totalScore" : 72.50
     }
   },
   "attributes" : {
     "companyCode" : "IIFLCAPS",
     "companyName" : "IIFL Capital",
-    "marketCap" : 10037.00,
-    "peRatio" : 16.40,
+    "marketCap" : 10550.00,
+    "peRatio" : 17.20,
     "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-25",
-    "price" : 295.20,
-    "dma50" : 317.86,
-    "dma100" : null,
-    "dma200" : 299.31,
-    "volume" : 265421.00
-  }, {
     "date" : "2025-11-26",
     "price" : 309.50,
     "dma50" : 317.53,
@@ -191,7 +184,7 @@
     "price" : 333.35,
     "dma50" : 318.36,
     "dma100" : null,
-    "dma200" : 302.86,
+    "dma200" : 302.85,
     "volume" : 355292.00
   }, {
     "date" : "2025-12-26",
@@ -450,7 +443,7 @@
     "price" : 334.80,
     "dma50" : 335.58,
     "dma100" : null,
-    "dma200" : 316.17,
+    "dma200" : 316.16,
     "volume" : 430570.00
   }, {
     "date" : "2026-02-18",
@@ -743,7 +736,7 @@
     "date" : "2026-04-23",
     "price" : 317.02,
     "dma50" : 298.62,
-    "dma100" : 317.49,
+    "dma100" : null,
     "dma200" : 307.27,
     "volume" : 2192189.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 340.74,
     "dma200" : 333.40,
     "volume" : 2461593.00
+  }, {
+    "date" : "2026-11-25",
+    "price" : 334.35,
+    "dma50" : 342.74,
+    "dma100" : 340.70,
+    "dma200" : 333.41,
+    "volume" : 2891308.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-23",
-    "price" : 318.10,
-    "dma50" : 343.09,
-    "dma100" : 340.74,
-    "dma200" : 333.40,
-    "volume" : 2461593.00
+    "date" : "2026-11-25",
+    "price" : 334.35,
+    "dma50" : 342.74,
+    "dma100" : 340.70,
+    "dma200" : 333.41,
+    "volume" : 2891308.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2132,19 +2132,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
-    "priceHigherThanDma200" : 0.00,
+    "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.33,
-    "pricePercentageAboveDma200" : 5.23,
+    "pricePercentageAboveDma50" : 5.12,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.99,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 17.06,
     "netProfitMarginPercentile" : 3.24,
-    "totalTechnicalScore" : 35.93,
+    "totalTechnicalScore" : 40.20,
     "totalFundamentalScore" : 32.29,
-    "totalScore" : 68.22
+    "totalScore" : 72.50
   }
 }
