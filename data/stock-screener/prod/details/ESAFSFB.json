@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ESAFSFB",
       "companyName" : "ESAF Small Fin",
-      "marketCap" : 2083.00,
-      "peRatio" : 7.69,
+      "marketCap" : 2120.00,
+      "peRatio" : 7.83,
       "description" : "Incorporated in 1992, ESAF Small Finance Bank provides micro, retail and corporate banking, para banking activities such as debit card, third party financial product distribution, in addition to treasury and permitted foreign exchange business[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 4.49,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.40,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.45,
       "operatingProfitMarginPercentile" : 17.42,
       "netProfitMarginPercentile" : 8.34,
-      "totalTechnicalScore" : 34.78,
+      "totalTechnicalScore" : 39.52,
       "totalFundamentalScore" : 41.22,
-      "totalScore" : 76.00
+      "totalScore" : 80.74
     }
   },
   "attributes" : {
     "companyCode" : "ESAFSFB",
     "companyName" : "ESAF Small Fin",
-    "marketCap" : 2083.00,
-    "peRatio" : 7.69,
+    "marketCap" : 2120.00,
+    "peRatio" : 7.83,
     "description" : "Incorporated in 1992, ESAF Small Finance Bank provides micro, retail and corporate banking, para banking activities such as debit card, third party financial product distribution, in addition to treasury and permitted foreign exchange business[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 26.69,
-    "dma50" : 28.24,
-    "dma100" : null,
-    "dma200" : 31.96,
-    "volume" : 201456.00
-  }, {
     "date" : "2025-11-27",
     "price" : 26.55,
     "dma50" : 28.18,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 23.35,
     "dma50" : 24.58,
-    "dma100" : 25.93,
+    "dma100" : null,
     "dma200" : 27.93,
     "volume" : 387187.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 40.75,
     "dma200" : 36.65,
     "volume" : 1112416.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 41.07,
+    "dma50" : 42.30,
+    "dma100" : 40.82,
+    "dma200" : 36.69,
+    "volume" : 2463693.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 40.36,
-    "dma50" : 42.35,
-    "dma100" : 40.75,
-    "dma200" : 36.65,
-    "volume" : 1112416.00
+    "date" : "2026-11-26",
+    "price" : 41.07,
+    "dma50" : 42.30,
+    "dma100" : 40.82,
+    "dma200" : 36.69,
+    "volume" : 2463693.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2051,20 +2051,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 4.49,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.40,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.45,
     "operatingProfitMarginPercentile" : 17.42,
     "netProfitMarginPercentile" : 8.34,
-    "totalTechnicalScore" : 34.78,
+    "totalTechnicalScore" : 39.52,
     "totalFundamentalScore" : 41.22,
-    "totalScore" : 76.00
+    "totalScore" : 80.74
   }
 }

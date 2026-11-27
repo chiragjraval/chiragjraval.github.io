@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FORCEMOT",
       "companyName" : "Force Motors",
-      "marketCap" : 26869.00,
-      "peRatio" : 25.80,
+      "marketCap" : 26830.00,
+      "peRatio" : 25.70,
       "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.46,
-      "pricePercentageAboveDma100" : 4.31,
-      "pricePercentageAboveDma200" : 4.42,
+      "pricePercentageAboveDma50" : 4.49,
+      "pricePercentageAboveDma100" : 4.33,
+      "pricePercentageAboveDma200" : 4.44,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 38.20,
+      "totalTechnicalScore" : 38.26,
       "totalFundamentalScore" : 45.48,
-      "totalScore" : 83.67
+      "totalScore" : 83.73
     }
   },
   "attributes" : {
     "companyCode" : "FORCEMOT",
     "companyName" : "Force Motors",
-    "marketCap" : 26869.00,
-    "peRatio" : 25.80,
+    "marketCap" : 26830.00,
+    "peRatio" : 25.70,
     "description" : "Force Motors Ltd was established in 1958, is the flagship company of the Abhay Firodia group. The company is in the business of manufacturing fully vertically integrated small and light CVs, multi-utility vehicles, and agricultural tractors, which it supplies to various countries in the Middle East, Asia, Latin America, and Africa. It was known as Bajaj Tempo till 2005 [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 16959.00,
-    "dma50" : 17313.85,
-    "dma100" : null,
-    "dma200" : 14504.17,
-    "volume" : 35615.00
-  }, {
     "date" : "2025-11-27",
     "price" : 17248.00,
     "dma50" : 17311.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 20347.00,
     "dma50" : 21481.09,
-    "dma100" : 20672.90,
+    "dma100" : null,
     "dma200" : 18635.68,
     "volume" : 140361.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 17929.65,
     "dma200" : 18276.01,
     "volume" : 102736.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 20362.00,
+    "dma50" : 18486.59,
+    "dma100" : 17945.23,
+    "dma200" : 18296.77,
+    "volume" : 53321.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 20392.00,
-    "dma50" : 18410.05,
-    "dma100" : 17929.65,
-    "dma200" : 18276.01,
-    "volume" : 102736.00
+    "date" : "2026-11-26",
+    "price" : 20362.00,
+    "dma50" : 18486.59,
+    "dma100" : 17945.23,
+    "dma200" : 18296.77,
+    "volume" : 53321.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.46,
-    "pricePercentageAboveDma100" : 4.31,
-    "pricePercentageAboveDma200" : 4.42,
+    "pricePercentageAboveDma50" : 4.49,
+    "pricePercentageAboveDma100" : 4.33,
+    "pricePercentageAboveDma200" : 4.44,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 38.20,
+    "totalTechnicalScore" : 38.26,
     "totalFundamentalScore" : 45.48,
-    "totalScore" : 83.67
+    "totalScore" : 83.73
   }
 }

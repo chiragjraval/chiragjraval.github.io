@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BONFIG",
       "companyName" : "Bonfiglioli Tran",
-      "marketCap" : 14999.00,
-      "peRatio" : 57.20,
+      "marketCap" : 15101.00,
+      "peRatio" : 57.60,
       "description" : "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.00,
+      "pricePercentageAboveDma50" : 4.01,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 3.38,
+      "pricePercentageAboveDma200" : 3.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 0.00,
       "operatingProfitMarginPercentile" : 16.67,
       "netProfitMarginPercentile" : 8.71,
-      "totalTechnicalScore" : 22.37,
+      "totalTechnicalScore" : 22.36,
       "totalFundamentalScore" : 25.38,
-      "totalScore" : 47.75
+      "totalScore" : 47.74
     }
   },
   "attributes" : {
     "companyCode" : "BONFIG",
     "companyName" : "Bonfiglioli Tran",
-    "marketCap" : 14999.00,
-    "peRatio" : 57.20,
+    "marketCap" : 15101.00,
+    "peRatio" : 57.60,
     "description" : "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions.[1]"
   },
   "technicalHistory" : [ {
@@ -200,14 +200,21 @@
     "dma100" : null,
     "dma200" : 602.25,
     "volume" : 982498.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 803.25,
+    "dma50" : 670.00,
+    "dma100" : null,
+    "dma200" : 604.25,
+    "volume" : 1193109.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 797.85,
-    "dma50" : 664.56,
+    "date" : "2026-11-26",
+    "price" : 803.25,
+    "dma50" : 670.00,
     "dma100" : null,
-    "dma200" : 602.25,
-    "volume" : 982498.00
+    "dma200" : 604.25,
+    "volume" : 1193109.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -268,15 +275,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.00,
+    "pricePercentageAboveDma50" : 4.01,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 3.38,
+    "pricePercentageAboveDma200" : 3.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 0.00,
     "operatingProfitMarginPercentile" : 16.67,
     "netProfitMarginPercentile" : 8.71,
-    "totalTechnicalScore" : 22.37,
+    "totalTechnicalScore" : 22.36,
     "totalFundamentalScore" : 25.38,
-    "totalScore" : 47.75
+    "totalScore" : 47.74
   }
 }

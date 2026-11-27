@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MOTILALOFS",
       "companyName" : "Motil.Oswal.Fin.",
-      "marketCap" : 74290.00,
-      "peRatio" : 27.50,
+      "marketCap" : 73393.00,
+      "peRatio" : 27.20,
       "description" : "Motilal Oswal Financial Services Ltd. was founded in 1987 is a well-diversified financial services firm. The company has a network spread 550+ cities and towns comprising 2,500+ Business Locations operated by their Business Partners and 16,00,000+ customers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.30,
-      "pricePercentageAboveDma100" : 3.88,
-      "pricePercentageAboveDma200" : 3.56,
+      "pricePercentageAboveDma50" : 4.40,
+      "pricePercentageAboveDma100" : 3.96,
+      "pricePercentageAboveDma200" : 3.66,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.47,
       "operatingProfitMarginPercentile" : 13.02,
       "netProfitMarginPercentile" : 3.62,
-      "totalTechnicalScore" : 46.74,
+      "totalTechnicalScore" : 47.02,
       "totalFundamentalScore" : 31.12,
-      "totalScore" : 77.86
+      "totalScore" : 78.14
     }
   },
   "attributes" : {
     "companyCode" : "MOTILALOFS",
     "companyName" : "Motil.Oswal.Fin.",
-    "marketCap" : 74290.00,
-    "peRatio" : 27.50,
+    "marketCap" : 73393.00,
+    "peRatio" : 27.20,
     "description" : "Motilal Oswal Financial Services Ltd. was founded in 1987 is a well-diversified financial services firm. The company has a network spread 550+ cities and towns comprising 2,500+ Business Locations operated by their Business Partners and 16,00,000+ customers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 959.65,
-    "dma50" : 967.77,
-    "dma100" : null,
-    "dma200" : 871.50,
-    "volume" : 483550.00
-  }, {
     "date" : "2025-11-27",
     "price" : 926.15,
     "dma50" : 966.14,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 781.05,
     "dma50" : 753.17,
-    "dma100" : 786.75,
+    "dma100" : null,
     "dma200" : 808.42,
     "volume" : 722361.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1004.24,
     "dma200" : 955.30,
     "volume" : 1202904.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1215.25,
+    "dma50" : 1084.54,
+    "dma100" : 1006.71,
+    "dma200" : 957.89,
+    "volume" : 1384588.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1230.10,
-    "dma50" : 1079.21,
-    "dma100" : 1004.24,
-    "dma200" : 955.30,
-    "volume" : 1202904.00
+    "date" : "2026-11-26",
+    "price" : 1215.25,
+    "dma50" : 1084.54,
+    "dma100" : 1006.71,
+    "dma200" : 957.89,
+    "volume" : 1384588.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-12-31",
@@ -2596,15 +2596,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.30,
-    "pricePercentageAboveDma100" : 3.88,
-    "pricePercentageAboveDma200" : 3.56,
+    "pricePercentageAboveDma50" : 4.40,
+    "pricePercentageAboveDma100" : 3.96,
+    "pricePercentageAboveDma200" : 3.66,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.47,
     "operatingProfitMarginPercentile" : 13.02,
     "netProfitMarginPercentile" : 3.62,
-    "totalTechnicalScore" : 46.74,
+    "totalTechnicalScore" : 47.02,
     "totalFundamentalScore" : 31.12,
-    "totalScore" : 77.86
+    "totalScore" : 78.14
   }
 }

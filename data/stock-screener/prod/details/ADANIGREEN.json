@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "ADANIGREEN",
       "companyName" : "Adani Green",
-      "marketCap" : 224757.00,
-      "peRatio" : 115.00,
+      "marketCap" : 222171.00,
+      "peRatio" : 114.00,
       "description" : "Adani Green Energy Limited, incorporated in 2015, is a holding company of several subsidiaries carrying business of renewable power generation within the group and is primarily involved in renewable power generation and other ancillary activities. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.95,
-      "pricePercentageAboveDma100" : 4.97,
-      "pricePercentageAboveDma200" : 4.67,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 4.73,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.76,
       "operatingProfitMarginPercentile" : 16.53,
       "netProfitMarginPercentile" : 6.01,
-      "totalTechnicalScore" : 39.58,
+      "totalTechnicalScore" : 29.75,
       "totalFundamentalScore" : 34.30,
-      "totalScore" : 73.89
+      "totalScore" : 64.06
     }
   },
   "attributes" : {
     "companyCode" : "ADANIGREEN",
     "companyName" : "Adani Green",
-    "marketCap" : 224757.00,
-    "peRatio" : 115.00,
+    "marketCap" : 222171.00,
+    "peRatio" : 114.00,
     "description" : "Adani Green Energy Limited, incorporated in 2015, is a holding company of several subsidiaries carrying business of renewable power generation within the group and is primarily involved in renewable power generation and other ancillary activities. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1034.40,
-    "dma50" : 1043.52,
-    "dma100" : null,
-    "dma200" : 1063.84,
-    "volume" : 1475532.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1031.10,
     "dma50" : 1043.04,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1235.80,
     "dma50" : 992.28,
-    "dma100" : 965.06,
+    "dma100" : null,
     "dma200" : 1001.80,
     "volume" : 14296169.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1355.73,
     "dma200" : 1278.89,
     "volume" : 4585773.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1348.80,
+    "dma50" : 1350.63,
+    "dma100" : 1353.66,
+    "dma200" : 1279.58,
+    "volume" : 3322639.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1364.50,
-    "dma50" : 1350.71,
-    "dma100" : 1355.73,
-    "dma200" : 1278.89,
-    "volume" : 4585773.00
+    "date" : "2026-11-26",
+    "price" : 1348.80,
+    "dma50" : 1350.63,
+    "dma100" : 1353.66,
+    "dma200" : 1279.58,
+    "volume" : 3322639.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-06-30",
@@ -2170,21 +2170,21 @@
     "netProfit" : 33.14
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.95,
-    "pricePercentageAboveDma100" : 4.97,
-    "pricePercentageAboveDma200" : 4.67,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 4.73,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.76,
     "operatingProfitMarginPercentile" : 16.53,
     "netProfitMarginPercentile" : 6.01,
-    "totalTechnicalScore" : 39.58,
+    "totalTechnicalScore" : 29.75,
     "totalFundamentalScore" : 34.30,
-    "totalScore" : 73.89
+    "totalScore" : 64.06
   }
 }

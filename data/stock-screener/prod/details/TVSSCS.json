@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TVSSCS",
       "companyName" : "TVS Supply",
-      "marketCap" : 5621.00,
-      "peRatio" : 62.00,
+      "marketCap" : 5579.00,
+      "peRatio" : 61.60,
       "description" : "TVS Supply Chain Solutions provides supply chain management services for international organizations, government departments, and large and medium-sized businesses.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 5.03,
-      "pricePercentageAboveDma200" : 4.88,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.93,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 4.92,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 7.13,
       "netProfitMarginPercentile" : 6.41,
-      "totalTechnicalScore" : 39.80,
+      "totalTechnicalScore" : 34.92,
       "totalFundamentalScore" : 33.54,
-      "totalScore" : 73.34
+      "totalScore" : 68.45
     }
   },
   "attributes" : {
     "companyCode" : "TVSSCS",
     "companyName" : "TVS Supply",
-    "marketCap" : 5621.00,
-    "peRatio" : 62.00,
+    "marketCap" : 5579.00,
+    "peRatio" : 61.60,
     "description" : "TVS Supply Chain Solutions provides supply chain management services for international organizations, government departments, and large and medium-sized businesses.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 108.37,
-    "dma50" : 123.57,
-    "dma100" : null,
-    "dma200" : 134.69,
-    "volume" : 1267581.00
-  }, {
     "date" : "2025-11-27",
     "price" : 107.03,
     "dma50" : 122.93,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 114.35,
     "dma50" : 108.33,
-    "dma100" : 107.45,
+    "dma100" : null,
     "dma200" : 117.56,
     "volume" : 225453.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 128.03,
     "dma200" : 124.24,
     "volume" : 937287.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 126.23,
+    "dma50" : 124.48,
+    "dma100" : 127.93,
+    "dma200" : 124.26,
+    "volume" : 1012929.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 127.18,
-    "dma50" : 124.41,
-    "dma100" : 128.03,
-    "dma200" : 124.24,
-    "volume" : 937287.00
+    "date" : "2026-11-26",
+    "price" : 126.23,
+    "dma50" : 124.48,
+    "dma100" : 127.93,
+    "dma200" : 124.26,
+    "volume" : 1012929.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1976,15 +1976,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 5.03,
-    "pricePercentageAboveDma200" : 4.88,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.93,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 4.92,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 7.13,
     "netProfitMarginPercentile" : 6.41,
-    "totalTechnicalScore" : 39.80,
+    "totalTechnicalScore" : 34.92,
     "totalFundamentalScore" : 33.54,
-    "totalScore" : 73.34
+    "totalScore" : 68.45
   }
 }

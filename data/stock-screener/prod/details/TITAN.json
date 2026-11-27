@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TITAN",
       "companyName" : "Titan Company",
-      "marketCap" : 416070.00,
-      "peRatio" : 58.50,
+      "marketCap" : 411143.00,
+      "peRatio" : 57.80,
       "description" : "Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.09,
-      "pricePercentageAboveDma200" : 4.79,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 4.85,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 5.89,
       "operatingProfitMarginPercentile" : 19.77,
       "netProfitMarginPercentile" : 9.38,
-      "totalTechnicalScore" : 34.89,
+      "totalTechnicalScore" : 35.07,
       "totalFundamentalScore" : 35.04,
-      "totalScore" : 69.93
+      "totalScore" : 70.11
     }
   },
   "attributes" : {
     "companyCode" : "TITAN",
     "companyName" : "Titan Company",
-    "marketCap" : 416070.00,
-    "peRatio" : 58.50,
+    "marketCap" : 411143.00,
+    "peRatio" : 57.80,
     "description" : "Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 3897.70,
-    "dma50" : 3715.97,
-    "dma100" : null,
-    "dma200" : 3537.50,
-    "volume" : 369753.00
-  }, {
     "date" : "2025-11-27",
     "price" : 3903.30,
     "dma50" : 3723.31,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 4410.00,
     "dma50" : 4246.47,
-    "dma100" : 4122.03,
+    "dma100" : null,
     "dma200" : 3931.83,
     "volume" : 989523.00
   }, {
@@ -974,7 +967,7 @@
     "date" : "2026-06-12",
     "price" : 4184.00,
     "dma50" : 4186.67,
-    "dma100" : 4196.85,
+    "dma100" : 4196.86,
     "dma200" : 4003.86,
     "volume" : 1153000.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 4771.17,
     "dma200" : 4493.40,
     "volume" : 951290.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 4631.10,
+    "dma50" : 4696.98,
+    "dma100" : 4772.87,
+    "dma200" : 4494.77,
+    "volume" : 934342.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 4686.60,
-    "dma50" : 4699.67,
-    "dma100" : 4771.17,
-    "dma200" : 4493.40,
-    "volume" : 951290.00
+    "date" : "2026-11-26",
+    "price" : 4631.10,
+    "dma50" : 4696.98,
+    "dma100" : 4772.87,
+    "dma200" : 4494.77,
+    "volume" : 934342.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.09,
-    "pricePercentageAboveDma200" : 4.79,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 4.85,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 5.89,
     "operatingProfitMarginPercentile" : 19.77,
     "netProfitMarginPercentile" : 9.38,
-    "totalTechnicalScore" : 34.89,
+    "totalTechnicalScore" : 35.07,
     "totalFundamentalScore" : 35.04,
-    "totalScore" : 69.93
+    "totalScore" : 70.11
   }
 }

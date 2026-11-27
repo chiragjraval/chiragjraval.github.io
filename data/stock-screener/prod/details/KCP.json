@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KCP",
       "companyName" : "K C P",
-      "marketCap" : 1881.00,
-      "peRatio" : 10.20,
+      "marketCap" : 1924.00,
+      "peRatio" : 10.40,
       "description" : "KCP Ltd is engaged in the business of manufacture and sale of cement, sugar, heavy engineering, power generation for captive use and hospitality.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.22,
-      "pricePercentageAboveDma100" : 5.39,
-      "pricePercentageAboveDma200" : 5.52,
+      "pricePercentageAboveDma50" : 5.11,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 2.33,
       "netProfitMarginPercentile" : 3.01,
-      "totalTechnicalScore" : 16.13,
+      "totalTechnicalScore" : 15.80,
       "totalFundamentalScore" : 17.39,
-      "totalScore" : 33.52
+      "totalScore" : 33.19
     }
   },
   "attributes" : {
     "companyCode" : "KCP",
     "companyName" : "K C P",
-    "marketCap" : 1881.00,
-    "peRatio" : 10.20,
+    "marketCap" : 1924.00,
+    "peRatio" : 10.40,
     "description" : "KCP Ltd is engaged in the business of manufacture and sale of cement, sugar, heavy engineering, power generation for captive use and hospitality.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 185.07,
-    "dma50" : 194.99,
-    "dma100" : null,
-    "dma200" : 203.09,
-    "volume" : 86307.00
-  }, {
     "date" : "2025-11-27",
     "price" : 185.91,
     "dma50" : 194.63,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 176.30,
     "dma50" : 159.24,
-    "dma100" : 166.62,
+    "dma100" : null,
     "dma200" : 178.17,
     "volume" : 199198.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 158.15,
     "dma200" : 162.98,
     "volume" : 122426.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 149.26,
+    "dma50" : 152.53,
+    "dma100" : 157.93,
+    "dma200" : 162.84,
+    "volume" : 198254.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 145.90,
-    "dma50" : 152.67,
-    "dma100" : 158.15,
-    "dma200" : 162.98,
-    "volume" : 122426.00
+    "date" : "2026-11-26",
+    "price" : 149.26,
+    "dma50" : 152.53,
+    "dma100" : 157.93,
+    "dma200" : 162.84,
+    "volume" : 198254.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.22,
-    "pricePercentageAboveDma100" : 5.39,
-    "pricePercentageAboveDma200" : 5.52,
+    "pricePercentageAboveDma50" : 5.11,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 2.33,
     "netProfitMarginPercentile" : 3.01,
-    "totalTechnicalScore" : 16.13,
+    "totalTechnicalScore" : 15.80,
     "totalFundamentalScore" : 17.39,
-    "totalScore" : 33.52
+    "totalScore" : 33.19
   }
 }

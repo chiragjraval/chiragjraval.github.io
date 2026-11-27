@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "BALMLAWRIE",
       "companyName" : "Balmer Lawrie",
-      "marketCap" : 2811.00,
-      "peRatio" : 9.31,
+      "marketCap" : 2821.00,
+      "peRatio" : 9.34,
       "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.28,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.12,
+      "pricePercentageAboveDma200" : 5.26,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 17.01,
       "netProfitMarginPercentile" : 7.70,
-      "totalTechnicalScore" : 15.43,
+      "totalTechnicalScore" : 20.38,
       "totalFundamentalScore" : 43.03,
-      "totalScore" : 58.46
+      "totalScore" : 63.40
     }
   },
   "attributes" : {
     "companyCode" : "BALMLAWRIE",
     "companyName" : "Balmer Lawrie",
-    "marketCap" : 2811.00,
-    "peRatio" : 9.31,
+    "marketCap" : 2821.00,
+    "peRatio" : 9.34,
     "description" : "Balmer Lawrie & Company Ltd is engaged in the business of Industrial Packaging, Greases & Lubricants, Leather Chemicals, Logistic Services and Infrastructure, Refinery & Oil Field and Travel & Vacation Services in India. [1] It is a central public-sector undertaking under the administrative control of Ministry of Petroleum and Natural Gas, GoI, since 1972.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 186.98,
-    "dma50" : 200.86,
-    "dma100" : null,
-    "dma200" : 209.27,
-    "volume" : 110962.00
-  }, {
     "date" : "2025-11-27",
     "price" : 186.36,
     "dma50" : 200.29,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 180.51,
     "dma50" : 171.72,
-    "dma100" : 174.67,
+    "dma100" : null,
     "dma200" : 186.66,
     "volume" : 302182.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 169.16,
     "dma200" : 174.06,
     "volume" : 161267.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 164.94,
+    "dma50" : 164.88,
+    "dma100" : 168.99,
+    "dma200" : 173.97,
+    "volume" : 87498.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 164.40,
+    "date" : "2026-11-26",
+    "price" : 164.94,
     "dma50" : 164.88,
-    "dma100" : 169.16,
-    "dma200" : 174.06,
-    "volume" : 161267.00
+    "dma100" : 168.99,
+    "dma200" : 173.97,
+    "volume" : 87498.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 67.63
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.28,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.12,
+    "pricePercentageAboveDma200" : 5.26,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 17.01,
     "netProfitMarginPercentile" : 7.70,
-    "totalTechnicalScore" : 15.43,
+    "totalTechnicalScore" : 20.38,
     "totalFundamentalScore" : 43.03,
-    "totalScore" : 58.46
+    "totalScore" : 63.40
   }
 }

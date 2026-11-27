@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BANDHANBNK",
       "companyName" : "Bandhan Bank",
-      "marketCap" : 27662.00,
-      "peRatio" : 14.80,
+      "marketCap" : 27307.00,
+      "peRatio" : 14.70,
       "description" : "Incorporated in 2014, Bandhan Bank is a commercial bank focused on serving underbanked and underpenetrated markets in India. The company has a PAN-India presence and offers a wide range of banking products & services and asset & liability products and services designed for micro banking and general banking. [1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 5.07,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.95,
       "operatingProfitMarginPercentile" : 17.35,
       "netProfitMarginPercentile" : 7.33,
-      "totalTechnicalScore" : 25.07,
+      "totalTechnicalScore" : 25.25,
       "totalFundamentalScore" : 30.63,
-      "totalScore" : 55.70
+      "totalScore" : 55.89
     }
   },
   "attributes" : {
     "companyCode" : "BANDHANBNK",
     "companyName" : "Bandhan Bank",
-    "marketCap" : 27662.00,
-    "peRatio" : 14.80,
+    "marketCap" : 27307.00,
+    "peRatio" : 14.70,
     "description" : "Incorporated in 2014, Bandhan Bank is a commercial bank focused on serving underbanked and underpenetrated markets in India. The company has a PAN-India presence and offers a wide range of banking products & services and asset & liability products and services designed for micro banking and general banking. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 151.18,
-    "dma50" : 159.63,
-    "dma100" : null,
-    "dma200" : 166.29,
-    "volume" : 5274131.00
-  }, {
     "date" : "2025-11-27",
     "price" : 149.64,
     "dma50" : 159.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 174.67,
     "dma50" : 164.89,
-    "dma100" : 157.68,
+    "dma100" : null,
     "dma200" : 162.39,
     "volume" : 11290701.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 174.56,
     "dma200" : 174.03,
     "volume" : 8370248.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 169.49,
+    "dma50" : 169.02,
+    "dma100" : 174.25,
+    "dma200" : 173.99,
+    "volume" : 5855403.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 171.69,
-    "dma50" : 169.00,
-    "dma100" : 174.56,
-    "dma200" : 174.03,
-    "volume" : 8370248.00
+    "date" : "2026-11-26",
+    "price" : 169.49,
+    "dma50" : 169.02,
+    "dma100" : 174.25,
+    "dma200" : 173.99,
+    "volume" : 5855403.00
   },
   "quarterlyResults" : [ {
     "date" : "2016-03-31",
@@ -2206,15 +2206,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 5.07,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.95,
     "operatingProfitMarginPercentile" : 17.35,
     "netProfitMarginPercentile" : 7.33,
-    "totalTechnicalScore" : 25.07,
+    "totalTechnicalScore" : 25.25,
     "totalFundamentalScore" : 30.63,
-    "totalScore" : 55.70
+    "totalScore" : 55.89
   }
 }

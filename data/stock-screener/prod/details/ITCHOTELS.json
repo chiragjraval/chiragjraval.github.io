@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ITCHOTELS",
       "companyName" : "ITC Hotels",
-      "marketCap" : 38854.00,
+      "marketCap" : 38770.00,
       "peRatio" : 39.20,
       "description" : "ITC Hotels is an Indian hospitality company that operates and manages hotels, with over 200 hotels. It has a franchise agreement to operate most of its hotels as part of The Luxury Collection of Marriott International. It operates hotels across 90+ destinations under brands like ITC Hotels, Mementos, Epiq Collection Storii, Welcomhotel, Fortune, and Welcome Heritage.[1][2]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.50,
-      "pricePercentageAboveDma100" : 4.40,
-      "pricePercentageAboveDma200" : 4.54,
+      "pricePercentageAboveDma50" : 4.53,
+      "pricePercentageAboveDma100" : 4.41,
+      "pricePercentageAboveDma200" : 4.55,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 12.00,
       "netProfitMarginPercentile" : 6.91,
-      "totalTechnicalScore" : 38.43,
+      "totalTechnicalScore" : 38.49,
       "totalFundamentalScore" : 38.91,
-      "totalScore" : 77.34
+      "totalScore" : 77.40
     }
   },
   "attributes" : {
     "companyCode" : "ITCHOTELS",
     "companyName" : "ITC Hotels",
-    "marketCap" : 38854.00,
+    "marketCap" : 38770.00,
     "peRatio" : 39.20,
     "description" : "ITC Hotels is an Indian hospitality company that operates and manages hotels, with over 200 hotels. It has a franchise agreement to operate most of its hotels as part of The Luxury Collection of Marriott International. It operates hotels across 90+ destinations under brands like ITC Hotels, Mementos, Epiq Collection Storii, Welcomhotel, Fortune, and Welcome Heritage.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 209.35,
-    "dma50" : 217.48,
-    "dma100" : null,
-    "dma200" : 212.08,
-    "volume" : 1517461.00
-  }, {
     "date" : "2025-11-27",
     "price" : 211.61,
     "dma50" : 217.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 158.33,
     "dma50" : 163.57,
-    "dma100" : 178.19,
+    "dma100" : null,
     "dma200" : 187.57,
     "volume" : 2218817.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 166.43,
     "dma200" : 170.70,
     "volume" : 10194706.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 186.10,
+    "dma50" : 170.08,
+    "dma100" : 166.51,
+    "dma200" : 170.85,
+    "volume" : 4841499.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 186.50,
-    "dma50" : 169.43,
-    "dma100" : 166.43,
-    "dma200" : 170.70,
-    "volume" : 10194706.00
+    "date" : "2026-11-26",
+    "price" : 186.10,
+    "dma50" : 170.08,
+    "dma100" : 166.51,
+    "dma200" : 170.85,
+    "volume" : 4841499.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-06-30",
@@ -1896,15 +1896,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.50,
-    "pricePercentageAboveDma100" : 4.40,
-    "pricePercentageAboveDma200" : 4.54,
+    "pricePercentageAboveDma50" : 4.53,
+    "pricePercentageAboveDma100" : 4.41,
+    "pricePercentageAboveDma200" : 4.55,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 12.00,
     "netProfitMarginPercentile" : 6.91,
-    "totalTechnicalScore" : 38.43,
+    "totalTechnicalScore" : 38.49,
     "totalFundamentalScore" : 38.91,
-    "totalScore" : 77.34
+    "totalScore" : 77.40
   }
 }

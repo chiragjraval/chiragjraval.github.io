@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JSFB",
       "companyName" : "Jana Small Finan",
-      "marketCap" : 4462.00,
-      "peRatio" : 9.39,
+      "marketCap" : 4428.00,
+      "peRatio" : 9.32,
       "description" : "Incorporated in 2006, Jana Small Finance Bank Ltd provides a wide range of banking and financial services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.28,
-      "pricePercentageAboveDma100" : 5.74,
-      "pricePercentageAboveDma200" : 5.48,
+      "pricePercentageAboveDma50" : 5.30,
+      "pricePercentageAboveDma100" : 5.76,
+      "pricePercentageAboveDma200" : 5.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.32,
       "operatingProfitMarginPercentile" : 19.80,
       "netProfitMarginPercentile" : 9.25,
-      "totalTechnicalScore" : 21.49,
+      "totalTechnicalScore" : 21.57,
       "totalFundamentalScore" : 45.38,
-      "totalScore" : 66.87
+      "totalScore" : 66.95
     }
   },
   "attributes" : {
     "companyCode" : "JSFB",
     "companyName" : "Jana Small Finan",
-    "marketCap" : 4462.00,
-    "peRatio" : 9.39,
+    "marketCap" : 4428.00,
+    "peRatio" : 9.32,
     "description" : "Incorporated in 2006, Jana Small Finance Bank Ltd provides a wide range of banking and financial services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 453.50,
-    "dma50" : 462.97,
-    "dma100" : null,
-    "dma200" : 471.09,
-    "volume" : 87537.00
-  }, {
     "date" : "2025-11-27",
     "price" : 451.20,
     "dma50" : 462.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 459.35,
     "dma50" : 390.62,
-    "dma100" : 394.91,
+    "dma100" : null,
     "dma200" : 420.27,
     "volume" : 840925.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 494.28,
     "dma200" : 465.85,
     "volume" : 343907.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 418.30,
+    "dma50" : 445.31,
+    "dma100" : 493.77,
+    "dma200" : 465.38,
+    "volume" : 299292.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 421.55,
-    "dma50" : 446.42,
-    "dma100" : 494.28,
-    "dma200" : 465.85,
-    "volume" : 343907.00
+    "date" : "2026-11-26",
+    "price" : 418.30,
+    "dma50" : 445.31,
+    "dma100" : 493.77,
+    "dma200" : 465.38,
+    "volume" : 299292.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-09-30",
@@ -2046,15 +2046,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.28,
-    "pricePercentageAboveDma100" : 5.74,
-    "pricePercentageAboveDma200" : 5.48,
+    "pricePercentageAboveDma50" : 5.30,
+    "pricePercentageAboveDma100" : 5.76,
+    "pricePercentageAboveDma200" : 5.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.32,
     "operatingProfitMarginPercentile" : 19.80,
     "netProfitMarginPercentile" : 9.25,
-    "totalTechnicalScore" : 21.49,
+    "totalTechnicalScore" : 21.57,
     "totalFundamentalScore" : 45.38,
-    "totalScore" : 66.87
+    "totalScore" : 66.95
   }
 }

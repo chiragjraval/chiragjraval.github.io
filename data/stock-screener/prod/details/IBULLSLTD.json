@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IBULLSLTD",
       "companyName" : "Indiabulls",
-      "marketCap" : 6719.00,
-      "peRatio" : 10.60,
+      "marketCap" : 6584.00,
+      "peRatio" : 10.40,
       "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 4.26,
+      "pricePercentageAboveDma50" : 5.32,
+      "pricePercentageAboveDma100" : 5.22,
+      "pricePercentageAboveDma200" : 4.39,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.06,
       "operatingProfitMarginPercentile" : 19.70,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 39.62,
+      "totalTechnicalScore" : 39.92,
       "totalFundamentalScore" : 43.97,
-      "totalScore" : 83.59
+      "totalScore" : 83.90
     }
   },
   "attributes" : {
     "companyCode" : "IBULLSLTD",
     "companyName" : "Indiabulls",
-    "marketCap" : 6719.00,
-    "peRatio" : 10.60,
+    "marketCap" : 6584.00,
+    "peRatio" : 10.40,
     "description" : "Incorporated in 2007, Indiabulls Ltd is in the business of Real Estate and Financial Services[1]"
   },
   "technicalHistory" : [ {
@@ -1719,14 +1719,21 @@
     "dma100" : 29.53,
     "dma200" : 25.11,
     "volume" : 12239717.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 28.23,
+    "dma50" : 30.16,
+    "dma100" : 29.51,
+    "dma200" : 25.14,
+    "volume" : 9594072.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 28.81,
-    "dma50" : 30.24,
-    "dma100" : 29.53,
-    "dma200" : 25.11,
-    "volume" : 12239717.00
+    "date" : "2026-11-26",
+    "price" : 28.23,
+    "dma50" : 30.16,
+    "dma100" : 29.51,
+    "dma200" : 25.14,
+    "volume" : 9594072.00
   },
   "quarterlyResults" : [ {
     "date" : "2010-06-30",
@@ -2407,15 +2414,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 4.26,
+    "pricePercentageAboveDma50" : 5.32,
+    "pricePercentageAboveDma100" : 5.22,
+    "pricePercentageAboveDma200" : 4.39,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.06,
     "operatingProfitMarginPercentile" : 19.70,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 39.62,
+    "totalTechnicalScore" : 39.92,
     "totalFundamentalScore" : 43.97,
-    "totalScore" : 83.59
+    "totalScore" : 83.90
   }
 }

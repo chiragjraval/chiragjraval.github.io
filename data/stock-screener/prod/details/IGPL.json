@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "IGPL",
       "companyName" : "I G Petrochems",
-      "marketCap" : 1554.00,
-      "peRatio" : 9.21,
+      "marketCap" : 1552.00,
+      "peRatio" : 9.20,
       "description" : "I G Petrochemicals Ltd, incorporated in 1988, manufactures Phthalic Anhydride (PAN), Maleic Anhydride (MAN) and Benzoic Acid which are used in manufacturing of dyes, polyester resins etc. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma50" : 5.35,
+      "pricePercentageAboveDma100" : 5.15,
       "pricePercentageAboveDma200" : 4.84,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 16.55,
       "netProfitMarginPercentile" : 8.51,
-      "totalTechnicalScore" : 40.34,
+      "totalTechnicalScore" : 35.35,
       "totalFundamentalScore" : 43.85,
-      "totalScore" : 84.19
+      "totalScore" : 79.20
     }
   },
   "attributes" : {
     "companyCode" : "IGPL",
     "companyName" : "I G Petrochems",
-    "marketCap" : 1554.00,
-    "peRatio" : 9.21,
+    "marketCap" : 1552.00,
+    "peRatio" : 9.20,
     "description" : "I G Petrochemicals Ltd, incorporated in 1988, manufactures Phthalic Anhydride (PAN), Maleic Anhydride (MAN) and Benzoic Acid which are used in manufacturing of dyes, polyester resins etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 377.70,
-    "dma50" : 408.92,
-    "dma100" : null,
-    "dma200" : 449.42,
-    "volume" : 17962.00
-  }, {
     "date" : "2025-11-27",
     "price" : 380.80,
     "dma50" : 407.82,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 424.95,
     "dma50" : 382.06,
-    "dma100" : 375.38,
+    "dma100" : null,
     "dma200" : 402.43,
     "volume" : 43417.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 519.50,
     "dma200" : 488.53,
     "volume" : 52270.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 504.05,
+    "dma50" : 542.36,
+    "dma100" : 519.99,
+    "dma200" : 488.69,
+    "volume" : 26169.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 504.60,
-    "dma50" : 543.92,
-    "dma100" : 519.50,
-    "dma200" : 488.53,
-    "volume" : 52270.00
+    "date" : "2026-11-26",
+    "price" : 504.05,
+    "dma50" : 542.36,
+    "dma100" : 519.99,
+    "dma200" : 488.69,
+    "volume" : 26169.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma50" : 5.35,
+    "pricePercentageAboveDma100" : 5.15,
     "pricePercentageAboveDma200" : 4.84,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 16.55,
     "netProfitMarginPercentile" : 8.51,
-    "totalTechnicalScore" : 40.34,
+    "totalTechnicalScore" : 35.35,
     "totalFundamentalScore" : 43.85,
-    "totalScore" : 84.19
+    "totalScore" : 79.20
   }
 }

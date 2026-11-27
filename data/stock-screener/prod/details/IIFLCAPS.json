@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "IIFLCAPS",
       "companyName" : "IIFL Capital",
-      "marketCap" : 10550.00,
-      "peRatio" : 17.20,
+      "marketCap" : 10922.00,
+      "peRatio" : 17.80,
       "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.12,
-      "pricePercentageAboveDma100" : 5.09,
-      "pricePercentageAboveDma200" : 4.99,
+      "pricePercentageAboveDma50" : 4.95,
+      "pricePercentageAboveDma100" : 4.92,
+      "pricePercentageAboveDma200" : 4.81,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 17.06,
       "netProfitMarginPercentile" : 3.24,
-      "totalTechnicalScore" : 40.20,
+      "totalTechnicalScore" : 49.68,
       "totalFundamentalScore" : 32.29,
-      "totalScore" : 72.50
+      "totalScore" : 81.98
     }
   },
   "attributes" : {
     "companyCode" : "IIFLCAPS",
     "companyName" : "IIFL Capital",
-    "marketCap" : 10550.00,
-    "peRatio" : 17.20,
+    "marketCap" : 10922.00,
+    "peRatio" : 17.80,
     "description" : "Incorporated in 1996 as a broking arm of the IIFL Group, IIFL Securities Limited provides retail and institutional equities, financial products distribution, commodity broking, currency broking, investment banking, financial planning and wealth management services to retail and institutional customers across India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 309.50,
-    "dma50" : 317.53,
-    "dma100" : null,
-    "dma200" : 299.41,
-    "volume" : 517453.00
-  }, {
     "date" : "2025-11-27",
     "price" : 302.00,
     "dma50" : 316.92,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 320.06,
     "dma50" : 299.46,
-    "dma100" : 317.60,
+    "dma100" : null,
     "dma200" : 307.40,
     "volume" : 2576819.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 340.70,
     "dma200" : 333.41,
     "volume" : 2891308.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 346.15,
+    "dma50" : 342.88,
+    "dma100" : 340.76,
+    "dma200" : 333.53,
+    "volume" : 1823822.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 334.35,
-    "dma50" : 342.74,
-    "dma100" : 340.70,
-    "dma200" : 333.41,
-    "volume" : 2891308.00
+    "date" : "2026-11-26",
+    "price" : 346.15,
+    "dma50" : 342.88,
+    "dma100" : 340.76,
+    "dma200" : 333.53,
+    "volume" : 1823822.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-06-30",
@@ -2130,21 +2130,21 @@
     "netProfit" : 122.09
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.12,
-    "pricePercentageAboveDma100" : 5.09,
-    "pricePercentageAboveDma200" : 4.99,
+    "pricePercentageAboveDma50" : 4.95,
+    "pricePercentageAboveDma100" : 4.92,
+    "pricePercentageAboveDma200" : 4.81,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 17.06,
     "netProfitMarginPercentile" : 3.24,
-    "totalTechnicalScore" : 40.20,
+    "totalTechnicalScore" : 49.68,
     "totalFundamentalScore" : 32.29,
-    "totalScore" : 72.50
+    "totalScore" : 81.98
   }
 }

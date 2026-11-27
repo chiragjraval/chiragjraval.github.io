@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ENTERO",
       "companyName" : "Entero Healthcar",
-      "marketCap" : 8269.00,
-      "peRatio" : 57.80,
+      "marketCap" : 7982.00,
+      "peRatio" : 55.80,
       "description" : "Incorporated in 2018, Entero Healthcare Solutions Ltd is in the business of distribution and marketing of pharmaceutical and surgical products and allied services[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.57,
-      "pricePercentageAboveDma100" : 3.99,
-      "pricePercentageAboveDma200" : 3.51,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 4.22,
+      "pricePercentageAboveDma200" : 3.75,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.33,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 42.07,
+      "totalTechnicalScore" : 42.74,
       "totalFundamentalScore" : 40.83,
-      "totalScore" : 82.91
+      "totalScore" : 83.58
     }
   },
   "attributes" : {
     "companyCode" : "ENTERO",
     "companyName" : "Entero Healthcar",
-    "marketCap" : 8269.00,
-    "peRatio" : 57.80,
+    "marketCap" : 7982.00,
+    "peRatio" : 55.80,
     "description" : "Incorporated in 2018, Entero Healthcare Solutions Ltd is in the business of distribution and marketing of pharmaceutical and surgical products and allied services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1050.10,
-    "dma50" : 1115.60,
-    "dma100" : null,
-    "dma200" : 1195.14,
-    "volume" : 74047.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1033.80,
     "dma50" : 1112.39,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1250.10,
     "dma50" : 1167.78,
-    "dma100" : 1110.99,
+    "dma100" : null,
     "dma200" : 1151.72,
     "volume" : 51192.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1579.40,
     "dma200" : 1462.55,
     "volume" : 409649.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1832.10,
+    "dma50" : 1751.38,
+    "dma100" : 1585.60,
+    "dma200" : 1466.23,
+    "volume" : 86867.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1898.00,
-    "dma50" : 1748.09,
-    "dma100" : 1579.40,
-    "dma200" : 1462.55,
-    "volume" : 409649.00
+    "date" : "2026-11-26",
+    "price" : 1832.10,
+    "dma50" : 1751.38,
+    "dma100" : 1585.60,
+    "dma200" : 1466.23,
+    "volume" : 86867.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-12-31",
@@ -1956,15 +1956,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.57,
-    "pricePercentageAboveDma100" : 3.99,
-    "pricePercentageAboveDma200" : 3.51,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 4.22,
+    "pricePercentageAboveDma200" : 3.75,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.33,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 7.50,
-    "totalTechnicalScore" : 42.07,
+    "totalTechnicalScore" : 42.74,
     "totalFundamentalScore" : 40.83,
-    "totalScore" : 82.91
+    "totalScore" : 83.58
   }
 }

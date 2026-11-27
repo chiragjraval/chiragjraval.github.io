@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "STOVEKRAFT",
       "companyName" : "Stove Kraft",
-      "marketCap" : 2465.00,
-      "peRatio" : 43.70,
+      "marketCap" : 2448.00,
+      "peRatio" : 43.40,
       "description" : "StoveKraft Ltd was incorporated in 1999 by Mr. Rajendra Gandhi. [1] It manufactures a wide range of kitchen solutions under Pigeon (value), Gilma (semi-premium) brands and acts as an exclusive partner for kitchen appliances of the BLACK + DECKER (premium) brand. The products comprise cookware and cooking appliances, while the home solutions consist of various household utilities, including the recently introduced LED bulbs, oxymeters, etc. [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.31,
-      "pricePercentageAboveDma100" : 5.34,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.37,
+      "pricePercentageAboveDma200" : 4.91,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.17,
       "operatingProfitMarginPercentile" : 18.57,
       "netProfitMarginPercentile" : 7.86,
-      "totalTechnicalScore" : 30.52,
+      "totalTechnicalScore" : 30.61,
       "totalFundamentalScore" : 40.60,
-      "totalScore" : 71.12
+      "totalScore" : 71.21
     }
   },
   "attributes" : {
     "companyCode" : "STOVEKRAFT",
     "companyName" : "Stove Kraft",
-    "marketCap" : 2465.00,
-    "peRatio" : 43.70,
+    "marketCap" : 2448.00,
+    "peRatio" : 43.40,
     "description" : "StoveKraft Ltd was incorporated in 1999 by Mr. Rajendra Gandhi. [1] It manufactures a wide range of kitchen solutions under Pigeon (value), Gilma (semi-premium) brands and acts as an exclusive partner for kitchen appliances of the BLACK + DECKER (premium) brand. The products comprise cookware and cooking appliances, while the home solutions consist of various household utilities, including the recently introduced LED bulbs, oxymeters, etc. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 623.75,
-    "dma50" : 663.01,
-    "dma100" : null,
-    "dma200" : 666.12,
-    "volume" : 103915.00
-  }, {
     "date" : "2025-11-27",
     "price" : 617.40,
     "dma50" : 661.22,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 539.20,
     "dma50" : 522.55,
-    "dma100" : 534.09,
+    "dma100" : null,
     "dma200" : 578.24,
     "volume" : 169106.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 799.66,
     "dma200" : 726.21,
     "volume" : 42778.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 739.30,
+    "dma50" : 790.91,
+    "dma100" : 799.23,
+    "dma200" : 726.34,
+    "volume" : 33518.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 744.50,
-    "dma50" : 793.02,
-    "dma100" : 799.66,
-    "dma200" : 726.21,
-    "volume" : 42778.00
+    "date" : "2026-11-26",
+    "price" : 739.30,
+    "dma50" : 790.91,
+    "dma100" : 799.23,
+    "dma200" : 726.34,
+    "volume" : 33518.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-12-31",
@@ -2076,15 +2076,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.31,
-    "pricePercentageAboveDma100" : 5.34,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.37,
+    "pricePercentageAboveDma200" : 4.91,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.17,
     "operatingProfitMarginPercentile" : 18.57,
     "netProfitMarginPercentile" : 7.86,
-    "totalTechnicalScore" : 30.52,
+    "totalTechnicalScore" : 30.61,
     "totalFundamentalScore" : 40.60,
-    "totalScore" : 71.12
+    "totalScore" : 71.21
   }
 }

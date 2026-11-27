@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "THEJO",
       "companyName" : "Thejo Engg.",
-      "marketCap" : 2147.00,
-      "peRatio" : 34.80,
+      "marketCap" : 2159.00,
+      "peRatio" : 35.00,
       "description" : "Thejo Engineering Ltd., incorporated in 1986, is an Engineering Solutions provider for Bulk Material Handling, Mineral Processing and Corrosion Protection to the Core Sector Industries like mining, power, steel, cement, ports and fertilisers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.08,
-      "pricePercentageAboveDma100" : 5.13,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.10,
+      "pricePercentageAboveDma200" : 4.84,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.14,
       "operatingProfitMarginPercentile" : 14.90,
       "netProfitMarginPercentile" : 9.17,
-      "totalTechnicalScore" : 30.08,
+      "totalTechnicalScore" : 30.00,
       "totalFundamentalScore" : 42.21,
-      "totalScore" : 72.30
+      "totalScore" : 72.21
     }
   },
   "attributes" : {
     "companyCode" : "THEJO",
     "companyName" : "Thejo Engg.",
-    "marketCap" : 2147.00,
-    "peRatio" : 34.80,
+    "marketCap" : 2159.00,
+    "peRatio" : 35.00,
     "description" : "Thejo Engineering Ltd., incorporated in 1986, is an Engineering Solutions provider for Bulk Material Handling, Mineral Processing and Corrosion Protection to the Core Sector Industries like mining, power, steel, cement, ports and fertilisers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1704.80,
-    "dma50" : 1787.74,
-    "dma100" : null,
-    "dma200" : 1929.74,
-    "volume" : 2660.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1688.60,
     "dma50" : 1783.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1740.70,
     "dma50" : 1681.08,
-    "dma100" : 1687.61,
+    "dma100" : null,
     "dma200" : 1774.43,
     "volume" : 6786.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2031.90,
     "dma200" : 1928.99,
     "volume" : 5827.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1990.20,
+    "dma50" : 2011.21,
+    "dma100" : 2032.62,
+    "dma200" : 1929.60,
+    "volume" : 2990.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1979.20,
-    "dma50" : 2012.07,
-    "dma100" : 2031.90,
-    "dma200" : 1928.99,
-    "volume" : 5827.00
+    "date" : "2026-11-26",
+    "price" : 1990.20,
+    "dma50" : 2011.21,
+    "dma100" : 2032.62,
+    "dma200" : 1929.60,
+    "volume" : 2990.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-09-30",
@@ -2036,15 +2036,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.08,
-    "pricePercentageAboveDma100" : 5.13,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.10,
+    "pricePercentageAboveDma200" : 4.84,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.14,
     "operatingProfitMarginPercentile" : 14.90,
     "netProfitMarginPercentile" : 9.17,
-    "totalTechnicalScore" : 30.08,
+    "totalTechnicalScore" : 30.00,
     "totalFundamentalScore" : 42.21,
-    "totalScore" : 72.30
+    "totalScore" : 72.21
   }
 }

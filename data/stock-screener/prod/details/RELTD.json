@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RELTD",
       "companyName" : "Ravindra Energy",
-      "marketCap" : 2593.00,
-      "peRatio" : 54.10,
+      "marketCap" : 2709.00,
+      "peRatio" : 56.50,
       "description" : "Incorporated in 1980, Ravindra Energy Ltd is in the business of selling Solar Pumps, setting up Solar Generation Power Plant (Ground Mount & Rooftop) & generation and sale of Power[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.77,
-      "pricePercentageAboveDma200" : 5.53,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.57,
+      "pricePercentageAboveDma200" : 5.33,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 18.58,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 21.69,
+      "totalTechnicalScore" : 21.07,
       "totalFundamentalScore" : 39.73,
-      "totalScore" : 61.42
+      "totalScore" : 60.80
     }
   },
   "attributes" : {
     "companyCode" : "RELTD",
     "companyName" : "Ravindra Energy",
-    "marketCap" : 2593.00,
-    "peRatio" : 54.10,
+    "marketCap" : 2709.00,
+    "peRatio" : 56.50,
     "description" : "Incorporated in 1980, Ravindra Energy Ltd is in the business of selling Solar Pumps, setting up Solar Generation Power Plant (Ground Mount & Rooftop) & generation and sale of Power[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 148.35,
-    "dma50" : 153.83,
-    "dma100" : null,
-    "dma200" : 137.47,
-    "volume" : 125860.00
-  }, {
     "date" : "2025-11-27",
     "price" : 148.90,
     "dma50" : 153.64,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 140.95,
     "dma50" : 136.89,
-    "dma100" : 143.41,
+    "dma100" : null,
     "dma200" : 139.83,
     "volume" : 139772.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 154.17,
     "dma200" : 146.20,
     "volume" : 51347.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 136.42,
+    "dma50" : 141.35,
+    "dma100" : 153.86,
+    "dma200" : 146.11,
+    "volume" : 203328.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 130.58,
-    "dma50" : 141.55,
-    "dma100" : 154.17,
-    "dma200" : 146.20,
-    "volume" : 51347.00
+    "date" : "2026-11-26",
+    "price" : 136.42,
+    "dma50" : 141.35,
+    "dma100" : 153.86,
+    "dma200" : 146.11,
+    "volume" : 203328.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.77,
-    "pricePercentageAboveDma200" : 5.53,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.57,
+    "pricePercentageAboveDma200" : 5.33,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 18.58,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 21.69,
+    "totalTechnicalScore" : 21.07,
     "totalFundamentalScore" : 39.73,
-    "totalScore" : 61.42
+    "totalScore" : 60.80
   }
 }

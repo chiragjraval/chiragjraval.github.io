@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MFSL",
       "companyName" : "Max Financial",
-      "marketCap" : 49835.00,
-      "peRatio" : 270.00,
+      "marketCap" : 50169.00,
+      "peRatio" : 272.00,
       "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.73,
-      "pricePercentageAboveDma100" : 5.02,
-      "pricePercentageAboveDma200" : 5.16,
+      "pricePercentageAboveDma50" : 4.71,
+      "pricePercentageAboveDma100" : 4.98,
+      "pricePercentageAboveDma200" : 5.12,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 11.08,
       "operatingProfitMarginPercentile" : 17.63,
       "netProfitMarginPercentile" : 8.78,
-      "totalTechnicalScore" : 24.91,
+      "totalTechnicalScore" : 29.81,
       "totalFundamentalScore" : 37.50,
-      "totalScore" : 62.41
+      "totalScore" : 67.31
     }
   },
   "attributes" : {
     "companyCode" : "MFSL",
     "companyName" : "Max Financial",
-    "marketCap" : 49835.00,
-    "peRatio" : 270.00,
+    "marketCap" : 50169.00,
+    "peRatio" : 272.00,
     "description" : "Max Financial Services Limited incorporated on 24 February, 1988 is part of India’s leading business conglomerate – the Max Group. Company is primarily engaged in growing and nurturing business investments and providing management advisory services to Indian group companies.[1] It owns and actively manages an 81.83% majority stake in Max Life Insurance, India’s largest non-bank life insurer and 4th largest private life insurance company. [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1736.70,
-    "dma50" : 1614.29,
-    "dma100" : null,
-    "dma200" : 1463.72,
-    "volume" : 847437.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1728.40,
     "dma50" : 1618.76,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1587.30,
     "dma50" : 1650.22,
-    "dma100" : 1680.59,
+    "dma100" : null,
     "dma200" : 1597.00,
     "volume" : 832192.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1449.82,
     "dma200" : 1490.79,
     "volume" : 3218036.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1453.70,
+    "dma50" : 1372.83,
+    "dma100" : 1448.39,
+    "dma200" : 1490.42,
+    "volume" : 556057.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1444.00,
-    "dma50" : 1369.53,
-    "dma100" : 1449.82,
-    "dma200" : 1490.79,
-    "volume" : 3218036.00
+    "date" : "2026-11-26",
+    "price" : 1453.70,
+    "dma50" : 1372.83,
+    "dma100" : 1448.39,
+    "dma200" : 1490.42,
+    "volume" : 556057.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.73,
-    "pricePercentageAboveDma100" : 5.02,
-    "pricePercentageAboveDma200" : 5.16,
+    "pricePercentageAboveDma50" : 4.71,
+    "pricePercentageAboveDma100" : 4.98,
+    "pricePercentageAboveDma200" : 5.12,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 11.08,
     "operatingProfitMarginPercentile" : 17.63,
     "netProfitMarginPercentile" : 8.78,
-    "totalTechnicalScore" : 24.91,
+    "totalTechnicalScore" : 29.81,
     "totalFundamentalScore" : 37.50,
-    "totalScore" : 62.41
+    "totalScore" : 67.31
   }
 }

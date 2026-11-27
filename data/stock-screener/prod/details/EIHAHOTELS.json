@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EIHAHOTELS",
       "companyName" : "EIH Assoc.Hotels",
-      "marketCap" : 1768.00,
-      "peRatio" : 19.40,
+      "marketCap" : 1746.00,
+      "peRatio" : 19.10,
       "description" : "EIH Associated Hotels Ltd is primarily engaged in owning premium luxury hotels under the luxury 'Oberoi' and five-star 'Trident' brands.[1] It is a Joint-Venture between the Oberoi Family and the Rajan Raheja Group.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.33,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.38,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 18.86,
       "netProfitMarginPercentile" : 9.49,
-      "totalTechnicalScore" : 20.48,
+      "totalTechnicalScore" : 20.65,
       "totalFundamentalScore" : 44.01,
-      "totalScore" : 64.49
+      "totalScore" : 64.66
     }
   },
   "attributes" : {
     "companyCode" : "EIHAHOTELS",
     "companyName" : "EIH Assoc.Hotels",
-    "marketCap" : 1768.00,
-    "peRatio" : 19.40,
+    "marketCap" : 1746.00,
+    "peRatio" : 19.10,
     "description" : "EIH Associated Hotels Ltd is primarily engaged in owning premium luxury hotels under the luxury 'Oberoi' and five-star 'Trident' brands.[1] It is a Joint-Venture between the Oberoi Family and the Rajan Raheja Group.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 360.70,
-    "dma50" : 377.01,
-    "dma100" : null,
-    "dma200" : 380.33,
-    "volume" : 14219.00
-  }, {
     "date" : "2025-11-27",
     "price" : 364.05,
     "dma50" : 376.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 320.55,
     "dma50" : 318.90,
-    "dma100" : 333.17,
+    "dma100" : null,
     "dma200" : 347.30,
     "volume" : 13100.00
   }, {
@@ -1121,7 +1114,7 @@
     "date" : "2026-07-14",
     "price" : 329.45,
     "dma50" : 318.30,
-    "dma100" : 316.61,
+    "dma100" : 316.60,
     "dma200" : 335.00,
     "volume" : 29823.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 298.56,
     "dma200" : 310.51,
     "volume" : 11748.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 286.55,
+    "dma50" : 290.69,
+    "dma100" : 298.17,
+    "dma200" : 310.27,
+    "volume" : 15768.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 290.15,
-    "dma50" : 290.86,
-    "dma100" : 298.56,
-    "dma200" : 310.51,
-    "volume" : 11748.00
+    "date" : "2026-11-26",
+    "price" : 286.55,
+    "dma50" : 290.69,
+    "dma100" : 298.17,
+    "dma200" : 310.27,
+    "volume" : 15768.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.33,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.38,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 18.86,
     "netProfitMarginPercentile" : 9.49,
-    "totalTechnicalScore" : 20.48,
+    "totalTechnicalScore" : 20.65,
     "totalFundamentalScore" : 44.01,
-    "totalScore" : 64.49
+    "totalScore" : 64.66
   }
 }

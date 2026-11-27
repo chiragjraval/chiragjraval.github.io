@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SIGACHI",
       "companyName" : "Sigachi Indust.",
-      "marketCap" : 1176.00,
-      "peRatio" : 47.00,
+      "marketCap" : 1152.00,
+      "peRatio" : 46.00,
       "description" : "Incorporated in 1989, Sigachi Industries Ltd is a manufacturing and selling of MCC.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.54,
-      "pricePercentageAboveDma200" : 4.49,
+      "pricePercentageAboveDma50" : 4.68,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.60,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.26,
       "operatingProfitMarginPercentile" : 9.96,
       "netProfitMarginPercentile" : 2.47,
-      "totalTechnicalScore" : 48.58,
+      "totalTechnicalScore" : 48.94,
       "totalFundamentalScore" : 29.68,
-      "totalScore" : 78.26
+      "totalScore" : 78.62
     }
   },
   "attributes" : {
     "companyCode" : "SIGACHI",
     "companyName" : "Sigachi Indust.",
-    "marketCap" : 1176.00,
-    "peRatio" : 47.00,
+    "marketCap" : 1152.00,
+    "peRatio" : 46.00,
     "description" : "Incorporated in 1989, Sigachi Industries Ltd is a manufacturing and selling of MCC.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 34.67,
-    "dma50" : 36.81,
-    "dma100" : null,
-    "dma200" : 41.23,
-    "volume" : 755618.00
-  }, {
     "date" : "2025-11-27",
     "price" : 34.56,
     "dma50" : 36.72,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 21.96,
     "dma50" : 21.88,
-    "dma100" : 25.27,
+    "dma100" : null,
     "dma200" : 30.26,
     "volume" : 1657089.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 28.16,
     "dma200" : 27.90,
     "volume" : 3710930.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 30.16,
+    "dma50" : 28.36,
+    "dma100" : 28.23,
+    "dma200" : 27.93,
+    "volume" : 2022645.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 30.77,
-    "dma50" : 28.29,
-    "dma100" : 28.16,
-    "dma200" : 27.90,
-    "volume" : 3710930.00
+    "date" : "2026-11-26",
+    "price" : 30.16,
+    "dma50" : 28.36,
+    "dma100" : 28.23,
+    "dma200" : 27.93,
+    "volume" : 2022645.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-12-31",
@@ -2036,15 +2036,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.54,
-    "pricePercentageAboveDma200" : 4.49,
+    "pricePercentageAboveDma50" : 4.68,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.60,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.26,
     "operatingProfitMarginPercentile" : 9.96,
     "netProfitMarginPercentile" : 2.47,
-    "totalTechnicalScore" : 48.58,
+    "totalTechnicalScore" : 48.94,
     "totalFundamentalScore" : 29.68,
-    "totalScore" : 78.26
+    "totalScore" : 78.62
   }
 }

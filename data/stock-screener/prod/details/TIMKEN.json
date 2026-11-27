@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TIMKEN",
       "companyName" : "Timken India",
-      "marketCap" : 23180.00,
-      "peRatio" : 53.20,
+      "marketCap" : 23054.00,
+      "peRatio" : 52.90,
       "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 5.15,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 13.79,
       "netProfitMarginPercentile" : 6.09,
-      "totalTechnicalScore" : 20.16,
+      "totalTechnicalScore" : 20.24,
       "totalFundamentalScore" : 34.58,
-      "totalScore" : 54.75
+      "totalScore" : 54.82
     }
   },
   "attributes" : {
     "companyCode" : "TIMKEN",
     "companyName" : "Timken India",
-    "marketCap" : 23180.00,
-    "peRatio" : 53.20,
+    "marketCap" : 23054.00,
+    "peRatio" : 52.90,
     "description" : "Timken India Ltd is engaged in the manufacturing, distribution and sale of anti-friction bearings, components, accessories and mechanical power transmission products for the customer base across different sectors. It also provided maintenance contracts and refurbishment services and industrial services. It was incorporated in 1987 and is a part of the global Timken Group.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 3137.50,
-    "dma50" : 3050.26,
-    "dma100" : null,
-    "dma200" : 3069.19,
-    "volume" : 48721.00
-  }, {
     "date" : "2025-11-27",
     "price" : 3151.60,
     "dma50" : 3054.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 3517.60,
     "dma50" : 3344.94,
-    "dma100" : 3193.06,
+    "dma100" : null,
     "dma200" : 3174.62,
     "volume" : 35761.00
   }, {
@@ -932,7 +925,7 @@
     "date" : "2026-06-04",
     "price" : 3571.30,
     "dma50" : 3489.37,
-    "dma100" : 3325.23,
+    "dma100" : 3325.24,
     "dma200" : 3264.79,
     "volume" : 24502.00
   }, {
@@ -1079,7 +1072,7 @@
     "date" : "2026-07-06",
     "price" : 3346.70,
     "dma50" : 3530.90,
-    "dma100" : 3439.52,
+    "dma100" : 3439.53,
     "dma200" : 3322.64,
     "volume" : 32509.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3114.09,
     "dma200" : 3176.54,
     "volume" : 37149.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 3064.90,
+    "dma50" : 3058.18,
+    "dma100" : 3110.73,
+    "dma200" : 3175.43,
+    "volume" : 21200.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 3081.70,
-    "dma50" : 3057.90,
-    "dma100" : 3114.09,
-    "dma200" : 3176.54,
-    "volume" : 37149.00
+    "date" : "2026-11-26",
+    "price" : 3064.90,
+    "dma50" : 3058.18,
+    "dma100" : 3110.73,
+    "dma200" : 3175.43,
+    "volume" : 21200.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 5.15,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 13.79,
     "netProfitMarginPercentile" : 6.09,
-    "totalTechnicalScore" : 20.16,
+    "totalTechnicalScore" : 20.24,
     "totalFundamentalScore" : 34.58,
-    "totalScore" : 54.75
+    "totalScore" : 54.82
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NSIL",
       "companyName" : "Nalwa Sons Invst",
-      "marketCap" : 2430.00,
-      "peRatio" : 33.20,
+      "marketCap" : 2437.00,
+      "peRatio" : 33.30,
       "description" : "Nalwa Sons Investments Ltd (NSIL) is an RBI-registered, non-deposit-taking NBFC–Middle Layer that holds strategic investments, mainly in O.P. Jindal-group companies, and lends to group companies. Consolidated accounts also include a small goods-trading activity.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.37,
-      "pricePercentageAboveDma100" : 5.58,
-      "pricePercentageAboveDma200" : 5.75,
+      "pricePercentageAboveDma50" : 5.34,
+      "pricePercentageAboveDma100" : 5.57,
+      "pricePercentageAboveDma200" : 5.73,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.35,
       "operatingProfitMarginPercentile" : 19.84,
       "netProfitMarginPercentile" : 7.68,
-      "totalTechnicalScore" : 16.70,
+      "totalTechnicalScore" : 16.64,
       "totalFundamentalScore" : 44.87,
-      "totalScore" : 61.57
+      "totalScore" : 61.51
     }
   },
   "attributes" : {
     "companyCode" : "NSIL",
     "companyName" : "Nalwa Sons Invst",
-    "marketCap" : 2430.00,
-    "peRatio" : 33.20,
+    "marketCap" : 2437.00,
+    "peRatio" : 33.30,
     "description" : "Nalwa Sons Investments Ltd (NSIL) is an RBI-registered, non-deposit-taking NBFC–Middle Layer that holds strategic investments, mainly in O.P. Jindal-group companies, and lends to group companies. Consolidated accounts also include a small goods-trading activity.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 6810.50,
-    "dma50" : 7198.10,
-    "dma100" : null,
-    "dma200" : 6859.05,
-    "volume" : 2947.00
-  }, {
     "date" : "2025-11-27",
     "price" : 6728.50,
     "dma50" : 7179.69,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 5654.90,
     "dma50" : 5690.88,
-    "dma100" : 6001.22,
+    "dma100" : null,
     "dma200" : 6244.92,
     "volume" : 2345.00
   }, {
@@ -1754,14 +1747,21 @@
     "dma100" : 5352.30,
     "dma200" : 5557.10,
     "volume" : 1545.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 4740.70,
+    "dma50" : 5091.01,
+    "dma100" : 5345.00,
+    "dma200" : 5548.97,
+    "volume" : 1477.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 4728.40,
-    "dma50" : 5105.31,
-    "dma100" : 5352.30,
-    "dma200" : 5557.10,
-    "volume" : 1545.00
+    "date" : "2026-11-26",
+    "price" : 4740.70,
+    "dma50" : 5091.01,
+    "dma100" : 5345.00,
+    "dma200" : 5548.97,
+    "volume" : 1477.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2652,15 +2652,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.37,
-    "pricePercentageAboveDma100" : 5.58,
-    "pricePercentageAboveDma200" : 5.75,
+    "pricePercentageAboveDma50" : 5.34,
+    "pricePercentageAboveDma100" : 5.57,
+    "pricePercentageAboveDma200" : 5.73,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.35,
     "operatingProfitMarginPercentile" : 19.84,
     "netProfitMarginPercentile" : 7.68,
-    "totalTechnicalScore" : 16.70,
+    "totalTechnicalScore" : 16.64,
     "totalFundamentalScore" : 44.87,
-    "totalScore" : 61.57
+    "totalScore" : 61.51
   }
 }

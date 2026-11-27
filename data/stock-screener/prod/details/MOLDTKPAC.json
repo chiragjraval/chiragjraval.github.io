@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MOLDTKPAC",
       "companyName" : "Mold-Tek Pack.",
-      "marketCap" : 2259.00,
-      "peRatio" : 27.70,
+      "marketCap" : 2194.00,
+      "peRatio" : 26.90,
       "description" : "Mold-Tek Packaging is engaged in the manufacturing of injection-molded containers for lubes, paints, food and other products."
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.89,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.81,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 4.96,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.29,
       "operatingProfitMarginPercentile" : 15.92,
       "netProfitMarginPercentile" : 8.44,
-      "totalTechnicalScore" : 39.64,
+      "totalTechnicalScore" : 30.08,
       "totalFundamentalScore" : 40.65,
-      "totalScore" : 80.29
+      "totalScore" : 70.72
     }
   },
   "attributes" : {
     "companyCode" : "MOLDTKPAC",
     "companyName" : "Mold-Tek Pack.",
-    "marketCap" : 2259.00,
-    "peRatio" : 27.70,
+    "marketCap" : 2194.00,
+    "peRatio" : 26.90,
     "description" : "Mold-Tek Packaging is engaged in the manufacturing of injection-molded containers for lubes, paints, food and other products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 309.63,
-    "dma50" : 354.60,
-    "dma100" : null,
-    "dma200" : 350.91,
-    "volume" : 132010.00
-  }, {
     "date" : "2025-11-27",
     "price" : 303.45,
     "dma50" : 352.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 292.20,
     "dma50" : 274.97,
-    "dma100" : 281.00,
+    "dma100" : null,
     "dma200" : 304.87,
     "volume" : 186452.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 335.92,
     "dma200" : 327.53,
     "volume" : 211861.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 330.10,
+    "dma50" : 332.41,
+    "dma100" : 335.70,
+    "dma200" : 327.56,
+    "volume" : 123608.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 339.85,
-    "dma50" : 332.51,
-    "dma100" : 335.92,
-    "dma200" : 327.53,
-    "volume" : 211861.00
+    "date" : "2026-11-26",
+    "price" : 330.10,
+    "dma50" : 332.41,
+    "dma100" : 335.70,
+    "dma200" : 327.56,
+    "volume" : 123608.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-06-30",
@@ -2530,21 +2530,21 @@
     "netProfit" : 21.06
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.89,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.81,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 4.96,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.29,
     "operatingProfitMarginPercentile" : 15.92,
     "netProfitMarginPercentile" : 8.44,
-    "totalTechnicalScore" : 39.64,
+    "totalTechnicalScore" : 30.08,
     "totalFundamentalScore" : 40.65,
-    "totalScore" : 80.29
+    "totalScore" : 70.72
   }
 }

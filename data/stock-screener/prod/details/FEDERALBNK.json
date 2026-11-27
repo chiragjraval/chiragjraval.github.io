@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "FEDERALBNK",
       "companyName" : "Federal Bank",
-      "marketCap" : 88099.00,
+      "marketCap" : 88264.00,
       "peRatio" : 17.00,
       "description" : "The Federal Bank Limited (‘the Bank’) was incorporated in 1931 as Travancore Federal Bank Limited. It provides retail and corporate banking, para banking activities such as debit card, third party product distribution etc., treasury and foreign exchange business.[1].It is the second-largest bank and the largest private sector bank in Kerala[2]"
     },
@@ -27,26 +27,19 @@
       "salesGrowthPercentile" : 10.36,
       "operatingProfitMarginPercentile" : 10.55,
       "netProfitMarginPercentile" : 9.31,
-      "totalTechnicalScore" : 44.06,
+      "totalTechnicalScore" : 44.05,
       "totalFundamentalScore" : 30.22,
-      "totalScore" : 74.28
+      "totalScore" : 74.27
     }
   },
   "attributes" : {
     "companyCode" : "FEDERALBNK",
     "companyName" : "Federal Bank",
-    "marketCap" : 88099.00,
+    "marketCap" : 88264.00,
     "peRatio" : 17.00,
     "description" : "The Federal Bank Limited (‘the Bank’) was incorporated in 1931 as Travancore Federal Bank Limited. It provides retail and corporate banking, para banking activities such as debit card, third party product distribution etc., treasury and foreign exchange business.[1].It is the second-largest bank and the largest private sector bank in Kerala[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 256.37,
-    "dma50" : 226.51,
-    "dma100" : null,
-    "dma200" : 206.90,
-    "volume" : 10576501.00
-  }, {
     "date" : "2025-11-27",
     "price" : 254.87,
     "dma50" : 227.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 293.00,
     "dma50" : 279.98,
-    "dma100" : 274.73,
+    "dma100" : null,
     "dma200" : 251.12,
     "volume" : 7357369.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 344.09,
     "dma200" : 317.14,
     "volume" : 8357931.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 356.85,
+    "dma50" : 346.31,
+    "dma100" : 344.39,
+    "dma200" : 317.53,
+    "volume" : 8503552.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 356.20,
-    "dma50" : 345.88,
-    "dma100" : 344.09,
-    "dma200" : 317.14,
-    "volume" : 8357931.00
+    "date" : "2026-11-26",
+    "price" : 356.85,
+    "dma50" : 346.31,
+    "dma100" : 344.39,
+    "dma200" : 317.53,
+    "volume" : 8503552.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2673,8 +2673,8 @@
     "salesGrowthPercentile" : 10.36,
     "operatingProfitMarginPercentile" : 10.55,
     "netProfitMarginPercentile" : 9.31,
-    "totalTechnicalScore" : 44.06,
+    "totalTechnicalScore" : 44.05,
     "totalFundamentalScore" : 30.22,
-    "totalScore" : 74.28
+    "totalScore" : 74.27
   }
 }

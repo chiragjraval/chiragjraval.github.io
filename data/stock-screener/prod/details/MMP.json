@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MMP",
       "companyName" : "MMP Industries",
-      "marketCap" : 1138.00,
-      "peRatio" : 22.90,
+      "marketCap" : 1141.00,
+      "peRatio" : 23.00,
       "description" : "Incorporated in 1983, MMP Industries Ltd manufactures and sells aluminium powder products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.92,
-      "pricePercentageAboveDma100" : 4.38,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 4.39,
       "pricePercentageAboveDma200" : 3.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.56,
       "operatingProfitMarginPercentile" : 8.33,
       "netProfitMarginPercentile" : 2.97,
-      "totalTechnicalScore" : 43.06,
+      "totalTechnicalScore" : 43.07,
       "totalFundamentalScore" : 26.85,
-      "totalScore" : 69.91
+      "totalScore" : 69.92
     }
   },
   "attributes" : {
     "companyCode" : "MMP",
     "companyName" : "MMP Industries",
-    "marketCap" : 1138.00,
-    "peRatio" : 22.90,
+    "marketCap" : 1141.00,
+    "peRatio" : 23.00,
     "description" : "Incorporated in 1983, MMP Industries Ltd manufactures and sells aluminium powder products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 258.55,
-    "dma50" : 268.89,
-    "dma100" : null,
-    "dma200" : 274.59,
-    "volume" : 18553.00
-  }, {
     "date" : "2025-11-27",
     "price" : 256.50,
     "dma50" : 268.41,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 250.60,
     "dma50" : 236.86,
-    "dma100" : 243.80,
+    "dma100" : null,
     "dma200" : 253.44,
     "volume" : 12225.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 398.79,
     "dma200" : 358.79,
     "volume" : 30075.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 449.00,
+    "dma50" : 441.29,
+    "dma100" : 400.51,
+    "dma200" : 359.69,
+    "volume" : 17000.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 447.90,
-    "dma50" : 440.97,
-    "dma100" : 398.79,
-    "dma200" : 358.79,
-    "volume" : 30075.00
+    "date" : "2026-11-26",
+    "price" : 449.00,
+    "dma50" : 441.29,
+    "dma100" : 400.51,
+    "dma200" : 359.69,
+    "volume" : 17000.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2106,15 +2106,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.92,
-    "pricePercentageAboveDma100" : 4.38,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 4.39,
     "pricePercentageAboveDma200" : 3.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.56,
     "operatingProfitMarginPercentile" : 8.33,
     "netProfitMarginPercentile" : 2.97,
-    "totalTechnicalScore" : 43.06,
+    "totalTechnicalScore" : 43.07,
     "totalFundamentalScore" : 26.85,
-    "totalScore" : 69.91
+    "totalScore" : 69.92
   }
 }

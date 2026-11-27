@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TALBROAUTO",
       "companyName" : "Talbros Auto.",
-      "marketCap" : 2412.00,
-      "peRatio" : 19.80,
+      "marketCap" : 2394.00,
+      "peRatio" : 19.70,
       "description" : "Talbros Automotive Components is engaged in the business of manufacturing Gaskets and forging."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.06,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 4.67,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.23,
+      "pricePercentageAboveDma200" : 4.71,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.98,
-      "totalTechnicalScore" : 29.93,
+      "totalTechnicalScore" : 30.04,
       "totalFundamentalScore" : 44.23,
-      "totalScore" : 74.16
+      "totalScore" : 74.27
     }
   },
   "attributes" : {
     "companyCode" : "TALBROAUTO",
     "companyName" : "Talbros Auto.",
-    "marketCap" : 2412.00,
-    "peRatio" : 19.80,
+    "marketCap" : 2394.00,
+    "peRatio" : 19.70,
     "description" : "Talbros Automotive Components is engaged in the business of manufacturing Gaskets and forging."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 278.65,
-    "dma50" : 286.28,
-    "dma100" : null,
-    "dma200" : 284.80,
-    "volume" : 79309.00
-  }, {
     "date" : "2025-11-27",
     "price" : 282.65,
     "dma50" : 286.13,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 277.78,
     "dma50" : 260.31,
-    "dma100" : 265.00,
+    "dma100" : null,
     "dma200" : 270.83,
     "volume" : 61727.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 406.61,
     "dma200" : 366.39,
     "volume" : 100611.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 387.80,
+    "dma50" : 395.39,
+    "dma100" : 406.37,
+    "dma200" : 366.60,
+    "volume" : 72094.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 390.70,
-    "dma50" : 395.70,
-    "dma100" : 406.61,
-    "dma200" : 366.39,
-    "volume" : 100611.00
+    "date" : "2026-11-26",
+    "price" : 387.80,
+    "dma50" : 395.39,
+    "dma100" : 406.37,
+    "dma200" : 366.60,
+    "volume" : 72094.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.06,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 4.67,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.23,
+    "pricePercentageAboveDma200" : 4.71,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.98,
-    "totalTechnicalScore" : 29.93,
+    "totalTechnicalScore" : 30.04,
     "totalFundamentalScore" : 44.23,
-    "totalScore" : 74.16
+    "totalScore" : 74.27
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UNOMINDA",
       "companyName" : "Uno Minda",
-      "marketCap" : 79402.00,
-      "peRatio" : 59.30,
+      "marketCap" : 80268.00,
+      "peRatio" : 60.00,
       "description" : "Incorporated in 1958, Uno Minda Ltd is a manufacturer and supplier of Automotive Solutions and systems to Original Equipment Manufacturers[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.45,
-      "pricePercentageAboveDma100" : 4.30,
-      "pricePercentageAboveDma200" : 4.19,
+      "pricePercentageAboveDma50" : 4.42,
+      "pricePercentageAboveDma100" : 4.25,
+      "pricePercentageAboveDma200" : 4.14,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 16.77,
       "netProfitMarginPercentile" : 9.33,
-      "totalTechnicalScore" : 47.95,
+      "totalTechnicalScore" : 47.81,
       "totalFundamentalScore" : 40.32,
-      "totalScore" : 88.27
+      "totalScore" : 88.13
     }
   },
   "attributes" : {
     "companyCode" : "UNOMINDA",
     "companyName" : "Uno Minda",
-    "marketCap" : 79402.00,
-    "peRatio" : 59.30,
+    "marketCap" : 80268.00,
+    "peRatio" : 60.00,
     "description" : "Incorporated in 1958, Uno Minda Ltd is a manufacturer and supplier of Automotive Solutions and systems to Original Equipment Manufacturers[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1320.10,
-    "dma50" : 1261.34,
-    "dma100" : null,
-    "dma200" : 1136.79,
-    "volume" : 1659708.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1312.40,
     "dma50" : 1263.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1108.10,
     "dma50" : 1117.20,
-    "dma100" : 1178.18,
+    "dma100" : null,
     "dma200" : 1150.12,
     "volume" : 579701.00
   }, {
@@ -1282,7 +1275,7 @@
     "date" : "2026-08-14",
     "price" : 1240.00,
     "dma50" : 1171.10,
-    "dma100" : 1122.59,
+    "dma100" : 1122.60,
     "dma200" : 1147.18,
     "volume" : 276277.00
   }, {
@@ -1310,7 +1303,7 @@
     "date" : "2026-08-20",
     "price" : 1260.50,
     "dma50" : 1185.53,
-    "dma100" : 1131.27,
+    "dma100" : 1131.28,
     "dma200" : 1151.95,
     "volume" : 472831.00
   }, {
@@ -1324,7 +1317,7 @@
     "date" : "2026-08-24",
     "price" : 1251.30,
     "dma50" : 1191.10,
-    "dma100" : 1135.07,
+    "dma100" : 1135.08,
     "dma200" : 1154.05,
     "volume" : 1171951.00
   }, {
@@ -1345,7 +1338,7 @@
     "date" : "2026-08-27",
     "price" : 1280.00,
     "dma50" : 1199.44,
-    "dma100" : 1142.00,
+    "dma100" : 1142.01,
     "dma200" : 1157.32,
     "volume" : 814244.00
   }, {
@@ -1471,7 +1464,7 @@
     "date" : "2026-09-23",
     "price" : 1223.10,
     "dma50" : 1215.88,
-    "dma100" : 1165.75,
+    "dma100" : 1165.76,
     "dma200" : 1169.94,
     "volume" : 822214.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1206.17,
     "dma200" : 1183.54,
     "volume" : 801928.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1390.00,
+    "dma50" : 1245.49,
+    "dma100" : 1208.81,
+    "dma200" : 1185.60,
+    "volume" : 768791.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1375.00,
-    "dma50" : 1239.59,
-    "dma100" : 1206.17,
-    "dma200" : 1183.54,
-    "volume" : 801928.00
+    "date" : "2026-11-26",
+    "price" : 1390.00,
+    "dma50" : 1245.49,
+    "dma100" : 1208.81,
+    "dma200" : 1185.60,
+    "volume" : 768791.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.45,
-    "pricePercentageAboveDma100" : 4.30,
-    "pricePercentageAboveDma200" : 4.19,
+    "pricePercentageAboveDma50" : 4.42,
+    "pricePercentageAboveDma100" : 4.25,
+    "pricePercentageAboveDma200" : 4.14,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 16.77,
     "netProfitMarginPercentile" : 9.33,
-    "totalTechnicalScore" : 47.95,
+    "totalTechnicalScore" : 47.81,
     "totalFundamentalScore" : 40.32,
-    "totalScore" : 88.27
+    "totalScore" : 88.13
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MSUMI",
       "companyName" : "Motherson Wiring",
-      "marketCap" : 27933.00,
-      "peRatio" : 40.80,
+      "marketCap" : 27813.00,
+      "peRatio" : 40.60,
       "description" : "Motherson Sumi Wiring India, a JV between Sumitomo Wiring System and Motherson Group, is a market leader in the Indian wiring harness industry with a market share of over 40%.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.44,
-      "pricePercentageAboveDma100" : 4.45,
-      "pricePercentageAboveDma200" : 4.60,
+      "pricePercentageAboveDma50" : 4.48,
+      "pricePercentageAboveDma100" : 4.48,
+      "pricePercentageAboveDma200" : 4.63,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.95,
       "operatingProfitMarginPercentile" : 4.33,
       "netProfitMarginPercentile" : 2.17,
-      "totalTechnicalScore" : 33.49,
+      "totalTechnicalScore" : 38.59,
       "totalFundamentalScore" : 25.45,
-      "totalScore" : 58.94
+      "totalScore" : 64.04
     }
   },
   "attributes" : {
     "companyCode" : "MSUMI",
     "companyName" : "Motherson Wiring",
-    "marketCap" : 27933.00,
-    "peRatio" : 40.80,
+    "marketCap" : 27813.00,
+    "peRatio" : 40.60,
     "description" : "Motherson Sumi Wiring India, a JV between Sumitomo Wiring System and Motherson Group, is a market leader in the Indian wiring harness industry with a market share of over 40%.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 45.98,
-    "dma50" : 46.47,
-    "dma100" : null,
-    "dma200" : 42.99,
-    "volume" : 4326813.00
-  }, {
     "date" : "2025-11-27",
     "price" : 46.27,
     "dma50" : 46.47,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 39.90,
     "dma50" : 40.35,
-    "dma100" : 43.05,
+    "dma100" : null,
     "dma200" : 42.48,
     "volume" : 10878294.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 37.95,
     "dma200" : 39.02,
     "volume" : 10773663.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 41.94,
+    "dma50" : 38.01,
+    "dma100" : 37.96,
+    "dma200" : 39.05,
+    "volume" : 5420767.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 42.12,
-    "dma50" : 37.85,
-    "dma100" : 37.95,
-    "dma200" : 39.02,
-    "volume" : 10773663.00
+    "date" : "2026-11-26",
+    "price" : 41.94,
+    "dma50" : 38.01,
+    "dma100" : 37.96,
+    "dma200" : 39.05,
+    "volume" : 5420767.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -2023,18 +2023,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.44,
-    "pricePercentageAboveDma100" : 4.45,
-    "pricePercentageAboveDma200" : 4.60,
+    "pricePercentageAboveDma50" : 4.48,
+    "pricePercentageAboveDma100" : 4.48,
+    "pricePercentageAboveDma200" : 4.63,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.95,
     "operatingProfitMarginPercentile" : 4.33,
     "netProfitMarginPercentile" : 2.17,
-    "totalTechnicalScore" : 33.49,
+    "totalTechnicalScore" : 38.59,
     "totalFundamentalScore" : 25.45,
-    "totalScore" : 58.94
+    "totalScore" : 64.04
   }
 }

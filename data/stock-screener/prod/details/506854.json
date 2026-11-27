@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "506854",
       "companyName" : "Tanfac Inds.",
-      "marketCap" : 7298.00,
-      "peRatio" : 105.00,
+      "marketCap" : 7569.00,
+      "peRatio" : 109.00,
       "description" : "Incorporated in 1972, Tanfac Industries Ltd is amongst the leading producers of Hydrofluoric Acid and its derivatives."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.94,
-      "pricePercentageAboveDma100" : 4.69,
-      "pricePercentageAboveDma200" : 4.01,
+      "pricePercentageAboveDma50" : 4.76,
+      "pricePercentageAboveDma100" : 4.51,
+      "pricePercentageAboveDma200" : 3.81,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.46,
       "operatingProfitMarginPercentile" : 10.11,
       "netProfitMarginPercentile" : 6.57,
-      "totalTechnicalScore" : 43.64,
+      "totalTechnicalScore" : 43.08,
       "totalFundamentalScore" : 31.14,
-      "totalScore" : 74.79
+      "totalScore" : 74.22
     }
   },
   "attributes" : {
     "companyCode" : "506854",
     "companyName" : "Tanfac Inds.",
-    "marketCap" : 7298.00,
-    "peRatio" : 105.00,
+    "marketCap" : 7569.00,
+    "peRatio" : 109.00,
     "description" : "Incorporated in 1972, Tanfac Industries Ltd is amongst the leading producers of Hydrofluoric Acid and its derivatives."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1941.18,
-    "dma50" : 2044.64,
-    "dma100" : null,
-    "dma200" : 1887.48,
-    "volume" : 3360.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1950.88,
     "dma50" : 2040.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 2486.55,
     "dma50" : 2139.95,
-    "dma100" : 2086.54,
+    "dma100" : null,
     "dma200" : 2018.54,
     "volume" : 8803.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3176.19,
     "dma200" : 2817.56,
     "volume" : 5476.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 3498.65,
+    "dma50" : 3339.43,
+    "dma100" : 3186.89,
+    "dma200" : 2824.34,
+    "volume" : 14223.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 3373.35,
-    "dma50" : 3332.93,
-    "dma100" : 3176.19,
-    "dma200" : 2817.56,
-    "volume" : 5476.00
+    "date" : "2026-11-26",
+    "price" : 3498.65,
+    "dma50" : 3339.43,
+    "dma100" : 3186.89,
+    "dma200" : 2824.34,
+    "volume" : 14223.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.94,
-    "pricePercentageAboveDma100" : 4.69,
-    "pricePercentageAboveDma200" : 4.01,
+    "pricePercentageAboveDma50" : 4.76,
+    "pricePercentageAboveDma100" : 4.51,
+    "pricePercentageAboveDma200" : 3.81,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.46,
     "operatingProfitMarginPercentile" : 10.11,
     "netProfitMarginPercentile" : 6.57,
-    "totalTechnicalScore" : 43.64,
+    "totalTechnicalScore" : 43.08,
     "totalFundamentalScore" : 31.14,
-    "totalScore" : 74.79
+    "totalScore" : 74.22
   }
 }

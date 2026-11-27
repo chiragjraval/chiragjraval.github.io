@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TMCV",
       "companyName" : "Tata Motors",
-      "marketCap" : 162781.00,
-      "peRatio" : 22.80,
+      "marketCap" : 158730.00,
+      "peRatio" : 22.20,
       "description" : "Founded in 1945, Tata Motors Ltd is one of India's largest automobile manufacturers and a part of the Tata Group.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 4.91,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma50" : 4.99,
+      "pricePercentageAboveDma100" : 5.04,
+      "pricePercentageAboveDma200" : 4.87,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 6.67,
       "netProfitMarginPercentile" : 7.96,
-      "totalTechnicalScore" : 39.51,
+      "totalTechnicalScore" : 34.90,
       "totalFundamentalScore" : 34.63,
-      "totalScore" : 74.15
+      "totalScore" : 69.53
     }
   },
   "attributes" : {
     "companyCode" : "TMCV",
     "companyName" : "Tata Motors",
-    "marketCap" : 162781.00,
-    "peRatio" : 22.80,
+    "marketCap" : 158730.00,
+    "peRatio" : 22.20,
     "description" : "Founded in 1945, Tata Motors Ltd is one of India's largest automobile manufacturers and a part of the Tata Group.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 324.05,
-    "dma50" : 327.03,
-    "dma100" : null,
-    "dma200" : 328.75,
-    "volume" : 11255784.00
-  }, {
     "date" : "2025-11-27",
     "price" : 343.90,
     "dma50" : 327.69,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 424.55,
     "dma50" : 434.86,
-    "dma100" : 431.19,
+    "dma100" : null,
     "dma200" : 396.08,
     "volume" : 4878836.00
   }, {
@@ -1492,7 +1485,7 @@
     "date" : "2026-09-28",
     "price" : 432.95,
     "dma50" : 443.26,
-    "dma100" : 423.37,
+    "dma100" : 423.38,
     "dma200" : 418.29,
     "volume" : 4861771.00
   }, {
@@ -1520,7 +1513,7 @@
     "date" : "2026-10-05",
     "price" : 426.80,
     "dma50" : 440.33,
-    "dma100" : 423.68,
+    "dma100" : 423.69,
     "dma200" : 418.49,
     "volume" : 8475032.00
   }, {
@@ -1660,7 +1653,7 @@
     "date" : "2026-11-03",
     "price" : 404.20,
     "dma50" : 422.49,
-    "dma100" : 430.26,
+    "dma100" : 430.27,
     "dma200" : 416.84,
     "volume" : 7813363.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 434.55,
     "dma200" : 419.87,
     "volume" : 9310597.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 431.00,
+    "dma50" : 430.32,
+    "dma100" : 434.54,
+    "dma200" : 419.98,
+    "volume" : 10450752.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 442.00,
-    "dma50" : 430.29,
-    "dma100" : 434.55,
-    "dma200" : 419.87,
-    "volume" : 9310597.00
+    "date" : "2026-11-26",
+    "price" : 431.00,
+    "dma50" : 430.32,
+    "dma100" : 434.54,
+    "dma200" : 419.98,
+    "volume" : 10450752.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1881,20 +1881,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 4.91,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma50" : 4.99,
+    "pricePercentageAboveDma100" : 5.04,
+    "pricePercentageAboveDma200" : 4.87,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 6.67,
     "netProfitMarginPercentile" : 7.96,
-    "totalTechnicalScore" : 39.51,
+    "totalTechnicalScore" : 34.90,
     "totalFundamentalScore" : 34.63,
-    "totalScore" : 74.15
+    "totalScore" : 69.53
   }
 }

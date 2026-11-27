@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GODREJPROP",
       "companyName" : "Godrej Propert.",
-      "marketCap" : 57835.00,
-      "peRatio" : 42.30,
+      "marketCap" : 60375.00,
+      "peRatio" : 44.20,
       "description" : "Godrej Properties Limited (GPL) is the real estate development arm of the Godrej Group, which was started in 1897 and is today one of India’s most successful conglomerates. Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the real estate industry. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.58,
-      "pricePercentageAboveDma100" : 4.86,
-      "pricePercentageAboveDma200" : 4.80,
+      "pricePercentageAboveDma50" : 4.37,
+      "pricePercentageAboveDma100" : 4.63,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.41,
       "operatingProfitMarginPercentile" : 3.22,
       "netProfitMarginPercentile" : 8.75,
-      "totalTechnicalScore" : 34.23,
+      "totalTechnicalScore" : 33.57,
       "totalFundamentalScore" : 21.39,
-      "totalScore" : 55.62
+      "totalScore" : 54.96
     }
   },
   "attributes" : {
     "companyCode" : "GODREJPROP",
     "companyName" : "Godrej Propert.",
-    "marketCap" : 57835.00,
-    "peRatio" : 42.30,
+    "marketCap" : 60375.00,
+    "peRatio" : 44.20,
     "description" : "Godrej Properties Limited (GPL) is the real estate development arm of the Godrej Group, which was started in 1897 and is today one of India’s most successful conglomerates. Godrej Properties brings the Godrej Group philosophy of innovation, sustainability, and excellence to the real estate industry. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 2114.40,
-    "dma50" : 2149.20,
-    "dma100" : null,
-    "dma200" : 2218.44,
-    "volume" : 449025.00
-  }, {
     "date" : "2025-11-27",
     "price" : 2096.30,
     "dma50" : 2147.12,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1769.40,
     "dma50" : 1711.10,
-    "dma100" : 1804.31,
+    "dma100" : null,
     "dma200" : 1932.48,
     "volume" : 845135.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1866.16,
     "dma200" : 1844.62,
     "volume" : 560975.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 2004.30,
+    "dma50" : 1780.14,
+    "dma100" : 1866.24,
+    "dma200" : 1846.21,
+    "volume" : 1127186.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1920.00,
-    "dma50" : 1770.99,
-    "dma100" : 1866.16,
-    "dma200" : 1844.62,
-    "volume" : 560975.00
+    "date" : "2026-11-26",
+    "price" : 2004.30,
+    "dma50" : 1780.14,
+    "dma100" : 1866.24,
+    "dma200" : 1846.21,
+    "volume" : 1127186.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-12-31",
@@ -2516,15 +2516,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.58,
-    "pricePercentageAboveDma100" : 4.86,
-    "pricePercentageAboveDma200" : 4.80,
+    "pricePercentageAboveDma50" : 4.37,
+    "pricePercentageAboveDma100" : 4.63,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.41,
     "operatingProfitMarginPercentile" : 3.22,
     "netProfitMarginPercentile" : 8.75,
-    "totalTechnicalScore" : 34.23,
+    "totalTechnicalScore" : 33.57,
     "totalFundamentalScore" : 21.39,
-    "totalScore" : 55.62
+    "totalScore" : 54.96
   }
 }

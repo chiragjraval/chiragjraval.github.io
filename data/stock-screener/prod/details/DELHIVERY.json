@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DELHIVERY",
       "companyName" : "Delhivery",
-      "marketCap" : 34648.00,
-      "peRatio" : 165.00,
+      "marketCap" : 34535.00,
+      "peRatio" : 164.00,
       "description" : "Delhivery provides a full range of Logistics services, including delivery of express parcels and heavy goods, PTL freight, TL freight, warehousing, supply chain solutions, cross-border Express, freight services, and supply chain software. The company also offers value-added services such as e-commerce return services, payment collection and processing, installation & assembly services, and fraud detection.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.63,
-      "pricePercentageAboveDma100" : 4.82,
-      "pricePercentageAboveDma200" : 4.72,
+      "pricePercentageAboveDma50" : 4.66,
+      "pricePercentageAboveDma100" : 4.83,
+      "pricePercentageAboveDma200" : 4.74,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.68,
       "operatingProfitMarginPercentile" : 19.59,
       "netProfitMarginPercentile" : 9.39,
-      "totalTechnicalScore" : 39.17,
+      "totalTechnicalScore" : 39.23,
       "totalFundamentalScore" : 42.66,
-      "totalScore" : 81.83
+      "totalScore" : 81.89
     }
   },
   "attributes" : {
     "companyCode" : "DELHIVERY",
     "companyName" : "Delhivery",
-    "marketCap" : 34648.00,
-    "peRatio" : 165.00,
+    "marketCap" : 34535.00,
+    "peRatio" : 164.00,
     "description" : "Delhivery provides a full range of Logistics services, including delivery of express parcels and heavy goods, PTL freight, TL freight, warehousing, supply chain solutions, cross-border Express, freight services, and supply chain software. The company also offers value-added services such as e-commerce return services, payment collection and processing, installation & assembly services, and fraud detection.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 419.40,
-    "dma50" : 446.12,
-    "dma100" : null,
-    "dma200" : 410.77,
-    "volume" : 1494677.00
-  }, {
     "date" : "2025-11-27",
     "price" : 425.25,
     "dma50" : 445.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 449.70,
     "dma50" : 437.59,
-    "dma100" : 421.94,
+    "dma100" : null,
     "dma200" : 420.43,
     "volume" : 4942861.00
   }, {
@@ -848,7 +841,7 @@
     "date" : "2026-05-18",
     "price" : 455.75,
     "dma50" : 451.70,
-    "dma100" : 430.88,
+    "dma100" : 430.89,
     "dma200" : 427.16,
     "volume" : 7583012.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 445.79,
     "dma200" : 437.53,
     "volume" : 2427159.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 460.50,
+    "dma50" : 431.11,
+    "dma100" : 445.32,
+    "dma200" : 437.76,
+    "volume" : 2780701.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 462.00,
-    "dma50" : 429.91,
-    "dma100" : 445.79,
-    "dma200" : 437.53,
-    "volume" : 2427159.00
+    "date" : "2026-11-26",
+    "price" : 460.50,
+    "dma50" : 431.11,
+    "dma100" : 445.32,
+    "dma200" : 437.76,
+    "volume" : 2780701.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -2026,15 +2026,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.63,
-    "pricePercentageAboveDma100" : 4.82,
-    "pricePercentageAboveDma200" : 4.72,
+    "pricePercentageAboveDma50" : 4.66,
+    "pricePercentageAboveDma100" : 4.83,
+    "pricePercentageAboveDma200" : 4.74,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.68,
     "operatingProfitMarginPercentile" : 19.59,
     "netProfitMarginPercentile" : 9.39,
-    "totalTechnicalScore" : 39.17,
+    "totalTechnicalScore" : 39.23,
     "totalFundamentalScore" : 42.66,
-    "totalScore" : 81.83
+    "totalScore" : 81.89
   }
 }

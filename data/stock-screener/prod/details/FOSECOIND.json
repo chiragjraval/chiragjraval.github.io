@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "FOSECOIND",
       "companyName" : "Foseco India",
-      "marketCap" : 4419.00,
-      "peRatio" : 36.30,
+      "marketCap" : 4403.00,
+      "peRatio" : 36.20,
       "description" : "Incorporated in 1958, Foseco India Limited is engaged in the manufacture of products used in the metallurgical industry which are in the nature of additives and consumables that improve the physical properties and performance of castings. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 4.98,
-      "pricePercentageAboveDma200" : 4.73,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.01,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.07,
       "operatingProfitMarginPercentile" : 17.69,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 39.85,
+      "totalTechnicalScore" : 34.91,
       "totalFundamentalScore" : 45.76,
-      "totalScore" : 85.61
+      "totalScore" : 80.67
     }
   },
   "attributes" : {
     "companyCode" : "FOSECOIND",
     "companyName" : "Foseco India",
-    "marketCap" : 4419.00,
-    "peRatio" : 36.30,
+    "marketCap" : 4403.00,
+    "peRatio" : 36.20,
     "description" : "Incorporated in 1958, Foseco India Limited is engaged in the manufacture of products used in the metallurgical industry which are in the nature of additives and consumables that improve the physical properties and performance of castings. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 5162.50,
-    "dma50" : 5509.82,
-    "dma100" : null,
-    "dma200" : 5021.46,
-    "volume" : 1617.00
-  }, {
     "date" : "2025-11-27",
     "price" : 5125.50,
     "dma50" : 5494.75,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 4710.30,
     "dma50" : 4790.78,
-    "dma100" : 4841.72,
+    "dma100" : null,
     "dma200" : 4894.70,
     "volume" : 9584.00
   }, {
@@ -778,7 +771,7 @@
     "date" : "2026-05-04",
     "price" : 4705.00,
     "dma50" : 4782.03,
-    "dma100" : 4820.56,
+    "dma100" : 4820.57,
     "dma200" : 4887.36,
     "volume" : 1185.00
   }, {
@@ -813,7 +806,7 @@
     "date" : "2026-05-11",
     "price" : 5039.80,
     "dma50" : 4808.18,
-    "dma100" : 4810.08,
+    "dma100" : 4810.09,
     "dma200" : 4889.02,
     "volume" : 3818.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 5841.71,
     "dma200" : 5567.44,
     "volume" : 4846.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 5842.00,
+    "dma50" : 6019.29,
+    "dma100" : 5848.03,
+    "dma200" : 5570.17,
+    "volume" : 1655.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 5863.00,
-    "dma50" : 6026.52,
-    "dma100" : 5841.71,
-    "dma200" : 5567.44,
-    "volume" : 4846.00
+    "date" : "2026-11-26",
+    "price" : 5842.00,
+    "dma50" : 6019.29,
+    "dma100" : 5848.03,
+    "dma200" : 5570.17,
+    "volume" : 1655.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 4.98,
-    "pricePercentageAboveDma200" : 4.73,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.01,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.07,
     "operatingProfitMarginPercentile" : 17.69,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 39.85,
+    "totalTechnicalScore" : 34.91,
     "totalFundamentalScore" : 45.76,
-    "totalScore" : 85.61
+    "totalScore" : 80.67
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JAYBARMARU",
       "companyName" : "Jay Bharat Maru.",
-      "marketCap" : 1387.00,
-      "peRatio" : 9.30,
+      "marketCap" : 1381.00,
+      "peRatio" : 9.26,
       "description" : "Incorporated in 1987, Jay Bharat Maruti manufactures automobile components and assemblies[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma50" : 4.88,
       "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 4.71,
+      "pricePercentageAboveDma200" : 4.73,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 17.88,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 39.82,
+      "totalTechnicalScore" : 39.88,
       "totalFundamentalScore" : 46.59,
-      "totalScore" : 86.41
+      "totalScore" : 86.47
     }
   },
   "attributes" : {
     "companyCode" : "JAYBARMARU",
     "companyName" : "Jay Bharat Maru.",
-    "marketCap" : 1387.00,
-    "peRatio" : 9.30,
+    "marketCap" : 1381.00,
+    "peRatio" : 9.26,
     "description" : "Incorporated in 1987, Jay Bharat Maruti manufactures automobile components and assemblies[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 89.05,
-    "dma50" : 91.83,
-    "dma100" : null,
-    "dma200" : 86.82,
-    "volume" : 106896.00
-  }, {
     "date" : "2025-11-27",
     "price" : 89.88,
     "dma50" : 91.75,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 92.97,
     "dma50" : 91.64,
-    "dma100" : 91.93,
+    "dma100" : null,
     "dma200" : 90.13,
     "volume" : 138804.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 135.04,
     "dma200" : 120.99,
     "volume" : 1687092.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 127.57,
+    "dma50" : 124.66,
+    "dma100" : 134.60,
+    "dma200" : 121.06,
+    "volume" : 1231951.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 128.09,
-    "dma50" : 124.54,
-    "dma100" : 135.04,
-    "dma200" : 120.99,
-    "volume" : 1687092.00
+    "date" : "2026-11-26",
+    "price" : 127.57,
+    "dma50" : 124.66,
+    "dma100" : 134.60,
+    "dma200" : 121.06,
+    "volume" : 1231951.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma50" : 4.88,
     "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 4.71,
+    "pricePercentageAboveDma200" : 4.73,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 17.88,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 39.82,
+    "totalTechnicalScore" : 39.88,
     "totalFundamentalScore" : 46.59,
-    "totalScore" : 86.41
+    "totalScore" : 86.47
   }
 }

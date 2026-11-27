@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LGEINDIA",
       "companyName" : "LG Electronics",
-      "marketCap" : 123428.00,
-      "peRatio" : 64.10,
+      "marketCap" : 119335.00,
+      "peRatio" : 62.00,
       "description" : "Incorporated in 1997, LG Electronics India Limited is a manufacturer and distributor of home appliances and consumer electronics.[1]LG Corporation, formerly known as Lucky-Goldstar, is a South Korean multinational conglomerate founded by Koo In-hwoi in 1947 and managed by successive generations of his family. It is the fourth-largest company in South Korea."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.67,
-      "pricePercentageAboveDma100" : 4.50,
-      "pricePercentageAboveDma200" : 4.43,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 4.69,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 10.17,
       "netProfitMarginPercentile" : 5.60,
-      "totalTechnicalScore" : 48.61,
+      "totalTechnicalScore" : 49.17,
       "totalFundamentalScore" : 35.77,
-      "totalScore" : 84.38
+      "totalScore" : 84.94
     }
   },
   "attributes" : {
     "companyCode" : "LGEINDIA",
     "companyName" : "LG Electronics",
-    "marketCap" : 123428.00,
-    "peRatio" : 64.10,
+    "marketCap" : 119335.00,
+    "peRatio" : 62.00,
     "description" : "Incorporated in 1997, LG Electronics India Limited is a manufacturer and distributor of home appliances and consumer electronics.[1]LG Corporation, formerly known as Lucky-Goldstar, is a South Korean multinational conglomerate founded by Koo In-hwoi in 1947 and managed by successive generations of his family. It is the fourth-largest company in South Korea."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1640.60,
-    "dma50" : 1660.40,
-    "dma100" : null,
-    "dma200" : 1679.65,
-    "volume" : 683270.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1630.30,
     "dma50" : 1659.22,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1577.90,
     "dma50" : 1519.99,
-    "dma100" : 1514.42,
+    "dma100" : null,
     "dma200" : 1574.47,
     "volume" : 729217.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1654.47,
     "dma200" : 1633.27,
     "volume" : 1784392.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1758.10,
+    "dma50" : 1709.28,
+    "dma100" : 1656.57,
+    "dma200" : 1634.51,
+    "volume" : 17206251.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1818.40,
-    "dma50" : 1707.29,
-    "dma100" : 1654.47,
-    "dma200" : 1633.27,
-    "volume" : 1784392.00
+    "date" : "2026-11-26",
+    "price" : 1758.10,
+    "dma50" : 1709.28,
+    "dma100" : 1656.57,
+    "dma200" : 1634.51,
+    "volume" : 17206251.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1886,15 +1886,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.67,
-    "pricePercentageAboveDma100" : 4.50,
-    "pricePercentageAboveDma200" : 4.43,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 4.69,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 10.17,
     "netProfitMarginPercentile" : 5.60,
-    "totalTechnicalScore" : 48.61,
+    "totalTechnicalScore" : 49.17,
     "totalFundamentalScore" : 35.77,
-    "totalScore" : 84.38
+    "totalScore" : 84.94
   }
 }

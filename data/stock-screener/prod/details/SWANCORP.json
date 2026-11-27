@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SWANCORP",
       "companyName" : "Swan Corp",
-      "marketCap" : 7158.00,
-      "peRatio" : 9.75,
+      "marketCap" : 7109.00,
+      "peRatio" : 9.68,
       "description" : "Swan Energy Limited (SEL) was originally incorporated in 1909 as Swan Mills Ltd. (SML), a manufacturer and marketer of cotton and polyester textile products in India. Over the years, it diversified into Real estate and is developing a Floating Storage and Regasification Units -based liquid natural gas (LNG) import terminal at Jafrabad in Gujarat.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.52,
-      "pricePercentageAboveDma100" : 5.95,
-      "pricePercentageAboveDma200" : 6.36,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 5.53,
+      "pricePercentageAboveDma100" : 5.97,
+      "pricePercentageAboveDma200" : 6.38,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 7.23,
       "operatingProfitMarginPercentile" : 18.33,
       "netProfitMarginPercentile" : 7.89,
-      "totalTechnicalScore" : 22.83,
+      "totalTechnicalScore" : 17.87,
       "totalFundamentalScore" : 33.45,
-      "totalScore" : 56.28
+      "totalScore" : 51.32
     }
   },
   "attributes" : {
     "companyCode" : "SWANCORP",
     "companyName" : "Swan Corp",
-    "marketCap" : 7158.00,
-    "peRatio" : 9.75,
+    "marketCap" : 7109.00,
+    "peRatio" : 9.68,
     "description" : "Swan Energy Limited (SEL) was originally incorporated in 1909 as Swan Mills Ltd. (SML), a manufacturer and marketer of cotton and polyester textile products in India. Over the years, it diversified into Real estate and is developing a Floating Storage and Regasification Units -based liquid natural gas (LNG) import terminal at Jafrabad in Gujarat.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 438.75,
-    "dma50" : 456.81,
-    "dma100" : null,
-    "dma200" : 473.07,
-    "volume" : 951658.00
-  }, {
     "date" : "2025-11-27",
     "price" : 440.25,
     "dma50" : 456.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 328.70,
     "dma50" : 355.18,
-    "dma100" : 399.26,
+    "dma100" : null,
     "dma200" : 417.53,
     "volume" : 809962.00
   }, {
@@ -911,7 +904,7 @@
     "date" : "2026-06-01",
     "price" : 318.75,
     "dma50" : 338.21,
-    "dma100" : 368.28,
+    "dma100" : 368.29,
     "dma200" : 398.74,
     "volume" : 925005.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 282.25,
     "dma200" : 313.86,
     "volume" : 908598.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 226.80,
+    "dma50" : 253.53,
+    "dma100" : 281.41,
+    "dma200" : 313.00,
+    "volume" : 504879.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 228.37,
-    "dma50" : 254.63,
-    "dma100" : 282.25,
-    "dma200" : 313.86,
-    "volume" : 908598.00
+    "date" : "2026-11-26",
+    "price" : 226.80,
+    "dma50" : 253.53,
+    "dma100" : 281.41,
+    "dma200" : 313.00,
+    "volume" : 504879.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.52,
-    "pricePercentageAboveDma100" : 5.95,
-    "pricePercentageAboveDma200" : 6.36,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 5.53,
+    "pricePercentageAboveDma100" : 5.97,
+    "pricePercentageAboveDma200" : 6.38,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 7.23,
     "operatingProfitMarginPercentile" : 18.33,
     "netProfitMarginPercentile" : 7.89,
-    "totalTechnicalScore" : 22.83,
+    "totalTechnicalScore" : 17.87,
     "totalFundamentalScore" : 33.45,
-    "totalScore" : 56.28
+    "totalScore" : 51.32
   }
 }

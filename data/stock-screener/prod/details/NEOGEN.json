@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NEOGEN",
       "companyName" : "Neogen Chemicals",
-      "marketCap" : 8201.00,
-      "peRatio" : 203.00,
+      "marketCap" : 8263.00,
+      "peRatio" : 204.00,
       "description" : "Neogen Chemicals Ltd, incorporated in 1991, manufactures bromine and lithium-based organic and organo-metallic compounds, used in the pharmaceutical, agricultural chemicals, and engineering industries. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.50,
-      "pricePercentageAboveDma100" : 4.07,
-      "pricePercentageAboveDma200" : 3.37,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.48,
+      "pricePercentageAboveDma100" : 4.04,
+      "pricePercentageAboveDma200" : 3.35,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.77,
       "operatingProfitMarginPercentile" : 15.03,
       "netProfitMarginPercentile" : 5.76,
-      "totalTechnicalScore" : 46.94,
+      "totalTechnicalScore" : 41.87,
       "totalFundamentalScore" : 37.56,
-      "totalScore" : 84.51
+      "totalScore" : 79.44
     }
   },
   "attributes" : {
     "companyCode" : "NEOGEN",
     "companyName" : "Neogen Chemicals",
-    "marketCap" : 8201.00,
-    "peRatio" : 203.00,
+    "marketCap" : 8263.00,
+    "peRatio" : 204.00,
     "description" : "Neogen Chemicals Ltd, incorporated in 1991, manufactures bromine and lithium-based organic and organo-metallic compounds, used in the pharmaceutical, agricultural chemicals, and engineering industries. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1183.70,
-    "dma50" : 1390.99,
-    "dma100" : null,
-    "dma200" : 1552.32,
-    "volume" : 62639.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1169.90,
     "dma50" : 1382.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1634.50,
     "dma50" : 1366.69,
-    "dma100" : 1261.04,
+    "dma100" : null,
     "dma200" : 1388.30,
     "volume" : 221475.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2300.57,
     "dma200" : 2060.11,
     "volume" : 68732.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 2750.50,
+    "dma50" : 2492.31,
+    "dma100" : 2308.39,
+    "dma200" : 2066.98,
+    "volume" : 37152.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 2729.80,
-    "dma50" : 2481.77,
-    "dma100" : 2300.57,
-    "dma200" : 2060.11,
-    "volume" : 68732.00
+    "date" : "2026-11-26",
+    "price" : 2750.50,
+    "dma50" : 2492.31,
+    "dma100" : 2308.39,
+    "dma200" : 2066.98,
+    "volume" : 37152.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-03-31",
@@ -2146,15 +2146,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.50,
-    "pricePercentageAboveDma100" : 4.07,
-    "pricePercentageAboveDma200" : 3.37,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.48,
+    "pricePercentageAboveDma100" : 4.04,
+    "pricePercentageAboveDma200" : 3.35,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.77,
     "operatingProfitMarginPercentile" : 15.03,
     "netProfitMarginPercentile" : 5.76,
-    "totalTechnicalScore" : 46.94,
+    "totalTechnicalScore" : 41.87,
     "totalFundamentalScore" : 37.56,
-    "totalScore" : 84.51
+    "totalScore" : 79.44
   }
 }

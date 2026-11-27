@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "POLYCAB",
       "companyName" : "Polycab India",
-      "marketCap" : 111209.00,
-      "peRatio" : 35.20,
+      "marketCap" : 110772.00,
+      "peRatio" : 35.10,
       "description" : "Polycab is India’s leading manufacturers of cables and wires and allied products such as uPVC conduits and lugs and glands. We have a range of cables and wires for practically every application. More recently Polycab has also launched a wide range of consumer electrical products like Fans, Switches, Switchgear, LED lights and Luminaries, Solar Inverters, and Pumps."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.67,
-      "pricePercentageAboveDma200" : 5.53,
+      "pricePercentageAboveDma50" : 5.40,
+      "pricePercentageAboveDma100" : 5.68,
+      "pricePercentageAboveDma200" : 5.54,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.35,
       "operatingProfitMarginPercentile" : 15.80,
       "netProfitMarginPercentile" : 7.91,
-      "totalTechnicalScore" : 26.59,
+      "totalTechnicalScore" : 26.61,
       "totalFundamentalScore" : 43.07,
-      "totalScore" : 69.66
+      "totalScore" : 69.68
     }
   },
   "attributes" : {
     "companyCode" : "POLYCAB",
     "companyName" : "Polycab India",
-    "marketCap" : 111209.00,
-    "peRatio" : 35.20,
+    "marketCap" : 110772.00,
+    "peRatio" : 35.10,
     "description" : "Polycab is India’s leading manufacturers of cables and wires and allied products such as uPVC conduits and lugs and glands. We have a range of cables and wires for practically every application. More recently Polycab has also launched a wide range of consumer electrical products like Fans, Switches, Switchgear, LED lights and Luminaries, Solar Inverters, and Pumps."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 7539.00,
-    "dma50" : 7494.29,
-    "dma100" : null,
-    "dma200" : 6855.89,
-    "volume" : 135320.00
-  }, {
     "date" : "2025-11-27",
     "price" : 7479.00,
     "dma50" : 7493.69,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 8033.00,
     "dma50" : 7618.32,
-    "dma100" : 7524.52,
+    "dma100" : null,
     "dma200" : 7297.36,
     "volume" : 638302.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 8522.97,
     "dma200" : 8250.17,
     "volume" : 596846.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 7350.00,
+    "dma50" : 7982.67,
+    "dma100" : 8500.98,
+    "dma200" : 8241.22,
+    "volume" : 625879.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 7379.00,
-    "dma50" : 8008.49,
-    "dma100" : 8522.97,
-    "dma200" : 8250.17,
-    "volume" : 596846.00
+    "date" : "2026-11-26",
+    "price" : 7350.00,
+    "dma50" : 7982.67,
+    "dma100" : 8500.98,
+    "dma200" : 8241.22,
+    "volume" : 625879.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-03-31",
@@ -2146,15 +2146,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.67,
-    "pricePercentageAboveDma200" : 5.53,
+    "pricePercentageAboveDma50" : 5.40,
+    "pricePercentageAboveDma100" : 5.68,
+    "pricePercentageAboveDma200" : 5.54,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.35,
     "operatingProfitMarginPercentile" : 15.80,
     "netProfitMarginPercentile" : 7.91,
-    "totalTechnicalScore" : 26.59,
+    "totalTechnicalScore" : 26.61,
     "totalFundamentalScore" : 43.07,
-    "totalScore" : 69.66
+    "totalScore" : 69.68
   }
 }

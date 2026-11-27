@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ACE",
       "companyName" : "Action Const.Eq.",
-      "marketCap" : 14175.00,
-      "peRatio" : 29.90,
+      "marketCap" : 15421.00,
+      "peRatio" : 32.60,
       "description" : "Action Construction Equipment Ltd is engaged in the business of manufacturing and marketing of hydraulic mobile cranes, mobile tower cranes, material handling equipment like forklifts, road construction equipment like backhoe loaders, compactors, motor graders and agriculture equipment like tractors, harvesters, rotavators, etc. It was incorporated in 1995 and concluded its IPO in 2006.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.77,
-      "pricePercentageAboveDma100" : 4.67,
-      "pricePercentageAboveDma200" : 4.41,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 4.34,
+      "pricePercentageAboveDma100" : 4.22,
+      "pricePercentageAboveDma200" : 3.93,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.24,
       "operatingProfitMarginPercentile" : 19.07,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 43.85,
+      "totalTechnicalScore" : 47.49,
       "totalFundamentalScore" : 39.08,
-      "totalScore" : 82.93
+      "totalScore" : 86.57
     }
   },
   "attributes" : {
     "companyCode" : "ACE",
     "companyName" : "Action Const.Eq.",
-    "marketCap" : 14175.00,
-    "peRatio" : 29.90,
+    "marketCap" : 15421.00,
+    "peRatio" : 32.60,
     "description" : "Action Construction Equipment Ltd is engaged in the business of manufacturing and marketing of hydraulic mobile cranes, mobile tower cranes, material handling equipment like forklifts, road construction equipment like backhoe loaders, compactors, motor graders and agriculture equipment like tractors, harvesters, rotavators, etc. It was incorporated in 1995 and concluded its IPO in 2006.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 974.30,
-    "dma50" : 1047.49,
-    "dma100" : null,
-    "dma200" : 1136.56,
-    "volume" : 69948.00
-  }, {
     "date" : "2025-11-27",
     "price" : 982.80,
     "dma50" : 1044.95,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 907.25,
     "dma50" : 875.11,
-    "dma100" : 890.68,
+    "dma100" : null,
     "dma200" : 975.87,
     "volume" : 258787.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1116.73,
     "dma200" : 1064.40,
     "volume" : 378148.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1295.00,
+    "dma50" : 1145.00,
+    "dma100" : 1119.78,
+    "dma200" : 1066.70,
+    "volume" : 3515266.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1190.35,
-    "dma50" : 1138.88,
-    "dma100" : 1116.73,
-    "dma200" : 1064.40,
-    "volume" : 378148.00
+    "date" : "2026-11-26",
+    "price" : 1295.00,
+    "dma50" : 1145.00,
+    "dma100" : 1119.78,
+    "dma200" : 1066.70,
+    "volume" : 3515266.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.77,
-    "pricePercentageAboveDma100" : 4.67,
-    "pricePercentageAboveDma200" : 4.41,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 4.34,
+    "pricePercentageAboveDma100" : 4.22,
+    "pricePercentageAboveDma200" : 3.93,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.24,
     "operatingProfitMarginPercentile" : 19.07,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 43.85,
+    "totalTechnicalScore" : 47.49,
     "totalFundamentalScore" : 39.08,
-    "totalScore" : 82.93
+    "totalScore" : 86.57
   }
 }

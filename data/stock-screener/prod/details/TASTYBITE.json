@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TASTYBITE",
       "companyName" : "Tasty Bite Eat.",
-      "marketCap" : 2531.00,
-      "peRatio" : 60.80,
+      "marketCap" : 2561.00,
+      "peRatio" : 61.50,
       "description" : "Tasty Bite Eatables is a manufacturer of ethnic and natural vegetarian packaged and ready to eat/serve (RTE) and Read-to-cook (RTC) food products, which is sold under the “Tasty Bite” brand in the United States of America, Australia, the United Kingdom, Germany and Canada. [1] It is one of the fastest growing Asian food brands in the United States.[2]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 4.88,
-      "pricePercentageAboveDma200" : 4.60,
+      "pricePercentageAboveDma50" : 4.98,
+      "pricePercentageAboveDma100" : 4.82,
+      "pricePercentageAboveDma200" : 4.54,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 11.95,
       "netProfitMarginPercentile" : 6.88,
-      "totalTechnicalScore" : 39.51,
+      "totalTechnicalScore" : 44.34,
       "totalFundamentalScore" : 33.76,
-      "totalScore" : 73.27
+      "totalScore" : 78.10
     }
   },
   "attributes" : {
     "companyCode" : "TASTYBITE",
     "companyName" : "Tasty Bite Eat.",
-    "marketCap" : 2531.00,
-    "peRatio" : 60.80,
+    "marketCap" : 2561.00,
+    "peRatio" : 61.50,
     "description" : "Tasty Bite Eatables is a manufacturer of ethnic and natural vegetarian packaged and ready to eat/serve (RTE) and Read-to-cook (RTC) food products, which is sold under the “Tasty Bite” brand in the United States of America, Australia, the United Kingdom, Germany and Canada. [1] It is one of the fastest growing Asian food brands in the United States.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 8374.50,
-    "dma50" : 8922.97,
-    "dma100" : null,
-    "dma200" : 9748.31,
-    "volume" : 627.00
-  }, {
     "date" : "2025-11-27",
     "price" : 8303.50,
     "dma50" : 8898.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 6968.00,
     "dma50" : 7149.90,
-    "dma100" : 7435.38,
+    "dma100" : null,
     "dma200" : 8217.12,
     "volume" : 2088.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 9627.00,
     "dma200" : 9126.37,
     "volume" : 2106.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 9980.50,
+    "dma50" : 9940.97,
+    "dma100" : 9640.07,
+    "dma200" : 9134.87,
+    "volume" : 1499.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 9864.50,
-    "dma50" : 9939.35,
-    "dma100" : 9627.00,
-    "dma200" : 9126.37,
-    "volume" : 2106.00
+    "date" : "2026-11-26",
+    "price" : 9980.50,
+    "dma50" : 9940.97,
+    "dma100" : 9640.07,
+    "dma200" : 9134.87,
+    "volume" : 1499.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 8.97
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 4.88,
-    "pricePercentageAboveDma200" : 4.60,
+    "pricePercentageAboveDma50" : 4.98,
+    "pricePercentageAboveDma100" : 4.82,
+    "pricePercentageAboveDma200" : 4.54,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 11.95,
     "netProfitMarginPercentile" : 6.88,
-    "totalTechnicalScore" : 39.51,
+    "totalTechnicalScore" : 44.34,
     "totalFundamentalScore" : 33.76,
-    "totalScore" : 73.27
+    "totalScore" : 78.10
   }
 }

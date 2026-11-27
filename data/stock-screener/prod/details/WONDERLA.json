@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "WONDERLA",
       "companyName" : "Wonderla Holiday",
-      "marketCap" : 3048.00,
-      "peRatio" : 28.30,
+      "marketCap" : 3050.00,
+      "peRatio" : 28.40,
       "description" : "Wonderla Holidays is engaged in the business of Amusement Parks and Resort."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.15,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 5.30,
+      "pricePercentageAboveDma50" : 5.14,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.80,
       "operatingProfitMarginPercentile" : 19.98,
       "netProfitMarginPercentile" : 9.99,
-      "totalTechnicalScore" : 20.59,
+      "totalTechnicalScore" : 20.57,
       "totalFundamentalScore" : 46.78,
-      "totalScore" : 67.37
+      "totalScore" : 67.35
     }
   },
   "attributes" : {
     "companyCode" : "WONDERLA",
     "companyName" : "Wonderla Holiday",
-    "marketCap" : 3048.00,
-    "peRatio" : 28.30,
+    "marketCap" : 3050.00,
+    "peRatio" : 28.40,
     "description" : "Wonderla Holidays is engaged in the business of Amusement Parks and Resort."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 558.50,
-    "dma50" : 579.00,
-    "dma100" : null,
-    "dma200" : 643.56,
-    "volume" : 103543.00
-  }, {
     "date" : "2025-11-27",
     "price" : 558.65,
     "dma50" : 578.20,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 525.90,
     "dma50" : 520.89,
-    "dma100" : 518.82,
+    "dma100" : null,
     "dma200" : 563.85,
     "volume" : 74809.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 494.61,
     "dma200" : 510.70,
     "volume" : 66530.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 480.55,
+    "dma50" : 494.48,
+    "dma100" : 494.43,
+    "dma200" : 510.40,
+    "volume" : 22166.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 480.20,
-    "dma50" : 495.05,
-    "dma100" : 494.61,
-    "dma200" : 510.70,
-    "volume" : 66530.00
+    "date" : "2026-11-26",
+    "price" : 480.55,
+    "dma50" : 494.48,
+    "dma100" : 494.43,
+    "dma200" : 510.40,
+    "volume" : 22166.00
   },
   "quarterlyResults" : [ {
     "date" : "2013-06-30",
@@ -2336,15 +2336,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.15,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 5.30,
+    "pricePercentageAboveDma50" : 5.14,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.80,
     "operatingProfitMarginPercentile" : 19.98,
     "netProfitMarginPercentile" : 9.99,
-    "totalTechnicalScore" : 20.59,
+    "totalTechnicalScore" : 20.57,
     "totalFundamentalScore" : 46.78,
-    "totalScore" : 67.37
+    "totalScore" : 67.35
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CENTUM",
       "companyName" : "Centum Electron",
-      "marketCap" : 5724.00,
-      "peRatio" : 56.10,
+      "marketCap" : 5659.00,
+      "peRatio" : 55.50,
       "description" : "Founded in 1993, Centum Electronics Limited is one of the largest Electronics System Design and Manufacturing (ESDM) companies in India. It offers entire spectrum of design services and manufacturing of systems, subsystems for mission critical products in Defence, Space, Aerospace, Industrial, Transportation and Medical sectors.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.33,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 4.57,
+      "pricePercentageAboveDma50" : 5.37,
+      "pricePercentageAboveDma100" : 5.17,
+      "pricePercentageAboveDma200" : 4.64,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 13.39,
       "netProfitMarginPercentile" : 6.50,
-      "totalTechnicalScore" : 40.01,
+      "totalTechnicalScore" : 40.17,
       "totalFundamentalScore" : 34.84,
-      "totalScore" : 74.85
+      "totalScore" : 75.01
     }
   },
   "attributes" : {
     "companyCode" : "CENTUM",
     "companyName" : "Centum Electron",
-    "marketCap" : 5724.00,
-    "peRatio" : 56.10,
+    "marketCap" : 5659.00,
+    "peRatio" : 55.50,
     "description" : "Founded in 1993, Centum Electronics Limited is one of the largest Electronics System Design and Manufacturing (ESDM) companies in India. It offers entire spectrum of design services and manufacturing of systems, subsystems for mission critical products in Defence, Space, Aerospace, Industrial, Transportation and Medical sectors.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 2413.20,
-    "dma50" : 2511.52,
-    "dma100" : null,
-    "dma200" : 2283.77,
-    "volume" : 12737.00
-  }, {
     "date" : "2025-11-27",
     "price" : 2390.80,
     "dma50" : 2506.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 2803.90,
     "dma50" : 2722.85,
-    "dma100" : 2501.31,
+    "dma100" : null,
     "dma200" : 2462.35,
     "volume" : 30545.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3961.93,
     "dma200" : 3572.10,
     "volume" : 228568.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 3833.00,
+    "dma50" : 4138.15,
+    "dma100" : 3963.99,
+    "dma200" : 3574.70,
+    "volume" : 107903.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 3877.00,
-    "dma50" : 4150.60,
-    "dma100" : 3961.93,
-    "dma200" : 3572.10,
-    "volume" : 228568.00
+    "date" : "2026-11-26",
+    "price" : 3833.00,
+    "dma50" : 4138.15,
+    "dma100" : 3963.99,
+    "dma200" : 3574.70,
+    "volume" : 107903.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.33,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 4.57,
+    "pricePercentageAboveDma50" : 5.37,
+    "pricePercentageAboveDma100" : 5.17,
+    "pricePercentageAboveDma200" : 4.64,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 13.39,
     "netProfitMarginPercentile" : 6.50,
-    "totalTechnicalScore" : 40.01,
+    "totalTechnicalScore" : 40.17,
     "totalFundamentalScore" : 34.84,
-    "totalScore" : 74.85
+    "totalScore" : 75.01
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ASTRAMICRO",
       "companyName" : "Astra Microwave",
-      "marketCap" : 15198.00,
-      "peRatio" : 70.30,
+      "marketCap" : 15387.00,
+      "peRatio" : 71.20,
       "description" : "Astra Microwave Products is engaged in the business of design, development and manufacture of sub-systems for Radio Frequency and microwave systems used in defense, space, meteorology and telecommunication."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.10,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 4.54,
+      "pricePercentageAboveDma50" : 5.03,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 4.47,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 16.78,
       "netProfitMarginPercentile" : 7.59,
-      "totalTechnicalScore" : 29.88,
+      "totalTechnicalScore" : 29.69,
       "totalFundamentalScore" : 37.62,
-      "totalScore" : 67.50
+      "totalScore" : 67.31
     }
   },
   "attributes" : {
     "companyCode" : "ASTRAMICRO",
     "companyName" : "Astra Microwave",
-    "marketCap" : 15198.00,
-    "peRatio" : 70.30,
+    "marketCap" : 15387.00,
+    "peRatio" : 71.20,
     "description" : "Astra Microwave Products is engaged in the business of design, development and manufacture of sub-systems for Radio Frequency and microwave systems used in defense, space, meteorology and telecommunication."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 945.90,
-    "dma50" : 1031.27,
-    "dma100" : null,
-    "dma200" : 967.18,
-    "volume" : 125382.00
-  }, {
     "date" : "2025-11-27",
     "price" : 945.40,
     "dma50" : 1027.90,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1123.75,
     "dma50" : 995.11,
-    "dma100" : 956.03,
+    "dma100" : null,
     "dma200" : 965.86,
     "volume" : 314773.00
   }, {
@@ -1282,7 +1275,7 @@
     "date" : "2026-08-14",
     "price" : 1739.30,
     "dma50" : 1660.03,
-    "dma100" : 1401.14,
+    "dma100" : 1401.13,
     "dma200" : 1293.62,
     "volume" : 374823.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1682.74,
     "dma200" : 1465.03,
     "volume" : 155645.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1620.60,
+    "dma50" : 1631.42,
+    "dma100" : 1680.46,
+    "dma200" : 1466.57,
+    "volume" : 116584.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1600.70,
-    "dma50" : 1631.86,
-    "dma100" : 1682.74,
-    "dma200" : 1465.03,
-    "volume" : 155645.00
+    "date" : "2026-11-26",
+    "price" : 1620.60,
+    "dma50" : 1631.42,
+    "dma100" : 1680.46,
+    "dma200" : 1466.57,
+    "volume" : 116584.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.10,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 4.54,
+    "pricePercentageAboveDma50" : 5.03,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 4.47,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 16.78,
     "netProfitMarginPercentile" : 7.59,
-    "totalTechnicalScore" : 29.88,
+    "totalTechnicalScore" : 29.69,
     "totalFundamentalScore" : 37.62,
-    "totalScore" : 67.50
+    "totalScore" : 67.31
   }
 }

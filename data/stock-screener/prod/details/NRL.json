@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NRL",
       "companyName" : "Nupur Recyclers",
-      "marketCap" : 1244.00,
-      "peRatio" : 58.30,
+      "marketCap" : 1215.00,
+      "peRatio" : 56.90,
       "description" : "Incorporated in 2019, Nupur Recyclers Ltd is in the business of import and processing /trading of ferrous and nonferrous metals[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.42,
-      "pricePercentageAboveDma100" : 3.48,
-      "pricePercentageAboveDma200" : 2.21,
+      "pricePercentageAboveDma50" : 4.57,
+      "pricePercentageAboveDma100" : 3.67,
+      "pricePercentageAboveDma200" : 2.43,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.00,
       "operatingProfitMarginPercentile" : 10.83,
       "netProfitMarginPercentile" : 2.50,
-      "totalTechnicalScore" : 45.11,
+      "totalTechnicalScore" : 45.68,
       "totalFundamentalScore" : 32.33,
-      "totalScore" : 77.44
+      "totalScore" : 78.01
     }
   },
   "attributes" : {
     "companyCode" : "NRL",
     "companyName" : "Nupur Recyclers",
-    "marketCap" : 1244.00,
-    "peRatio" : 58.30,
+    "marketCap" : 1215.00,
+    "peRatio" : 56.90,
     "description" : "Incorporated in 2019, Nupur Recyclers Ltd is in the business of import and processing /trading of ferrous and nonferrous metals[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 62.17,
-    "dma50" : 67.45,
-    "dma100" : null,
-    "dma200" : 74.22,
-    "volume" : 83932.00
-  }, {
     "date" : "2025-11-27",
     "price" : 61.85,
     "dma50" : 67.23,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 54.66,
     "dma50" : 52.74,
-    "dma100" : 54.05,
+    "dma100" : null,
     "dma200" : 61.05,
     "volume" : 19809.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 138.19,
     "dma200" : 115.57,
     "volume" : 169905.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 175.86,
+    "dma50" : 162.03,
+    "dma100" : 139.02,
+    "dma200" : 116.17,
+    "volume" : 80706.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 180.14,
-    "dma50" : 161.46,
-    "dma100" : 138.19,
-    "dma200" : 115.57,
-    "volume" : 169905.00
+    "date" : "2026-11-26",
+    "price" : 175.86,
+    "dma50" : 162.03,
+    "dma100" : 139.02,
+    "dma200" : 116.17,
+    "volume" : 80706.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-12-31",
@@ -2036,15 +2036,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.42,
-    "pricePercentageAboveDma100" : 3.48,
-    "pricePercentageAboveDma200" : 2.21,
+    "pricePercentageAboveDma50" : 4.57,
+    "pricePercentageAboveDma100" : 3.67,
+    "pricePercentageAboveDma200" : 2.43,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.00,
     "operatingProfitMarginPercentile" : 10.83,
     "netProfitMarginPercentile" : 2.50,
-    "totalTechnicalScore" : 45.11,
+    "totalTechnicalScore" : 45.68,
     "totalFundamentalScore" : 32.33,
-    "totalScore" : 77.44
+    "totalScore" : 78.01
   }
 }

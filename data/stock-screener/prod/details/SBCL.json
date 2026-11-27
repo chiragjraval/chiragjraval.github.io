@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SBCL",
       "companyName" : "Shivalik Bimetal",
-      "marketCap" : 5395.00,
-      "peRatio" : 46.20,
+      "marketCap" : 5775.00,
+      "peRatio" : 49.40,
       "description" : "Incorporated in 1984, Shivalik Bimetal Control Ltd. manufactures thermostatic bimetal/trimetal strips, components, shunt resistors and clad metals. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.33,
-      "pricePercentageAboveDma100" : 5.17,
-      "pricePercentageAboveDma200" : 4.35,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.84,
+      "pricePercentageAboveDma200" : 3.97,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 34.85,
+      "totalTechnicalScore" : 38.81,
       "totalFundamentalScore" : 43.86,
-      "totalScore" : 78.71
+      "totalScore" : 82.67
     }
   },
   "attributes" : {
     "companyCode" : "SBCL",
     "companyName" : "Shivalik Bimetal",
-    "marketCap" : 5395.00,
-    "peRatio" : 46.20,
+    "marketCap" : 5775.00,
+    "peRatio" : 49.40,
     "description" : "Incorporated in 1984, Shivalik Bimetal Control Ltd. manufactures thermostatic bimetal/trimetal strips, components, shunt resistors and clad metals. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 438.55,
-    "dma50" : 485.83,
-    "dma100" : null,
-    "dma200" : 507.86,
-    "volume" : 57305.00
-  }, {
     "date" : "2025-11-27",
     "price" : 431.15,
     "dma50" : 483.69,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 592.30,
     "dma50" : 464.26,
-    "dma100" : 448.60,
+    "dma100" : null,
     "dma200" : 472.47,
     "volume" : 6025377.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 968.58,
     "dma200" : 829.48,
     "volume" : 104983.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1002.50,
+    "dma50" : 1003.58,
+    "dma100" : 970.66,
+    "dma200" : 831.20,
+    "volume" : 299544.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 936.60,
-    "dma50" : 1003.62,
-    "dma100" : 968.58,
-    "dma200" : 829.48,
-    "volume" : 104983.00
+    "date" : "2026-11-26",
+    "price" : 1002.50,
+    "dma50" : 1003.58,
+    "dma100" : 970.66,
+    "dma200" : 831.20,
+    "volume" : 299544.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.33,
-    "pricePercentageAboveDma100" : 5.17,
-    "pricePercentageAboveDma200" : 4.35,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.84,
+    "pricePercentageAboveDma200" : 3.97,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 34.85,
+    "totalTechnicalScore" : 38.81,
     "totalFundamentalScore" : 43.86,
-    "totalScore" : 78.71
+    "totalScore" : 82.67
   }
 }

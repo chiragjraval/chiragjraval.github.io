@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KSL",
       "companyName" : "Kalyani Steels",
-      "marketCap" : 3546.00,
-      "peRatio" : 12.40,
+      "marketCap" : 3603.00,
+      "peRatio" : 12.60,
       "description" : "Kalyani Steels Ltd, a Kalyani Group specialty-steel company, manufactures forging and engineering-quality carbon /alloy-steel long products through the blast-furnace route. Its integrated Ginigera, Karnataka plant supplies critical grades for automotive, bearings, energy, oil & gas, engineering, seamless tube, defence and railway applications, with group forging companies as key customers.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.48,
-      "pricePercentageAboveDma200" : 5.25,
+      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 26.13,
+      "totalTechnicalScore" : 25.89,
       "totalFundamentalScore" : 39.39,
-      "totalScore" : 65.52
+      "totalScore" : 65.28
     }
   },
   "attributes" : {
     "companyCode" : "KSL",
     "companyName" : "Kalyani Steels",
-    "marketCap" : 3546.00,
-    "peRatio" : 12.40,
+    "marketCap" : 3603.00,
+    "peRatio" : 12.60,
     "description" : "Kalyani Steels Ltd, a Kalyani Group specialty-steel company, manufactures forging and engineering-quality carbon /alloy-steel long products through the blast-furnace route. Its integrated Ginigera, Karnataka plant supplies critical grades for automotive, bearings, energy, oil & gas, engineering, seamless tube, defence and railway applications, with group forging companies as key customers.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 774.95,
-    "dma50" : 815.81,
-    "dma100" : null,
-    "dma200" : 831.74,
-    "volume" : 11884.00
-  }, {
     "date" : "2025-11-27",
     "price" : 770.20,
     "dma50" : 814.02,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 798.15,
     "dma50" : 706.97,
-    "dma100" : 716.11,
+    "dma100" : null,
     "dma200" : 755.76,
     "volume" : 44933.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 899.41,
     "dma200" : 855.27,
     "volume" : 23387.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 825.45,
+    "dma50" : 879.49,
+    "dma100" : 898.85,
+    "dma200" : 854.97,
+    "volume" : 29202.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 812.30,
-    "dma50" : 881.70,
-    "dma100" : 899.41,
-    "dma200" : 855.27,
-    "volume" : 23387.00
+    "date" : "2026-11-26",
+    "price" : 825.45,
+    "dma50" : 879.49,
+    "dma100" : 898.85,
+    "dma200" : 854.97,
+    "volume" : 29202.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.48,
-    "pricePercentageAboveDma200" : 5.25,
+    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 26.13,
+    "totalTechnicalScore" : 25.89,
     "totalFundamentalScore" : 39.39,
-    "totalScore" : 65.52
+    "totalScore" : 65.28
   }
 }

@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SUDARSCHEM",
       "companyName" : "Sudarshan Chem.",
-      "marketCap" : 8854.00,
-      "peRatio" : 58.70,
+      "marketCap" : 8736.00,
+      "peRatio" : 57.90,
       "description" : "Sudarshan Chemical Industries manufactures and sells a wide range of Organic and Inorganic Pigments, Effect Pigments. The Group also manufactures Pollution Control Equipment, Size Reduction Equipment and Grinding Equipments for industrial applications.(Source : 202003 Annual Report Page No:203)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 5.00,
+      "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.06,
-      "pricePercentageAboveDma200" : 4.80,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 4.87,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 12.87,
       "netProfitMarginPercentile" : 8.16,
-      "totalTechnicalScore" : 34.93,
+      "totalTechnicalScore" : 30.14,
       "totalFundamentalScore" : 39.83,
-      "totalScore" : 74.76
+      "totalScore" : 69.97
     }
   },
   "attributes" : {
     "companyCode" : "SUDARSCHEM",
     "companyName" : "Sudarshan Chem.",
-    "marketCap" : 8854.00,
-    "peRatio" : 58.70,
+    "marketCap" : 8736.00,
+    "peRatio" : 57.90,
     "description" : "Sudarshan Chemical Industries manufactures and sells a wide range of Organic and Inorganic Pigments, Effect Pigments. The Group also manufactures Pollution Control Equipment, Size Reduction Equipment and Grinding Equipments for industrial applications.(Source : 202003 Annual Report Page No:203)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1033.50,
-    "dma50" : 1179.13,
-    "dma100" : null,
-    "dma200" : 1185.99,
-    "volume" : 109382.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1005.40,
     "dma50" : 1172.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 869.55,
     "dma50" : 851.66,
-    "dma100" : 897.31,
+    "dma100" : null,
     "dma200" : 992.65,
     "volume" : 186664.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1126.32,
     "dma200" : 1069.40,
     "volume" : 66061.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1097.00,
+    "dma50" : 1125.74,
+    "dma100" : 1128.19,
+    "dma200" : 1069.67,
+    "volume" : 141037.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1111.85,
-    "dma50" : 1126.91,
-    "dma100" : 1126.32,
-    "dma200" : 1069.40,
-    "volume" : 66061.00
+    "date" : "2026-11-26",
+    "price" : 1097.00,
+    "dma50" : 1125.74,
+    "dma100" : 1128.19,
+    "dma200" : 1069.67,
+    "volume" : 141037.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,18 +2663,18 @@
     "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 5.00,
+    "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.06,
-    "pricePercentageAboveDma200" : 4.80,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 4.87,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 12.87,
     "netProfitMarginPercentile" : 8.16,
-    "totalTechnicalScore" : 34.93,
+    "totalTechnicalScore" : 30.14,
     "totalFundamentalScore" : 39.83,
-    "totalScore" : 74.76
+    "totalScore" : 69.97
   }
 }

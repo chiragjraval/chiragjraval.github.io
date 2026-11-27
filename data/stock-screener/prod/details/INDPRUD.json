@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "INDPRUD",
       "companyName" : "Indl.& Prud.Inv.",
-      "marketCap" : 1006.00,
-      "peRatio" : 16.90,
+      "marketCap" : 1014.00,
+      "peRatio" : 17.00,
       "description" : "Incorporated in 1913, The Industrial and Prudential Investment Company Ltd is in the business of investments and lending[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.13,
-      "pricePercentageAboveDma100" : 5.23,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma50" : 5.09,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.10,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 19.80,
       "netProfitMarginPercentile" : 9.10,
-      "totalTechnicalScore" : 20.50,
+      "totalTechnicalScore" : 20.38,
       "totalFundamentalScore" : 45.52,
-      "totalScore" : 66.02
+      "totalScore" : 65.90
     }
   },
   "attributes" : {
     "companyCode" : "INDPRUD",
     "companyName" : "Indl.& Prud.Inv.",
-    "marketCap" : 1006.00,
-    "peRatio" : 16.90,
+    "marketCap" : 1014.00,
+    "peRatio" : 17.00,
     "description" : "Incorporated in 1913, The Industrial and Prudential Investment Company Ltd is in the business of investments and lending[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 5969.70,
-    "dma50" : 6163.23,
-    "dma100" : null,
-    "dma200" : 6246.24,
-    "volume" : 17.00
-  }, {
     "date" : "2025-11-27",
     "price" : 5839.05,
     "dma50" : 6150.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 6502.00,
     "dma50" : 5674.51,
-    "dma100" : 5472.96,
+    "dma100" : null,
     "dma200" : 5771.42,
     "volume" : 197.00
   }, {
@@ -1740,14 +1733,21 @@
     "dma100" : 6290.91,
     "dma200" : 6172.90,
     "volume" : 14.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 6050.00,
+    "dma50" : 6163.16,
+    "dma100" : 6286.16,
+    "dma200" : 6171.68,
+    "volume" : 17.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 6005.00,
-    "dma50" : 6167.77,
-    "dma100" : 6290.91,
-    "dma200" : 6172.90,
-    "volume" : 14.00
+    "date" : "2026-11-26",
+    "price" : 6050.00,
+    "dma50" : 6163.16,
+    "dma100" : 6286.16,
+    "dma200" : 6171.68,
+    "volume" : 17.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2638,15 +2638,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.13,
-    "pricePercentageAboveDma100" : 5.23,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma50" : 5.09,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.10,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 19.80,
     "netProfitMarginPercentile" : 9.10,
-    "totalTechnicalScore" : 20.50,
+    "totalTechnicalScore" : 20.38,
     "totalFundamentalScore" : 45.52,
-    "totalScore" : 66.02
+    "totalScore" : 65.90
   }
 }

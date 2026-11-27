@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "523411",
       "companyName" : "ADC India",
-      "marketCap" : 1003.00,
-      "peRatio" : 36.80,
+      "marketCap" : 1012.00,
+      "peRatio" : 37.10,
       "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
     },
     "companyScore" : {
@@ -20,26 +20,40 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.17,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma50" : 5.14,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 30.14,
+      "totalTechnicalScore" : 30.03,
       "totalFundamentalScore" : 45.69,
-      "totalScore" : 75.83
+      "totalScore" : 75.72
     }
   },
   "attributes" : {
     "companyCode" : "523411",
     "companyName" : "ADC India",
-    "marketCap" : 1003.00,
-    "peRatio" : 36.80,
+    "marketCap" : 1012.00,
+    "peRatio" : 37.10,
     "description" : "Incorporated in 1988, ADC India Communications Ltd manufactures and trades Telecommunications & IT Networking products[1]"
   },
   "technicalHistory" : [ {
+    "date" : "2025-11-24",
+    "price" : 1299.00,
+    "dma50" : 1503.10,
+    "dma100" : null,
+    "dma200" : 1434.20,
+    "volume" : 1911.00
+  }, {
+    "date" : "2025-11-25",
+    "price" : 1293.55,
+    "dma50" : 1494.88,
+    "dma100" : null,
+    "dma200" : 1432.81,
+    "volume" : 761.00
+  }, {
     "date" : "2025-11-26",
     "price" : 1320.65,
     "dma50" : 1488.05,
@@ -72,7 +86,7 @@
     "price" : 1377.10,
     "dma50" : 1465.28,
     "dma100" : null,
-    "dma200" : 1427.81,
+    "dma200" : 1427.82,
     "volume" : 1487.00
   }, {
     "date" : "2025-12-03",
@@ -303,7 +317,7 @@
     "price" : 1355.95,
     "dma50" : 1385.92,
     "dma100" : null,
-    "dma200" : 1404.12,
+    "dma200" : 1404.13,
     "volume" : 2169.00
   }, {
     "date" : "2026-01-21",
@@ -366,7 +380,7 @@
     "price" : 1376.30,
     "dma50" : 1379.83,
     "dma100" : null,
-    "dma200" : 1400.86,
+    "dma200" : 1400.87,
     "volume" : 606.00
   }, {
     "date" : "2026-02-03",
@@ -450,7 +464,7 @@
     "price" : 1299.60,
     "dma50" : 1366.35,
     "dma100" : null,
-    "dma200" : 1394.69,
+    "dma200" : 1394.70,
     "volume" : 663.00
   }, {
     "date" : "2026-02-19",
@@ -527,7 +541,7 @@
     "price" : 1290.70,
     "dma50" : 1345.24,
     "dma100" : null,
-    "dma200" : 1385.59,
+    "dma200" : 1385.60,
     "volume" : 715.00
   }, {
     "date" : "2026-03-09",
@@ -729,14 +743,14 @@
     "date" : "2026-04-22",
     "price" : 1592.15,
     "dma50" : 1368.97,
-    "dma100" : null,
+    "dma100" : 1337.98,
     "dma200" : 1376.34,
     "volume" : 620.00
   }, {
     "date" : "2026-04-23",
     "price" : 1593.60,
     "dma50" : 1377.78,
-    "dma100" : null,
+    "dma100" : 1340.99,
     "dma200" : 1378.50,
     "volume" : 1163.00
   }, {
@@ -828,7 +842,7 @@
     "price" : 2285.80,
     "dma50" : 1591.30,
     "dma100" : 1416.19,
-    "dma200" : 1439.32,
+    "dma200" : 1439.33,
     "volume" : 8254.00
   }, {
     "date" : "2026-05-14",
@@ -855,7 +869,7 @@
     "date" : "2026-05-19",
     "price" : 2235.70,
     "dma50" : 1703.73,
-    "dma100" : 1461.12,
+    "dma100" : 1461.13,
     "dma200" : 1475.14,
     "volume" : 6837.00
   }, {
@@ -995,7 +1009,7 @@
     "date" : "2026-06-17",
     "price" : 2372.20,
     "dma50" : 2079.16,
-    "dma100" : 1657.88,
+    "dma100" : 1657.89,
     "dma200" : 1638.45,
     "volume" : 1136.00
   }, {
@@ -1754,28 +1768,14 @@
     "dma100" : 2293.85,
     "dma200" : 2069.84,
     "volume" : 1026.00
-  }, {
-    "date" : "2026-11-23",
-    "price" : 2126.75,
-    "dma50" : 2258.76,
-    "dma100" : 2291.75,
-    "dma200" : 2070.40,
-    "volume" : 1155.00
-  }, {
-    "date" : "2026-11-25",
-    "price" : 2180.55,
-    "dma50" : 2255.69,
-    "dma100" : 2290.06,
-    "dma200" : 2071.50,
-    "volume" : 661.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 2180.55,
-    "dma50" : 2255.69,
-    "dma100" : 2290.06,
-    "dma200" : 2071.50,
-    "volume" : 661.00
+    "date" : "2026-11-20",
+    "price" : 2200.50,
+    "dma50" : 2264.15,
+    "dma100" : 2293.85,
+    "dma200" : 2069.84,
+    "volume" : 1026.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-01-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.17,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma50" : 5.14,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 30.14,
+    "totalTechnicalScore" : 30.03,
     "totalFundamentalScore" : 45.69,
-    "totalScore" : 75.83
+    "totalScore" : 75.72
   }
 }

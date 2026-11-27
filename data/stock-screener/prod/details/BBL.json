@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "BBL",
       "companyName" : "Bharat Bijlee",
-      "marketCap" : 2728.00,
-      "peRatio" : 21.00,
+      "marketCap" : 2781.00,
+      "peRatio" : 21.40,
       "description" : "Established in 1946, Bharat Bijlee is a leading electrical engineering company in India engaged in manufacturing of transformers, electric motors, elevator systems, drives and automation. It also provides turnkey solutions for EHV switchyards, HV and MV substations, Electrical Balance of Plant, etc. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 4.99,
-      "pricePercentageAboveDma200" : 5.26,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 4.89,
+      "pricePercentageAboveDma200" : 5.16,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 12.18,
       "netProfitMarginPercentile" : 6.78,
-      "totalTechnicalScore" : 25.31,
+      "totalTechnicalScore" : 30.02,
       "totalFundamentalScore" : 37.52,
-      "totalScore" : 62.83
+      "totalScore" : 67.54
     }
   },
   "attributes" : {
     "companyCode" : "BBL",
     "companyName" : "Bharat Bijlee",
-    "marketCap" : 2728.00,
-    "peRatio" : 21.00,
+    "marketCap" : 2781.00,
+    "peRatio" : 21.40,
     "description" : "Established in 1946, Bharat Bijlee is a leading electrical engineering company in India engaged in manufacturing of transformers, electric motors, elevator systems, drives and automation. It also provides turnkey solutions for EHV switchyards, HV and MV substations, Electrical Balance of Plant, etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 2893.80,
-    "dma50" : 3013.41,
-    "dma100" : null,
-    "dma200" : 3124.69,
-    "volume" : 9195.00
-  }, {
     "date" : "2025-11-27",
     "price" : 2886.50,
     "dma50" : 3008.43,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 3060.70,
     "dma50" : 2536.64,
-    "dma100" : 2598.75,
+    "dma100" : null,
     "dma200" : 2770.75,
     "volume" : 209874.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2408.38,
     "dma200" : 2543.27,
     "volume" : 41600.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 2460.00,
+    "dma50" : 2447.62,
+    "dma100" : 2405.80,
+    "dma200" : 2542.44,
+    "volume" : 42489.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 2413.40,
-    "dma50" : 2447.11,
-    "dma100" : 2408.38,
-    "dma200" : 2543.27,
-    "volume" : 41600.00
+    "date" : "2026-11-26",
+    "price" : 2460.00,
+    "dma50" : 2447.62,
+    "dma100" : 2405.80,
+    "dma200" : 2542.44,
+    "volume" : 42489.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 46.01
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 4.99,
-    "pricePercentageAboveDma200" : 5.26,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 4.89,
+    "pricePercentageAboveDma200" : 5.16,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 12.18,
     "netProfitMarginPercentile" : 6.78,
-    "totalTechnicalScore" : 25.31,
+    "totalTechnicalScore" : 30.02,
     "totalFundamentalScore" : 37.52,
-    "totalScore" : 62.83
+    "totalScore" : 67.54
   }
 }

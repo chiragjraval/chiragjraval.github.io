@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SHARDAMOTR",
       "companyName" : "Sharda Motor",
-      "marketCap" : 5730.00,
-      "peRatio" : 15.90,
+      "marketCap" : 5594.00,
+      "peRatio" : 15.50,
       "description" : "Sharda Motor Industries Ltd is primarily engaged in the manufacturing and assembly of Auto Components and White Goods Components.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.48,
-      "pricePercentageAboveDma100" : 4.43,
-      "pricePercentageAboveDma200" : 4.43,
+      "pricePercentageAboveDma50" : 4.63,
+      "pricePercentageAboveDma100" : 4.56,
+      "pricePercentageAboveDma200" : 4.56,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 18.44,
       "operatingProfitMarginPercentile" : 16.17,
       "netProfitMarginPercentile" : 8.07,
-      "totalTechnicalScore" : 43.34,
+      "totalTechnicalScore" : 43.76,
       "totalFundamentalScore" : 42.68,
-      "totalScore" : 86.01
+      "totalScore" : 86.43
     }
   },
   "attributes" : {
     "companyCode" : "SHARDAMOTR",
     "companyName" : "Sharda Motor",
-    "marketCap" : 5730.00,
-    "peRatio" : 15.90,
+    "marketCap" : 5594.00,
+    "peRatio" : 15.50,
     "description" : "Sharda Motor Industries Ltd is primarily engaged in the manufacturing and assembly of Auto Components and White Goods Components.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 918.60,
-    "dma50" : 1030.86,
-    "dma100" : null,
-    "dma200" : 998.01,
-    "volume" : 20414.00
-  }, {
     "date" : "2025-11-27",
     "price" : 925.60,
     "dma50" : 1026.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 845.00,
     "dma50" : 843.40,
-    "dma100" : 883.75,
+    "dma100" : null,
     "dma200" : 916.99,
     "volume" : 60761.00
   }, {
@@ -1044,7 +1037,7 @@
     "date" : "2026-06-29",
     "price" : 830.90,
     "dma50" : 835.84,
-    "dma100" : 851.10,
+    "dma100" : 851.11,
     "dma200" : 891.13,
     "volume" : 28616.00
   }, {
@@ -1198,7 +1191,7 @@
     "date" : "2026-07-29",
     "price" : 843.60,
     "dma50" : 848.35,
-    "dma100" : 837.02,
+    "dma100" : 837.03,
     "dma200" : 885.17,
     "volume" : 24991.00
   }, {
@@ -1338,7 +1331,7 @@
     "date" : "2026-08-26",
     "price" : 891.60,
     "dma50" : 879.34,
-    "dma100" : 858.37,
+    "dma100" : 858.38,
     "dma200" : 888.62,
     "volume" : 28414.00
   }, {
@@ -1632,7 +1625,7 @@
     "date" : "2026-10-28",
     "price" : 823.90,
     "dma50" : 888.09,
-    "dma100" : 879.24,
+    "dma100" : 879.25,
     "dma200" : 892.62,
     "volume" : 23726.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 895.38,
     "dma200" : 895.60,
     "volume" : 123203.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 974.45,
+    "dma50" : 907.15,
+    "dma100" : 896.14,
+    "dma200" : 896.38,
+    "volume" : 73436.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 998.05,
-    "dma50" : 904.40,
-    "dma100" : 895.38,
-    "dma200" : 895.60,
-    "volume" : 123203.00
+    "date" : "2026-11-26",
+    "price" : 974.45,
+    "dma50" : 907.15,
+    "dma100" : 896.14,
+    "dma200" : 896.38,
+    "volume" : 73436.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-06-30",
@@ -2476,15 +2476,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.48,
-    "pricePercentageAboveDma100" : 4.43,
-    "pricePercentageAboveDma200" : 4.43,
+    "pricePercentageAboveDma50" : 4.63,
+    "pricePercentageAboveDma100" : 4.56,
+    "pricePercentageAboveDma200" : 4.56,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 18.44,
     "operatingProfitMarginPercentile" : 16.17,
     "netProfitMarginPercentile" : 8.07,
-    "totalTechnicalScore" : 43.34,
+    "totalTechnicalScore" : 43.76,
     "totalFundamentalScore" : 42.68,
-    "totalScore" : 86.01
+    "totalScore" : 86.43
   }
 }

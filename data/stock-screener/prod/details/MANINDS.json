@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANINDS",
       "companyName" : "Man Industries",
-      "marketCap" : 5278.00,
-      "peRatio" : 22.70,
+      "marketCap" : 5261.00,
+      "peRatio" : 22.60,
       "description" : "Man Industries Ltd. is one of the largest Manufacturers and Exporters of LSAW and HSAW pipes in India with a total installed capacity of 1 million tonnes. The company is among leading manufacturer of large diameter pipes with 3 Decades of presence in Pipe Industry."
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.52,
-      "pricePercentageAboveDma100" : 5.17,
-      "pricePercentageAboveDma200" : 4.54,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 4.56,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.02,
       "operatingProfitMarginPercentile" : 13.10,
       "netProfitMarginPercentile" : 3.44,
-      "totalTechnicalScore" : 35.24,
+      "totalTechnicalScore" : 35.28,
       "totalFundamentalScore" : 22.57,
-      "totalScore" : 57.81
+      "totalScore" : 57.85
     }
   },
   "attributes" : {
     "companyCode" : "MANINDS",
     "companyName" : "Man Industries",
-    "marketCap" : 5278.00,
-    "peRatio" : 22.70,
+    "marketCap" : 5261.00,
+    "peRatio" : 22.60,
     "description" : "Man Industries Ltd. is one of the largest Manufacturers and Exporters of LSAW and HSAW pipes in India with a total installed capacity of 1 million tonnes. The company is among leading manufacturer of large diameter pipes with 3 Decades of presence in Pipe Industry."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 484.70,
-    "dma50" : 415.82,
-    "dma100" : null,
-    "dma200" : 382.24,
-    "volume" : 1263635.00
-  }, {
     "date" : "2025-11-27",
     "price" : 472.45,
     "dma50" : 418.04,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 550.85,
     "dma50" : 430.37,
-    "dma100" : 403.73,
+    "dma100" : null,
     "dma200" : 398.59,
     "volume" : 387373.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 729.07,
     "dma200" : 644.68,
     "volume" : 464583.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 701.40,
+    "dma50" : 782.91,
+    "dma100" : 730.26,
+    "dma200" : 645.24,
+    "volume" : 272571.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 703.70,
-    "dma50" : 786.24,
-    "dma100" : 729.07,
-    "dma200" : 644.68,
-    "volume" : 464583.00
+    "date" : "2026-11-26",
+    "price" : 701.40,
+    "dma50" : 782.91,
+    "dma100" : 730.26,
+    "dma200" : 645.24,
+    "volume" : 272571.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.52,
-    "pricePercentageAboveDma100" : 5.17,
-    "pricePercentageAboveDma200" : 4.54,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 4.56,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.02,
     "operatingProfitMarginPercentile" : 13.10,
     "netProfitMarginPercentile" : 3.44,
-    "totalTechnicalScore" : 35.24,
+    "totalTechnicalScore" : 35.28,
     "totalFundamentalScore" : 22.57,
-    "totalScore" : 57.81
+    "totalScore" : 57.85
   }
 }

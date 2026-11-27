@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SSRETAIL",
       "companyName" : "SS Retail",
-      "marketCap" : 4806.00,
-      "peRatio" : 62.20,
+      "marketCap" : 4872.00,
+      "peRatio" : 63.00,
       "description" : "Incorporated in June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories, and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa, and Gujarat.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.31,
+      "pricePercentageAboveDma50" : 5.23,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 5.55,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 12.00,
       "netProfitMarginPercentile" : 9.57,
-      "totalTechnicalScore" : 10.86,
+      "totalTechnicalScore" : 10.72,
       "totalFundamentalScore" : 41.57,
-      "totalScore" : 52.42
+      "totalScore" : 52.28
     }
   },
   "attributes" : {
     "companyCode" : "SSRETAIL",
     "companyName" : "SS Retail",
-    "marketCap" : 4806.00,
-    "peRatio" : 62.20,
+    "marketCap" : 4872.00,
+    "peRatio" : 63.00,
     "description" : "Incorporated in June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories, and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa, and Gujarat.[1]"
   },
   "technicalHistory" : [ {
@@ -340,14 +340,21 @@
     "dma100" : null,
     "dma200" : 726.04,
     "volume" : 225342.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 655.15,
+    "dma50" : 687.40,
+    "dma100" : null,
+    "dma200" : 725.34,
+    "volume" : 266332.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 646.30,
-    "dma50" : 688.72,
+    "date" : "2026-11-26",
+    "price" : 655.15,
+    "dma50" : 687.40,
     "dma100" : null,
-    "dma200" : 726.04,
-    "volume" : 225342.00
+    "dma200" : 725.34,
+    "volume" : 266332.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -418,15 +425,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.31,
+    "pricePercentageAboveDma50" : 5.23,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 5.55,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 12.00,
     "netProfitMarginPercentile" : 9.57,
-    "totalTechnicalScore" : 10.86,
+    "totalTechnicalScore" : 10.72,
     "totalFundamentalScore" : 41.57,
-    "totalScore" : 52.42
+    "totalScore" : 52.28
   }
 }

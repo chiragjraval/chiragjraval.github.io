@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ZFCVINDIA",
       "companyName" : "ZF Commercial",
-      "marketCap" : 24124.00,
-      "peRatio" : 47.40,
+      "marketCap" : 24923.00,
+      "peRatio" : 49.00,
       "description" : "Operating under the ZF WABCO brand and part of ZF Group Commercial Vehicle Control Systems Division, WABCO INDIA Limited is India’s market leader for advanced braking systems, conventional braking products and related air assisted technologies and systems in India. It also provides software development and other services. Its headquarter is in Chennai, India"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.30,
-      "pricePercentageAboveDma100" : 5.51,
-      "pricePercentageAboveDma200" : 5.50,
+      "pricePercentageAboveDma50" : 5.14,
+      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma200" : 5.34,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.43,
       "operatingProfitMarginPercentile" : 15.06,
       "netProfitMarginPercentile" : 8.21,
-      "totalTechnicalScore" : 21.31,
+      "totalTechnicalScore" : 20.84,
       "totalFundamentalScore" : 38.71,
-      "totalScore" : 60.02
+      "totalScore" : 59.55
     }
   },
   "attributes" : {
     "companyCode" : "ZFCVINDIA",
     "companyName" : "ZF Commercial",
-    "marketCap" : 24124.00,
-    "peRatio" : 47.40,
+    "marketCap" : 24923.00,
+    "peRatio" : 49.00,
     "description" : "Operating under the ZF WABCO brand and part of ZF Group Commercial Vehicle Control Systems Division, WABCO INDIA Limited is India’s market leader for advanced braking systems, conventional braking products and related air assisted technologies and systems in India. It also provides software development and other services. Its headquarter is in Chennai, India"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 2148.83,
-    "dma50" : 2169.26,
-    "dma100" : null,
-    "dma200" : 2193.85,
-    "volume" : 567350.00
-  }, {
     "date" : "2025-11-27",
     "price" : 2182.50,
     "dma50" : 2169.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 2500.33,
     "dma50" : 2403.61,
-    "dma100" : 2427.42,
+    "dma100" : null,
     "dma200" : 2338.23,
     "volume" : 104791.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2362.45,
     "dma200" : 2352.91,
     "volume" : 79188.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 2190.00,
+    "dma50" : 2253.42,
+    "dma100" : 2360.19,
+    "dma200" : 2351.29,
+    "volume" : 109421.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 2119.80,
-    "dma50" : 2256.01,
-    "dma100" : 2362.45,
-    "dma200" : 2352.91,
-    "volume" : 79188.00
+    "date" : "2026-11-26",
+    "price" : 2190.00,
+    "dma50" : 2253.42,
+    "dma100" : 2360.19,
+    "dma200" : 2351.29,
+    "volume" : 109421.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-06-30",
@@ -2536,15 +2536,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.30,
-    "pricePercentageAboveDma100" : 5.51,
-    "pricePercentageAboveDma200" : 5.50,
+    "pricePercentageAboveDma50" : 5.14,
+    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma200" : 5.34,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.43,
     "operatingProfitMarginPercentile" : 15.06,
     "netProfitMarginPercentile" : 8.21,
-    "totalTechnicalScore" : 21.31,
+    "totalTechnicalScore" : 20.84,
     "totalFundamentalScore" : 38.71,
-    "totalScore" : 60.02
+    "totalScore" : 59.55
   }
 }

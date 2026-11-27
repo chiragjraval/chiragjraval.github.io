@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "MOL",
       "companyName" : "Meghmani Organi.",
-      "marketCap" : 1316.00,
+      "marketCap" : 1314.00,
       "peRatio" : 15.20,
       "description" : "Founded in 1986 as M/s Gujarat Industries, the company was incorporated in 1995 as Meghmani Organics Limited. The company manufactures Pigments and Agrochemicals through its 6 manufacturing facilities located in Gujarat. The company is amongst the top 3 Phthalocyanine based pigment players in the world and amongst the top 10 producers of pesticides in India.[1]Meghmani Organics Ltd (MOL) manufactures green and blue pigment products, which are used to manufacture printing ink, plastic, paints, textiles, leather, and rubber. It also manufactures a wide variety of commonly used pesticides for crop and non-crop applications, this include insect control in wood preservation and food grain storage."
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.42,
+      "pricePercentageAboveDma100" : 5.44,
       "pricePercentageAboveDma200" : 5.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.30,
       "operatingProfitMarginPercentile" : 10.49,
       "netProfitMarginPercentile" : 6.02,
-      "totalTechnicalScore" : 16.27,
+      "totalTechnicalScore" : 16.29,
       "totalFundamentalScore" : 27.82,
-      "totalScore" : 44.09
+      "totalScore" : 44.10
     }
   },
   "attributes" : {
     "companyCode" : "MOL",
     "companyName" : "Meghmani Organi.",
-    "marketCap" : 1316.00,
+    "marketCap" : 1314.00,
     "peRatio" : 15.20,
     "description" : "Founded in 1986 as M/s Gujarat Industries, the company was incorporated in 1995 as Meghmani Organics Limited. The company manufactures Pigments and Agrochemicals through its 6 manufacturing facilities located in Gujarat. The company is amongst the top 3 Phthalocyanine based pigment players in the world and amongst the top 10 producers of pesticides in India.[1]Meghmani Organics Ltd (MOL) manufactures green and blue pigment products, which are used to manufacture printing ink, plastic, paints, textiles, leather, and rubber. It also manufactures a wide variety of commonly used pesticides for crop and non-crop applications, this include insect control in wood preservation and food grain storage."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 68.65,
-    "dma50" : 77.40,
-    "dma100" : null,
-    "dma200" : 82.48,
-    "volume" : 555006.00
-  }, {
     "date" : "2025-11-27",
     "price" : 68.60,
     "dma50" : 77.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 52.51,
     "dma50" : 50.42,
-    "dma100" : 55.21,
+    "dma100" : null,
     "dma200" : 64.06,
     "volume" : 415554.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 56.54,
     "dma200" : 57.51,
     "volume" : 223784.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 51.65,
+    "dma50" : 55.48,
+    "dma100" : 56.58,
+    "dma200" : 57.45,
+    "volume" : 250426.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 51.76,
-    "dma50" : 55.64,
-    "dma100" : 56.54,
-    "dma200" : 57.51,
-    "volume" : 223784.00
+    "date" : "2026-11-26",
+    "price" : 51.65,
+    "dma50" : 55.48,
+    "dma100" : 56.58,
+    "dma200" : 57.45,
+    "volume" : 250426.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-03-31",
@@ -2067,14 +2067,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.42,
+    "pricePercentageAboveDma100" : 5.44,
     "pricePercentageAboveDma200" : 5.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.30,
     "operatingProfitMarginPercentile" : 10.49,
     "netProfitMarginPercentile" : 6.02,
-    "totalTechnicalScore" : 16.27,
+    "totalTechnicalScore" : 16.29,
     "totalFundamentalScore" : 27.82,
-    "totalScore" : 44.09
+    "totalScore" : 44.10
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "FINCABLES",
       "companyName" : "Finolex Cables",
-      "marketCap" : 17706.00,
+      "marketCap" : 17628.00,
       "peRatio" : 19.40,
       "description" : "Finolex Cables Limited is a leading manufacturer of electrical and telecommunication cables in India. Operating for more than 50 years, Finolex has been able to maintain its leadership position as one of the most diversified wires and cables companies in the country. Besides manufacturing a wide variety of wires and cables, Finolex has also forayed into the manufacturing of Fast-Moving Electrical Goods (FMEG) and home appliances. Over the years, the Company has established itself as a preferred electrical solutions provider for retail and institutional markets in India and created a strong brand name. [1]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 5.35,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 4.86,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 4.89,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 16.32,
       "netProfitMarginPercentile" : 8.97,
-      "totalTechnicalScore" : 35.47,
+      "totalTechnicalScore" : 35.53,
       "totalFundamentalScore" : 44.81,
-      "totalScore" : 80.28
+      "totalScore" : 80.33
     }
   },
   "attributes" : {
     "companyCode" : "FINCABLES",
     "companyName" : "Finolex Cables",
-    "marketCap" : 17706.00,
+    "marketCap" : 17628.00,
     "peRatio" : 19.40,
     "description" : "Finolex Cables Limited is a leading manufacturer of electrical and telecommunication cables in India. Operating for more than 50 years, Finolex has been able to maintain its leadership position as one of the most diversified wires and cables companies in the country. Besides manufacturing a wide variety of wires and cables, Finolex has also forayed into the manufacturing of Fast-Moving Electrical Goods (FMEG) and home appliances. Over the years, the Company has established itself as a preferred electrical solutions provider for retail and institutional markets in India and created a strong brand name. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 756.40,
-    "dma50" : 798.38,
-    "dma100" : null,
-    "dma200" : 899.79,
-    "volume" : 111065.00
-  }, {
     "date" : "2025-11-27",
     "price" : 753.65,
     "dma50" : 796.63,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 972.70,
     "dma50" : 860.25,
-    "dma100" : 806.79,
+    "dma100" : null,
     "dma200" : 850.78,
     "volume" : 582648.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1222.28,
     "dma200" : 1127.24,
     "volume" : 628427.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1152.60,
+    "dma50" : 1240.14,
+    "dma100" : 1222.81,
+    "dma200" : 1127.49,
+    "volume" : 464026.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1157.70,
-    "dma50" : 1243.71,
-    "dma100" : 1222.28,
-    "dma200" : 1127.24,
-    "volume" : 628427.00
+    "date" : "2026-11-26",
+    "price" : 1152.60,
+    "dma50" : 1240.14,
+    "dma100" : 1222.81,
+    "dma200" : 1127.49,
+    "volume" : 464026.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 5.35,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 4.86,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 4.89,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 16.32,
     "netProfitMarginPercentile" : 8.97,
-    "totalTechnicalScore" : 35.47,
+    "totalTechnicalScore" : 35.53,
     "totalFundamentalScore" : 44.81,
-    "totalScore" : 80.28
+    "totalScore" : 80.33
   }
 }

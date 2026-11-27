@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AJANTPHARM",
       "companyName" : "Ajanta Pharma",
-      "marketCap" : 42149.00,
-      "peRatio" : 33.40,
+      "marketCap" : 42089.00,
+      "peRatio" : 33.30,
       "description" : "Ajanta Pharma is primarily engaged in development, manufacturing and marketing of speciality pharmaceutical quality finished dosages.(Source : 202003-01 Annual Report Page No:70)."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.11,
-      "pricePercentageAboveDma200" : 4.78,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.12,
+      "pricePercentageAboveDma200" : 4.79,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 15.09,
       "netProfitMarginPercentile" : 7.24,
-      "totalTechnicalScore" : 29.90,
+      "totalTechnicalScore" : 29.93,
       "totalFundamentalScore" : 41.85,
-      "totalScore" : 71.75
+      "totalScore" : 71.78
     }
   },
   "attributes" : {
     "companyCode" : "AJANTPHARM",
     "companyName" : "Ajanta Pharma",
-    "marketCap" : 42149.00,
-    "peRatio" : 33.40,
+    "marketCap" : 42089.00,
+    "peRatio" : 33.30,
     "description" : "Ajanta Pharma is primarily engaged in development, manufacturing and marketing of speciality pharmaceutical quality finished dosages.(Source : 202003-01 Annual Report Page No:70)."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 2535.10,
-    "dma50" : 2509.49,
-    "dma100" : null,
-    "dma200" : 2583.51,
-    "volume" : 73775.00
-  }, {
     "date" : "2025-11-27",
     "price" : 2530.70,
     "dma50" : 2510.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 2765.30,
     "dma50" : 2838.59,
-    "dma100" : 2805.07,
+    "dma100" : null,
     "dma200" : 2736.18,
     "volume" : 49129.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3451.88,
     "dma200" : 3228.06,
     "volume" : 112195.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 3368.20,
+    "dma50" : 3380.69,
+    "dma100" : 3452.30,
+    "dma200" : 3229.45,
+    "volume" : 43849.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 3373.00,
-    "dma50" : 3381.20,
-    "dma100" : 3451.88,
-    "dma200" : 3228.06,
-    "volume" : 112195.00
+    "date" : "2026-11-26",
+    "price" : 3368.20,
+    "dma50" : 3380.69,
+    "dma100" : 3452.30,
+    "dma200" : 3229.45,
+    "volume" : 43849.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.11,
-    "pricePercentageAboveDma200" : 4.78,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.12,
+    "pricePercentageAboveDma200" : 4.79,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 15.09,
     "netProfitMarginPercentile" : 7.24,
-    "totalTechnicalScore" : 29.90,
+    "totalTechnicalScore" : 29.93,
     "totalFundamentalScore" : 41.85,
-    "totalScore" : 71.75
+    "totalScore" : 71.78
   }
 }

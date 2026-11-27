@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TIMETECHNO",
       "companyName" : "Time Technoplast",
-      "marketCap" : 9681.00,
-      "peRatio" : 18.60,
+      "marketCap" : 9846.00,
+      "peRatio" : 18.90,
       "description" : "Time Technoplast is a multinational conglomerate involved in the manufacturing of technology and innovation driven polymer & composite products.(Source : 202003-01 Annual Report Page No:74)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.61,
-      "pricePercentageAboveDma100" : 4.74,
-      "pricePercentageAboveDma200" : 4.71,
+      "pricePercentageAboveDma50" : 4.53,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.20,
       "operatingProfitMarginPercentile" : 3.17,
       "netProfitMarginPercentile" : 5.82,
-      "totalTechnicalScore" : 39.06,
+      "totalTechnicalScore" : 38.81,
       "totalFundamentalScore" : 28.19,
-      "totalScore" : 67.25
+      "totalScore" : 67.00
     }
   },
   "attributes" : {
     "companyCode" : "TIMETECHNO",
     "companyName" : "Time Technoplast",
-    "marketCap" : 9681.00,
-    "peRatio" : 18.60,
+    "marketCap" : 9846.00,
+    "peRatio" : 18.90,
     "description" : "Time Technoplast is a multinational conglomerate involved in the manufacturing of technology and innovation driven polymer & composite products.(Source : 202003-01 Annual Report Page No:74)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 202.70,
-    "dma50" : 213.70,
-    "dma100" : null,
-    "dma200" : 210.43,
-    "volume" : 2970528.00
-  }, {
     "date" : "2025-11-27",
     "price" : 199.20,
     "dma50" : 213.13,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 184.11,
     "dma50" : 180.83,
-    "dma100" : 182.62,
+    "dma100" : null,
     "dma200" : 192.21,
     "volume" : 1901865.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 186.42,
     "dma200" : 185.39,
     "volume" : 5589181.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 199.46,
+    "dma50" : 182.48,
+    "dma100" : 186.61,
+    "dma200" : 185.53,
+    "volume" : 5924016.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 196.11,
-    "dma50" : 181.79,
-    "dma100" : 186.42,
-    "dma200" : 185.39,
-    "volume" : 5589181.00
+    "date" : "2026-11-26",
+    "price" : 199.46,
+    "dma50" : 182.48,
+    "dma100" : 186.61,
+    "dma200" : 185.53,
+    "volume" : 5924016.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-03-31",
@@ -2586,15 +2586,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.61,
-    "pricePercentageAboveDma100" : 4.74,
-    "pricePercentageAboveDma200" : 4.71,
+    "pricePercentageAboveDma50" : 4.53,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.20,
     "operatingProfitMarginPercentile" : 3.17,
     "netProfitMarginPercentile" : 5.82,
-    "totalTechnicalScore" : 39.06,
+    "totalTechnicalScore" : 38.81,
     "totalFundamentalScore" : 28.19,
-    "totalScore" : 67.25
+    "totalScore" : 67.00
   }
 }

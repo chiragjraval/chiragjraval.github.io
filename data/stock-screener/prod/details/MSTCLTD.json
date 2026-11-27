@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MSTCLTD",
       "companyName" : "MSTC",
-      "marketCap" : 4369.00,
-      "peRatio" : 16.70,
+      "marketCap" : 4421.00,
+      "peRatio" : 16.90,
       "description" : "MSTC (Metal Scrap Trade Corporation) Ltd is a Mini-Ratna Category-I PSU of GoI and was set up in September 1964 for regulating export of ferrous scrap from India. Currently, the company is under the Ministry of Steel, GoI and is engaged in trading items and e-commerce services, e-auctions and e-procurement services.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.24,
-      "pricePercentageAboveDma100" : 5.31,
-      "pricePercentageAboveDma200" : 4.86,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 5.25,
+      "pricePercentageAboveDma200" : 4.80,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.42,
       "operatingProfitMarginPercentile" : 19.34,
       "netProfitMarginPercentile" : 8.29,
-      "totalTechnicalScore" : 30.41,
+      "totalTechnicalScore" : 30.23,
       "totalFundamentalScore" : 45.05,
-      "totalScore" : 75.46
+      "totalScore" : 75.28
     }
   },
   "attributes" : {
     "companyCode" : "MSTCLTD",
     "companyName" : "MSTC",
-    "marketCap" : 4369.00,
-    "peRatio" : 16.70,
+    "marketCap" : 4421.00,
+    "peRatio" : 16.90,
     "description" : "MSTC (Metal Scrap Trade Corporation) Ltd is a Mini-Ratna Category-I PSU of GoI and was set up in September 1964 for regulating export of ferrous scrap from India. Currently, the company is under the Ministry of Steel, GoI and is engaged in trading items and e-commerce services, e-auctions and e-procurement services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 495.95,
-    "dma50" : 517.56,
-    "dma100" : null,
-    "dma200" : 541.64,
-    "volume" : 112606.00
-  }, {
     "date" : "2025-11-27",
     "price" : 497.25,
     "dma50" : 516.76,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 433.40,
     "dma50" : 438.45,
-    "dma100" : 458.90,
+    "dma100" : null,
     "dma200" : 484.92,
     "volume" : 195830.00
   }, {
@@ -1282,7 +1275,7 @@
     "date" : "2026-08-14",
     "price" : 623.40,
     "dma50" : 595.41,
-    "dma100" : 529.79,
+    "dma100" : 529.78,
     "dma200" : 534.40,
     "volume" : 861173.00
   }, {
@@ -1506,7 +1499,7 @@
     "date" : "2026-09-30",
     "price" : 714.75,
     "dma50" : 691.81,
-    "dma100" : 625.73,
+    "dma100" : 625.72,
     "dma200" : 587.33,
     "volume" : 230911.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 662.16,
     "dma200" : 603.21,
     "volume" : 531262.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 628.00,
+    "dma50" : 651.29,
+    "dma100" : 661.28,
+    "dma200" : 603.46,
+    "volume" : 236006.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 620.65,
-    "dma50" : 652.24,
-    "dma100" : 662.16,
-    "dma200" : 603.21,
-    "volume" : 531262.00
+    "date" : "2026-11-26",
+    "price" : 628.00,
+    "dma50" : 651.29,
+    "dma100" : 661.28,
+    "dma200" : 603.46,
+    "volume" : 236006.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-03-31",
@@ -2146,15 +2146,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.24,
-    "pricePercentageAboveDma100" : 5.31,
-    "pricePercentageAboveDma200" : 4.86,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 5.25,
+    "pricePercentageAboveDma200" : 4.80,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.42,
     "operatingProfitMarginPercentile" : 19.34,
     "netProfitMarginPercentile" : 8.29,
-    "totalTechnicalScore" : 30.41,
+    "totalTechnicalScore" : 30.23,
     "totalFundamentalScore" : 45.05,
-    "totalScore" : 75.46
+    "totalScore" : 75.28
   }
 }

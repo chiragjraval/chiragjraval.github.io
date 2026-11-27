@@ -9,13 +9,13 @@
     "attributes" : {
       "companyCode" : "BLKASHYAP",
       "companyName" : "B.L.Kashyap",
-      "marketCap" : 1230.00,
+      "marketCap" : 1229.00,
       "peRatio" : 15.60,
       "description" : "B.L.Kashyap & Sons Ltd is an EPC company engaged in the business of Construction of Buildings High-Rise Residential and Commercial Complexes, IT Parks, Institutional Buildings, etc. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
@@ -27,26 +27,19 @@
       "salesGrowthPercentile" : 15.50,
       "operatingProfitMarginPercentile" : 13.41,
       "netProfitMarginPercentile" : 8.45,
-      "totalTechnicalScore" : 29.99,
+      "totalTechnicalScore" : 25.00,
       "totalFundamentalScore" : 37.36,
-      "totalScore" : 67.35
+      "totalScore" : 62.37
     }
   },
   "attributes" : {
     "companyCode" : "BLKASHYAP",
     "companyName" : "B.L.Kashyap",
-    "marketCap" : 1230.00,
+    "marketCap" : 1229.00,
     "peRatio" : 15.60,
     "description" : "B.L.Kashyap & Sons Ltd is an EPC company engaged in the business of Construction of Buildings High-Rise Residential and Commercial Complexes, IT Parks, Institutional Buildings, etc. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 47.78,
-    "dma50" : 58.12,
-    "dma100" : null,
-    "dma200" : 65.09,
-    "volume" : 886756.00
-  }, {
     "date" : "2025-11-27",
     "price" : 50.34,
     "dma50" : 57.81,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 51.70,
     "dma50" : 50.15,
-    "dma100" : 49.87,
+    "dma100" : null,
     "dma200" : 55.46,
     "volume" : 296339.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 54.52,
     "dma200" : 54.74,
     "volume" : 1035977.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 54.50,
+    "dma50" : 54.28,
+    "dma100" : 54.51,
+    "dma200" : 54.74,
+    "volume" : 686157.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 54.55,
+    "date" : "2026-11-26",
+    "price" : 54.50,
     "dma50" : 54.28,
-    "dma100" : 54.52,
+    "dma100" : 54.51,
     "dma200" : 54.74,
-    "volume" : 1035977.00
+    "volume" : 686157.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2631,7 +2631,7 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
@@ -2643,8 +2643,8 @@
     "salesGrowthPercentile" : 15.50,
     "operatingProfitMarginPercentile" : 13.41,
     "netProfitMarginPercentile" : 8.45,
-    "totalTechnicalScore" : 29.99,
+    "totalTechnicalScore" : 25.00,
     "totalFundamentalScore" : 37.36,
-    "totalScore" : 67.35
+    "totalScore" : 62.37
   }
 }

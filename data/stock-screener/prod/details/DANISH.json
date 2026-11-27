@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "DANISH",
       "companyName" : "Danish Power",
-      "marketCap" : 1881.00,
-      "peRatio" : 23.50,
+      "marketCap" : 1846.00,
+      "peRatio" : 23.00,
       "description" : "Founded in July 1985, Danish Power Limited manufactures various types of transformers, including inverter duty transformers for use in renewable power projects such as solar power plants and wind farms. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.91,
-      "pricePercentageAboveDma100" : 4.69,
-      "pricePercentageAboveDma200" : 4.52,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 4.78,
+      "pricePercentageAboveDma200" : 4.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 6.00,
-      "totalTechnicalScore" : 44.12,
+      "totalTechnicalScore" : 39.41,
       "totalFundamentalScore" : 42.00,
-      "totalScore" : 86.12
+      "totalScore" : 81.41
     }
   },
   "attributes" : {
     "companyCode" : "DANISH",
     "companyName" : "Danish Power",
-    "marketCap" : 1881.00,
-    "peRatio" : 23.50,
+    "marketCap" : 1846.00,
+    "peRatio" : 23.00,
     "description" : "Founded in July 1985, Danish Power Limited manufactures various types of transformers, including inverter duty transformers for use in renewable power projects such as solar power plants and wind farms. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 689.50,
-    "dma50" : 810.16,
-    "dma100" : null,
-    "dma200" : 868.96,
-    "volume" : 82500.00
-  }, {
     "date" : "2025-11-27",
     "price" : 710.20,
     "dma50" : 806.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 838.05,
     "dma50" : 686.54,
-    "dma100" : 659.54,
+    "dma100" : null,
     "dma200" : 739.26,
     "volume" : 28050.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 899.09,
     "dma200" : 871.03,
     "volume" : 28050.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 937.55,
+    "dma50" : 938.61,
+    "dma100" : 898.85,
+    "dma200" : 871.69,
+    "volume" : 9300.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 955.10,
-    "dma50" : 938.66,
-    "dma100" : 899.09,
-    "dma200" : 871.03,
-    "volume" : 28050.00
+    "date" : "2026-11-26",
+    "price" : 937.55,
+    "dma50" : 938.61,
+    "dma100" : 898.85,
+    "dma200" : 871.69,
+    "volume" : 9300.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1840,21 +1840,21 @@
     "netProfit" : 38.96
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.91,
-    "pricePercentageAboveDma100" : 4.69,
-    "pricePercentageAboveDma200" : 4.52,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 4.78,
+    "pricePercentageAboveDma200" : 4.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 6.00,
-    "totalTechnicalScore" : 44.12,
+    "totalTechnicalScore" : 39.41,
     "totalFundamentalScore" : 42.00,
-    "totalScore" : 86.12
+    "totalScore" : 81.41
   }
 }

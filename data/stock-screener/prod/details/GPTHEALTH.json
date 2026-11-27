@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.38,
+      "pricePercentageAboveDma50" : 5.37,
       "pricePercentageAboveDma100" : 5.63,
       "pricePercentageAboveDma200" : 5.49,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.58,
       "operatingProfitMarginPercentile" : 11.11,
       "netProfitMarginPercentile" : 6.11,
-      "totalTechnicalScore" : 21.50,
+      "totalTechnicalScore" : 21.48,
       "totalFundamentalScore" : 33.80,
-      "totalScore" : 55.30
+      "totalScore" : 55.29
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Incorporated in 1989, GPT Healthcare Ltd is engaged in running hospitals and providing medical services[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 142.21,
-    "dma50" : 147.91,
-    "dma100" : null,
-    "dma200" : 155.47,
-    "volume" : 37919.00
-  }, {
     "date" : "2025-11-27",
     "price" : 143.34,
     "dma50" : 147.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 136.31,
     "dma50" : 130.00,
-    "dma100" : 131.72,
+    "dma100" : null,
     "dma200" : 139.77,
     "volume" : 148103.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 150.97,
     "dma200" : 146.15,
     "volume" : 107387.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 131.83,
+    "dma50" : 142.39,
+    "dma100" : 150.70,
+    "dma200" : 146.01,
+    "volume" : 160022.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 131.90,
-    "dma50" : 142.82,
-    "dma100" : 150.97,
-    "dma200" : 146.15,
-    "volume" : 107387.00
+    "date" : "2026-11-26",
+    "price" : 131.83,
+    "dma50" : 142.39,
+    "dma100" : 150.70,
+    "dma200" : 146.01,
+    "volume" : 160022.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1976,15 +1976,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.38,
+    "pricePercentageAboveDma50" : 5.37,
     "pricePercentageAboveDma100" : 5.63,
     "pricePercentageAboveDma200" : 5.49,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.58,
     "operatingProfitMarginPercentile" : 11.11,
     "netProfitMarginPercentile" : 6.11,
-    "totalTechnicalScore" : 21.50,
+    "totalTechnicalScore" : 21.48,
     "totalFundamentalScore" : 33.80,
-    "totalScore" : 55.30
+    "totalScore" : 55.29
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ARYAMAN",
       "companyName" : "Aryaman Fin.Serv",
-      "marketCap" : 1019.00,
-      "peRatio" : 24.60,
+      "marketCap" : 1026.00,
+      "peRatio" : 24.80,
       "description" : "Incorporated in 1994, Aryaman Financial Services Ltd is in the business of Merchant Banking, Investments (Strategic & Non Strategic)[1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.02,
-      "pricePercentageAboveDma100" : 3.45,
-      "pricePercentageAboveDma200" : 3.53,
+      "pricePercentageAboveDma100" : 3.43,
+      "pricePercentageAboveDma200" : 3.50,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.33,
       "operatingProfitMarginPercentile" : 19.42,
       "netProfitMarginPercentile" : 9.56,
-      "totalTechnicalScore" : 36.00,
+      "totalTechnicalScore" : 35.95,
       "totalFundamentalScore" : 40.31,
-      "totalScore" : 76.31
+      "totalScore" : 76.27
     }
   },
   "attributes" : {
     "companyCode" : "ARYAMAN",
     "companyName" : "Aryaman Fin.Serv",
-    "marketCap" : 1019.00,
-    "peRatio" : 24.60,
+    "marketCap" : 1026.00,
+    "peRatio" : 24.80,
     "description" : "Incorporated in 1994, Aryaman Financial Services Ltd is in the business of Merchant Banking, Investments (Strategic & Non Strategic)[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 672.10,
-    "dma50" : 752.34,
-    "dma100" : null,
-    "dma200" : 668.02,
-    "volume" : 220.00
-  }, {
     "date" : "2025-11-27",
     "price" : 677.95,
     "dma50" : 749.42,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 601.00,
     "dma50" : 621.35,
-    "dma100" : 646.04,
+    "dma100" : null,
     "dma200" : 648.80,
     "volume" : 554.00
   }, {
@@ -1754,14 +1747,21 @@
     "dma100" : 634.80,
     "dma200" : 642.82,
     "volume" : 1436.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 837.80,
+    "dma50" : 700.95,
+    "dma100" : 637.32,
+    "dma200" : 644.76,
+    "volume" : 817.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 831.65,
-    "dma50" : 695.37,
-    "dma100" : 634.80,
-    "dma200" : 642.82,
-    "volume" : 1436.00
+    "date" : "2026-11-26",
+    "price" : 837.80,
+    "dma50" : 700.95,
+    "dma100" : 637.32,
+    "dma200" : 644.76,
+    "volume" : 817.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2653,14 +2653,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.02,
-    "pricePercentageAboveDma100" : 3.45,
-    "pricePercentageAboveDma200" : 3.53,
+    "pricePercentageAboveDma100" : 3.43,
+    "pricePercentageAboveDma200" : 3.50,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.33,
     "operatingProfitMarginPercentile" : 19.42,
     "netProfitMarginPercentile" : 9.56,
-    "totalTechnicalScore" : 36.00,
+    "totalTechnicalScore" : 35.95,
     "totalFundamentalScore" : 40.31,
-    "totalScore" : 76.31
+    "totalScore" : 76.27
   }
 }

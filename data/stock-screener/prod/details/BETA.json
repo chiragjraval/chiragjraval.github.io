@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BETA",
       "companyName" : "Beta Drugs Ltd",
-      "marketCap" : 1907.00,
-      "peRatio" : 36.70,
+      "marketCap" : 1887.00,
+      "peRatio" : 36.30,
       "description" : "Beta Drugs Ltd is engaged in manufacturing of a wide range of oncology (anti-cancer) drugs in India. It has operations in the domestic and export markets.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.46,
-      "pricePercentageAboveDma100" : 5.91,
-      "pricePercentageAboveDma200" : 5.38,
+      "pricePercentageAboveDma50" : 5.48,
+      "pricePercentageAboveDma100" : 5.94,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.00,
       "operatingProfitMarginPercentile" : 3.77,
       "netProfitMarginPercentile" : 2.98,
-      "totalTechnicalScore" : 31.74,
+      "totalTechnicalScore" : 31.85,
       "totalFundamentalScore" : 16.75,
-      "totalScore" : 48.49
+      "totalScore" : 48.60
     }
   },
   "attributes" : {
     "companyCode" : "BETA",
     "companyName" : "Beta Drugs Ltd",
-    "marketCap" : 1907.00,
-    "peRatio" : 36.70,
+    "marketCap" : 1887.00,
+    "peRatio" : 36.30,
     "description" : "Beta Drugs Ltd is engaged in manufacturing of a wide range of oncology (anti-cancer) drugs in India. It has operations in the domestic and export markets.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 1659.60,
-    "dma50" : 1743.05,
-    "dma100" : null,
-    "dma200" : 1757.71,
-    "volume" : 5533.00
-  }, {
     "date" : "2025-11-27",
     "price" : 1659.70,
     "dma50" : 1739.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 1336.00,
     "dma50" : 1304.39,
-    "dma100" : 1394.92,
+    "dma100" : null,
     "dma200" : 1502.70,
     "volume" : 4439.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2095.20,
     "dma200" : 1854.41,
     "volume" : 82607.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 1696.60,
+    "dma50" : 1878.83,
+    "dma100" : 2091.26,
+    "dma200" : 1852.84,
+    "volume" : 29955.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 1714.30,
-    "dma50" : 1886.27,
-    "dma100" : 2095.20,
-    "dma200" : 1854.41,
-    "volume" : 82607.00
+    "date" : "2026-11-26",
+    "price" : 1696.60,
+    "dma50" : 1878.83,
+    "dma100" : 2091.26,
+    "dma200" : 1852.84,
+    "volume" : 29955.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -1996,15 +1996,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.46,
-    "pricePercentageAboveDma100" : 5.91,
-    "pricePercentageAboveDma200" : 5.38,
+    "pricePercentageAboveDma50" : 5.48,
+    "pricePercentageAboveDma100" : 5.94,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.00,
     "operatingProfitMarginPercentile" : 3.77,
     "netProfitMarginPercentile" : 2.98,
-    "totalTechnicalScore" : 31.74,
+    "totalTechnicalScore" : 31.85,
     "totalFundamentalScore" : 16.75,
-    "totalScore" : 48.49
+    "totalScore" : 48.60
   }
 }

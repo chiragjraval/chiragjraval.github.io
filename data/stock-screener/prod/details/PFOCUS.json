@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PFOCUS",
       "companyName" : "Prime Focus",
-      "marketCap" : 18640.00,
-      "peRatio" : 83.00,
+      "marketCap" : 18422.00,
+      "peRatio" : 82.00,
       "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.75,
-      "pricePercentageAboveDma100" : 5.84,
-      "pricePercentageAboveDma200" : 5.53,
+      "pricePercentageAboveDma50" : 5.77,
+      "pricePercentageAboveDma100" : 5.89,
+      "pricePercentageAboveDma200" : 5.58,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.75,
       "operatingProfitMarginPercentile" : 13.59,
       "netProfitMarginPercentile" : 1.68,
-      "totalTechnicalScore" : 32.12,
+      "totalTechnicalScore" : 32.24,
       "totalFundamentalScore" : 26.02,
-      "totalScore" : 58.14
+      "totalScore" : 58.26
     }
   },
   "attributes" : {
     "companyCode" : "PFOCUS",
     "companyName" : "Prime Focus",
-    "marketCap" : 18640.00,
-    "peRatio" : 83.00,
+    "marketCap" : 18422.00,
+    "peRatio" : 82.00,
     "description" : "PFL was founded by Mr. Namit Naresh Malhotra in 1997. It started from Mumbai to being an integrated media and entertainment services powerhouse. [1] It is present in 18 cities (8 in India and 10 internationally) across 5 continents. [2] Prime Focus is engaged in the business of post-production activities including digital intermediate, visual effects, 2D to 3D conversion, and other technical and creative services to the Media and Entertainment industry.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-26",
-    "price" : 171.22,
-    "dma50" : 171.24,
-    "dma100" : null,
-    "dma200" : 149.18,
-    "volume" : 2130140.00
-  }, {
     "date" : "2025-11-27",
     "price" : 171.32,
     "dma50" : 171.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-24",
     "price" : 306.90,
     "dma50" : 297.18,
-    "dma100" : 257.66,
+    "dma100" : null,
     "dma200" : 225.54,
     "volume" : 1419630.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 287.76,
     "dma200" : 267.95,
     "volume" : 4147999.00
+  }, {
+    "date" : "2026-11-26",
+    "price" : 236.55,
+    "dma50" : 279.55,
+    "dma100" : 287.77,
+    "dma200" : 267.63,
+    "volume" : 3791127.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-25",
-    "price" : 239.35,
-    "dma50" : 281.30,
-    "dma100" : 287.76,
-    "dma200" : 267.95,
-    "volume" : 4147999.00
+    "date" : "2026-11-26",
+    "price" : 236.55,
+    "dma50" : 279.55,
+    "dma100" : 287.77,
+    "dma200" : 267.63,
+    "volume" : 3791127.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2636,15 +2636,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.75,
-    "pricePercentageAboveDma100" : 5.84,
-    "pricePercentageAboveDma200" : 5.53,
+    "pricePercentageAboveDma50" : 5.77,
+    "pricePercentageAboveDma100" : 5.89,
+    "pricePercentageAboveDma200" : 5.58,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.75,
     "operatingProfitMarginPercentile" : 13.59,
     "netProfitMarginPercentile" : 1.68,
-    "totalTechnicalScore" : 32.12,
+    "totalTechnicalScore" : 32.24,
     "totalFundamentalScore" : 26.02,
-    "totalScore" : 58.14
+    "totalScore" : 58.26
   }
 }
