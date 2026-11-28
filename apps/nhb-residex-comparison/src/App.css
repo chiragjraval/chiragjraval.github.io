@@ -1,5 +1,5 @@
 .nhb-page {
-  max-width: 90rem;
+  max-width: none;
   overflow-wrap: anywhere;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .nhb-chart-card {
-  padding: 0.75rem;
+  padding: 0.5rem;
 }
 
 .nhb-series-picker {
@@ -118,7 +118,7 @@
 
 @media (max-width: 480px) {
   .nhb-chart-card {
-    padding: 0.5rem;
+    padding: 0.35rem;
   }
 
   .chart-frame {

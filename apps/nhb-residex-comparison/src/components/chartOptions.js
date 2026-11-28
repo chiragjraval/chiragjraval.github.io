@@ -5,9 +5,9 @@ export const Y_AXIS_TICK = { fontSize: 10 };
 export const TOOLTIP_POSITION = { y: 0 };
 
 export const TOOLTIP_CONTENT_STYLE = {
-  backgroundColor: 'rgba(255, 255, 255, 0.6)',
-  border: '1px solid rgba(215, 226, 236, 0.85)',
-  boxShadow: '0 4px 14px rgba(23, 50, 77, 0.12)',
+  backgroundColor: 'rgba(255, 255, 255, 0.45)',
+  border: '1px solid rgba(215, 226, 236, 0.7)',
+  boxShadow: '0 4px 14px rgba(23, 50, 77, 0.1)',
   fontSize: '0.75rem',
   lineHeight: 1.35,
   maxHeight: '8.5rem',
