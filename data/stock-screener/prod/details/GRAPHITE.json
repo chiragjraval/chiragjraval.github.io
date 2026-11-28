@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "GRAPHITE",
       "companyName" : "Graphite India",
-      "marketCap" : 15469.00,
+      "marketCap" : 15474.00,
       "peRatio" : 61.20,
       "description" : "Graphite India Ltd is mainly engaged in the business of manufacturing and selling of graphite & carbon and other products.[1]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.83,
-      "pricePercentageAboveDma100" : 4.61,
-      "pricePercentageAboveDma200" : 4.39,
+      "pricePercentageAboveDma100" : 4.62,
+      "pricePercentageAboveDma200" : 4.40,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.08,
       "operatingProfitMarginPercentile" : 12.17,
       "netProfitMarginPercentile" : 7.00,
-      "totalTechnicalScore" : 43.83,
+      "totalTechnicalScore" : 43.86,
       "totalFundamentalScore" : 30.25,
-      "totalScore" : 74.08
+      "totalScore" : 74.10
     }
   },
   "attributes" : {
     "companyCode" : "GRAPHITE",
     "companyName" : "Graphite India",
-    "marketCap" : 15469.00,
+    "marketCap" : 15474.00,
     "peRatio" : 61.20,
     "description" : "Graphite India Ltd is mainly engaged in the business of manufacturing and selling of graphite & carbon and other products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 554.25,
-    "dma50" : 565.76,
-    "dma100" : null,
-    "dma200" : 541.84,
-    "volume" : 315748.00
-  }, {
     "date" : "2025-11-28",
     "price" : 555.00,
     "dma50" : 565.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 735.80,
     "dma50" : 658.62,
-    "dma100" : 629.72,
+    "dma100" : null,
     "dma200" : 603.66,
     "volume" : 1329379.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 734.99,
     "dma200" : 705.98,
     "volume" : 519646.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 792.00,
+    "dma50" : 766.47,
+    "dma100" : 736.71,
+    "dma200" : 706.83,
+    "volume" : 289596.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 791.75,
-    "dma50" : 765.43,
-    "dma100" : 734.99,
-    "dma200" : 705.98,
-    "volume" : 519646.00
+    "date" : "2026-11-27",
+    "price" : 792.00,
+    "dma50" : 766.47,
+    "dma100" : 736.71,
+    "dma200" : 706.83,
+    "volume" : 289596.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.83,
-    "pricePercentageAboveDma100" : 4.61,
-    "pricePercentageAboveDma200" : 4.39,
+    "pricePercentageAboveDma100" : 4.62,
+    "pricePercentageAboveDma200" : 4.40,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.08,
     "operatingProfitMarginPercentile" : 12.17,
     "netProfitMarginPercentile" : 7.00,
-    "totalTechnicalScore" : 43.83,
+    "totalTechnicalScore" : 43.86,
     "totalFundamentalScore" : 30.25,
-    "totalScore" : 74.08
+    "totalScore" : 74.10
   }
 }

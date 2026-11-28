@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "STEELCAS",
       "companyName" : "Steelcast",
-      "marketCap" : 3588.00,
-      "peRatio" : 39.40,
+      "marketCap" : 3556.00,
+      "peRatio" : 39.00,
       "description" : "Steelcast Limited (SCL) is engaged in the business of manufacturing Steel and Alloy Steel Castings catering to a host of OEMs for diverse industrial sectors. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.28,
+      "pricePercentageAboveDma50" : 5.06,
+      "pricePercentageAboveDma100" : 4.85,
+      "pricePercentageAboveDma200" : 4.34,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 16.55,
       "netProfitMarginPercentile" : 9.12,
-      "totalTechnicalScore" : 39.11,
+      "totalTechnicalScore" : 39.25,
       "totalFundamentalScore" : 37.48,
-      "totalScore" : 76.58
+      "totalScore" : 76.73
     }
   },
   "attributes" : {
     "companyCode" : "STEELCAS",
     "companyName" : "Steelcast",
-    "marketCap" : 3588.00,
-    "peRatio" : 39.40,
+    "marketCap" : 3556.00,
+    "peRatio" : 39.00,
     "description" : "Steelcast Limited (SCL) is engaged in the business of manufacturing Steel and Alloy Steel Castings catering to a host of OEMs for diverse industrial sectors. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 219.23,
-    "dma50" : 219.14,
-    "dma100" : null,
-    "dma200" : 205.66,
-    "volume" : 54534.00
-  }, {
     "date" : "2025-11-28",
     "price" : 220.20,
     "dma50" : 219.19,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 296.58,
     "dma50" : 251.01,
-    "dma100" : 227.04,
+    "dma100" : null,
     "dma200" : 223.06,
     "volume" : 47890.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 341.12,
     "dma200" : 310.00,
     "volume" : 26596.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 351.40,
+    "dma50" : 355.67,
+    "dma100" : 341.43,
+    "dma200" : 310.42,
+    "volume" : 44336.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 354.50,
-    "dma50" : 355.84,
-    "dma100" : 341.12,
-    "dma200" : 310.00,
-    "volume" : 26596.00
+    "date" : "2026-11-27",
+    "price" : 351.40,
+    "dma50" : 355.67,
+    "dma100" : 341.43,
+    "dma200" : 310.42,
+    "volume" : 44336.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.28,
+    "pricePercentageAboveDma50" : 5.06,
+    "pricePercentageAboveDma100" : 4.85,
+    "pricePercentageAboveDma200" : 4.34,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 16.55,
     "netProfitMarginPercentile" : 9.12,
-    "totalTechnicalScore" : 39.11,
+    "totalTechnicalScore" : 39.25,
     "totalFundamentalScore" : 37.48,
-    "totalScore" : 76.58
+    "totalScore" : 76.73
   }
 }

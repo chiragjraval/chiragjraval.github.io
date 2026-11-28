@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KIOCL",
       "companyName" : "KIOCL",
-      "marketCap" : 19314.00,
-      "peRatio" : 316.00,
+      "marketCap" : 19092.00,
+      "peRatio" : 313.00,
       "description" : "KIOCL is a flagship company under the Ministry of Steel, GoI, with Miniratna status. It is an export-oriented unit with expertise in iron ore mining, filtration technology, and the production of high-quality pellets. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.34,
-      "pricePercentageAboveDma100" : 5.57,
-      "pricePercentageAboveDma200" : 5.60,
+      "pricePercentageAboveDma50" : 5.38,
+      "pricePercentageAboveDma100" : 5.61,
+      "pricePercentageAboveDma200" : 5.64,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.50,
       "operatingProfitMarginPercentile" : 18.62,
       "netProfitMarginPercentile" : 9.04,
-      "totalTechnicalScore" : 16.51,
+      "totalTechnicalScore" : 16.63,
       "totalFundamentalScore" : 40.16,
-      "totalScore" : 56.66
+      "totalScore" : 56.79
     }
   },
   "attributes" : {
     "companyCode" : "KIOCL",
     "companyName" : "KIOCL",
-    "marketCap" : 19314.00,
-    "peRatio" : 316.00,
+    "marketCap" : 19092.00,
+    "peRatio" : 313.00,
     "description" : "KIOCL is a flagship company under the Ministry of Steel, GoI, with Miniratna status. It is an export-oriented unit with expertise in iron ore mining, filtration technology, and the production of high-quality pellets. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 372.00,
-    "dma50" : 405.83,
-    "dma100" : null,
-    "dma200" : 372.20,
-    "volume" : 94984.00
-  }, {
     "date" : "2025-11-28",
     "price" : 355.35,
     "dma50" : 403.85,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 413.90,
     "dma50" : 359.78,
-    "dma100" : 353.73,
+    "dma100" : null,
     "dma200" : 360.56,
     "volume" : 716907.00
   }, {
@@ -981,7 +974,7 @@
     "date" : "2026-06-16",
     "price" : 410.45,
     "dma50" : 387.18,
-    "dma100" : 365.43,
+    "dma100" : 365.44,
     "dma200" : 371.06,
     "volume" : 420274.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 358.36,
     "dma200" : 360.80,
     "volume" : 22756.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 314.15,
+    "dma50" : 340.22,
+    "dma100" : 357.63,
+    "dma200" : 360.34,
+    "volume" : 89341.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 317.80,
-    "dma50" : 341.28,
-    "dma100" : 358.36,
-    "dma200" : 360.80,
-    "volume" : 22756.00
+    "date" : "2026-11-27",
+    "price" : 314.15,
+    "dma50" : 340.22,
+    "dma100" : 357.63,
+    "dma200" : 360.34,
+    "volume" : 89341.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-03-31",
@@ -2476,15 +2476,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.34,
-    "pricePercentageAboveDma100" : 5.57,
-    "pricePercentageAboveDma200" : 5.60,
+    "pricePercentageAboveDma50" : 5.38,
+    "pricePercentageAboveDma100" : 5.61,
+    "pricePercentageAboveDma200" : 5.64,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.50,
     "operatingProfitMarginPercentile" : 18.62,
     "netProfitMarginPercentile" : 9.04,
-    "totalTechnicalScore" : 16.51,
+    "totalTechnicalScore" : 16.63,
     "totalFundamentalScore" : 40.16,
-    "totalScore" : 56.66
+    "totalScore" : 56.79
   }
 }

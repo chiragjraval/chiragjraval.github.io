@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JASH",
       "companyName" : "Jash Engineering",
-      "marketCap" : 3217.00,
-      "peRatio" : 36.00,
+      "marketCap" : 3233.00,
+      "peRatio" : 36.20,
       "description" : "Jash Engineering Limited is manufacturing a wide range of equipment for Water Intake Systems, Water and Waste Water Pumping Stations and Treatment Plants, Storm Water Pumping Stations, Water Transmission Lines, Power, Steel, Cement, Paper & Pulp, Petrochemicals, Chemical, Fertilizers, and other process plants. [1] Jash offers a single-stop solution under one roof including Design, Casting, Fabrication, Assembly & Testing, and provides the most varied range of these products in the largest possible sizes. Jash is today an industry leader in India for most of these products and also exports these products to over 45 countries worldwide."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.18,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 4.85,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 4.83,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.88,
       "operatingProfitMarginPercentile" : 12.68,
       "netProfitMarginPercentile" : 5.60,
-      "totalTechnicalScore" : 35.14,
+      "totalTechnicalScore" : 35.06,
       "totalFundamentalScore" : 25.15,
-      "totalScore" : 60.29
+      "totalScore" : 60.21
     }
   },
   "attributes" : {
     "companyCode" : "JASH",
     "companyName" : "Jash Engineering",
-    "marketCap" : 3217.00,
-    "peRatio" : 36.00,
+    "marketCap" : 3233.00,
+    "peRatio" : 36.20,
     "description" : "Jash Engineering Limited is manufacturing a wide range of equipment for Water Intake Systems, Water and Waste Water Pumping Stations and Treatment Plants, Storm Water Pumping Stations, Water Transmission Lines, Power, Steel, Cement, Paper & Pulp, Petrochemicals, Chemical, Fertilizers, and other process plants. [1] Jash offers a single-stop solution under one roof including Design, Casting, Fabrication, Assembly & Testing, and provides the most varied range of these products in the largest possible sizes. Jash is today an industry leader in India for most of these products and also exports these products to over 45 countries worldwide."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 464.40,
-    "dma50" : 486.97,
-    "dma100" : null,
-    "dma200" : 519.22,
-    "volume" : 37339.00
-  }, {
     "date" : "2025-11-28",
     "price" : 468.60,
     "dma50" : 486.25,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 423.70,
     "dma50" : 392.66,
-    "dma100" : 401.36,
+    "dma100" : null,
     "dma200" : 441.70,
     "volume" : 115475.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 519.83,
     "dma200" : 494.57,
     "volume" : 49199.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 511.65,
+    "dma50" : 527.50,
+    "dma100" : 519.94,
+    "dma200" : 494.74,
+    "volume" : 94826.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 509.10,
-    "dma50" : 528.15,
-    "dma100" : 519.83,
-    "dma200" : 494.57,
-    "volume" : 49199.00
+    "date" : "2026-11-27",
+    "price" : 511.65,
+    "dma50" : 527.50,
+    "dma100" : 519.94,
+    "dma200" : 494.74,
+    "volume" : 94826.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-12-31",
@@ -2156,15 +2156,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.18,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 4.85,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 4.83,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.88,
     "operatingProfitMarginPercentile" : 12.68,
     "netProfitMarginPercentile" : 5.60,
-    "totalTechnicalScore" : 35.14,
+    "totalTechnicalScore" : 35.06,
     "totalFundamentalScore" : 25.15,
-    "totalScore" : 60.29
+    "totalScore" : 60.21
   }
 }

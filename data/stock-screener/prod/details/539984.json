@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "539984",
       "companyName" : "Hindusthan Insulators &",
-      "marketCap" : 2322.00,
-      "peRatio" : 18.10,
+      "marketCap" : 2368.00,
+      "peRatio" : 18.50,
       "description" : "Incorporated in 1959, HIIL is into manufacturing of electro-porcelain high tension insulators.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 2.67,
+      "pricePercentageAboveDma50" : 2.66,
       "pricePercentageAboveDma100" : 0.00,
       "pricePercentageAboveDma200" : 0.00,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 32.67,
+      "totalTechnicalScore" : 32.66,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 82.67
+      "totalScore" : 82.66
     }
   },
   "attributes" : {
     "companyCode" : "539984",
     "companyName" : "Hindusthan Insulators &",
-    "marketCap" : 2322.00,
-    "peRatio" : 18.10,
+    "marketCap" : 2368.00,
+    "peRatio" : 18.50,
     "description" : "Incorporated in 1959, HIIL is into manufacturing of electro-porcelain high tension insulators.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 141.33,
-    "dma50" : 145.33,
-    "dma100" : null,
-    "dma200" : 148.62,
-    "volume" : 4171.00
-  }, {
     "date" : "2025-11-28",
     "price" : 142.01,
     "dma50" : 145.20,
@@ -743,7 +736,7 @@
     "date" : "2026-04-28",
     "price" : 341.05,
     "dma50" : 210.31,
-    "dma100" : 165.18,
+    "dma100" : null,
     "dma200" : 165.74,
     "volume" : 57378.00
   }, {
@@ -1222,14 +1215,21 @@
     "dma100" : 485.15,
     "dma200" : 406.58,
     "volume" : 3004.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1094.15,
+    "dma50" : 745.48,
+    "dma100" : 494.50,
+    "dma200" : 413.42,
+    "volume" : 35741.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1072.70,
-    "dma50" : 731.25,
-    "dma100" : 485.15,
-    "dma200" : 406.58,
-    "volume" : 3004.00
+    "date" : "2026-11-27",
+    "price" : 1094.15,
+    "dma50" : 745.48,
+    "dma100" : 494.50,
+    "dma200" : 413.42,
+    "volume" : 35741.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-06-30",
@@ -1940,15 +1940,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 2.67,
+    "pricePercentageAboveDma50" : 2.66,
     "pricePercentageAboveDma100" : 0.00,
     "pricePercentageAboveDma200" : 0.00,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 32.67,
+    "totalTechnicalScore" : 32.66,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 82.67
+    "totalScore" : 82.66
   }
 }

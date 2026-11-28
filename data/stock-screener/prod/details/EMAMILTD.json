@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "EMAMILTD",
       "companyName" : "Emami",
-      "marketCap" : 18407.00,
-      "peRatio" : 24.40,
+      "marketCap" : 18086.00,
+      "peRatio" : 24.00,
       "description" : "Emami is engaged in manufacturing & marketing of personal care & healthcare products with an enviable portfolio of household brand names such as BoroPlus, Navratna, Fair and Handsome, Zandu Balm, Kesh King, Zandu Pancharishta, Mentho Plus Balm and others.(Source : 201903 Annual Report Page No: 193)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
-      "priceHigherThanDma200" : 5.00,
+      "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.65,
-      "pricePercentageAboveDma100" : 4.63,
-      "pricePercentageAboveDma200" : 5.00,
+      "pricePercentageAboveDma50" : 4.76,
+      "pricePercentageAboveDma100" : 4.72,
+      "pricePercentageAboveDma200" : 5.08,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.01,
       "operatingProfitMarginPercentile" : 13.12,
       "netProfitMarginPercentile" : 6.21,
-      "totalTechnicalScore" : 34.28,
+      "totalTechnicalScore" : 29.56,
       "totalFundamentalScore" : 32.34,
-      "totalScore" : 66.62
+      "totalScore" : 61.91
     }
   },
   "attributes" : {
     "companyCode" : "EMAMILTD",
     "companyName" : "Emami",
-    "marketCap" : 18407.00,
-    "peRatio" : 24.40,
+    "marketCap" : 18086.00,
+    "peRatio" : 24.00,
     "description" : "Emami is engaged in manufacturing & marketing of personal care & healthcare products with an enviable portfolio of household brand names such as BoroPlus, Navratna, Fair and Handsome, Zandu Balm, Kesh King, Zandu Pancharishta, Mentho Plus Balm and others.(Source : 201903 Annual Report Page No: 193)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 527.80,
-    "dma50" : 540.31,
-    "dma100" : null,
-    "dma200" : 575.07,
-    "volume" : 1477443.00
-  }, {
     "date" : "2025-11-28",
     "price" : 530.50,
     "dma50" : 539.93,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 461.60,
     "dma50" : 447.19,
-    "dma100" : 479.00,
+    "dma100" : null,
     "dma200" : 507.50,
     "volume" : 498862.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 392.62,
     "dma200" : 421.33,
     "volume" : 315360.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 414.35,
+    "dma50" : 395.25,
+    "dma100" : 392.60,
+    "dma200" : 421.26,
+    "volume" : 321639.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 421.70,
-    "dma50" : 394.47,
-    "dma100" : 392.62,
-    "dma200" : 421.33,
-    "volume" : 315360.00
+    "date" : "2026-11-27",
+    "price" : 414.35,
+    "dma50" : 395.25,
+    "dma100" : 392.60,
+    "dma200" : 421.26,
+    "volume" : 321639.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2662,19 +2662,19 @@
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
-    "priceHigherThanDma200" : 5.00,
+    "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.65,
-    "pricePercentageAboveDma100" : 4.63,
-    "pricePercentageAboveDma200" : 5.00,
+    "pricePercentageAboveDma50" : 4.76,
+    "pricePercentageAboveDma100" : 4.72,
+    "pricePercentageAboveDma200" : 5.08,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.01,
     "operatingProfitMarginPercentile" : 13.12,
     "netProfitMarginPercentile" : 6.21,
-    "totalTechnicalScore" : 34.28,
+    "totalTechnicalScore" : 29.56,
     "totalFundamentalScore" : 32.34,
-    "totalScore" : 66.62
+    "totalScore" : 61.91
   }
 }

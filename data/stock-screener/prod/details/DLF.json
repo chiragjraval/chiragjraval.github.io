@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DLF",
       "companyName" : "DLF",
-      "marketCap" : 199956.00,
-      "peRatio" : 43.50,
+      "marketCap" : 199374.00,
+      "peRatio" : 43.40,
       "description" : "DLF Ltd with its subsidiaries, associates and JVs is engaged in real estate development, from the identification and acquisition of land to planning, execution, construction and marketing of projects. It is also engaged in business of leasing, generation of power, provision of maintenance services, hospitality and recreational services which are related to the overall development of real estate business.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.35,
-      "pricePercentageAboveDma100" : 4.06,
-      "pricePercentageAboveDma200" : 3.99,
+      "pricePercentageAboveDma50" : 4.39,
+      "pricePercentageAboveDma100" : 4.09,
+      "pricePercentageAboveDma200" : 4.02,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 5.14,
       "operatingProfitMarginPercentile" : 9.27,
       "netProfitMarginPercentile" : 9.87,
-      "totalTechnicalScore" : 42.40,
+      "totalTechnicalScore" : 42.50,
       "totalFundamentalScore" : 24.28,
-      "totalScore" : 66.68
+      "totalScore" : 66.78
     }
   },
   "attributes" : {
     "companyCode" : "DLF",
     "companyName" : "DLF",
-    "marketCap" : 199956.00,
-    "peRatio" : 43.50,
+    "marketCap" : 199374.00,
+    "peRatio" : 43.40,
     "description" : "DLF Ltd with its subsidiaries, associates and JVs is engaged in real estate development, from the identification and acquisition of land to planning, execution, construction and marketing of projects. It is also engaged in business of leasing, generation of power, provision of maintenance services, hospitality and recreational services which are related to the overall development of real estate business.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 725.40,
-    "dma50" : 754.31,
-    "dma100" : null,
-    "dma200" : 764.57,
-    "volume" : 1106545.00
-  }, {
     "date" : "2025-11-28",
     "price" : 723.60,
     "dma50" : 753.11,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 592.45,
     "dma50" : 587.25,
-    "dma100" : 627.06,
+    "dma100" : null,
     "dma200" : 668.58,
     "volume" : 1985613.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 680.45,
     "dma200" : 672.15,
     "volume" : 4421392.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 805.45,
+    "dma50" : 717.93,
+    "dma100" : 681.77,
+    "dma200" : 673.48,
+    "volume" : 3145205.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 807.80,
-    "dma50" : 714.36,
-    "dma100" : 680.45,
-    "dma200" : 672.15,
-    "volume" : 4421392.00
+    "date" : "2026-11-27",
+    "price" : 805.45,
+    "dma50" : 717.93,
+    "dma100" : 681.77,
+    "dma200" : 673.48,
+    "volume" : 3145205.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-06-30",
@@ -2576,15 +2576,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.35,
-    "pricePercentageAboveDma100" : 4.06,
-    "pricePercentageAboveDma200" : 3.99,
+    "pricePercentageAboveDma50" : 4.39,
+    "pricePercentageAboveDma100" : 4.09,
+    "pricePercentageAboveDma200" : 4.02,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 5.14,
     "operatingProfitMarginPercentile" : 9.27,
     "netProfitMarginPercentile" : 9.87,
-    "totalTechnicalScore" : 42.40,
+    "totalTechnicalScore" : 42.50,
     "totalFundamentalScore" : 24.28,
-    "totalScore" : 66.68
+    "totalScore" : 66.78
   }
 }

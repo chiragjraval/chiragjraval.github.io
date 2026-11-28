@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "COSMOFIRST",
       "companyName" : "Cosmo First",
-      "marketCap" : 2042.00,
-      "peRatio" : 9.14,
+      "marketCap" : 2098.00,
+      "peRatio" : 9.39,
       "description" : "Established in 1981, Cosmo Films Limited is engaged in specialty films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.44,
-      "pricePercentageAboveDma200" : 5.19,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 5.32,
+      "pricePercentageAboveDma200" : 5.06,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 4.74,
       "netProfitMarginPercentile" : 4.48,
-      "totalTechnicalScore" : 25.87,
+      "totalTechnicalScore" : 25.48,
       "totalFundamentalScore" : 29.23,
-      "totalScore" : 55.10
+      "totalScore" : 54.71
     }
   },
   "attributes" : {
     "companyCode" : "COSMOFIRST",
     "companyName" : "Cosmo First",
-    "marketCap" : 2042.00,
-    "peRatio" : 9.14,
+    "marketCap" : 2098.00,
+    "peRatio" : 9.39,
     "description" : "Established in 1981, Cosmo Films Limited is engaged in specialty films for packaging, lamination and labeling applications. Its films offerings include biaxially oriented polypropylene (BOPP) films, cast polypropylene (CPP) films and soon to be offered biaxially oriented polyethylene terephthalate (BOPET) films."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 711.10,
-    "dma50" : 844.53,
-    "dma100" : null,
-    "dma200" : 882.53,
-    "volume" : 107449.00
-  }, {
     "date" : "2025-11-28",
     "price" : 728.00,
     "dma50" : 839.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 708.50,
     "dma50" : 662.34,
-    "dma100" : 664.12,
+    "dma100" : null,
     "dma200" : 742.42,
     "volume" : 56193.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 853.94,
     "dma200" : 809.28,
     "volume" : 38125.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 799.15,
+    "dma50" : 815.23,
+    "dma100" : 853.37,
+    "dma200" : 809.18,
+    "volume" : 49982.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 777.95,
-    "dma50" : 815.89,
-    "dma100" : 853.94,
-    "dma200" : 809.28,
-    "volume" : 38125.00
+    "date" : "2026-11-27",
+    "price" : 799.15,
+    "dma50" : 815.23,
+    "dma100" : 853.37,
+    "dma200" : 809.18,
+    "volume" : 49982.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.44,
-    "pricePercentageAboveDma200" : 5.19,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 5.32,
+    "pricePercentageAboveDma200" : 5.06,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 4.74,
     "netProfitMarginPercentile" : 4.48,
-    "totalTechnicalScore" : 25.87,
+    "totalTechnicalScore" : 25.48,
     "totalFundamentalScore" : 29.23,
-    "totalScore" : 55.10
+    "totalScore" : 54.71
   }
 }

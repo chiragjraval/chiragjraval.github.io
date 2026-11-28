@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AXISBANK",
       "companyName" : "Axis Bank",
-      "marketCap" : 438606.00,
-      "peRatio" : 14.60,
+      "marketCap" : 429915.00,
+      "peRatio" : 14.40,
       "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.57,
-      "pricePercentageAboveDma100" : 4.44,
-      "pricePercentageAboveDma200" : 4.46,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.55,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.84,
       "operatingProfitMarginPercentile" : 18.04,
       "netProfitMarginPercentile" : 8.42,
-      "totalTechnicalScore" : 43.46,
+      "totalTechnicalScore" : 43.81,
       "totalFundamentalScore" : 37.31,
-      "totalScore" : 80.77
+      "totalScore" : 81.11
     }
   },
   "attributes" : {
     "companyCode" : "AXISBANK",
     "companyName" : "Axis Bank",
-    "marketCap" : 438606.00,
-    "peRatio" : 14.60,
+    "marketCap" : 429915.00,
+    "peRatio" : 14.40,
     "description" : "Incorporated in December 1993, Axis Bank Limited is a private sector bank.It has the third-largest network of branches among private sector banks and an international presence through branches in DIFC (Dubai) and Singapore along with representative offices in Abu Dhabi, Sharjah, Dhaka and Dubai and an offshore banking unit in GIFT City.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1287.30,
-    "dma50" : 1213.56,
-    "dma100" : null,
-    "dma200" : 1155.55,
-    "volume" : 6491599.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1279.70,
     "dma50" : 1216.16,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1324.20,
     "dma50" : 1303.92,
-    "dma100" : 1295.23,
+    "dma100" : null,
     "dma200" : 1246.00,
     "volume" : 11088254.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1265.55,
     "dma200" : 1269.73,
     "volume" : 9096034.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1380.10,
+    "dma50" : 1299.05,
+    "dma100" : 1265.95,
+    "dma200" : 1270.83,
+    "volume" : 5945657.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1408.00,
-    "dma50" : 1295.74,
-    "dma100" : 1265.55,
-    "dma200" : 1269.73,
-    "volume" : 9096034.00
+    "date" : "2026-11-27",
+    "price" : 1380.10,
+    "dma50" : 1299.05,
+    "dma100" : 1265.95,
+    "dma200" : 1270.83,
+    "volume" : 5945657.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.57,
-    "pricePercentageAboveDma100" : 4.44,
-    "pricePercentageAboveDma200" : 4.46,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.55,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.84,
     "operatingProfitMarginPercentile" : 18.04,
     "netProfitMarginPercentile" : 8.42,
-    "totalTechnicalScore" : 43.46,
+    "totalTechnicalScore" : 43.81,
     "totalFundamentalScore" : 37.31,
-    "totalScore" : 80.77
+    "totalScore" : 81.11
   }
 }

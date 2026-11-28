@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HGINFRA",
       "companyName" : "H.G. Infra Engg.",
-      "marketCap" : 2593.00,
-      "peRatio" : 9.05,
+      "marketCap" : 2607.00,
+      "peRatio" : 9.09,
       "description" : "H.G. Infra Engineering Limited (HGIEL) is an Indian Road Infrastructure Company engaged in the business of Engineering, Procurement and Construction (EPC) Services, Maintenance of roads, bridges, flyovers and other infrastructure contract works. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.26,
-      "pricePercentageAboveDma100" : 5.76,
-      "pricePercentageAboveDma200" : 6.35,
+      "pricePercentageAboveDma50" : 5.23,
+      "pricePercentageAboveDma100" : 5.72,
+      "pricePercentageAboveDma200" : 6.32,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 2.29,
       "operatingProfitMarginPercentile" : 8.17,
       "netProfitMarginPercentile" : 3.39,
-      "totalTechnicalScore" : 17.37,
+      "totalTechnicalScore" : 17.27,
       "totalFundamentalScore" : 13.85,
-      "totalScore" : 31.22
+      "totalScore" : 31.11
     }
   },
   "attributes" : {
     "companyCode" : "HGINFRA",
     "companyName" : "H.G. Infra Engg.",
-    "marketCap" : 2593.00,
-    "peRatio" : 9.05,
+    "marketCap" : 2607.00,
+    "peRatio" : 9.09,
     "description" : "H.G. Infra Engineering Limited (HGIEL) is an Indian Road Infrastructure Company engaged in the business of Engineering, Procurement and Construction (EPC) Services, Maintenance of roads, bridges, flyovers and other infrastructure contract works. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 880.20,
-    "dma50" : 921.12,
-    "dma100" : null,
-    "dma200" : 1043.80,
-    "volume" : 65381.00
-  }, {
     "date" : "2025-11-28",
     "price" : 865.25,
     "dma50" : 918.93,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 613.85,
     "dma50" : 575.43,
-    "dma100" : 639.73,
+    "dma100" : null,
     "dma200" : 771.92,
     "volume" : 161049.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 469.53,
     "dma200" : 544.72,
     "volume" : 38033.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 400.05,
+    "dma50" : 419.03,
+    "dma100" : 467.84,
+    "dma200" : 543.28,
+    "volume" : 48581.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 397.90,
-    "dma50" : 419.80,
-    "dma100" : 469.53,
-    "dma200" : 544.72,
-    "volume" : 38033.00
+    "date" : "2026-11-27",
+    "price" : 400.05,
+    "dma50" : 419.03,
+    "dma100" : 467.84,
+    "dma200" : 543.28,
+    "volume" : 48581.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2186,15 +2186,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.26,
-    "pricePercentageAboveDma100" : 5.76,
-    "pricePercentageAboveDma200" : 6.35,
+    "pricePercentageAboveDma50" : 5.23,
+    "pricePercentageAboveDma100" : 5.72,
+    "pricePercentageAboveDma200" : 6.32,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 2.29,
     "operatingProfitMarginPercentile" : 8.17,
     "netProfitMarginPercentile" : 3.39,
-    "totalTechnicalScore" : 17.37,
+    "totalTechnicalScore" : 17.27,
     "totalFundamentalScore" : 13.85,
-    "totalScore" : 31.22
+    "totalScore" : 31.11
   }
 }

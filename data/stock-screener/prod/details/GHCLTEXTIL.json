@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GHCLTEXTIL",
       "companyName" : "GHCL Textiles",
-      "marketCap" : 1396.00,
-      "peRatio" : 10.30,
+      "marketCap" : 1442.00,
+      "peRatio" : 10.60,
       "description" : "Incorporated in 2020, GHCL Textiles Ltd manufactures and trades Yarn and fabric[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.38,
-      "pricePercentageAboveDma100" : 4.16,
-      "pricePercentageAboveDma200" : 3.44,
+      "pricePercentageAboveDma50" : 4.23,
+      "pricePercentageAboveDma100" : 3.99,
+      "pricePercentageAboveDma200" : 3.25,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.85,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 46.98,
+      "totalTechnicalScore" : 46.47,
       "totalFundamentalScore" : 43.85,
-      "totalScore" : 90.82
+      "totalScore" : 90.31
     }
   },
   "attributes" : {
     "companyCode" : "GHCLTEXTIL",
     "companyName" : "GHCL Textiles",
-    "marketCap" : 1396.00,
-    "peRatio" : 10.30,
+    "marketCap" : 1442.00,
+    "peRatio" : 10.60,
     "description" : "Incorporated in 2020, GHCL Textiles Ltd manufactures and trades Yarn and fabric[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 78.19,
-    "dma50" : 78.32,
-    "dma100" : null,
-    "dma200" : 83.59,
-    "volume" : 67124.00
-  }, {
     "date" : "2025-11-28",
     "price" : 76.13,
     "dma50" : 78.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 89.46,
     "dma50" : 79.25,
-    "dma100" : 76.06,
+    "dma100" : null,
     "dma200" : 79.31,
     "volume" : 325268.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 125.07,
     "dma200" : 111.33,
     "volume" : 645266.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 150.86,
+    "dma50" : 130.75,
+    "dma100" : 125.47,
+    "dma200" : 111.72,
+    "volume" : 1171595.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 146.08,
-    "dma50" : 129.93,
-    "dma100" : 125.07,
-    "dma200" : 111.33,
-    "volume" : 645266.00
+    "date" : "2026-11-27",
+    "price" : 150.86,
+    "dma50" : 130.75,
+    "dma100" : 125.47,
+    "dma200" : 111.72,
+    "volume" : 1171595.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1966,15 +1966,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.38,
-    "pricePercentageAboveDma100" : 4.16,
-    "pricePercentageAboveDma200" : 3.44,
+    "pricePercentageAboveDma50" : 4.23,
+    "pricePercentageAboveDma100" : 3.99,
+    "pricePercentageAboveDma200" : 3.25,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.85,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 46.98,
+    "totalTechnicalScore" : 46.47,
     "totalFundamentalScore" : 43.85,
-    "totalScore" : 90.82
+    "totalScore" : 90.31
   }
 }

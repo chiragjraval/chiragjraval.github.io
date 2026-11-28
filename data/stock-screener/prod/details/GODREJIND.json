@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GODREJIND",
       "companyName" : "Godrej Industrie",
-      "marketCap" : 35548.00,
-      "peRatio" : 23.40,
+      "marketCap" : 35295.00,
+      "peRatio" : 23.20,
       "description" : "Godrej Industries is one of the holding companies of Godrej Group. It is one of the leading manufacturers of oleochemicals on a standalone basis. Godrej Industries is promoter of Godrej Agrovet Ltd and Godrej Properties Ltd. It also has stake in Godrej Consumer Products Ltd [1]."
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.38,
-      "pricePercentageAboveDma200" : 5.14,
+      "pricePercentageAboveDma50" : 5.01,
+      "pricePercentageAboveDma100" : 5.40,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.66,
       "operatingProfitMarginPercentile" : 19.54,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 25.48,
+      "totalTechnicalScore" : 20.58,
       "totalFundamentalScore" : 45.20,
-      "totalScore" : 70.68
+      "totalScore" : 65.78
     }
   },
   "attributes" : {
     "companyCode" : "GODREJIND",
     "companyName" : "Godrej Industrie",
-    "marketCap" : 35548.00,
-    "peRatio" : 23.40,
+    "marketCap" : 35295.00,
+    "peRatio" : 23.20,
     "description" : "Godrej Industries is one of the holding companies of Godrej Group. It is one of the leading manufacturers of oleochemicals on a standalone basis. Godrej Industries is promoter of Godrej Agrovet Ltd and Godrej Properties Ltd. It also has stake in Godrej Consumer Products Ltd [1]."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1047.00,
-    "dma50" : 1098.42,
-    "dma100" : null,
-    "dma200" : 1114.74,
-    "volume" : 36066.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1051.60,
     "dma50" : 1096.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 997.25,
     "dma50" : 921.36,
-    "dma100" : 963.93,
+    "dma100" : null,
     "dma200" : 1010.14,
     "volume" : 80005.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1140.94,
     "dma200" : 1084.68,
     "volume" : 130013.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1047.80,
+    "dma50" : 1049.21,
+    "dma100" : 1139.33,
+    "dma200" : 1084.31,
+    "volume" : 93398.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1055.30,
-    "dma50" : 1049.27,
-    "dma100" : 1140.94,
-    "dma200" : 1084.68,
-    "volume" : 130013.00
+    "date" : "2026-11-27",
+    "price" : 1047.80,
+    "dma50" : 1049.21,
+    "dma100" : 1139.33,
+    "dma200" : 1084.31,
+    "volume" : 93398.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 670.53
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.38,
-    "pricePercentageAboveDma200" : 5.14,
+    "pricePercentageAboveDma50" : 5.01,
+    "pricePercentageAboveDma100" : 5.40,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.66,
     "operatingProfitMarginPercentile" : 19.54,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 25.48,
+    "totalTechnicalScore" : 20.58,
     "totalFundamentalScore" : 45.20,
-    "totalScore" : 70.68
+    "totalScore" : 65.78
   }
 }

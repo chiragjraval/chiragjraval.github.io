@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EQUITASBNK",
       "companyName" : "Equitas Sma. Fin",
-      "marketCap" : 6250.00,
-      "peRatio" : 8.87,
+      "marketCap" : 6179.00,
+      "peRatio" : 8.77,
       "description" : "Equitas Small Finance Bank Ltd before acquiring small bank license, operated as a wholly-owned subsidiary of Equitas Holding Ltd. The holding entity started its operations in 2007 in the microfinance segment & diversified into vehicle & housing finance in 2011. Also entered into SME & LAP in 2013. It merged with the other two subsidiaries named Equitas Microfinance Ltd & Equitas Housing Finance Ltd & formed a bank. After receiving a license in Sept 2016 the company commenced operations under Equitas small finance Bank. [1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.62,
-      "pricePercentageAboveDma100" : 6.09,
-      "pricePercentageAboveDma200" : 5.93,
+      "pricePercentageAboveDma50" : 5.65,
+      "pricePercentageAboveDma100" : 6.12,
+      "pricePercentageAboveDma200" : 5.97,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 17.78,
       "operatingProfitMarginPercentile" : 18.79,
       "netProfitMarginPercentile" : 8.04,
-      "totalTechnicalScore" : 27.64,
+      "totalTechnicalScore" : 27.74,
       "totalFundamentalScore" : 44.61,
-      "totalScore" : 72.25
+      "totalScore" : 72.35
     }
   },
   "attributes" : {
     "companyCode" : "EQUITASBNK",
     "companyName" : "Equitas Sma. Fin",
-    "marketCap" : 6250.00,
-    "peRatio" : 8.87,
+    "marketCap" : 6179.00,
+    "peRatio" : 8.77,
     "description" : "Equitas Small Finance Bank Ltd before acquiring small bank license, operated as a wholly-owned subsidiary of Equitas Holding Ltd. The holding entity started its operations in 2007 in the microfinance segment & diversified into vehicle & housing finance in 2011. Also entered into SME & LAP in 2013. It merged with the other two subsidiaries named Equitas Microfinance Ltd & Equitas Housing Finance Ltd & formed a bank. After receiving a license in Sept 2016 the company commenced operations under Equitas small finance Bank. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 65.61,
-    "dma50" : 60.04,
-    "dma100" : null,
-    "dma200" : 62.15,
-    "volume" : 3080707.00
-  }, {
     "date" : "2025-11-28",
     "price" : 64.16,
     "dma50" : 60.20,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 67.34,
     "dma50" : 61.83,
-    "dma100" : 63.00,
+    "dma100" : null,
     "dma200" : 62.49,
     "volume" : 2055834.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 69.83,
     "dma200" : 67.15,
     "volume" : 8384161.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 54.01,
+    "dma50" : 62.06,
+    "dma100" : 69.59,
+    "dma200" : 67.02,
+    "volume" : 4990549.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 54.63,
-    "dma50" : 62.38,
-    "dma100" : 69.83,
-    "dma200" : 67.15,
-    "volume" : 8384161.00
+    "date" : "2026-11-27",
+    "price" : 54.01,
+    "dma50" : 62.06,
+    "dma100" : 69.59,
+    "dma200" : 67.02,
+    "volume" : 4990549.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2126,15 +2126,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.62,
-    "pricePercentageAboveDma100" : 6.09,
-    "pricePercentageAboveDma200" : 5.93,
+    "pricePercentageAboveDma50" : 5.65,
+    "pricePercentageAboveDma100" : 6.12,
+    "pricePercentageAboveDma200" : 5.97,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 17.78,
     "operatingProfitMarginPercentile" : 18.79,
     "netProfitMarginPercentile" : 8.04,
-    "totalTechnicalScore" : 27.64,
+    "totalTechnicalScore" : 27.74,
     "totalFundamentalScore" : 44.61,
-    "totalScore" : 72.25
+    "totalScore" : 72.35
   }
 }

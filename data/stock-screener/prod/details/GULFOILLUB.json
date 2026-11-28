@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "GULFOILLUB",
       "companyName" : "Gulf Oil Lubric.",
-      "marketCap" : 5698.00,
+      "marketCap" : 5700.00,
       "peRatio" : 13.30,
       "description" : "Gulf Oil Lubricants Ltd is engaged in the business of manufacturing, marketing and trading of automotive and non-automotive lubricants.[1] It is among the top three lubricant companies in India among private players.[2]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.78,
-      "pricePercentageAboveDma100" : 4.74,
+      "pricePercentageAboveDma100" : 4.75,
       "pricePercentageAboveDma200" : 4.69,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.13,
       "operatingProfitMarginPercentile" : 3.77,
       "netProfitMarginPercentile" : 2.40,
-      "totalTechnicalScore" : 49.21,
+      "totalTechnicalScore" : 49.22,
       "totalFundamentalScore" : 25.30,
-      "totalScore" : 74.50
+      "totalScore" : 74.51
     }
   },
   "attributes" : {
     "companyCode" : "GULFOILLUB",
     "companyName" : "Gulf Oil Lubric.",
-    "marketCap" : 5698.00,
+    "marketCap" : 5700.00,
     "peRatio" : 13.30,
     "description" : "Gulf Oil Lubricants Ltd is engaged in the business of manufacturing, marketing and trading of automotive and non-automotive lubricants.[1] It is among the top three lubricant companies in India among private players.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1176.10,
-    "dma50" : 1213.98,
-    "dma100" : null,
-    "dma200" : 1200.53,
-    "volume" : 24390.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1181.80,
     "dma50" : 1212.72,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 993.00,
     "dma50" : 992.15,
-    "dma100" : 1075.11,
+    "dma100" : null,
     "dma200" : 1104.85,
     "volume" : 60920.00
   }, {
@@ -806,7 +799,7 @@
     "date" : "2026-05-11",
     "price" : 980.90,
     "dma50" : 991.41,
-    "dma100" : 1059.92,
+    "dma100" : 1059.91,
     "dma200" : 1094.92,
     "volume" : 40091.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1093.86,
     "dma200" : 1081.72,
     "volume" : 37088.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1150.30,
+    "dma50" : 1102.67,
+    "dma100" : 1094.59,
+    "dma200" : 1082.40,
+    "volume" : 22439.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1149.80,
-    "dma50" : 1100.73,
-    "dma100" : 1093.86,
-    "dma200" : 1081.72,
-    "volume" : 37088.00
+    "date" : "2026-11-27",
+    "price" : 1150.30,
+    "dma50" : 1102.67,
+    "dma100" : 1094.59,
+    "dma200" : 1082.40,
+    "volume" : 22439.00
   },
   "quarterlyResults" : [ {
     "date" : "2014-06-30",
@@ -2297,14 +2297,14 @@
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.78,
-    "pricePercentageAboveDma100" : 4.74,
+    "pricePercentageAboveDma100" : 4.75,
     "pricePercentageAboveDma200" : 4.69,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.13,
     "operatingProfitMarginPercentile" : 3.77,
     "netProfitMarginPercentile" : 2.40,
-    "totalTechnicalScore" : 49.21,
+    "totalTechnicalScore" : 49.22,
     "totalFundamentalScore" : 25.30,
-    "totalScore" : 74.50
+    "totalScore" : 74.51
   }
 }

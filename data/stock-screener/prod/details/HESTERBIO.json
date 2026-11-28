@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "HESTERBIO",
       "companyName" : "Hester Bios",
-      "marketCap" : 1902.00,
-      "peRatio" : 32.40,
+      "marketCap" : 1930.00,
+      "peRatio" : 32.90,
       "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.05,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 4.64,
+      "pricePercentageAboveDma50" : 4.98,
+      "pricePercentageAboveDma100" : 5.07,
+      "pricePercentageAboveDma200" : 4.57,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.18,
       "operatingProfitMarginPercentile" : 9.30,
       "netProfitMarginPercentile" : 6.44,
-      "totalTechnicalScore" : 29.83,
+      "totalTechnicalScore" : 34.61,
       "totalFundamentalScore" : 30.92,
-      "totalScore" : 60.75
+      "totalScore" : 65.53
     }
   },
   "attributes" : {
     "companyCode" : "HESTERBIO",
     "companyName" : "Hester Bios",
-    "marketCap" : 1902.00,
-    "peRatio" : 32.40,
+    "marketCap" : 1930.00,
+    "peRatio" : 32.90,
     "description" : "Incorporated in 1987, Hester Biosciences Ltd is one of India’s leading animal healthcare companies and a major manufacturer of poultry and animal vaccines, including a leading position in PPR and Goat Pox vaccines.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1645.60,
-    "dma50" : 1735.89,
-    "dma100" : null,
-    "dma200" : 1859.70,
-    "volume" : 3084.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1653.90,
     "dma50" : 1732.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1668.70,
     "dma50" : 1476.23,
-    "dma100" : 1514.20,
+    "dma100" : null,
     "dma200" : 1631.61,
     "volume" : 39332.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2298.34,
     "dma200" : 2087.49,
     "volume" : 1512.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 2269.30,
+    "dma50" : 2260.19,
+    "dma100" : 2299.35,
+    "dma200" : 2089.30,
+    "volume" : 971.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 2236.20,
-    "dma50" : 2259.81,
-    "dma100" : 2298.34,
-    "dma200" : 2087.49,
-    "volume" : 1512.00
+    "date" : "2026-11-27",
+    "price" : 2269.30,
+    "dma50" : 2260.19,
+    "dma100" : 2299.35,
+    "dma200" : 2089.30,
+    "volume" : 971.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 16.66
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.05,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 4.64,
+    "pricePercentageAboveDma50" : 4.98,
+    "pricePercentageAboveDma100" : 5.07,
+    "pricePercentageAboveDma200" : 4.57,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.18,
     "operatingProfitMarginPercentile" : 9.30,
     "netProfitMarginPercentile" : 6.44,
-    "totalTechnicalScore" : 29.83,
+    "totalTechnicalScore" : 34.61,
     "totalFundamentalScore" : 30.92,
-    "totalScore" : 60.75
+    "totalScore" : 65.53
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "AVTNPL",
       "companyName" : "AVT Natural Prod",
-      "marketCap" : 1471.00,
-      "peRatio" : 14.50,
+      "marketCap" : 1527.00,
+      "peRatio" : 15.10,
       "description" : "AVT Natural Products Limited is a part of the A.V. Thomas Group. The Company is engaged in the business of manufacturing plant-based extracts and natural ingredients solutions for the food, beverage, animal nutrition and nutraceutical industries of the world. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.86,
-      "pricePercentageAboveDma100" : 4.39,
-      "pricePercentageAboveDma200" : 4.04,
+      "pricePercentageAboveDma50" : 4.68,
+      "pricePercentageAboveDma100" : 4.20,
+      "pricePercentageAboveDma200" : 3.83,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 11.72,
       "netProfitMarginPercentile" : 7.24,
-      "totalTechnicalScore" : 48.29,
+      "totalTechnicalScore" : 47.71,
       "totalFundamentalScore" : 35.59,
-      "totalScore" : 83.89
+      "totalScore" : 83.30
     }
   },
   "attributes" : {
     "companyCode" : "AVTNPL",
     "companyName" : "AVT Natural Prod",
-    "marketCap" : 1471.00,
-    "peRatio" : 14.50,
+    "marketCap" : 1527.00,
+    "peRatio" : 15.10,
     "description" : "AVT Natural Products Limited is a part of the A.V. Thomas Group. The Company is engaged in the business of manufacturing plant-based extracts and natural ingredients solutions for the food, beverage, animal nutrition and nutraceutical industries of the world. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 68.77,
-    "dma50" : 70.60,
-    "dma100" : null,
-    "dma200" : 71.05,
-    "volume" : 24564.00
-  }, {
     "date" : "2025-11-28",
     "price" : 68.70,
     "dma50" : 70.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 68.83,
     "dma50" : 63.43,
-    "dma100" : 64.57,
+    "dma100" : null,
     "dma200" : 66.63,
     "volume" : 63557.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 86.08,
     "dma200" : 81.07,
     "volume" : 200735.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 100.25,
+    "dma50" : 94.23,
+    "dma100" : 86.37,
+    "dma200" : 81.26,
+    "volume" : 395569.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 96.59,
-    "dma50" : 93.98,
-    "dma100" : 86.08,
-    "dma200" : 81.07,
-    "volume" : 200735.00
+    "date" : "2026-11-27",
+    "price" : 100.25,
+    "dma50" : 94.23,
+    "dma100" : 86.37,
+    "dma200" : 81.26,
+    "volume" : 395569.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.86,
-    "pricePercentageAboveDma100" : 4.39,
-    "pricePercentageAboveDma200" : 4.04,
+    "pricePercentageAboveDma50" : 4.68,
+    "pricePercentageAboveDma100" : 4.20,
+    "pricePercentageAboveDma200" : 3.83,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 11.72,
     "netProfitMarginPercentile" : 7.24,
-    "totalTechnicalScore" : 48.29,
+    "totalTechnicalScore" : 47.71,
     "totalFundamentalScore" : 35.59,
-    "totalScore" : 83.89
+    "totalScore" : 83.30
   }
 }

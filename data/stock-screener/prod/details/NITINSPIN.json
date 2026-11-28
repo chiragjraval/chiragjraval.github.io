@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NITINSPIN",
       "companyName" : "Nitin Spinners",
-      "marketCap" : 3803.00,
-      "peRatio" : 14.30,
+      "marketCap" : 3900.00,
+      "peRatio" : 14.70,
       "description" : "Founded in 1992 in Bhilwara of Rajasthan, Nitin Spinners is India’s leading manufacturer of cotton yarn, knitted fabrics and finished woven fabrics."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.76,
-      "pricePercentageAboveDma100" : 4.44,
-      "pricePercentageAboveDma200" : 3.81,
+      "pricePercentageAboveDma50" : 4.64,
+      "pricePercentageAboveDma100" : 4.31,
+      "pricePercentageAboveDma200" : 3.66,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.41,
       "operatingProfitMarginPercentile" : 13.02,
       "netProfitMarginPercentile" : 9.30,
-      "totalTechnicalScore" : 43.01,
+      "totalTechnicalScore" : 42.62,
       "totalFundamentalScore" : 35.74,
-      "totalScore" : 78.75
+      "totalScore" : 78.36
     }
   },
   "attributes" : {
     "companyCode" : "NITINSPIN",
     "companyName" : "Nitin Spinners",
-    "marketCap" : 3803.00,
-    "peRatio" : 14.30,
+    "marketCap" : 3900.00,
+    "peRatio" : 14.70,
     "description" : "Founded in 1992 in Bhilwara of Rajasthan, Nitin Spinners is India’s leading manufacturer of cotton yarn, knitted fabrics and finished woven fabrics."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 328.80,
-    "dma50" : 333.02,
-    "dma100" : null,
-    "dma200" : 354.50,
-    "volume" : 25529.00
-  }, {
     "date" : "2025-11-28",
     "price" : 329.10,
     "dma50" : 332.86,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 443.85,
     "dma50" : 379.03,
-    "dma100" : 348.85,
+    "dma100" : null,
     "dma200" : 356.38,
     "volume" : 610822.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 608.54,
     "dma200" : 545.99,
     "volume" : 59896.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 693.65,
+    "dma50" : 647.55,
+    "dma100" : 609.88,
+    "dma200" : 547.46,
+    "volume" : 84790.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 676.45,
-    "dma50" : 645.67,
-    "dma100" : 608.54,
-    "dma200" : 545.99,
-    "volume" : 59896.00
+    "date" : "2026-11-27",
+    "price" : 693.65,
+    "dma50" : 647.55,
+    "dma100" : 609.88,
+    "dma200" : 547.46,
+    "volume" : 84790.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.76,
-    "pricePercentageAboveDma100" : 4.44,
-    "pricePercentageAboveDma200" : 3.81,
+    "pricePercentageAboveDma50" : 4.64,
+    "pricePercentageAboveDma100" : 4.31,
+    "pricePercentageAboveDma200" : 3.66,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.41,
     "operatingProfitMarginPercentile" : 13.02,
     "netProfitMarginPercentile" : 9.30,
-    "totalTechnicalScore" : 43.01,
+    "totalTechnicalScore" : 42.62,
     "totalFundamentalScore" : 35.74,
-    "totalScore" : 78.75
+    "totalScore" : 78.36
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KAMAHOLD",
       "companyName" : "Kama Holdings",
-      "marketCap" : 7424.00,
-      "peRatio" : 6.25,
+      "marketCap" : 7446.00,
+      "peRatio" : 6.27,
       "description" : "KAMA Holdings Ltd is a core investment company while the principal activities of its subsidiaries are manufacturing, purchasing, and sale of technical textiles, chemicals, packaging films, and other polymers. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.87,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 5.27,
+      "pricePercentageAboveDma50" : 4.86,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 5.26,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 19.99,
       "netProfitMarginPercentile" : 9.69,
-      "totalTechnicalScore" : 25.23,
+      "totalTechnicalScore" : 25.18,
       "totalFundamentalScore" : 44.38,
-      "totalScore" : 69.61
+      "totalScore" : 69.56
     }
   },
   "attributes" : {
     "companyCode" : "KAMAHOLD",
     "companyName" : "Kama Holdings",
-    "marketCap" : 7424.00,
-    "peRatio" : 6.25,
+    "marketCap" : 7446.00,
+    "peRatio" : 6.27,
     "description" : "KAMA Holdings Ltd is a core investment company while the principal activities of its subsidiaries are manufacturing, purchasing, and sale of technical textiles, chemicals, packaging films, and other polymers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 2824.75,
-    "dma50" : 2933.28,
-    "dma100" : null,
-    "dma200" : 2854.19,
-    "volume" : 1448.00
-  }, {
     "date" : "2025-11-28",
     "price" : 2902.40,
     "dma50" : 2932.07,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 2498.95,
     "dma50" : 2550.33,
-    "dma100" : 2665.47,
+    "dma100" : null,
     "dma200" : 2711.17,
     "volume" : 25156.00
   }, {
@@ -1761,14 +1754,21 @@
     "dma100" : 2353.05,
     "dma200" : 2446.89,
     "volume" : 6442.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 2320.30,
+    "dma50" : 2258.13,
+    "dma100" : 2350.25,
+    "dma200" : 2445.63,
+    "volume" : 2342.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 2313.40,
-    "dma50" : 2255.60,
-    "dma100" : 2353.05,
-    "dma200" : 2446.89,
-    "volume" : 6442.00
+    "date" : "2026-11-27",
+    "price" : 2320.30,
+    "dma50" : 2258.13,
+    "dma100" : 2350.25,
+    "dma200" : 2445.63,
+    "volume" : 2342.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2659,15 +2659,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.87,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 5.27,
+    "pricePercentageAboveDma50" : 4.86,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 5.26,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 19.99,
     "netProfitMarginPercentile" : 9.69,
-    "totalTechnicalScore" : 25.23,
+    "totalTechnicalScore" : 25.18,
     "totalFundamentalScore" : 44.38,
-    "totalScore" : 69.61
+    "totalScore" : 69.56
   }
 }

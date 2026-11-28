@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NATIONALUM",
       "companyName" : "Natl. Aluminium",
-      "marketCap" : 54171.00,
-      "peRatio" : 7.57,
+      "marketCap" : 55935.00,
+      "peRatio" : 7.82,
       "description" : "Incorporated in 1981, National Aluminium Company Limited (NALCO) manufactures and sells Alumina and Aluminium[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.49,
-      "pricePercentageAboveDma100" : 5.76,
-      "pricePercentageAboveDma200" : 5.67,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.62,
+      "pricePercentageAboveDma200" : 5.52,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 16.32,
       "netProfitMarginPercentile" : 8.62,
-      "totalTechnicalScore" : 21.92,
+      "totalTechnicalScore" : 21.48,
       "totalFundamentalScore" : 39.88,
-      "totalScore" : 61.81
+      "totalScore" : 61.36
     }
   },
   "attributes" : {
     "companyCode" : "NATIONALUM",
     "companyName" : "Natl. Aluminium",
-    "marketCap" : 54171.00,
-    "peRatio" : 7.57,
+    "marketCap" : 55935.00,
+    "peRatio" : 7.82,
     "description" : "Incorporated in 1981, National Aluminium Company Limited (NALCO) manufactures and sells Alumina and Aluminium[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 261.33,
-    "dma50" : 236.17,
-    "dma100" : null,
-    "dma200" : 207.28,
-    "volume" : 9763992.00
-  }, {
     "date" : "2025-11-28",
     "price" : 259.98,
     "dma50" : 237.10,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 441.00,
     "dma50" : 392.06,
-    "dma100" : 355.49,
+    "dma100" : null,
     "dma200" : 308.71,
     "volume" : 5767962.00
   }, {
@@ -834,7 +827,7 @@
     "date" : "2026-05-15",
     "price" : 403.60,
     "dma50" : 398.69,
-    "dma100" : 373.79,
+    "dma100" : 373.80,
     "dma200" : 320.96,
     "volume" : 9029314.00
   }, {
@@ -1233,7 +1226,7 @@
     "date" : "2026-08-06",
     "price" : 381.00,
     "dma50" : 364.35,
-    "dma100" : 385.52,
+    "dma100" : 385.53,
     "dma200" : 341.20,
     "volume" : 6867966.00
   }, {
@@ -1597,7 +1590,7 @@
     "date" : "2026-10-22",
     "price" : 310.90,
     "dma50" : 347.02,
-    "dma100" : 361.76,
+    "dma100" : 361.77,
     "dma200" : 347.27,
     "volume" : 3986208.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 347.93,
     "dma200" : 340.63,
     "volume" : 9454804.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 304.55,
+    "dma50" : 326.29,
+    "dma100" : 347.47,
+    "dma200" : 340.27,
+    "volume" : 9589228.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 294.95,
-    "dma50" : 327.18,
-    "dma100" : 347.93,
-    "dma200" : 340.63,
-    "volume" : 9454804.00
+    "date" : "2026-11-27",
+    "price" : 304.55,
+    "dma50" : 326.29,
+    "dma100" : 347.47,
+    "dma200" : 340.27,
+    "volume" : 9589228.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.49,
-    "pricePercentageAboveDma100" : 5.76,
-    "pricePercentageAboveDma200" : 5.67,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.62,
+    "pricePercentageAboveDma200" : 5.52,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 16.32,
     "netProfitMarginPercentile" : 8.62,
-    "totalTechnicalScore" : 21.92,
+    "totalTechnicalScore" : 21.48,
     "totalFundamentalScore" : 39.88,
-    "totalScore" : 61.81
+    "totalScore" : 61.36
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GANECOS",
       "companyName" : "Ganesha Ecosphe.",
-      "marketCap" : 2355.00,
-      "peRatio" : 27.70,
+      "marketCap" : 2366.00,
+      "peRatio" : 27.80,
       "description" : "Ganesha Ecosphere Ltd is a leading PET Waste Recycling company in India and is engaged in the manufacturing of Recycled Polyester Staple Fibre (RPSF), Spun yarn and dyed texturised yarn in India.[1] It was incorporated in 1987 as Ganesh Polytex Ltd and was renamed as Ganesha Ecosphere Ltd in October 2011.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.73,
-      "pricePercentageAboveDma200" : 5.64,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.71,
+      "pricePercentageAboveDma200" : 5.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.53,
       "operatingProfitMarginPercentile" : 11.43,
       "netProfitMarginPercentile" : 7.41,
-      "totalTechnicalScore" : 21.74,
+      "totalTechnicalScore" : 21.65,
       "totalFundamentalScore" : 31.38,
-      "totalScore" : 53.11
+      "totalScore" : 53.03
     }
   },
   "attributes" : {
     "companyCode" : "GANECOS",
     "companyName" : "Ganesha Ecosphe.",
-    "marketCap" : 2355.00,
-    "peRatio" : 27.70,
+    "marketCap" : 2366.00,
+    "peRatio" : 27.80,
     "description" : "Ganesha Ecosphere Ltd is a leading PET Waste Recycling company in India and is engaged in the manufacturing of Recycled Polyester Staple Fibre (RPSF), Spun yarn and dyed texturised yarn in India.[1] It was incorporated in 1987 as Ganesh Polytex Ltd and was renamed as Ganesha Ecosphere Ltd in October 2011.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 925.50,
-    "dma50" : 1114.47,
-    "dma100" : null,
-    "dma200" : 1367.74,
-    "volume" : 298989.00
-  }, {
     "date" : "2025-11-28",
     "price" : 917.20,
     "dma50" : 1106.73,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1059.15,
     "dma50" : 922.95,
-    "dma100" : 843.06,
+    "dma100" : null,
     "dma200" : 1044.89,
     "volume" : 418402.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1030.03,
     "dma200" : 1008.62,
     "volume" : 113043.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 883.00,
+    "dma50" : 944.71,
+    "dma100" : 1028.10,
+    "dma200" : 1007.37,
+    "volume" : 39105.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 879.00,
-    "dma50" : 947.23,
-    "dma100" : 1030.03,
-    "dma200" : 1008.62,
-    "volume" : 113043.00
+    "date" : "2026-11-27",
+    "price" : 883.00,
+    "dma50" : 944.71,
+    "dma100" : 1028.10,
+    "dma200" : 1007.37,
+    "volume" : 39105.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.73,
-    "pricePercentageAboveDma200" : 5.64,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.71,
+    "pricePercentageAboveDma200" : 5.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.53,
     "operatingProfitMarginPercentile" : 11.43,
     "netProfitMarginPercentile" : 7.41,
-    "totalTechnicalScore" : 21.74,
+    "totalTechnicalScore" : 21.65,
     "totalFundamentalScore" : 31.38,
-    "totalScore" : 53.11
+    "totalScore" : 53.03
   }
 }

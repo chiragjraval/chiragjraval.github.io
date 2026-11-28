@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JAMNAAUTO",
       "companyName" : "Jamna Auto Inds.",
-      "marketCap" : 5154.00,
-      "peRatio" : 19.90,
+      "marketCap" : 5175.00,
+      "peRatio" : 20.00,
       "description" : "Incorporated in 1965, Jamna Auto Industries Limited manufactures conventional leaf springs, parabolic leaf springs, air suspensions and lift axles, predominantly for Commercial Vehicles.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 4.97,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.11,
+      "pricePercentageAboveDma200" : 4.95,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.18,
       "operatingProfitMarginPercentile" : 18.41,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 35.32,
+      "totalTechnicalScore" : 35.25,
       "totalFundamentalScore" : 42.67,
-      "totalScore" : 77.99
+      "totalScore" : 77.92
     }
   },
   "attributes" : {
     "companyCode" : "JAMNAAUTO",
     "companyName" : "Jamna Auto Inds.",
-    "marketCap" : 5154.00,
-    "peRatio" : 19.90,
+    "marketCap" : 5175.00,
+    "peRatio" : 20.00,
     "description" : "Incorporated in 1965, Jamna Auto Industries Limited manufactures conventional leaf springs, parabolic leaf springs, air suspensions and lift axles, predominantly for Commercial Vehicles.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 114.25,
-    "dma50" : 101.45,
-    "dma100" : null,
-    "dma200" : 97.84,
-    "volume" : 9339100.00
-  }, {
     "date" : "2025-11-28",
     "price" : 114.57,
     "dma50" : 101.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 124.51,
     "dma50" : 124.75,
-    "dma100" : 126.69,
+    "dma100" : null,
     "dma200" : 115.98,
     "volume" : 1114081.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 132.43,
     "dma200" : 127.93,
     "volume" : 2414418.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 129.34,
+    "dma50" : 134.36,
+    "dma100" : 132.35,
+    "dma200" : 127.95,
+    "volume" : 1328660.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 128.82,
-    "dma50" : 134.57,
-    "dma100" : 132.43,
-    "dma200" : 127.93,
-    "volume" : 2414418.00
+    "date" : "2026-11-27",
+    "price" : 129.34,
+    "dma50" : 134.36,
+    "dma100" : 132.35,
+    "dma200" : 127.95,
+    "volume" : 1328660.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 4.97,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.11,
+    "pricePercentageAboveDma200" : 4.95,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.18,
     "operatingProfitMarginPercentile" : 18.41,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 35.32,
+    "totalTechnicalScore" : 35.25,
     "totalFundamentalScore" : 42.67,
-    "totalScore" : 77.99
+    "totalScore" : 77.92
   }
 }

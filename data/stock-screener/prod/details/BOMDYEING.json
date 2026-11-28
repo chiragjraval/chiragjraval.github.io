@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BOMDYEING",
       "companyName" : "Bombay Dyeing",
-      "marketCap" : 2076.00,
-      "peRatio" : 63.90,
+      "marketCap" : 2073.00,
+      "peRatio" : 63.80,
       "description" : "Bombay Dyeing & Manufacturing Company is currently engaged in the business of Real Estate Development, Polyester Staple Fibre and Retail (Textiles).[1]"
     },
     "companyScore" : {
@@ -21,7 +21,7 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma100" : 5.40,
       "pricePercentageAboveDma200" : 5.66,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "BOMDYEING",
     "companyName" : "Bombay Dyeing",
-    "marketCap" : 2076.00,
-    "peRatio" : 63.90,
+    "marketCap" : 2073.00,
+    "peRatio" : 63.80,
     "description" : "Bombay Dyeing & Manufacturing Company is currently engaged in the business of Real Estate Development, Polyester Staple Fibre and Retail (Textiles).[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 145.03,
-    "dma50" : 161.45,
-    "dma100" : null,
-    "dma200" : 165.40,
-    "volume" : 364549.00
-  }, {
     "date" : "2025-11-28",
     "price" : 143.97,
     "dma50" : 160.77,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 115.60,
     "dma50" : 111.51,
-    "dma100" : 118.11,
+    "dma100" : null,
     "dma200" : 133.83,
     "volume" : 582829.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 109.41,
     "dma200" : 115.82,
     "volume" : 641690.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 100.39,
+    "dma50" : 101.91,
+    "dma100" : 109.15,
+    "dma200" : 115.67,
+    "volume" : 722387.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 100.53,
-    "dma50" : 101.97,
-    "dma100" : 109.41,
-    "dma200" : 115.82,
-    "volume" : 641690.00
+    "date" : "2026-11-27",
+    "price" : 100.39,
+    "dma50" : 101.91,
+    "dma100" : 109.15,
+    "dma200" : 115.67,
+    "volume" : 722387.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,7 +2667,7 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma100" : 5.40,
     "pricePercentageAboveDma200" : 5.66,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,

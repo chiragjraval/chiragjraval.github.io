@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ACE",
       "companyName" : "Action Const.Eq.",
-      "marketCap" : 15421.00,
-      "peRatio" : 32.60,
+      "marketCap" : 15787.00,
+      "peRatio" : 33.30,
       "description" : "Action Construction Equipment Ltd is engaged in the business of manufacturing and marketing of hydraulic mobile cranes, mobile tower cranes, material handling equipment like forklifts, road construction equipment like backhoe loaders, compactors, motor graders and agriculture equipment like tractors, harvesters, rotavators, etc. It was incorporated in 1995 and concluded its IPO in 2006.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.34,
-      "pricePercentageAboveDma100" : 4.22,
-      "pricePercentageAboveDma200" : 3.93,
+      "pricePercentageAboveDma50" : 4.25,
+      "pricePercentageAboveDma100" : 4.10,
+      "pricePercentageAboveDma200" : 3.80,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 10.24,
       "operatingProfitMarginPercentile" : 19.07,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 47.49,
+      "totalTechnicalScore" : 47.14,
       "totalFundamentalScore" : 39.08,
-      "totalScore" : 86.57
+      "totalScore" : 86.23
     }
   },
   "attributes" : {
     "companyCode" : "ACE",
     "companyName" : "Action Const.Eq.",
-    "marketCap" : 15421.00,
-    "peRatio" : 32.60,
+    "marketCap" : 15787.00,
+    "peRatio" : 33.30,
     "description" : "Action Construction Equipment Ltd is engaged in the business of manufacturing and marketing of hydraulic mobile cranes, mobile tower cranes, material handling equipment like forklifts, road construction equipment like backhoe loaders, compactors, motor graders and agriculture equipment like tractors, harvesters, rotavators, etc. It was incorporated in 1995 and concluded its IPO in 2006.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 982.80,
-    "dma50" : 1044.95,
-    "dma100" : null,
-    "dma200" : 1135.03,
-    "volume" : 181647.00
-  }, {
     "date" : "2025-11-28",
     "price" : 992.80,
     "dma50" : 1042.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 916.45,
     "dma50" : 876.73,
-    "dma100" : 890.02,
+    "dma100" : null,
     "dma200" : 975.28,
     "volume" : 137720.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1119.78,
     "dma200" : 1066.70,
     "volume" : 3515266.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1325.70,
+    "dma50" : 1152.09,
+    "dma100" : 1122.97,
+    "dma200" : 1069.27,
+    "volume" : 998933.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1295.00,
-    "dma50" : 1145.00,
-    "dma100" : 1119.78,
-    "dma200" : 1066.70,
-    "volume" : 3515266.00
+    "date" : "2026-11-27",
+    "price" : 1325.70,
+    "dma50" : 1152.09,
+    "dma100" : 1122.97,
+    "dma200" : 1069.27,
+    "volume" : 998933.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.34,
-    "pricePercentageAboveDma100" : 4.22,
-    "pricePercentageAboveDma200" : 3.93,
+    "pricePercentageAboveDma50" : 4.25,
+    "pricePercentageAboveDma100" : 4.10,
+    "pricePercentageAboveDma200" : 3.80,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 10.24,
     "operatingProfitMarginPercentile" : 19.07,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 47.49,
+    "totalTechnicalScore" : 47.14,
     "totalFundamentalScore" : 39.08,
-    "totalScore" : 86.57
+    "totalScore" : 86.23
   }
 }

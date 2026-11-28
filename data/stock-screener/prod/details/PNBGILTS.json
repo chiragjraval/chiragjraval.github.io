@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PNBGILTS",
       "companyName" : "PNB Gilts",
-      "marketCap" : 1481.00,
-      "peRatio" : 7.73,
+      "marketCap" : 1459.00,
+      "peRatio" : 7.61,
       "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.70,
-      "pricePercentageAboveDma100" : 4.80,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 4.79,
+      "pricePercentageAboveDma100" : 4.88,
+      "pricePercentageAboveDma200" : 4.95,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.72,
       "operatingProfitMarginPercentile" : 18.62,
       "netProfitMarginPercentile" : 8.90,
-      "totalTechnicalScore" : 29.37,
+      "totalTechnicalScore" : 29.62,
       "totalFundamentalScore" : 36.23,
-      "totalScore" : 65.61
+      "totalScore" : 65.85
     }
   },
   "attributes" : {
     "companyCode" : "PNBGILTS",
     "companyName" : "PNB Gilts",
-    "marketCap" : 1481.00,
-    "peRatio" : 7.73,
+    "marketCap" : 1459.00,
+    "peRatio" : 7.61,
     "description" : "The Co’s primary activities include supporting government borrowing program via underwriting of government securities issuances and trading in a gamut of fixed income instruments such as Government securities, Treasury Bills, State Development Loans, Corporate Bonds, Interest Rate Swaps and various money market instruments such as Certificates of Deposits, Commercial Papers etc.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 84.66,
-    "dma50" : 91.65,
-    "dma100" : null,
-    "dma200" : 97.51,
-    "volume" : 249418.00
-  }, {
     "date" : "2025-11-28",
     "price" : 83.80,
     "dma50" : 91.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 72.85,
     "dma50" : 73.20,
-    "dma100" : 76.96,
+    "dma100" : null,
     "dma200" : 83.74,
     "volume" : 322300.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 79.18,
     "dma200" : 80.27,
     "volume" : 985123.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 81.03,
+    "dma50" : 77.72,
+    "dma100" : 79.09,
+    "dma200" : 80.28,
+    "volume" : 980238.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 82.30,
-    "dma50" : 77.58,
-    "dma100" : 79.18,
-    "dma200" : 80.27,
-    "volume" : 985123.00
+    "date" : "2026-11-27",
+    "price" : 81.03,
+    "dma50" : 77.72,
+    "dma100" : 79.09,
+    "dma200" : 80.28,
+    "volume" : 980238.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.70,
-    "pricePercentageAboveDma100" : 4.80,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 4.79,
+    "pricePercentageAboveDma100" : 4.88,
+    "pricePercentageAboveDma200" : 4.95,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.72,
     "operatingProfitMarginPercentile" : 18.62,
     "netProfitMarginPercentile" : 8.90,
-    "totalTechnicalScore" : 29.37,
+    "totalTechnicalScore" : 29.62,
     "totalFundamentalScore" : 36.23,
-    "totalScore" : 65.61
+    "totalScore" : 65.85
   }
 }

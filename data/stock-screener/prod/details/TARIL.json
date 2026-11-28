@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TARIL",
       "companyName" : "T R I L",
-      "marketCap" : 8754.00,
-      "peRatio" : 28.80,
+      "marketCap" : 8750.00,
+      "peRatio" : 28.70,
       "description" : "Transformers and Rectifiers (India) Ltd. is a manufacturer of Power, Furnace and Rectifier Transformers. [1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.19,
-      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma100" : 5.18,
       "pricePercentageAboveDma200" : 5.38,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.76,
       "operatingProfitMarginPercentile" : 18.21,
       "netProfitMarginPercentile" : 9.52,
-      "totalTechnicalScore" : 20.76,
+      "totalTechnicalScore" : 20.75,
       "totalFundamentalScore" : 44.48,
-      "totalScore" : 65.24
+      "totalScore" : 65.23
     }
   },
   "attributes" : {
     "companyCode" : "TARIL",
     "companyName" : "T R I L",
-    "marketCap" : 8754.00,
-    "peRatio" : 28.80,
+    "marketCap" : 8750.00,
+    "peRatio" : 28.70,
     "description" : "Transformers and Rectifiers (India) Ltd. is a manufacturer of Power, Furnace and Rectifier Transformers. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 283.35,
-    "dma50" : 402.66,
-    "dma100" : null,
-    "dma200" : 454.00,
-    "volume" : 2510387.00
-  }, {
     "date" : "2025-11-28",
     "price" : 271.05,
     "dma50" : 397.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 342.65,
     "dma50" : 294.55,
-    "dma100" : 280.05,
+    "dma100" : null,
     "dma200" : 345.98,
     "volume" : 22716334.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 303.14,
     "dma200" : 315.39,
     "volume" : 1198703.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 291.50,
+    "dma50" : 302.92,
+    "dma100" : 302.64,
+    "dma200" : 315.15,
+    "volume" : 991775.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 291.65,
-    "dma50" : 303.38,
-    "dma100" : 303.14,
-    "dma200" : 315.39,
-    "volume" : 1198703.00
+    "date" : "2026-11-27",
+    "price" : 291.50,
+    "dma50" : 302.92,
+    "dma100" : 302.64,
+    "dma200" : 315.15,
+    "volume" : 991775.00
   },
   "quarterlyResults" : [ {
     "date" : "2007-06-30",
@@ -2577,14 +2577,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.19,
-    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma100" : 5.18,
     "pricePercentageAboveDma200" : 5.38,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.76,
     "operatingProfitMarginPercentile" : 18.21,
     "netProfitMarginPercentile" : 9.52,
-    "totalTechnicalScore" : 20.76,
+    "totalTechnicalScore" : 20.75,
     "totalFundamentalScore" : 44.48,
-    "totalScore" : 65.24
+    "totalScore" : 65.23
   }
 }

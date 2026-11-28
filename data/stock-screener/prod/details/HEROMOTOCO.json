@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "HEROMOTOCO",
       "companyName" : "Hero Motocorp",
-      "marketCap" : 115874.00,
-      "peRatio" : 19.00,
+      "marketCap" : 114112.00,
+      "peRatio" : 18.70,
       "description" : "Hero Moto Corp earlier also known as “Hero Honda” is one of India’s first motorcycle manufacturers. The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles. In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp. [1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.59,
-      "pricePercentageAboveDma100" : 4.55,
-      "pricePercentageAboveDma200" : 4.51,
+      "pricePercentageAboveDma50" : 4.68,
+      "pricePercentageAboveDma100" : 4.64,
+      "pricePercentageAboveDma200" : 4.59,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 13.32,
       "netProfitMarginPercentile" : 6.23,
-      "totalTechnicalScore" : 48.64,
+      "totalTechnicalScore" : 48.92,
       "totalFundamentalScore" : 35.45,
-      "totalScore" : 84.10
+      "totalScore" : 84.37
     }
   },
   "attributes" : {
     "companyCode" : "HEROMOTOCO",
     "companyName" : "Hero Motocorp",
-    "marketCap" : 115874.00,
-    "peRatio" : 19.00,
+    "marketCap" : 114112.00,
+    "peRatio" : 18.70,
     "description" : "Hero Moto Corp earlier also known as “Hero Honda” is one of India’s first motorcycle manufacturers. The company started in 1984 as a Technological collaboration with Honda, Japan. Before this collaboration, Hero was selling Cycles under the brand name, Hero Cycles. In 2011, Honda group sold its 26% stake in the company to the Munjals (promoters) and ended the JV. Post the termination of JV, the name of the company was changed to Hero Motocorp. [1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 6151.00,
-    "dma50" : 5555.31,
-    "dma100" : null,
-    "dma200" : 4919.89,
-    "volume" : 371802.00
-  }, {
     "date" : "2025-11-28",
     "price" : 6174.50,
     "dma50" : 5579.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 5043.00,
     "dma50" : 5331.35,
-    "dma100" : 5591.30,
+    "dma100" : null,
     "dma200" : 5293.72,
     "volume" : 474129.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 5314.37,
     "dma200" : 5268.31,
     "volume" : 794546.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 5701.00,
+    "dma50" : 5359.31,
+    "dma100" : 5321.93,
+    "dma200" : 5272.61,
+    "volume" : 669035.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 5789.00,
-    "dma50" : 5345.37,
-    "dma100" : 5314.37,
-    "dma200" : 5268.31,
-    "volume" : 794546.00
+    "date" : "2026-11-27",
+    "price" : 5701.00,
+    "dma50" : 5359.31,
+    "dma100" : 5321.93,
+    "dma200" : 5272.61,
+    "volume" : 669035.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.59,
-    "pricePercentageAboveDma100" : 4.55,
-    "pricePercentageAboveDma200" : 4.51,
+    "pricePercentageAboveDma50" : 4.68,
+    "pricePercentageAboveDma100" : 4.64,
+    "pricePercentageAboveDma200" : 4.59,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 13.32,
     "netProfitMarginPercentile" : 6.23,
-    "totalTechnicalScore" : 48.64,
+    "totalTechnicalScore" : 48.92,
     "totalFundamentalScore" : 35.45,
-    "totalScore" : 84.10
+    "totalScore" : 84.37
   }
 }

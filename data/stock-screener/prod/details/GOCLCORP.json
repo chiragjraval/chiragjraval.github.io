@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GOCLCORP",
       "companyName" : "GOCL Corpn.",
-      "marketCap" : 1611.00,
-      "peRatio" : 5.80,
+      "marketCap" : 1620.00,
+      "peRatio" : 5.83,
       "description" : "GOCL Corporation Ltd is engaged in the business of Energetics, Mining & Infrastructure Services and Realty.[1] It is a part of Hinduja Group which has presence across various industries such as Automotive, information technology, media, entertainment & communications, infrastructure project, development, oil & specialty chemicals, power, real estate and healthcare. The group employees 200,000 people around the world.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.38,
-      "pricePercentageAboveDma100" : 5.75,
-      "pricePercentageAboveDma200" : 5.45,
+      "pricePercentageAboveDma50" : 5.34,
+      "pricePercentageAboveDma100" : 5.71,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 6.63,
       "netProfitMarginPercentile" : 9.31,
-      "totalTechnicalScore" : 21.58,
+      "totalTechnicalScore" : 21.47,
       "totalFundamentalScore" : 35.70,
-      "totalScore" : 57.28
+      "totalScore" : 57.18
     }
   },
   "attributes" : {
     "companyCode" : "GOCLCORP",
     "companyName" : "GOCL Corpn.",
-    "marketCap" : 1611.00,
-    "peRatio" : 5.80,
+    "marketCap" : 1620.00,
+    "peRatio" : 5.83,
     "description" : "GOCL Corporation Ltd is engaged in the business of Energetics, Mining & Infrastructure Services and Realty.[1] It is a part of Hinduja Group which has presence across various industries such as Automotive, information technology, media, entertainment & communications, infrastructure project, development, oil & specialty chemicals, power, real estate and healthcare. The group employees 200,000 people around the world.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 308.65,
-    "dma50" : 340.32,
-    "dma100" : null,
-    "dma200" : 351.67,
-    "volume" : 56792.00
-  }, {
     "date" : "2025-11-28",
     "price" : 305.10,
     "dma50" : 338.94,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 332.45,
     "dma50" : 282.13,
-    "dma100" : 275.75,
+    "dma100" : null,
     "dma200" : 303.28,
     "volume" : 123004.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 381.84,
     "dma200" : 357.25,
     "volume" : 18716.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 326.85,
+    "dma50" : 350.74,
+    "dma100" : 381.06,
+    "dma200" : 356.94,
+    "volume" : 24017.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 324.90,
-    "dma50" : 351.71,
-    "dma100" : 381.84,
-    "dma200" : 357.25,
-    "volume" : 18716.00
+    "date" : "2026-11-27",
+    "price" : 326.85,
+    "dma50" : 350.74,
+    "dma100" : 381.06,
+    "dma200" : 356.94,
+    "volume" : 24017.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.38,
-    "pricePercentageAboveDma100" : 5.75,
-    "pricePercentageAboveDma200" : 5.45,
+    "pricePercentageAboveDma50" : 5.34,
+    "pricePercentageAboveDma100" : 5.71,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 6.63,
     "netProfitMarginPercentile" : 9.31,
-    "totalTechnicalScore" : 21.58,
+    "totalTechnicalScore" : 21.47,
     "totalFundamentalScore" : 35.70,
-    "totalScore" : 57.28
+    "totalScore" : 57.18
   }
 }

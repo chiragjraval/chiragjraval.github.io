@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MAITHANALL",
       "companyName" : "Maithan Alloys",
-      "marketCap" : 2384.00,
-      "peRatio" : 4.84,
+      "marketCap" : 2415.00,
+      "peRatio" : 4.90,
       "description" : "Maithan Alloys is engaged in the business of manufacturing and exporting of all three bulk Ferro alloys- Ferro Manganese, Silico Manganese and Ferro Silicon. It is also engaged in the generation and supply of Wind Power and has a Captive Power Plant.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.28,
-      "pricePercentageAboveDma100" : 5.63,
-      "pricePercentageAboveDma200" : 5.70,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.56,
+      "pricePercentageAboveDma200" : 5.64,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.01,
       "operatingProfitMarginPercentile" : 12.96,
       "netProfitMarginPercentile" : 4.94,
-      "totalTechnicalScore" : 16.61,
+      "totalTechnicalScore" : 16.41,
       "totalFundamentalScore" : 30.92,
-      "totalScore" : 47.52
+      "totalScore" : 47.32
     }
   },
   "attributes" : {
     "companyCode" : "MAITHANALL",
     "companyName" : "Maithan Alloys",
-    "marketCap" : 2384.00,
-    "peRatio" : 4.84,
+    "marketCap" : 2415.00,
+    "peRatio" : 4.90,
     "description" : "Maithan Alloys is engaged in the business of manufacturing and exporting of all three bulk Ferro alloys- Ferro Manganese, Silico Manganese and Ferro Silicon. It is also engaged in the generation and supply of Wind Power and has a Captive Power Plant.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 951.30,
-    "dma50" : 1064.19,
-    "dma100" : null,
-    "dma200" : 1076.25,
-    "volume" : 23981.00
-  }, {
     "date" : "2025-11-28",
     "price" : 958.90,
     "dma50" : 1060.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1000.50,
     "dma50" : 972.04,
-    "dma100" : 982.37,
+    "dma100" : null,
     "dma200" : 1015.12,
     "volume" : 37850.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 936.25,
     "dma200" : 952.53,
     "volume" : 33347.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 829.65,
+    "dma50" : 865.43,
+    "dma100" : 934.50,
+    "dma200" : 951.30,
+    "volume" : 12185.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 818.80,
-    "dma50" : 866.89,
-    "dma100" : 936.25,
-    "dma200" : 952.53,
-    "volume" : 33347.00
+    "date" : "2026-11-27",
+    "price" : 829.65,
+    "dma50" : 865.43,
+    "dma100" : 934.50,
+    "dma200" : 951.30,
+    "volume" : 12185.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.28,
-    "pricePercentageAboveDma100" : 5.63,
-    "pricePercentageAboveDma200" : 5.70,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.56,
+    "pricePercentageAboveDma200" : 5.64,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.01,
     "operatingProfitMarginPercentile" : 12.96,
     "netProfitMarginPercentile" : 4.94,
-    "totalTechnicalScore" : 16.61,
+    "totalTechnicalScore" : 16.41,
     "totalFundamentalScore" : 30.92,
-    "totalScore" : 47.52
+    "totalScore" : 47.32
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "ULTRAMAR",
       "companyName" : "Ultramarine Pig.",
-      "marketCap" : 1141.00,
+      "marketCap" : 1139.00,
       "peRatio" : 12.70,
       "description" : "Ultramarine & Pigments is engaged in manufacturing and selling of Pigments, Surfactants, IT-Enabled Services, and Business Process Outsourcing (BPO) activities. The Company caters to both domestic and international markets."
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.10,
-      "pricePercentageAboveDma200" : 5.20,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.11,
+      "pricePercentageAboveDma200" : 5.21,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.63,
       "operatingProfitMarginPercentile" : 5.52,
       "netProfitMarginPercentile" : 4.60,
-      "totalTechnicalScore" : 15.34,
+      "totalTechnicalScore" : 15.37,
       "totalFundamentalScore" : 26.74,
-      "totalScore" : 42.08
+      "totalScore" : 42.11
     }
   },
   "attributes" : {
     "companyCode" : "ULTRAMAR",
     "companyName" : "Ultramarine Pig.",
-    "marketCap" : 1141.00,
+    "marketCap" : 1139.00,
     "peRatio" : 12.70,
     "description" : "Ultramarine & Pigments is engaged in manufacturing and selling of Pigments, Surfactants, IT-Enabled Services, and Business Process Outsourcing (BPO) activities. The Company caters to both domestic and international markets."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 458.35,
-    "dma50" : 458.74,
-    "dma100" : null,
-    "dma200" : 480.50,
-    "volume" : 20122.00
-  }, {
     "date" : "2025-11-28",
     "price" : 453.10,
     "dma50" : 458.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 409.20,
     "dma50" : 412.81,
-    "dma100" : 417.95,
+    "dma100" : null,
     "dma200" : 439.92,
     "volume" : 8617.00
   }, {
@@ -1751,7 +1744,7 @@
     "date" : "2026-11-23",
     "price" : 391.85,
     "dma50" : 394.58,
-    "dma100" : 398.39,
+    "dma100" : 398.38,
     "dma200" : 407.55,
     "volume" : 39803.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 398.62,
     "dma200" : 407.22,
     "volume" : 9855.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 390.05,
+    "dma50" : 394.11,
+    "dma100" : 398.67,
+    "dma200" : 407.05,
+    "volume" : 16512.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 390.90,
-    "dma50" : 394.28,
-    "dma100" : 398.62,
-    "dma200" : 407.22,
-    "volume" : 9855.00
+    "date" : "2026-11-27",
+    "price" : 390.05,
+    "dma50" : 394.11,
+    "dma100" : 398.67,
+    "dma200" : 407.05,
+    "volume" : 16512.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.10,
-    "pricePercentageAboveDma200" : 5.20,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.11,
+    "pricePercentageAboveDma200" : 5.21,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.63,
     "operatingProfitMarginPercentile" : 5.52,
     "netProfitMarginPercentile" : 4.60,
-    "totalTechnicalScore" : 15.34,
+    "totalTechnicalScore" : 15.37,
     "totalFundamentalScore" : 26.74,
-    "totalScore" : 42.08
+    "totalScore" : 42.11
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RATNAVEER",
       "companyName" : "Ratnaveer Precis",
-      "marketCap" : 3399.00,
-      "peRatio" : 44.60,
+      "marketCap" : 3343.00,
+      "peRatio" : 43.80,
       "description" : "Incorporated in 2000, Ratnaveer Precision Engineering Ltd manufactures and sells a diverse range of SS products[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.12,
-      "pricePercentageAboveDma100" : 2.95,
-      "pricePercentageAboveDma200" : 1.97,
+      "pricePercentageAboveDma50" : 4.25,
+      "pricePercentageAboveDma100" : 3.12,
+      "pricePercentageAboveDma200" : 2.15,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.29,
       "operatingProfitMarginPercentile" : 13.54,
       "netProfitMarginPercentile" : 8.33,
-      "totalTechnicalScore" : 44.04,
+      "totalTechnicalScore" : 44.52,
       "totalFundamentalScore" : 36.16,
-      "totalScore" : 80.20
+      "totalScore" : 80.68
     }
   },
   "attributes" : {
     "companyCode" : "RATNAVEER",
     "companyName" : "Ratnaveer Precis",
-    "marketCap" : 3399.00,
-    "peRatio" : 44.60,
+    "marketCap" : 3343.00,
+    "peRatio" : 43.80,
     "description" : "Incorporated in 2000, Ratnaveer Precision Engineering Ltd manufactures and sells a diverse range of SS products[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 153.12,
-    "dma50" : 150.87,
-    "dma100" : null,
-    "dma200" : 152.60,
-    "volume" : 328432.00
-  }, {
     "date" : "2025-11-28",
     "price" : 152.67,
     "dma50" : 150.94,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 156.47,
     "dma50" : 146.29,
-    "dma100" : 149.22,
+    "dma100" : null,
     "dma200" : 149.74,
     "volume" : 9848985.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 287.31,
     "dma200" : 252.27,
     "volume" : 3924031.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 398.30,
+    "dma50" : 346.37,
+    "dma100" : 289.50,
+    "dma200" : 253.72,
+    "volume" : 10819326.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 405.00,
-    "dma50" : 344.26,
-    "dma100" : 287.31,
-    "dma200" : 252.27,
-    "volume" : 3924031.00
+    "date" : "2026-11-27",
+    "price" : 398.30,
+    "dma50" : 346.37,
+    "dma100" : 289.50,
+    "dma200" : 253.72,
+    "volume" : 10819326.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-06-30",
@@ -1976,15 +1976,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.12,
-    "pricePercentageAboveDma100" : 2.95,
-    "pricePercentageAboveDma200" : 1.97,
+    "pricePercentageAboveDma50" : 4.25,
+    "pricePercentageAboveDma100" : 3.12,
+    "pricePercentageAboveDma200" : 2.15,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.29,
     "operatingProfitMarginPercentile" : 13.54,
     "netProfitMarginPercentile" : 8.33,
-    "totalTechnicalScore" : 44.04,
+    "totalTechnicalScore" : 44.52,
     "totalFundamentalScore" : 36.16,
-    "totalScore" : 80.20
+    "totalScore" : 80.68
   }
 }

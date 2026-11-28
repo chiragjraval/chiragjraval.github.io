@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SRF",
       "companyName" : "SRF",
-      "marketCap" : 74592.00,
-      "peRatio" : 31.60,
+      "marketCap" : 75870.00,
+      "peRatio" : 32.10,
       "description" : "Incorporated in 1970, SRF Ltd manufactures and sells technical textiles, chemicals, packaging films, aluminum foils, and other polymers[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.93,
-      "pricePercentageAboveDma100" : 5.08,
-      "pricePercentageAboveDma200" : 5.17,
+      "pricePercentageAboveDma50" : 4.85,
+      "pricePercentageAboveDma100" : 4.99,
+      "pricePercentageAboveDma200" : 5.09,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 8.97,
       "netProfitMarginPercentile" : 5.40,
-      "totalTechnicalScore" : 20.19,
+      "totalTechnicalScore" : 24.93,
       "totalFundamentalScore" : 31.48,
-      "totalScore" : 51.66
+      "totalScore" : 56.41
     }
   },
   "attributes" : {
     "companyCode" : "SRF",
     "companyName" : "SRF",
-    "marketCap" : 74592.00,
-    "peRatio" : 31.60,
+    "marketCap" : 75870.00,
+    "peRatio" : 32.10,
     "description" : "Incorporated in 1970, SRF Ltd manufactures and sells technical textiles, chemicals, packaging films, aluminum foils, and other polymers[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 2840.00,
-    "dma50" : 2925.71,
-    "dma100" : null,
-    "dma200" : 2891.88,
-    "volume" : 565454.00
-  }, {
     "date" : "2025-11-28",
     "price" : 2927.30,
     "dma50" : 2925.78,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 2508.20,
     "dma50" : 2570.40,
-    "dma100" : 2756.63,
+    "dma100" : null,
     "dma200" : 2769.38,
     "volume" : 354821.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2556.74,
     "dma200" : 2607.53,
     "volume" : 118913.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 2559.50,
+    "dma50" : 2485.81,
+    "dma100" : 2554.02,
+    "dma200" : 2607.05,
+    "volume" : 403727.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 2516.40,
-    "dma50" : 2482.80,
-    "dma100" : 2556.74,
-    "dma200" : 2607.53,
-    "volume" : 118913.00
+    "date" : "2026-11-27",
+    "price" : 2559.50,
+    "dma50" : 2485.81,
+    "dma100" : 2554.02,
+    "dma200" : 2607.05,
+    "volume" : 403727.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.93,
-    "pricePercentageAboveDma100" : 5.08,
-    "pricePercentageAboveDma200" : 5.17,
+    "pricePercentageAboveDma50" : 4.85,
+    "pricePercentageAboveDma100" : 4.99,
+    "pricePercentageAboveDma200" : 5.09,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 8.97,
     "netProfitMarginPercentile" : 5.40,
-    "totalTechnicalScore" : 20.19,
+    "totalTechnicalScore" : 24.93,
     "totalFundamentalScore" : 31.48,
-    "totalScore" : 51.66
+    "totalScore" : 56.41
   }
 }

@@ -22,14 +22,14 @@
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.96,
       "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.79,
+      "pricePercentageAboveDma200" : 4.80,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.85,
       "operatingProfitMarginPercentile" : 10.59,
       "netProfitMarginPercentile" : 7.09,
-      "totalTechnicalScore" : 44.69,
+      "totalTechnicalScore" : 44.70,
       "totalFundamentalScore" : 31.52,
-      "totalScore" : 76.21
+      "totalScore" : 76.23
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "UDS offes integrated facilities management services and other services. Its service portfolio caters to the needs of diverse customer segments across a range of sectors including FMCG, manufacturing and engineering, banking, financial services, and insurance (BFSI), healthcare, information technology / information technology enabled services (IT / ITeS), automobiles, logistics and warehousing, airports, ports, infrastructure and retail, among others.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 186.03,
-    "dma50" : 221.98,
-    "dma100" : null,
-    "dma200" : 269.91,
-    "volume" : 122500.00
-  }, {
     "date" : "2025-11-28",
     "price" : 186.80,
     "dma50" : 220.60,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 161.99,
     "dma50" : 154.62,
-    "dma100" : 161.94,
+    "dma100" : null,
     "dma200" : 199.66,
     "volume" : 137348.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 207.95,
     "dma200" : 202.34,
     "volume" : 162624.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 210.57,
+    "dma50" : 208.99,
+    "dma100" : 208.16,
+    "dma200" : 202.42,
+    "volume" : 85449.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 210.64,
-    "dma50" : 208.92,
-    "dma100" : 207.95,
-    "dma200" : 202.34,
-    "volume" : 162624.00
+    "date" : "2026-11-27",
+    "price" : 210.57,
+    "dma50" : 208.99,
+    "dma100" : 208.16,
+    "dma200" : 202.42,
+    "volume" : 85449.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-09-30",
@@ -1968,13 +1968,13 @@
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.96,
     "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.79,
+    "pricePercentageAboveDma200" : 4.80,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.85,
     "operatingProfitMarginPercentile" : 10.59,
     "netProfitMarginPercentile" : 7.09,
-    "totalTechnicalScore" : 44.69,
+    "totalTechnicalScore" : 44.70,
     "totalFundamentalScore" : 31.52,
-    "totalScore" : 76.21
+    "totalScore" : 76.23
   }
 }

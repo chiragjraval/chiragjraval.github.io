@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LT",
       "companyName" : "Larsen & Toubro",
-      "marketCap" : 568542.00,
-      "peRatio" : 30.10,
+      "marketCap" : 565295.00,
+      "peRatio" : 29.90,
       "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
     },
     "companyScore" : {
@@ -19,34 +19,27 @@
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
-      "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.80,
-      "pricePercentageAboveDma100" : 4.73,
-      "pricePercentageAboveDma200" : 4.73,
+      "dma100HigherThanDma200" : 0.00,
+      "pricePercentageAboveDma50" : 4.83,
+      "pricePercentageAboveDma100" : 4.76,
+      "pricePercentageAboveDma200" : 4.77,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.90,
       "operatingProfitMarginPercentile" : 4.46,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 44.26,
+      "totalTechnicalScore" : 39.36,
       "totalFundamentalScore" : 25.88,
-      "totalScore" : 70.14
+      "totalScore" : 65.24
     }
   },
   "attributes" : {
     "companyCode" : "LT",
     "companyName" : "Larsen & Toubro",
-    "marketCap" : 568542.00,
-    "peRatio" : 30.10,
+    "marketCap" : 565295.00,
+    "peRatio" : 29.90,
     "description" : "Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 4081.30,
-    "dma50" : 3878.92,
-    "dma100" : null,
-    "dma200" : 3662.65,
-    "volume" : 2705478.00
-  }, {
     "date" : "2025-11-28",
     "price" : 4069.60,
     "dma50" : 3886.40,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 4053.60,
     "dma50" : 3908.14,
-    "dma100" : 3964.25,
+    "dma100" : null,
     "dma200" : 3841.12,
     "volume" : 2079127.00
   }, {
@@ -1464,7 +1457,7 @@
     "date" : "2026-09-23",
     "price" : 3929.90,
     "dma50" : 3963.83,
-    "dma100" : 3985.73,
+    "dma100" : 3985.72,
     "dma200" : 3932.00,
     "volume" : 1033189.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3923.23,
     "dma200" : 3922.51,
     "volume" : 1378392.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 4108.50,
+    "dma50" : 3975.54,
+    "dma100" : 3923.91,
+    "dma200" : 3924.36,
+    "volume" : 1156637.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 4132.10,
-    "dma50" : 3970.11,
-    "dma100" : 3923.23,
-    "dma200" : 3922.51,
-    "volume" : 1378392.00
+    "date" : "2026-11-27",
+    "price" : 4108.50,
+    "dma50" : 3975.54,
+    "dma100" : 3923.91,
+    "dma200" : 3924.36,
+    "volume" : 1156637.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2665,16 +2665,16 @@
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
-    "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.80,
-    "pricePercentageAboveDma100" : 4.73,
-    "pricePercentageAboveDma200" : 4.73,
+    "dma100HigherThanDma200" : 0.00,
+    "pricePercentageAboveDma50" : 4.83,
+    "pricePercentageAboveDma100" : 4.76,
+    "pricePercentageAboveDma200" : 4.77,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.90,
     "operatingProfitMarginPercentile" : 4.46,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 44.26,
+    "totalTechnicalScore" : 39.36,
     "totalFundamentalScore" : 25.88,
-    "totalScore" : 70.14
+    "totalScore" : 65.24
   }
 }

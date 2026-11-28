@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "TIIL",
       "companyName" : "Technocraf.Inds.",
-      "marketCap" : 6244.00,
-      "peRatio" : 16.50,
+      "marketCap" : 6327.00,
+      "peRatio" : 16.70,
       "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.06,
-      "pricePercentageAboveDma100" : 5.12,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 4.80,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.95,
       "operatingProfitMarginPercentile" : 13.94,
       "netProfitMarginPercentile" : 7.62,
-      "totalTechnicalScore" : 30.05,
+      "totalTechnicalScore" : 34.86,
       "totalFundamentalScore" : 35.51,
-      "totalScore" : 65.56
+      "totalScore" : 70.37
     }
   },
   "attributes" : {
     "companyCode" : "TIIL",
     "companyName" : "Technocraf.Inds.",
-    "marketCap" : 6244.00,
-    "peRatio" : 16.50,
+    "marketCap" : 6327.00,
+    "peRatio" : 16.70,
     "description" : "Technocraft Industries was incorporated in 1992. It has presence in five main business industries viz., Drum Closures, Scaffolding systems, Cotton Yarn, Fabric, Garments and Engineering Services. Company has manufacturing facilities in India and China.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 2398.30,
-    "dma50" : 2456.17,
-    "dma100" : null,
-    "dma200" : 2641.97,
-    "volume" : 5496.00
-  }, {
     "date" : "2025-11-28",
     "price" : 2372.50,
     "dma50" : 2452.89,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 2513.00,
     "dma50" : 2311.01,
-    "dma100" : 2236.15,
+    "dma100" : null,
     "dma200" : 2394.83,
     "volume" : 8683.00
   }, {
@@ -1170,7 +1163,7 @@
     "date" : "2026-07-24",
     "price" : 2566.50,
     "dma50" : 2513.68,
-    "dma100" : 2427.16,
+    "dma100" : 2427.15,
     "dma200" : 2457.21,
     "volume" : 5572.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2821.21,
     "dma200" : 2684.49,
     "volume" : 17283.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 2790.60,
+    "dma50" : 2788.77,
+    "dma100" : 2824.17,
+    "dma200" : 2685.54,
+    "volume" : 32247.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 2753.90,
-    "dma50" : 2788.70,
-    "dma100" : 2821.21,
-    "dma200" : 2684.49,
-    "volume" : 17283.00
+    "date" : "2026-11-27",
+    "price" : 2790.60,
+    "dma50" : 2788.77,
+    "dma100" : 2824.17,
+    "dma200" : 2685.54,
+    "volume" : 32247.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2590,21 +2590,21 @@
     "netProfit" : 72.00
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.06,
-    "pricePercentageAboveDma100" : 5.12,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 4.80,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.95,
     "operatingProfitMarginPercentile" : 13.94,
     "netProfitMarginPercentile" : 7.62,
-    "totalTechnicalScore" : 30.05,
+    "totalTechnicalScore" : 34.86,
     "totalFundamentalScore" : 35.51,
-    "totalScore" : 65.56
+    "totalScore" : 70.37
   }
 }

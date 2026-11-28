@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ALEMBICLTD",
       "companyName" : "Alembic",
-      "marketCap" : 2711.00,
-      "peRatio" : 7.64,
+      "marketCap" : 2651.00,
+      "peRatio" : 7.47,
       "description" : "Alembic Limited is engaged in the businesses of Pharmaceuticals, Real Estate, and Power Assets. The company was started in 1907 as the flagship company of the Alembic Group. In 2010, the company demerged its core pharmaceutical business (formulations) into a wholly-owned subsidiary, Alembic Pharma Ltd and after the demerger, APL became the flagship company of the Alembic Group. With its registered office in Vadodra, Alembic Ltd currently holds a 28.41% stake in Alembic Pharma Ltd and a 19.01% stake in another group entity Paushak Limited.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.56,
-      "pricePercentageAboveDma200" : 4.56,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 4.69,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 3.51,
       "operatingProfitMarginPercentile" : 11.03,
       "netProfitMarginPercentile" : 9.77,
-      "totalTechnicalScore" : 43.91,
+      "totalTechnicalScore" : 44.29,
       "totalFundamentalScore" : 24.31,
-      "totalScore" : 68.23
+      "totalScore" : 68.60
     }
   },
   "attributes" : {
     "companyCode" : "ALEMBICLTD",
     "companyName" : "Alembic",
-    "marketCap" : 2711.00,
-    "peRatio" : 7.64,
+    "marketCap" : 2651.00,
+    "peRatio" : 7.47,
     "description" : "Alembic Limited is engaged in the businesses of Pharmaceuticals, Real Estate, and Power Assets. The company was started in 1907 as the flagship company of the Alembic Group. In 2010, the company demerged its core pharmaceutical business (formulations) into a wholly-owned subsidiary, Alembic Pharma Ltd and after the demerger, APL became the flagship company of the Alembic Group. With its registered office in Vadodra, Alembic Ltd currently holds a 28.41% stake in Alembic Pharma Ltd and a 19.01% stake in another group entity Paushak Limited.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 99.99,
-    "dma50" : 101.35,
-    "dma100" : null,
-    "dma200" : 107.53,
-    "volume" : 302320.00
-  }, {
     "date" : "2025-11-28",
     "price" : 100.04,
     "dma50" : 101.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 92.39,
     "dma50" : 87.91,
-    "dma100" : 92.69,
+    "dma100" : null,
     "dma200" : 97.06,
     "volume" : 182159.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 97.10,
     "dma200" : 96.99,
     "volume" : 561087.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 103.23,
+    "dma50" : 101.48,
+    "dma100" : 97.21,
+    "dma200" : 97.05,
+    "volume" : 325795.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 105.58,
-    "dma50" : 101.41,
-    "dma100" : 97.10,
-    "dma200" : 96.99,
-    "volume" : 561087.00
+    "date" : "2026-11-27",
+    "price" : 103.23,
+    "dma50" : 101.48,
+    "dma100" : 97.21,
+    "dma200" : 97.05,
+    "volume" : 325795.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.56,
-    "pricePercentageAboveDma200" : 4.56,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 4.69,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 3.51,
     "operatingProfitMarginPercentile" : 11.03,
     "netProfitMarginPercentile" : 9.77,
-    "totalTechnicalScore" : 43.91,
+    "totalTechnicalScore" : 44.29,
     "totalFundamentalScore" : 24.31,
-    "totalScore" : 68.23
+    "totalScore" : 68.60
   }
 }

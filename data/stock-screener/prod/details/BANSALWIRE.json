@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "BANSALWIRE",
       "companyName" : "Bansal Wire Inds",
-      "marketCap" : 4239.00,
-      "peRatio" : 26.60,
+      "marketCap" : 4286.00,
+      "peRatio" : 27.00,
       "description" : "Incorporated in 1985, Bansal Wire Industries Ltd manufactures and sells wires of multiple varieties[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.50,
-      "pricePercentageAboveDma100" : 5.67,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma50" : 5.43,
+      "pricePercentageAboveDma100" : 5.61,
+      "pricePercentageAboveDma200" : 5.58,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 17.12,
       "netProfitMarginPercentile" : 5.27,
-      "totalTechnicalScore" : 26.81,
+      "totalTechnicalScore" : 26.63,
       "totalFundamentalScore" : 34.39,
-      "totalScore" : 61.20
+      "totalScore" : 61.02
     }
   },
   "attributes" : {
     "companyCode" : "BANSALWIRE",
     "companyName" : "Bansal Wire Inds",
-    "marketCap" : 4239.00,
-    "peRatio" : 26.60,
+    "marketCap" : 4286.00,
+    "peRatio" : 27.00,
     "description" : "Incorporated in 1985, Bansal Wire Industries Ltd manufactures and sells wires of multiple varieties[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 62.60,
-    "dma50" : 65.58,
-    "dma100" : null,
-    "dma200" : 71.77,
-    "volume" : 178580.00
-  }, {
     "date" : "2025-11-28",
     "price" : 64.81,
     "dma50" : 65.55,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 61.41,
     "dma50" : 55.29,
-    "dma100" : 56.61,
+    "dma100" : null,
     "dma200" : 61.66,
     "volume" : 202598.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 62.60,
     "dma200" : 61.99,
     "volume" : 4275094.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 54.76,
+    "dma50" : 59.97,
+    "dma100" : 62.42,
+    "dma200" : 61.92,
+    "volume" : 523914.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 54.15,
-    "dma50" : 60.18,
-    "dma100" : 62.60,
-    "dma200" : 61.99,
-    "volume" : 4275094.00
+    "date" : "2026-11-27",
+    "price" : 54.76,
+    "dma50" : 59.97,
+    "dma100" : 62.42,
+    "dma200" : 61.92,
+    "volume" : 523914.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-06-30",
@@ -1936,15 +1936,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.50,
-    "pricePercentageAboveDma100" : 5.67,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma50" : 5.43,
+    "pricePercentageAboveDma100" : 5.61,
+    "pricePercentageAboveDma200" : 5.58,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 17.12,
     "netProfitMarginPercentile" : 5.27,
-    "totalTechnicalScore" : 26.81,
+    "totalTechnicalScore" : 26.63,
     "totalFundamentalScore" : 34.39,
-    "totalScore" : 61.20
+    "totalScore" : 61.02
   }
 }

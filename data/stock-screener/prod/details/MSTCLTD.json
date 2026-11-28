@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "MSTCLTD",
       "companyName" : "MSTC",
-      "marketCap" : 4421.00,
-      "peRatio" : 16.90,
+      "marketCap" : 4634.00,
+      "peRatio" : 17.70,
       "description" : "MSTC (Metal Scrap Trade Corporation) Ltd is a Mini-Ratna Category-I PSU of GoI and was set up in September 1964 for regulating export of ferrous scrap from India. Currently, the company is under the Ministry of Steel, GoI and is engaged in trading items and e-commerce services, e-auctions and e-procurement services.[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.18,
-      "pricePercentageAboveDma100" : 5.25,
-      "pricePercentageAboveDma200" : 4.80,
+      "pricePercentageAboveDma50" : 4.95,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 4.55,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.42,
       "operatingProfitMarginPercentile" : 19.34,
       "netProfitMarginPercentile" : 8.29,
-      "totalTechnicalScore" : 30.23,
+      "totalTechnicalScore" : 34.52,
       "totalFundamentalScore" : 45.05,
-      "totalScore" : 75.28
+      "totalScore" : 79.57
     }
   },
   "attributes" : {
     "companyCode" : "MSTCLTD",
     "companyName" : "MSTC",
-    "marketCap" : 4421.00,
-    "peRatio" : 16.90,
+    "marketCap" : 4634.00,
+    "peRatio" : 17.70,
     "description" : "MSTC (Metal Scrap Trade Corporation) Ltd is a Mini-Ratna Category-I PSU of GoI and was set up in September 1964 for regulating export of ferrous scrap from India. Currently, the company is under the Ministry of Steel, GoI and is engaged in trading items and e-commerce services, e-auctions and e-procurement services.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 497.25,
-    "dma50" : 516.76,
-    "dma100" : null,
-    "dma200" : 541.20,
-    "volume" : 80410.00
-  }, {
     "date" : "2025-11-28",
     "price" : 492.50,
     "dma50" : 515.81,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 447.15,
     "dma50" : 438.79,
-    "dma100" : 458.40,
+    "dma100" : null,
     "dma200" : 484.55,
     "volume" : 167853.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 661.28,
     "dma200" : 603.46,
     "volume" : 236006.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 658.25,
+    "dma50" : 651.56,
+    "dma100" : 660.60,
+    "dma200" : 604.00,
+    "volume" : 653802.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 628.00,
-    "dma50" : 651.29,
-    "dma100" : 661.28,
-    "dma200" : 603.46,
-    "volume" : 236006.00
+    "date" : "2026-11-27",
+    "price" : 658.25,
+    "dma50" : 651.56,
+    "dma100" : 660.60,
+    "dma200" : 604.00,
+    "volume" : 653802.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-03-31",
@@ -2140,21 +2140,21 @@
     "netProfit" : 74.60
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.18,
-    "pricePercentageAboveDma100" : 5.25,
-    "pricePercentageAboveDma200" : 4.80,
+    "pricePercentageAboveDma50" : 4.95,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 4.55,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.42,
     "operatingProfitMarginPercentile" : 19.34,
     "netProfitMarginPercentile" : 8.29,
-    "totalTechnicalScore" : 30.23,
+    "totalTechnicalScore" : 34.52,
     "totalFundamentalScore" : 45.05,
-    "totalScore" : 75.28
+    "totalScore" : 79.57
   }
 }

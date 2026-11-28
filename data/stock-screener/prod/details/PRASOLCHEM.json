@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PRASOLCHEM",
       "companyName" : "Prasol Chemicals",
-      "marketCap" : 4428.00,
-      "peRatio" : 42.30,
+      "marketCap" : 4438.00,
+      "peRatio" : 42.40,
       "description" : "Incorporated in 1992, Prasol Chemicals operates in the specialty chemicals industry.[1]"
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma50" : 5.06,
       "pricePercentageAboveDma100" : 0.00,
-      "pricePercentageAboveDma200" : 4.73,
+      "pricePercentageAboveDma200" : 4.72,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 16.00,
       "netProfitMarginPercentile" : 8.00,
-      "totalTechnicalScore" : 19.80,
+      "totalTechnicalScore" : 19.78,
       "totalFundamentalScore" : 44.00,
-      "totalScore" : 63.80
+      "totalScore" : 63.78
     }
   },
   "attributes" : {
     "companyCode" : "PRASOLCHEM",
     "companyName" : "Prasol Chemicals",
-    "marketCap" : 4428.00,
-    "peRatio" : 42.30,
+    "marketCap" : 4438.00,
+    "peRatio" : 42.40,
     "description" : "Incorporated in 1992, Prasol Chemicals operates in the specialty chemicals industry.[1]"
   },
   "technicalHistory" : [ {
@@ -382,14 +382,21 @@
     "dma100" : null,
     "dma200" : 710.10,
     "volume" : 31409.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 749.85,
+    "dma50" : 758.76,
+    "dma100" : null,
+    "dma200" : 710.49,
+    "volume" : 27674.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 748.25,
-    "dma50" : 759.13,
+    "date" : "2026-11-27",
+    "price" : 749.85,
+    "dma50" : 758.76,
     "dma100" : null,
-    "dma200" : 710.10,
-    "volume" : 31409.00
+    "dma200" : 710.49,
+    "volume" : 27674.00
   },
   "quarterlyResults" : [ {
     "date" : "2025-06-30",
@@ -460,15 +467,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma50" : 5.06,
     "pricePercentageAboveDma100" : 0.00,
-    "pricePercentageAboveDma200" : 4.73,
+    "pricePercentageAboveDma200" : 4.72,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 16.00,
     "netProfitMarginPercentile" : 8.00,
-    "totalTechnicalScore" : 19.80,
+    "totalTechnicalScore" : 19.78,
     "totalFundamentalScore" : 44.00,
-    "totalScore" : 63.80
+    "totalScore" : 63.78
   }
 }

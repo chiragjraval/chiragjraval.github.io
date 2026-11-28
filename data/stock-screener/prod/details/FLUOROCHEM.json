@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FLUOROCHEM",
       "companyName" : "Gujarat Fluoroch",
-      "marketCap" : 52521.00,
-      "peRatio" : 77.00,
+      "marketCap" : 52997.00,
+      "peRatio" : 77.70,
       "description" : "Incorporated in 2018, Gujarat Fluorochemicals Limited, earlier known as Inox Fluorochemicals Limited, is a part of the INOX Group of Companies and has been demerged from GFL Ltd, into a separate legal entity. It is one of the leading producers of Fluoro-polymers, Fluoro-specialities, Chemicals and Refrigerants in India. It is one of the top five global players in the fluoropolymers market with exports to Europe, Americas, Japan and Asia."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.79,
-      "pricePercentageAboveDma100" : 4.70,
-      "pricePercentageAboveDma200" : 4.28,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.75,
+      "pricePercentageAboveDma100" : 4.66,
+      "pricePercentageAboveDma200" : 4.24,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.15,
       "operatingProfitMarginPercentile" : 15.54,
       "netProfitMarginPercentile" : 7.10,
-      "totalTechnicalScore" : 48.77,
+      "totalTechnicalScore" : 43.65,
       "totalFundamentalScore" : 40.79,
-      "totalScore" : 89.56
+      "totalScore" : 84.44
     }
   },
   "attributes" : {
     "companyCode" : "FLUOROCHEM",
     "companyName" : "Gujarat Fluoroch",
-    "marketCap" : 52521.00,
-    "peRatio" : 77.00,
+    "marketCap" : 52997.00,
+    "peRatio" : 77.70,
     "description" : "Incorporated in 2018, Gujarat Fluorochemicals Limited, earlier known as Inox Fluorochemicals Limited, is a part of the INOX Group of Companies and has been demerged from GFL Ltd, into a separate legal entity. It is one of the leading producers of Fluoro-polymers, Fluoro-specialities, Chemicals and Refrigerants in India. It is one of the top five global players in the fluoropolymers market with exports to Europe, Americas, Japan and Asia."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 3477.40,
-    "dma50" : 3592.70,
-    "dma100" : null,
-    "dma200" : 3652.70,
-    "volume" : 53044.00
-  }, {
     "date" : "2025-11-28",
     "price" : 3423.50,
     "dma50" : 3586.07,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 3406.40,
     "dma50" : 3300.07,
-    "dma100" : 3356.30,
+    "dma100" : null,
     "dma200" : 3450.91,
     "volume" : 97065.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 4511.25,
     "dma200" : 4178.26,
     "volume" : 56270.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 4824.50,
+    "dma50" : 4599.04,
+    "dma100" : 4520.13,
+    "dma200" : 4184.69,
+    "volume" : 43455.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 4781.20,
-    "dma50" : 4589.84,
-    "dma100" : 4511.25,
-    "dma200" : 4178.26,
-    "volume" : 56270.00
+    "date" : "2026-11-27",
+    "price" : 4824.50,
+    "dma50" : 4599.04,
+    "dma100" : 4520.13,
+    "dma200" : 4184.69,
+    "volume" : 43455.00
   },
   "quarterlyResults" : [ {
     "date" : "2018-09-30",
@@ -2106,15 +2106,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.79,
-    "pricePercentageAboveDma100" : 4.70,
-    "pricePercentageAboveDma200" : 4.28,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.75,
+    "pricePercentageAboveDma100" : 4.66,
+    "pricePercentageAboveDma200" : 4.24,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.15,
     "operatingProfitMarginPercentile" : 15.54,
     "netProfitMarginPercentile" : 7.10,
-    "totalTechnicalScore" : 48.77,
+    "totalTechnicalScore" : 43.65,
     "totalFundamentalScore" : 40.79,
-    "totalScore" : 89.56
+    "totalScore" : 84.44
   }
 }

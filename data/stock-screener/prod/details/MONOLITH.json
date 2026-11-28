@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MONOLITH",
       "companyName" : "Monolithisch Ind",
-      "marketCap" : 3367.00,
-      "peRatio" : 95.00,
+      "marketCap" : 3337.00,
+      "peRatio" : 94.20,
       "description" : "Incorporated in 2018, MonolithischIndia Ltd is a manufacturer of pre mixed high-quality ramming mass[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.10,
-      "pricePercentageAboveDma100" : 3.20,
-      "pricePercentageAboveDma200" : 1.80,
-      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+      "pricePercentageAboveDma50" : 4.19,
+      "pricePercentageAboveDma100" : 3.31,
+      "pricePercentageAboveDma200" : 1.92,
+      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 44.10,
+      "totalTechnicalScore" : 39.42,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 94.10
+      "totalScore" : 89.42
     }
   },
   "attributes" : {
     "companyCode" : "MONOLITH",
     "companyName" : "Monolithisch Ind",
-    "marketCap" : 3367.00,
-    "peRatio" : 95.00,
+    "marketCap" : 3337.00,
+    "peRatio" : 94.20,
     "description" : "Incorporated in 2018, MonolithischIndia Ltd is a manufacturer of pre mixed high-quality ramming mass[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 545.80,
-    "dma50" : 499.55,
-    "dma100" : null,
-    "dma200" : 388.48,
-    "volume" : 57250.00
-  }, {
     "date" : "2025-11-28",
     "price" : 548.20,
     "dma50" : 501.46,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 504.55,
     "dma50" : 448.42,
-    "dma100" : 465.69,
+    "dma100" : null,
     "dma200" : 432.43,
     "volume" : 42750.00
   }, {
@@ -1604,7 +1597,7 @@
     "date" : "2026-10-23",
     "price" : 1176.70,
     "dma50" : 1164.98,
-    "dma100" : 981.71,
+    "dma100" : 981.70,
     "dma200" : 828.47,
     "volume" : 43750.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1138.82,
     "dma200" : 944.42,
     "volume" : 34250.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1535.40,
+    "dma50" : 1322.26,
+    "dma100" : 1146.74,
+    "dma200" : 950.30,
+    "volume" : 35500.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1549.10,
-    "dma50" : 1313.56,
-    "dma100" : 1138.82,
-    "dma200" : 944.42,
-    "volume" : 34250.00
+    "date" : "2026-11-27",
+    "price" : 1535.40,
+    "dma50" : 1322.26,
+    "dma100" : 1146.74,
+    "dma200" : 950.30,
+    "volume" : 35500.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1886,15 +1886,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.10,
-    "pricePercentageAboveDma100" : 3.20,
-    "pricePercentageAboveDma200" : 1.80,
-    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
+    "pricePercentageAboveDma50" : 4.19,
+    "pricePercentageAboveDma100" : 3.31,
+    "pricePercentageAboveDma200" : 1.92,
+    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 44.10,
+    "totalTechnicalScore" : 39.42,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 94.10
+    "totalScore" : 89.42
   }
 }

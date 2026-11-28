@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "FDC",
       "companyName" : "FDC",
-      "marketCap" : 5999.00,
-      "peRatio" : 18.20,
+      "marketCap" : 6001.00,
+      "peRatio" : 18.30,
       "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.99,
-      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma100" : 5.01,
       "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 6.59,
       "netProfitMarginPercentile" : 2.69,
-      "totalTechnicalScore" : 20.14,
+      "totalTechnicalScore" : 20.12,
       "totalFundamentalScore" : 26.88,
-      "totalScore" : 47.01
+      "totalScore" : 47.00
     }
   },
   "attributes" : {
     "companyCode" : "FDC",
     "companyName" : "FDC",
-    "marketCap" : 5999.00,
-    "peRatio" : 18.20,
+    "marketCap" : 6001.00,
+    "peRatio" : 18.30,
     "description" : "FDC (Fairdeal Corporation) Ltd Limited (found in 1936) is among India’s leading fully integrated pharmaceutical companies. The Company is a pioneer in the manufacture of specialized formulations, and among the world’s foremost manufacturers and marketers of Oral Rehydration Salts (ORS). .[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 415.20,
-    "dma50" : 435.33,
-    "dma100" : null,
-    "dma200" : 454.36,
-    "volume" : 74148.00
-  }, {
     "date" : "2025-11-28",
     "price" : 414.40,
     "dma50" : 434.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 367.05,
     "dma50" : 359.82,
-    "dma100" : 379.11,
+    "dma100" : null,
     "dma200" : 402.39,
     "volume" : 94664.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 369.79,
     "dma200" : 378.28,
     "volume" : 103971.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 368.60,
+    "dma50" : 367.71,
+    "dma100" : 369.17,
+    "dma200" : 378.18,
+    "volume" : 63262.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 368.45,
-    "dma50" : 367.68,
-    "dma100" : 369.79,
-    "dma200" : 378.28,
-    "volume" : 103971.00
+    "date" : "2026-11-27",
+    "price" : 368.60,
+    "dma50" : 367.71,
+    "dma100" : 369.17,
+    "dma200" : 378.18,
+    "volume" : 63262.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.99,
-    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma100" : 5.01,
     "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 6.59,
     "netProfitMarginPercentile" : 2.69,
-    "totalTechnicalScore" : 20.14,
+    "totalTechnicalScore" : 20.12,
     "totalFundamentalScore" : 26.88,
-    "totalScore" : 47.01
+    "totalScore" : 47.00
   }
 }

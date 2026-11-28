@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NTPCGREEN",
       "companyName" : "NTPC Green Ene.",
-      "marketCap" : 69433.00,
-      "peRatio" : 106.00,
+      "marketCap" : 69290.00,
+      "peRatio" : 105.00,
       "description" : "Incorporated in April 2022, NTPC Green Energy is a renewable energy company that focuses on undertaking projects through organic and inorganic routes.[1]"
     },
     "companyScore" : {
@@ -27,26 +27,19 @@
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 13.33,
       "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 16.13,
+      "totalTechnicalScore" : 16.14,
       "totalFundamentalScore" : 40.83,
-      "totalScore" : 56.96
+      "totalScore" : 56.97
     }
   },
   "attributes" : {
     "companyCode" : "NTPCGREEN",
     "companyName" : "NTPC Green Ene.",
-    "marketCap" : 69433.00,
-    "peRatio" : 106.00,
+    "marketCap" : 69290.00,
+    "peRatio" : 105.00,
     "description" : "Incorporated in April 2022, NTPC Green Energy is a renewable energy company that focuses on undertaking projects through organic and inorganic routes.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 95.00,
-    "dma50" : 99.70,
-    "dma100" : null,
-    "dma200" : 105.16,
-    "volume" : 2094276.00
-  }, {
     "date" : "2025-11-28",
     "price" : 94.95,
     "dma50" : 99.52,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 118.86,
     "dma50" : 99.64,
-    "dma100" : 93.86,
+    "dma100" : null,
     "dma200" : 98.81,
     "volume" : 32866425.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 89.18,
     "dma200" : 92.50,
     "volume" : 2558204.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 82.23,
+    "dma50" : 85.72,
+    "dma100" : 89.05,
+    "dma200" : 92.39,
+    "volume" : 1399322.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 82.40,
-    "dma50" : 85.86,
-    "dma100" : 89.18,
-    "dma200" : 92.50,
-    "volume" : 2558204.00
+    "date" : "2026-11-27",
+    "price" : 82.23,
+    "dma50" : 85.72,
+    "dma100" : 89.05,
+    "dma200" : 92.39,
+    "volume" : 1399322.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-12-31",
@@ -1923,8 +1923,8 @@
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 13.33,
     "netProfitMarginPercentile" : 7.50,
-    "totalTechnicalScore" : 16.13,
+    "totalTechnicalScore" : 16.14,
     "totalFundamentalScore" : 40.83,
-    "totalScore" : 56.96
+    "totalScore" : 56.97
   }
 }

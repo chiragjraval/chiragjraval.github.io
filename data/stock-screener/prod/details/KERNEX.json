@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KERNEX",
       "companyName" : "Kernex Microsys.",
-      "marketCap" : 2685.00,
-      "peRatio" : 8.57,
+      "marketCap" : 2687.00,
+      "peRatio" : 8.58,
       "description" : "Incorporated in 1991, Kernex Microsystems Ltd manufactures and sells Safety Systems and Software services for Railways[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.34,
-      "pricePercentageAboveDma100" : 5.74,
+      "pricePercentageAboveDma50" : 5.33,
+      "pricePercentageAboveDma100" : 5.72,
       "pricePercentageAboveDma200" : 5.15,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.00,
       "operatingProfitMarginPercentile" : 19.52,
       "netProfitMarginPercentile" : 9.05,
-      "totalTechnicalScore" : 26.24,
+      "totalTechnicalScore" : 26.19,
       "totalFundamentalScore" : 46.57,
-      "totalScore" : 72.80
+      "totalScore" : 72.76
     }
   },
   "attributes" : {
     "companyCode" : "KERNEX",
     "companyName" : "Kernex Microsys.",
-    "marketCap" : 2685.00,
-    "peRatio" : 8.57,
+    "marketCap" : 2687.00,
+    "peRatio" : 8.58,
     "description" : "Incorporated in 1991, Kernex Microsystems Ltd manufactures and sells Safety Systems and Software services for Railways[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1158.20,
-    "dma50" : 1225.23,
-    "dma100" : null,
-    "dma200" : 1094.70,
-    "volume" : 128170.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1132.30,
     "dma50" : 1221.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1339.00,
     "dma50" : 1110.56,
-    "dma100" : 1123.51,
+    "dma100" : null,
     "dma200" : 1108.39,
     "volume" : 172451.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1876.21,
     "dma200" : 1647.93,
     "volume" : 43238.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1599.00,
+    "dma50" : 1711.09,
+    "dma100" : 1868.17,
+    "dma200" : 1647.44,
+    "volume" : 47296.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1597.70,
-    "dma50" : 1715.66,
-    "dma100" : 1876.21,
-    "dma200" : 1647.93,
-    "volume" : 43238.00
+    "date" : "2026-11-27",
+    "price" : 1599.00,
+    "dma50" : 1711.09,
+    "dma100" : 1868.17,
+    "dma200" : 1647.44,
+    "volume" : 47296.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-12-31",
@@ -2636,15 +2636,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.34,
-    "pricePercentageAboveDma100" : 5.74,
+    "pricePercentageAboveDma50" : 5.33,
+    "pricePercentageAboveDma100" : 5.72,
     "pricePercentageAboveDma200" : 5.15,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.00,
     "operatingProfitMarginPercentile" : 19.52,
     "netProfitMarginPercentile" : 9.05,
-    "totalTechnicalScore" : 26.24,
+    "totalTechnicalScore" : 26.19,
     "totalFundamentalScore" : 46.57,
-    "totalScore" : 72.80
+    "totalScore" : 72.76
   }
 }

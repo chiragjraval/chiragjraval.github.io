@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "XPROINDIA",
       "companyName" : "XPRO India",
-      "marketCap" : 2781.00,
-      "peRatio" : 78.90,
+      "marketCap" : 2909.00,
+      "peRatio" : 82.50,
       "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.81,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 4.83,
+      "pricePercentageAboveDma50" : 4.59,
+      "pricePercentageAboveDma100" : 4.81,
+      "pricePercentageAboveDma200" : 4.60,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.31,
       "operatingProfitMarginPercentile" : 14.02,
       "netProfitMarginPercentile" : 7.47,
-      "totalTechnicalScore" : 29.68,
+      "totalTechnicalScore" : 33.99,
       "totalFundamentalScore" : 39.81,
-      "totalScore" : 69.49
+      "totalScore" : 73.80
     }
   },
   "attributes" : {
     "companyCode" : "XPROINDIA",
     "companyName" : "XPRO India",
-    "marketCap" : 2781.00,
-    "peRatio" : 78.90,
+    "marketCap" : 2909.00,
+    "peRatio" : 82.50,
     "description" : "XPRO India Ltd incorporated in 1997, is a diversified multi-divisional company in the polymer processing industry.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1028.70,
-    "dma50" : 1083.12,
-    "dma100" : null,
-    "dma200" : 1143.06,
-    "volume" : 21774.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1029.40,
     "dma50" : 1081.01,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1025.70,
     "dma50" : 995.44,
-    "dma100" : 968.76,
+    "dma100" : null,
     "dma200" : 1035.18,
     "volume" : 30091.00
   }, {
@@ -1457,7 +1450,7 @@
     "date" : "2026-09-22",
     "price" : 1201.00,
     "dma50" : 1236.84,
-    "dma100" : 1238.52,
+    "dma100" : 1238.53,
     "dma200" : 1167.27,
     "volume" : 54168.00
   }, {
@@ -1639,7 +1632,7 @@
     "date" : "2026-10-30",
     "price" : 1009.80,
     "dma50" : 1115.61,
-    "dma100" : 1226.78,
+    "dma100" : 1226.79,
     "dma200" : 1143.79,
     "volume" : 31488.00
   }, {
@@ -1660,7 +1653,7 @@
     "date" : "2026-11-04",
     "price" : 1103.30,
     "dma50" : 1105.14,
-    "dma100" : 1222.13,
+    "dma100" : 1222.14,
     "dma200" : 1140.18,
     "volume" : 287599.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1195.11,
     "dma200" : 1145.78,
     "volume" : 51715.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1239.30,
+    "dma50" : 1144.95,
+    "dma100" : 1193.03,
+    "dma200" : 1146.71,
+    "volume" : 27199.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1184.80,
-    "dma50" : 1141.10,
-    "dma100" : 1195.11,
-    "dma200" : 1145.78,
-    "volume" : 51715.00
+    "date" : "2026-11-27",
+    "price" : 1239.30,
+    "dma50" : 1144.95,
+    "dma100" : 1193.03,
+    "dma200" : 1146.71,
+    "volume" : 27199.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.81,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 4.83,
+    "pricePercentageAboveDma50" : 4.59,
+    "pricePercentageAboveDma100" : 4.81,
+    "pricePercentageAboveDma200" : 4.60,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.31,
     "operatingProfitMarginPercentile" : 14.02,
     "netProfitMarginPercentile" : 7.47,
-    "totalTechnicalScore" : 29.68,
+    "totalTechnicalScore" : 33.99,
     "totalFundamentalScore" : 39.81,
-    "totalScore" : 69.49
+    "totalScore" : 73.80
   }
 }

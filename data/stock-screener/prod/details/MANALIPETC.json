@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANALIPETC",
       "companyName" : "Manali Petrochem",
-      "marketCap" : 1238.00,
-      "peRatio" : 7.58,
+      "marketCap" : 1246.00,
+      "peRatio" : 7.63,
       "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.31,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 4.87,
+      "pricePercentageAboveDma50" : 5.27,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 4.84,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.28,
       "operatingProfitMarginPercentile" : 17.93,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 35.38,
+      "totalTechnicalScore" : 35.28,
       "totalFundamentalScore" : 46.29,
-      "totalScore" : 81.67
+      "totalScore" : 81.57
     }
   },
   "attributes" : {
     "companyCode" : "MANALIPETC",
     "companyName" : "Manali Petrochem",
-    "marketCap" : 1238.00,
-    "peRatio" : 7.58,
+    "marketCap" : 1246.00,
+    "peRatio" : 7.63,
     "description" : "Incorporated in 1986, Manali Petrochemicals Limited manufactures and sells Propylene Oxide (PO), Propylene Glycol (PG) and Polyols (PY), which are used as industrial raw materials. Located in Chennai, the company is the only domestic manufacturer of Propylene Glycol. Also, it is the first and largest Indian manufacturer of Propylene Oxide which is the input material for the aforesaid derivative products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 65.57,
-    "dma50" : 68.81,
-    "dma100" : null,
-    "dma200" : 67.36,
-    "volume" : 217370.00
-  }, {
     "date" : "2025-11-28",
     "price" : 65.16,
     "dma50" : 68.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 54.78,
     "dma50" : 52.26,
-    "dma100" : 55.69,
+    "dma100" : null,
     "dma200" : 59.17,
     "volume" : 294000.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 74.97,
     "dma200" : 70.14,
     "volume" : 624941.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 72.42,
+    "dma50" : 76.53,
+    "dma100" : 75.06,
+    "dma200" : 70.16,
+    "volume" : 278703.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 71.95,
-    "dma50" : 76.70,
-    "dma100" : 74.97,
-    "dma200" : 70.14,
-    "volume" : 624941.00
+    "date" : "2026-11-27",
+    "price" : 72.42,
+    "dma50" : 76.53,
+    "dma100" : 75.06,
+    "dma200" : 70.16,
+    "volume" : 278703.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.31,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 4.87,
+    "pricePercentageAboveDma50" : 5.27,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 4.84,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.28,
     "operatingProfitMarginPercentile" : 17.93,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 35.38,
+    "totalTechnicalScore" : 35.28,
     "totalFundamentalScore" : 46.29,
-    "totalScore" : 81.67
+    "totalScore" : 81.57
   }
 }

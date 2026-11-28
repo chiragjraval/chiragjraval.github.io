@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TENNIND",
       "companyName" : "Tenneco Clean",
-      "marketCap" : 17958.00,
-      "peRatio" : 27.90,
+      "marketCap" : 18150.00,
+      "peRatio" : 28.20,
       "description" : "Incorporated in 2018, Tenneco Clean Air India Limited is a subsidiary of Tenneco Inc., a global leader in designing and manufacturing clean air and powertrain products for automotive applications.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.23,
-      "pricePercentageAboveDma100" : 5.62,
-      "pricePercentageAboveDma200" : 5.67,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.56,
+      "pricePercentageAboveDma200" : 5.62,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 7.06,
       "netProfitMarginPercentile" : 6.67,
-      "totalTechnicalScore" : 16.53,
+      "totalTechnicalScore" : 16.36,
       "totalFundamentalScore" : 33.73,
-      "totalScore" : 50.25
+      "totalScore" : 50.09
     }
   },
   "attributes" : {
     "companyCode" : "TENNIND",
     "companyName" : "Tenneco Clean",
-    "marketCap" : 17958.00,
-    "peRatio" : 27.90,
+    "marketCap" : 18150.00,
+    "peRatio" : 28.20,
     "description" : "Incorporated in 2018, Tenneco Clean Air India Limited is a subsidiary of Tenneco Inc., a global leader in designing and manufacturing clean air and powertrain products for automotive applications.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 490.40,
-    "dma50" : 490.52,
-    "dma100" : null,
-    "dma200" : 490.71,
-    "volume" : 3180356.00
-  }, {
     "date" : "2025-11-28",
     "price" : 483.95,
     "dma50" : 490.26,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 565.35,
     "dma50" : 551.30,
-    "dma100" : 530.35,
+    "dma100" : null,
     "dma200" : 520.31,
     "volume" : 588654.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 508.17,
     "dma200" : 514.31,
     "volume" : 305219.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 449.70,
+    "dma50" : 465.96,
+    "dma100" : 506.73,
+    "dma200" : 513.67,
+    "volume" : 260796.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 444.95,
-    "dma50" : 466.62,
-    "dma100" : 508.17,
-    "dma200" : 514.31,
-    "volume" : 305219.00
+    "date" : "2026-11-27",
+    "price" : 449.70,
+    "dma50" : 465.96,
+    "dma100" : 506.73,
+    "dma200" : 513.67,
+    "volume" : 260796.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-09-30",
@@ -1886,15 +1886,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.23,
-    "pricePercentageAboveDma100" : 5.62,
-    "pricePercentageAboveDma200" : 5.67,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.56,
+    "pricePercentageAboveDma200" : 5.62,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 7.06,
     "netProfitMarginPercentile" : 6.67,
-    "totalTechnicalScore" : 16.53,
+    "totalTechnicalScore" : 16.36,
     "totalFundamentalScore" : 33.73,
-    "totalScore" : 50.25
+    "totalScore" : 50.09
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "AARTIIND",
       "companyName" : "Aarti Industries",
-      "marketCap" : 15874.00,
+      "marketCap" : 15894.00,
       "peRatio" : 26.20,
       "description" : "Aarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.30,
-      "pricePercentageAboveDma100" : 5.48,
-      "pricePercentageAboveDma200" : 5.29,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.47,
+      "pricePercentageAboveDma200" : 5.28,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 1.38,
       "netProfitMarginPercentile" : 2.64,
-      "totalTechnicalScore" : 26.07,
+      "totalTechnicalScore" : 26.04,
       "totalFundamentalScore" : 23.78,
-      "totalScore" : 49.85
+      "totalScore" : 49.82
     }
   },
   "attributes" : {
     "companyCode" : "AARTIIND",
     "companyName" : "Aarti Industries",
-    "marketCap" : 15874.00,
+    "marketCap" : 15894.00,
     "peRatio" : 26.20,
     "description" : "Aarti Industries Ltd, the flagship company of the Aarti group, manufacturing organic and inorganic chemicals at its major facilities in Vapi, Jhagadia, Dahej and Kutch, in Gujarat and in Tarapur in Maharashtra. The company has a strong market position in the NCB-based specialty chemicals segment.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 380.80,
-    "dma50" : 386.89,
-    "dma100" : null,
-    "dma200" : 421.63,
-    "volume" : 326595.00
-  }, {
     "date" : "2025-11-28",
     "price" : 382.30,
     "dma50" : 386.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 488.75,
     "dma50" : 429.29,
-    "dma100" : 405.07,
+    "dma100" : null,
     "dma200" : 416.20,
     "volume" : 2766384.00
   }, {
@@ -1226,7 +1219,7 @@
     "date" : "2026-08-05",
     "price" : 485.95,
     "dma50" : 477.55,
-    "dma100" : 463.44,
+    "dma100" : 463.45,
     "dma200" : 447.33,
     "volume" : 511676.00
   }, {
@@ -1338,7 +1331,7 @@
     "date" : "2026-08-27",
     "price" : 538.90,
     "dma50" : 501.19,
-    "dma100" : 480.13,
+    "dma100" : 480.14,
     "dma200" : 458.96,
     "volume" : 578422.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 484.51,
     "dma200" : 464.06,
     "volume" : 494881.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 438.15,
+    "dma50" : 464.67,
+    "dma100" : 484.01,
+    "dma200" : 463.80,
+    "volume" : 330439.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 437.60,
-    "dma50" : 465.75,
-    "dma100" : 484.51,
-    "dma200" : 464.06,
-    "volume" : 494881.00
+    "date" : "2026-11-27",
+    "price" : 438.15,
+    "dma50" : 464.67,
+    "dma100" : 484.01,
+    "dma200" : 463.80,
+    "volume" : 330439.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.30,
-    "pricePercentageAboveDma100" : 5.48,
-    "pricePercentageAboveDma200" : 5.29,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.47,
+    "pricePercentageAboveDma200" : 5.28,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 1.38,
     "netProfitMarginPercentile" : 2.64,
-    "totalTechnicalScore" : 26.07,
+    "totalTechnicalScore" : 26.04,
     "totalFundamentalScore" : 23.78,
-    "totalScore" : 49.85
+    "totalScore" : 49.82
   }
 }

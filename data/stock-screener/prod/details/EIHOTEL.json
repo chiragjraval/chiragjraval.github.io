@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "EIHOTEL",
       "companyName" : "EIH",
-      "marketCap" : 20806.00,
-      "peRatio" : 27.60,
+      "marketCap" : 21122.00,
+      "peRatio" : 28.00,
       "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
-      "dma50HigherThanDma100" : 0.00,
+      "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.59,
-      "pricePercentageAboveDma100" : 4.60,
-      "pricePercentageAboveDma200" : 4.76,
+      "pricePercentageAboveDma50" : 4.53,
+      "pricePercentageAboveDma100" : 4.52,
+      "pricePercentageAboveDma200" : 4.68,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.98,
       "operatingProfitMarginPercentile" : 19.17,
       "netProfitMarginPercentile" : 9.66,
-      "totalTechnicalScore" : 33.95,
+      "totalTechnicalScore" : 38.73,
       "totalFundamentalScore" : 42.81,
-      "totalScore" : 76.75
+      "totalScore" : 81.54
     }
   },
   "attributes" : {
     "companyCode" : "EIHOTEL",
     "companyName" : "EIH",
-    "marketCap" : 20806.00,
-    "peRatio" : 27.60,
+    "marketCap" : 21122.00,
+    "peRatio" : 28.00,
     "description" : "EIH is primarily engaged in owning and managing premium luxury hotels and cruisers under the luxury Oberoi, Trident and Maidens brands. The Company is also engaged in flight catering, airport restaurants, project management and corporate air charters.(Source : 202003 Annual Report Page No:124)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 373.25,
-    "dma50" : 383.67,
-    "dma100" : null,
-    "dma200" : 380.43,
-    "volume" : 186875.00
-  }, {
     "date" : "2025-11-28",
     "price" : 373.95,
     "dma50" : 383.29,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 328.65,
     "dma50" : 320.59,
-    "dma100" : 335.29,
+    "dma100" : null,
     "dma200" : 348.24,
     "volume" : 102300.00
   }, {
@@ -1513,7 +1506,7 @@
     "date" : "2026-10-05",
     "price" : 298.30,
     "dma50" : 302.99,
-    "dma100" : 310.75,
+    "dma100" : 310.74,
     "dma200" : 322.55,
     "volume" : 164884.00
   }, {
@@ -1527,7 +1520,7 @@
     "date" : "2026-10-07",
     "price" : 296.50,
     "dma50" : 302.65,
-    "dma100" : 310.34,
+    "dma100" : 310.33,
     "dma200" : 322.07,
     "volume" : 96552.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 307.96,
     "dma200" : 317.30,
     "volume" : 297522.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 337.75,
+    "dma50" : 308.79,
+    "dma100" : 307.99,
+    "dma200" : 317.51,
+    "volume" : 203659.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 332.70,
-    "dma50" : 307.60,
-    "dma100" : 307.96,
-    "dma200" : 317.30,
-    "volume" : 297522.00
+    "date" : "2026-11-27",
+    "price" : 337.75,
+    "dma50" : 308.79,
+    "dma100" : 307.99,
+    "dma200" : 317.51,
+    "volume" : 203659.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2663,18 +2663,18 @@
     "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
-    "dma50HigherThanDma100" : 0.00,
+    "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.59,
-    "pricePercentageAboveDma100" : 4.60,
-    "pricePercentageAboveDma200" : 4.76,
+    "pricePercentageAboveDma50" : 4.53,
+    "pricePercentageAboveDma100" : 4.52,
+    "pricePercentageAboveDma200" : 4.68,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.98,
     "operatingProfitMarginPercentile" : 19.17,
     "netProfitMarginPercentile" : 9.66,
-    "totalTechnicalScore" : 33.95,
+    "totalTechnicalScore" : 38.73,
     "totalFundamentalScore" : 42.81,
-    "totalScore" : 76.75
+    "totalScore" : 81.54
   }
 }

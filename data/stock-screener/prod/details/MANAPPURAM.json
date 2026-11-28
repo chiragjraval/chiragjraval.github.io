@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MANAPPURAM",
       "companyName" : "Manappuram Fin.",
-      "marketCap" : 25362.00,
-      "peRatio" : 13.10,
+      "marketCap" : 26151.00,
+      "peRatio" : 13.60,
       "description" : "Manappuram Finance is a Non-Banking Finance Company (NBFC), which provides a wide range of fund based and fee based services including gold loans, money exchange facilities, etc. The Company is a Systemically Important Non-Deposit taking NBFC(NBFC-ND).(Source : 202003 Annual Report Page No:120)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.61,
-      "pricePercentageAboveDma100" : 5.88,
-      "pricePercentageAboveDma200" : 5.63,
+      "pricePercentageAboveDma50" : 5.45,
+      "pricePercentageAboveDma100" : 5.74,
+      "pricePercentageAboveDma200" : 5.49,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.46,
       "operatingProfitMarginPercentile" : 17.52,
       "netProfitMarginPercentile" : 8.56,
-      "totalTechnicalScore" : 27.12,
+      "totalTechnicalScore" : 26.69,
       "totalFundamentalScore" : 40.53,
-      "totalScore" : 67.65
+      "totalScore" : 67.22
     }
   },
   "attributes" : {
     "companyCode" : "MANAPPURAM",
     "companyName" : "Manappuram Fin.",
-    "marketCap" : 25362.00,
-    "peRatio" : 13.10,
+    "marketCap" : 26151.00,
+    "peRatio" : 13.60,
     "description" : "Manappuram Finance is a Non-Banking Finance Company (NBFC), which provides a wide range of fund based and fee based services including gold loans, money exchange facilities, etc. The Company is a Systemically Important Non-Deposit taking NBFC(NBFC-ND).(Source : 202003 Annual Report Page No:120)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 285.65,
-    "dma50" : 279.04,
-    "dma100" : null,
-    "dma200" : 254.99,
-    "volume" : 2941797.00
-  }, {
     "date" : "2025-11-28",
     "price" : 284.95,
     "dma50" : 279.27,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 288.20,
     "dma50" : 275.50,
-    "dma100" : 285.45,
+    "dma100" : null,
     "dma200" : 272.41,
     "volume" : 1963295.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 327.61,
     "dma200" : 309.22,
     "volume" : 5246512.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 278.40,
+    "dma50" : 306.08,
+    "dma100" : 326.93,
+    "dma200" : 308.91,
+    "volume" : 8837268.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 270.00,
-    "dma50" : 307.20,
-    "dma100" : 327.61,
-    "dma200" : 309.22,
-    "volume" : 5246512.00
+    "date" : "2026-11-27",
+    "price" : 278.40,
+    "dma50" : 306.08,
+    "dma100" : 326.93,
+    "dma200" : 308.91,
+    "volume" : 8837268.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.61,
-    "pricePercentageAboveDma100" : 5.88,
-    "pricePercentageAboveDma200" : 5.63,
+    "pricePercentageAboveDma50" : 5.45,
+    "pricePercentageAboveDma100" : 5.74,
+    "pricePercentageAboveDma200" : 5.49,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.46,
     "operatingProfitMarginPercentile" : 17.52,
     "netProfitMarginPercentile" : 8.56,
-    "totalTechnicalScore" : 27.12,
+    "totalTechnicalScore" : 26.69,
     "totalFundamentalScore" : 40.53,
-    "totalScore" : 67.65
+    "totalScore" : 67.22
   }
 }

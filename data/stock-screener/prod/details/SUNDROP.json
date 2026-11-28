@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SUNDROP",
       "companyName" : "Sundrop Brands",
-      "marketCap" : 2308.00,
-      "peRatio" : 56.20,
+      "marketCap" : 2342.00,
+      "peRatio" : 57.00,
       "description" : "Agro Tech Foods Ltd is primarily engaged in the business of manufacturing and trading of edible oils and food products.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.26,
-      "pricePercentageAboveDma100" : 5.36,
-      "pricePercentageAboveDma200" : 5.44,
+      "pricePercentageAboveDma50" : 5.18,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.37,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.52,
       "operatingProfitMarginPercentile" : 11.17,
       "netProfitMarginPercentile" : 6.90,
-      "totalTechnicalScore" : 16.06,
+      "totalTechnicalScore" : 15.84,
       "totalFundamentalScore" : 37.58,
-      "totalScore" : 53.64
+      "totalScore" : 53.42
     }
   },
   "attributes" : {
     "companyCode" : "SUNDROP",
     "companyName" : "Sundrop Brands",
-    "marketCap" : 2308.00,
-    "peRatio" : 56.20,
+    "marketCap" : 2342.00,
+    "peRatio" : 57.00,
     "description" : "Agro Tech Foods Ltd is primarily engaged in the business of manufacturing and trading of edible oils and food products.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 746.25,
-    "dma50" : 779.41,
-    "dma100" : null,
-    "dma200" : 818.37,
-    "volume" : 8509.00
-  }, {
     "date" : "2025-11-28",
     "price" : 751.90,
     "dma50" : 778.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 654.30,
     "dma50" : 638.46,
-    "dma100" : 657.89,
+    "dma100" : null,
     "dma200" : 711.54,
     "volume" : 9169.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 660.34,
     "dma200" : 670.88,
     "volume" : 4084.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 621.30,
+    "dma50" : 644.32,
+    "dma100" : 660.16,
+    "dma200" : 670.38,
+    "volume" : 7333.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 612.25,
-    "dma50" : 645.26,
-    "dma100" : 660.34,
-    "dma200" : 670.88,
-    "volume" : 4084.00
+    "date" : "2026-11-27",
+    "price" : 621.30,
+    "dma50" : 644.32,
+    "dma100" : 660.16,
+    "dma200" : 670.38,
+    "volume" : 7333.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.26,
-    "pricePercentageAboveDma100" : 5.36,
-    "pricePercentageAboveDma200" : 5.44,
+    "pricePercentageAboveDma50" : 5.18,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.37,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.52,
     "operatingProfitMarginPercentile" : 11.17,
     "netProfitMarginPercentile" : 6.90,
-    "totalTechnicalScore" : 16.06,
+    "totalTechnicalScore" : 15.84,
     "totalFundamentalScore" : 37.58,
-    "totalScore" : 53.64
+    "totalScore" : 53.42
   }
 }

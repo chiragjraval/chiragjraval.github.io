@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "MOLDTKPAC",
       "companyName" : "Mold-Tek Pack.",
-      "marketCap" : 2194.00,
+      "marketCap" : 2195.00,
       "peRatio" : 26.90,
       "description" : "Mold-Tek Packaging is engaged in the manufacturing of injection-molded containers for lubes, paints, food and other products."
     },
@@ -27,26 +27,19 @@
       "salesGrowthPercentile" : 16.29,
       "operatingProfitMarginPercentile" : 15.92,
       "netProfitMarginPercentile" : 8.44,
-      "totalTechnicalScore" : 30.08,
+      "totalTechnicalScore" : 30.07,
       "totalFundamentalScore" : 40.65,
-      "totalScore" : 70.72
+      "totalScore" : 70.71
     }
   },
   "attributes" : {
     "companyCode" : "MOLDTKPAC",
     "companyName" : "Mold-Tek Pack.",
-    "marketCap" : 2194.00,
+    "marketCap" : 2195.00,
     "peRatio" : 26.90,
     "description" : "Mold-Tek Packaging is engaged in the manufacturing of injection-molded containers for lubes, paints, food and other products."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 303.45,
-    "dma50" : 352.59,
-    "dma100" : null,
-    "dma200" : 350.44,
-    "volume" : 88694.00
-  }, {
     "date" : "2025-11-28",
     "price" : 304.95,
     "dma50" : 350.72,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 287.93,
     "dma50" : 275.48,
-    "dma100" : 280.84,
+    "dma100" : null,
     "dma200" : 304.70,
     "volume" : 127703.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 335.70,
     "dma200" : 327.56,
     "volume" : 123608.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 330.30,
+    "dma50" : 332.33,
+    "dma100" : 335.59,
+    "dma200" : 327.59,
+    "volume" : 34157.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 330.10,
-    "dma50" : 332.41,
-    "dma100" : 335.70,
-    "dma200" : 327.56,
-    "volume" : 123608.00
+    "date" : "2026-11-27",
+    "price" : 330.30,
+    "dma50" : 332.33,
+    "dma100" : 335.59,
+    "dma200" : 327.59,
+    "volume" : 34157.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-06-30",
@@ -2543,8 +2543,8 @@
     "salesGrowthPercentile" : 16.29,
     "operatingProfitMarginPercentile" : 15.92,
     "netProfitMarginPercentile" : 8.44,
-    "totalTechnicalScore" : 30.08,
+    "totalTechnicalScore" : 30.07,
     "totalFundamentalScore" : 40.65,
-    "totalScore" : 70.72
+    "totalScore" : 70.71
   }
 }

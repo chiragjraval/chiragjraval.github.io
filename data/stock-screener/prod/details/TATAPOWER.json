@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TATAPOWER",
       "companyName" : "Tata Power Co.",
-      "marketCap" : 103369.00,
-      "peRatio" : 24.10,
+      "marketCap" : 102267.00,
+      "peRatio" : 23.80,
       "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.39,
-      "pricePercentageAboveDma100" : 5.54,
-      "pricePercentageAboveDma200" : 5.66,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.58,
+      "pricePercentageAboveDma200" : 5.70,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 5.47,
       "netProfitMarginPercentile" : 4.71,
-      "totalTechnicalScore" : 21.59,
+      "totalTechnicalScore" : 21.70,
       "totalFundamentalScore" : 29.94,
-      "totalScore" : 51.52
+      "totalScore" : 51.64
     }
   },
   "attributes" : {
     "companyCode" : "TATAPOWER",
     "companyName" : "Tata Power Co.",
-    "marketCap" : 103369.00,
-    "peRatio" : 24.10,
+    "marketCap" : 102267.00,
+    "peRatio" : 23.80,
     "description" : "Tata Power Company Ltd is primarily involved in the business of the generation, transmission and distribution of electricity. It aims to produce electricity completely through renewable sources. It also manufactures solar roofs and plans to build 1 lakh ev charging stations by 2025[1] The company is India's largest vertically-integrated power company.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 392.05,
-    "dma50" : 392.30,
-    "dma100" : null,
-    "dma200" : 391.76,
-    "volume" : 8227701.00
-  }, {
     "date" : "2025-11-28",
     "price" : 390.10,
     "dma50" : 392.21,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 453.20,
     "dma50" : 399.45,
-    "dma100" : 383.17,
+    "dma100" : null,
     "dma200" : 388.60,
     "volume" : 17104072.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 362.54,
     "dma200" : 372.51,
     "volume" : 5824492.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 320.05,
+    "dma50" : 349.69,
+    "dma100" : 361.97,
+    "dma200" : 371.98,
+    "volume" : 8526390.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 323.50,
-    "dma50" : 350.90,
-    "dma100" : 362.54,
-    "dma200" : 372.51,
-    "volume" : 5824492.00
+    "date" : "2026-11-27",
+    "price" : 320.05,
+    "dma50" : 349.69,
+    "dma100" : 361.97,
+    "dma200" : 371.98,
+    "volume" : 8526390.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.39,
-    "pricePercentageAboveDma100" : 5.54,
-    "pricePercentageAboveDma200" : 5.66,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.58,
+    "pricePercentageAboveDma200" : 5.70,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 5.47,
     "netProfitMarginPercentile" : 4.71,
-    "totalTechnicalScore" : 21.59,
+    "totalTechnicalScore" : 21.70,
     "totalFundamentalScore" : 29.94,
-    "totalScore" : 51.52
+    "totalScore" : 51.64
   }
 }

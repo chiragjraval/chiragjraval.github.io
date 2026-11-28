@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "UBL",
       "companyName" : "United Breweries",
-      "marketCap" : 33656.00,
-      "peRatio" : 77.50,
+      "marketCap" : 33728.00,
+      "peRatio" : 77.60,
       "description" : "United Breweries Limited (UBL) is engaged in the business of manufacture and sale of beer and non-alcoholic beverages. [1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 4.82,
-      "pricePercentageAboveDma100" : 5.04,
-      "pricePercentageAboveDma200" : 5.37,
+      "pricePercentageAboveDma100" : 5.02,
+      "pricePercentageAboveDma200" : 5.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.22,
       "operatingProfitMarginPercentile" : 14.02,
       "netProfitMarginPercentile" : 7.71,
-      "totalTechnicalScore" : 20.23,
+      "totalTechnicalScore" : 20.20,
       "totalFundamentalScore" : 35.94,
-      "totalScore" : 56.17
+      "totalScore" : 56.14
     }
   },
   "attributes" : {
     "companyCode" : "UBL",
     "companyName" : "United Breweries",
-    "marketCap" : 33656.00,
-    "peRatio" : 77.50,
+    "marketCap" : 33728.00,
+    "peRatio" : 77.60,
     "description" : "United Breweries Limited (UBL) is engaged in the business of manufacture and sale of beer and non-alcoholic beverages. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1695.70,
-    "dma50" : 1789.37,
-    "dma100" : null,
-    "dma200" : 1893.51,
-    "volume" : 258595.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1690.60,
     "dma50" : 1785.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1479.20,
     "dma50" : 1543.97,
-    "dma100" : 1571.99,
+    "dma100" : null,
     "dma200" : 1684.66,
     "volume" : 336770.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1282.19,
     "dma200" : 1373.31,
     "volume" : 70581.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1275.60,
+    "dma50" : 1231.56,
+    "dma100" : 1281.26,
+    "dma200" : 1372.34,
+    "volume" : 99381.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1272.90,
-    "dma50" : 1229.76,
-    "dma100" : 1282.19,
-    "dma200" : 1373.31,
-    "volume" : 70581.00
+    "date" : "2026-11-27",
+    "price" : 1275.60,
+    "dma50" : 1231.56,
+    "dma100" : 1281.26,
+    "dma200" : 1372.34,
+    "volume" : 99381.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 4.82,
-    "pricePercentageAboveDma100" : 5.04,
-    "pricePercentageAboveDma200" : 5.37,
+    "pricePercentageAboveDma100" : 5.02,
+    "pricePercentageAboveDma200" : 5.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.22,
     "operatingProfitMarginPercentile" : 14.02,
     "netProfitMarginPercentile" : 7.71,
-    "totalTechnicalScore" : 20.23,
+    "totalTechnicalScore" : 20.20,
     "totalFundamentalScore" : 35.94,
-    "totalScore" : 56.17
+    "totalScore" : 56.14
   }
 }

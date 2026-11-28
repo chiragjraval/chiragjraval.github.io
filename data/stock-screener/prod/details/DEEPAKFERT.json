@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "DEEPAKFERT",
       "companyName" : "Deepak Fertilis.",
-      "marketCap" : 18207.00,
-      "peRatio" : 15.60,
+      "marketCap" : 18265.00,
+      "peRatio" : 15.70,
       "description" : "Incorporated in 1979, Deepak Fertilisers and Petrochemicals Corporation Ltd is in the business of fertlisers, agri services, bulk chemicals, mining chemicals and real estate[1]"
     },
     "companyScore" : {
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
       "pricePercentageAboveDma50" : 4.54,
-      "pricePercentageAboveDma100" : 4.85,
-      "pricePercentageAboveDma200" : 4.62,
+      "pricePercentageAboveDma100" : 4.83,
+      "pricePercentageAboveDma200" : 4.61,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.25,
       "operatingProfitMarginPercentile" : 3.90,
       "netProfitMarginPercentile" : 2.41,
-      "totalTechnicalScore" : 34.01,
+      "totalTechnicalScore" : 33.98,
       "totalFundamentalScore" : 19.57,
-      "totalScore" : 53.59
+      "totalScore" : 53.55
     }
   },
   "attributes" : {
     "companyCode" : "DEEPAKFERT",
     "companyName" : "Deepak Fertilis.",
-    "marketCap" : 18207.00,
-    "peRatio" : 15.60,
+    "marketCap" : 18265.00,
+    "peRatio" : 15.70,
     "description" : "Incorporated in 1979, Deepak Fertilisers and Petrochemicals Corporation Ltd is in the business of fertlisers, agri services, bulk chemicals, mining chemicals and real estate[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1378.30,
-    "dma50" : 1446.30,
-    "dma100" : null,
-    "dma200" : 1382.48,
-    "volume" : 207841.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1368.70,
     "dma50" : 1443.26,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1240.45,
     "dma50" : 1089.10,
-    "dma100" : 1114.78,
+    "dma100" : null,
     "dma200" : 1201.03,
     "volume" : 233285.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1400.48,
     "dma200" : 1341.42,
     "volume" : 949906.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1446.90,
+    "dma50" : 1325.74,
+    "dma100" : 1398.90,
+    "dma200" : 1342.47,
+    "volume" : 181123.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1442.30,
-    "dma50" : 1320.79,
-    "dma100" : 1400.48,
-    "dma200" : 1341.42,
-    "volume" : 949906.00
+    "date" : "2026-11-27",
+    "price" : 1446.90,
+    "dma50" : 1325.74,
+    "dma100" : 1398.90,
+    "dma200" : 1342.47,
+    "volume" : 181123.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
     "pricePercentageAboveDma50" : 4.54,
-    "pricePercentageAboveDma100" : 4.85,
-    "pricePercentageAboveDma200" : 4.62,
+    "pricePercentageAboveDma100" : 4.83,
+    "pricePercentageAboveDma200" : 4.61,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.25,
     "operatingProfitMarginPercentile" : 3.90,
     "netProfitMarginPercentile" : 2.41,
-    "totalTechnicalScore" : 34.01,
+    "totalTechnicalScore" : 33.98,
     "totalFundamentalScore" : 19.57,
-    "totalScore" : 53.59
+    "totalScore" : 53.55
   }
 }

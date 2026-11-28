@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RKFORGE",
       "companyName" : "Ramkrishna Forg.",
-      "marketCap" : 14620.00,
-      "peRatio" : 75.00,
+      "marketCap" : 14498.00,
+      "peRatio" : 74.30,
       "description" : "Ramkrishna Forgings Ltd is primarily engaged in manufacturing and sale of forged components of automobiles, railway wagons & coaches and engineering parts. [1][2] It is the 2nd largest forging player in India.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.48,
-      "pricePercentageAboveDma100" : 4.28,
-      "pricePercentageAboveDma200" : 3.95,
+      "pricePercentageAboveDma50" : 4.55,
+      "pricePercentageAboveDma100" : 4.34,
+      "pricePercentageAboveDma200" : 4.01,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 14.53,
       "netProfitMarginPercentile" : 5.82,
-      "totalTechnicalScore" : 42.71,
+      "totalTechnicalScore" : 42.90,
       "totalFundamentalScore" : 36.50,
-      "totalScore" : 79.20
+      "totalScore" : 79.40
     }
   },
   "attributes" : {
     "companyCode" : "RKFORGE",
     "companyName" : "Ramkrishna Forg.",
-    "marketCap" : 14620.00,
-    "peRatio" : 75.00,
+    "marketCap" : 14498.00,
+    "peRatio" : 74.30,
     "description" : "Ramkrishna Forgings Ltd is primarily engaged in manufacturing and sale of forged components of automobiles, railway wagons & coaches and engineering parts. [1][2] It is the 2nd largest forging player in India.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 544.25,
-    "dma50" : 550.32,
-    "dma100" : null,
-    "dma200" : 629.43,
-    "volume" : 562843.00
-  }, {
     "date" : "2025-11-28",
     "price" : 550.00,
     "dma50" : 550.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 563.20,
     "dma50" : 533.52,
-    "dma100" : 528.59,
+    "dma100" : null,
     "dma200" : 566.79,
     "volume" : 1790519.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 688.36,
     "dma200" : 650.84,
     "volume" : 1535158.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 781.25,
+    "dma50" : 716.69,
+    "dma100" : 690.43,
+    "dma200" : 652.14,
+    "volume" : 456588.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 787.85,
-    "dma50" : 714.06,
-    "dma100" : 688.36,
-    "dma200" : 650.84,
-    "volume" : 1535158.00
+    "date" : "2026-11-27",
+    "price" : 781.25,
+    "dma50" : 716.69,
+    "dma100" : 690.43,
+    "dma200" : 652.14,
+    "volume" : 456588.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.48,
-    "pricePercentageAboveDma100" : 4.28,
-    "pricePercentageAboveDma200" : 3.95,
+    "pricePercentageAboveDma50" : 4.55,
+    "pricePercentageAboveDma100" : 4.34,
+    "pricePercentageAboveDma200" : 4.01,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 14.53,
     "netProfitMarginPercentile" : 5.82,
-    "totalTechnicalScore" : 42.71,
+    "totalTechnicalScore" : 42.90,
     "totalFundamentalScore" : 36.50,
-    "totalScore" : 79.20
+    "totalScore" : 79.40
   }
 }

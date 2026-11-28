@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "JPPOWER",
       "companyName" : "JP Power Ven.",
-      "marketCap" : 8951.00,
-      "peRatio" : 7.48,
+      "marketCap" : 9005.00,
+      "peRatio" : 7.52,
       "description" : "Incorporated in 1994, Jaiprakash Power Venture Limited operates in coal mining, sand mining, cement grinding, and production of thermal and hydroelectric electricity[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.46,
-      "pricePercentageAboveDma100" : 5.85,
-      "pricePercentageAboveDma200" : 5.95,
+      "pricePercentageAboveDma50" : 5.41,
+      "pricePercentageAboveDma100" : 5.82,
+      "pricePercentageAboveDma200" : 5.92,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.78,
       "operatingProfitMarginPercentile" : 9.30,
       "netProfitMarginPercentile" : 8.82,
-      "totalTechnicalScore" : 17.26,
+      "totalTechnicalScore" : 17.15,
       "totalFundamentalScore" : 26.90,
-      "totalScore" : 44.16
+      "totalScore" : 44.05
     }
   },
   "attributes" : {
     "companyCode" : "JPPOWER",
     "companyName" : "JP Power Ven.",
-    "marketCap" : 8951.00,
-    "peRatio" : 7.48,
+    "marketCap" : 9005.00,
+    "peRatio" : 7.52,
     "description" : "Incorporated in 1994, Jaiprakash Power Venture Limited operates in coal mining, sand mining, cement grinding, and production of thermal and hydroelectric electricity[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 18.65,
-    "dma50" : 18.56,
-    "dma100" : null,
-    "dma200" : 17.95,
-    "volume" : 102061939.00
-  }, {
     "date" : "2025-11-28",
     "price" : 18.79,
     "dma50" : 18.57,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 19.63,
     "dma50" : 16.61,
-    "dma100" : 16.34,
+    "dma100" : null,
     "dma200" : 16.87,
     "volume" : 126120203.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 15.75,
     "dma200" : 16.13,
     "volume" : 26559527.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 13.14,
+    "dma50" : 14.32,
+    "dma100" : 15.71,
+    "dma200" : 16.10,
+    "volume" : 19039693.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 13.06,
-    "dma50" : 14.37,
-    "dma100" : 15.75,
-    "dma200" : 16.13,
-    "volume" : 26559527.00
+    "date" : "2026-11-27",
+    "price" : 13.14,
+    "dma50" : 14.32,
+    "dma100" : 15.71,
+    "dma200" : 16.10,
+    "volume" : 19039693.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-06-30",
@@ -2656,15 +2656,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.46,
-    "pricePercentageAboveDma100" : 5.85,
-    "pricePercentageAboveDma200" : 5.95,
+    "pricePercentageAboveDma50" : 5.41,
+    "pricePercentageAboveDma100" : 5.82,
+    "pricePercentageAboveDma200" : 5.92,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.78,
     "operatingProfitMarginPercentile" : 9.30,
     "netProfitMarginPercentile" : 8.82,
-    "totalTechnicalScore" : 17.26,
+    "totalTechnicalScore" : 17.15,
     "totalFundamentalScore" : 26.90,
-    "totalScore" : 44.16
+    "totalScore" : 44.05
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RTNPOWER",
       "companyName" : "RattanIndia Pow.",
-      "marketCap" : 3453.00,
-      "peRatio" : 19.00,
+      "marketCap" : 3485.00,
+      "peRatio" : 19.20,
       "description" : "RattanIndia Power Limited is one of India’s largest private power generation company, with installed capacity of 2,700 MW thermal power plants at Amravati and Nashik (1,350 MW at each location) in Maharashtra, India. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.27,
-      "pricePercentageAboveDma100" : 5.69,
-      "pricePercentageAboveDma200" : 6.06,
+      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma100" : 5.64,
+      "pricePercentageAboveDma200" : 6.01,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 19.81,
       "netProfitMarginPercentile" : 7.10,
-      "totalTechnicalScore" : 17.02,
+      "totalTechnicalScore" : 16.86,
       "totalFundamentalScore" : 38.91,
-      "totalScore" : 55.93
+      "totalScore" : 55.77
     }
   },
   "attributes" : {
     "companyCode" : "RTNPOWER",
     "companyName" : "RattanIndia Pow.",
-    "marketCap" : 3453.00,
-    "peRatio" : 19.00,
+    "marketCap" : 3485.00,
+    "peRatio" : 19.20,
     "description" : "RattanIndia Power Limited is one of India’s largest private power generation company, with installed capacity of 2,700 MW thermal power plants at Amravati and Nashik (1,350 MW at each location) in Maharashtra, India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 10.09,
-    "dma50" : 10.96,
-    "dma100" : null,
-    "dma200" : 11.87,
-    "volume" : 12394296.00
-  }, {
     "date" : "2025-11-28",
     "price" : 10.02,
     "dma50" : 10.92,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 10.15,
     "dma50" : 8.89,
-    "dma100" : 8.89,
+    "dma100" : null,
     "dma200" : 9.95,
     "volume" : 44780239.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 7.46,
     "dma200" : 8.16,
     "volume" : 14406348.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 6.49,
+    "dma50" : 6.78,
+    "dma100" : 7.44,
+    "dma200" : 8.14,
+    "volume" : 16625872.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 6.43,
-    "dma50" : 6.79,
-    "dma100" : 7.46,
-    "dma200" : 8.16,
-    "volume" : 14406348.00
+    "date" : "2026-11-27",
+    "price" : 6.49,
+    "dma50" : 6.78,
+    "dma100" : 7.44,
+    "dma200" : 8.14,
+    "volume" : 16625872.00
   },
   "quarterlyResults" : [ {
     "date" : "2009-09-30",
@@ -2486,15 +2486,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.27,
-    "pricePercentageAboveDma100" : 5.69,
-    "pricePercentageAboveDma200" : 6.06,
+    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma100" : 5.64,
+    "pricePercentageAboveDma200" : 6.01,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 19.81,
     "netProfitMarginPercentile" : 7.10,
-    "totalTechnicalScore" : 17.02,
+    "totalTechnicalScore" : 16.86,
     "totalFundamentalScore" : 38.91,
-    "totalScore" : 55.93
+    "totalScore" : 55.77
   }
 }

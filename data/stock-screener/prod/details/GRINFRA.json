@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GRINFRA",
       "companyName" : "G R Infraproject",
-      "marketCap" : 7232.00,
-      "peRatio" : 6.96,
+      "marketCap" : 7220.00,
+      "peRatio" : 6.95,
       "description" : "Incorporated in the year 1995, G R Infraprojects Ltd is an integrated road Engineering, Procurement, Construction company (EPC) with experience in the design and construction of various road/highway projects across 15 States in India. It mainly undertakes civil construction projects under the EPC and BOT (Build Operate Transfer) basis in the road sector. [1]"
     },
     "companyScore" : {
@@ -27,7 +27,7 @@
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 0.83,
       "netProfitMarginPercentile" : 1.25,
-      "totalTechnicalScore" : 16.63,
+      "totalTechnicalScore" : 16.62,
       "totalFundamentalScore" : 22.08,
       "totalScore" : 38.71
     }
@@ -35,18 +35,11 @@
   "attributes" : {
     "companyCode" : "GRINFRA",
     "companyName" : "G R Infraproject",
-    "marketCap" : 7232.00,
-    "peRatio" : 6.96,
+    "marketCap" : 7220.00,
+    "peRatio" : 6.95,
     "description" : "Incorporated in the year 1995, G R Infraprojects Ltd is an integrated road Engineering, Procurement, Construction company (EPC) with experience in the design and construction of various road/highway projects across 15 States in India. It mainly undertakes civil construction projects under the EPC and BOT (Build Operate Transfer) basis in the road sector. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1078.60,
-    "dma50" : 1170.66,
-    "dma100" : null,
-    "dma200" : 1240.85,
-    "volume" : 5991.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1074.90,
     "dma50" : 1166.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 881.40,
     "dma50" : 900.23,
-    "dma100" : 947.92,
+    "dma100" : null,
     "dma200" : 1045.60,
     "volume" : 101011.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 836.75,
     "dma200" : 887.87,
     "volume" : 13750.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 746.20,
+    "dma50" : 793.56,
+    "dma100" : 835.17,
+    "dma200" : 886.46,
+    "volume" : 31594.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 747.40,
-    "dma50" : 795.49,
-    "dma100" : 836.75,
-    "dma200" : 887.87,
-    "volume" : 13750.00
+    "date" : "2026-11-27",
+    "price" : 746.20,
+    "dma50" : 793.56,
+    "dma100" : 835.17,
+    "dma200" : 886.46,
+    "volume" : 31594.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2043,7 +2043,7 @@
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 0.83,
     "netProfitMarginPercentile" : 1.25,
-    "totalTechnicalScore" : 16.63,
+    "totalTechnicalScore" : 16.62,
     "totalFundamentalScore" : 22.08,
     "totalScore" : 38.71
   }

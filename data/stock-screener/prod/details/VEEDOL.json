@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VEEDOL",
       "companyName" : "Veedol Corporat",
-      "marketCap" : 2324.00,
-      "peRatio" : 10.20,
+      "marketCap" : 2356.00,
+      "peRatio" : 10.30,
       "description" : "Veedol Corporation Ltd, formerly Tide Water Oil Co. (India) Ltd, manufactures and markets automotive, OEM and industrial lubricants, greases, transmission fluids, coolants, EV fluids and vehicle-care products under the Veedol and ENEOS brands. It operates five Indian plants, has subsidiaries in the UK and UAE and sells across 70+ countries.[1] [2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.14,
-      "pricePercentageAboveDma100" : 5.26,
-      "pricePercentageAboveDma200" : 5.36,
+      "pricePercentageAboveDma50" : 5.07,
+      "pricePercentageAboveDma100" : 5.19,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.11,
       "operatingProfitMarginPercentile" : 0.23,
       "netProfitMarginPercentile" : 5.98,
-      "totalTechnicalScore" : 15.76,
+      "totalTechnicalScore" : 15.56,
       "totalFundamentalScore" : 23.32,
-      "totalScore" : 39.08
+      "totalScore" : 38.87
     }
   },
   "attributes" : {
     "companyCode" : "VEEDOL",
     "companyName" : "Veedol Corporat",
-    "marketCap" : 2324.00,
-    "peRatio" : 10.20,
+    "marketCap" : 2356.00,
+    "peRatio" : 10.30,
     "description" : "Veedol Corporation Ltd, formerly Tide Water Oil Co. (India) Ltd, manufactures and markets automotive, OEM and industrial lubricants, greases, transmission fluids, coolants, EV fluids and vehicle-care products under the Veedol and ENEOS brands. It operates five Indian plants, has subsidiaries in the UK and UAE and sells across 70+ countries.[1] [2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1643.50,
-    "dma50" : 1739.06,
-    "dma100" : null,
-    "dma200" : 1714.93,
-    "volume" : 4759.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1635.20,
     "dma50" : 1734.99,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1414.90,
     "dma50" : 1396.38,
-    "dma100" : 1467.87,
+    "dma100" : null,
     "dma200" : 1540.81,
     "volume" : 12261.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1408.15,
     "dma200" : 1437.41,
     "volume" : 3855.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1352.40,
+    "dma50" : 1371.62,
+    "dma100" : 1407.14,
+    "dma200" : 1436.56,
+    "volume" : 5310.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1333.90,
-    "dma50" : 1372.41,
-    "dma100" : 1408.15,
-    "dma200" : 1437.41,
-    "volume" : 3855.00
+    "date" : "2026-11-27",
+    "price" : 1352.40,
+    "dma50" : 1371.62,
+    "dma100" : 1407.14,
+    "dma200" : 1436.56,
+    "volume" : 5310.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.14,
-    "pricePercentageAboveDma100" : 5.26,
-    "pricePercentageAboveDma200" : 5.36,
+    "pricePercentageAboveDma50" : 5.07,
+    "pricePercentageAboveDma100" : 5.19,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.11,
     "operatingProfitMarginPercentile" : 0.23,
     "netProfitMarginPercentile" : 5.98,
-    "totalTechnicalScore" : 15.76,
+    "totalTechnicalScore" : 15.56,
     "totalFundamentalScore" : 23.32,
-    "totalScore" : 39.08
+    "totalScore" : 38.87
   }
 }

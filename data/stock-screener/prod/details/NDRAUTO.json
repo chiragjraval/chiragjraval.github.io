@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "NDRAUTO",
       "companyName" : "NDR Auto Compon.",
-      "marketCap" : 1738.00,
-      "peRatio" : 24.70,
+      "marketCap" : 1757.00,
+      "peRatio" : 25.00,
       "description" : "Incorporated in 2019, NDR Auto Components manufacturing seat frames and seat trims for passenger cars and utility vehicles[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.22,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 5.08,
+      "pricePercentageAboveDma200" : 5.17,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.80,
       "operatingProfitMarginPercentile" : 19.83,
       "netProfitMarginPercentile" : 9.53,
-      "totalTechnicalScore" : 20.33,
+      "totalTechnicalScore" : 20.16,
       "totalFundamentalScore" : 34.16,
-      "totalScore" : 54.48
+      "totalScore" : 54.32
     }
   },
   "attributes" : {
     "companyCode" : "NDRAUTO",
     "companyName" : "NDR Auto Compon.",
-    "marketCap" : 1738.00,
-    "peRatio" : 24.70,
+    "marketCap" : 1757.00,
+    "peRatio" : 25.00,
     "description" : "Incorporated in 2019, NDR Auto Components manufacturing seat frames and seat trims for passenger cars and utility vehicles[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 849.45,
-    "dma50" : 946.65,
-    "dma100" : null,
-    "dma200" : 911.41,
-    "volume" : 25027.00
-  }, {
     "date" : "2025-11-28",
     "price" : 855.10,
     "dma50" : 943.06,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 737.60,
     "dma50" : 724.96,
-    "dma100" : 749.04,
+    "dma100" : null,
     "dma200" : 801.84,
     "volume" : 31135.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 751.53,
     "dma200" : 764.98,
     "volume" : 9416.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 738.65,
+    "dma50" : 726.24,
+    "dma100" : 750.11,
+    "dma200" : 764.71,
+    "volume" : 9291.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 730.80,
-    "dma50" : 725.73,
-    "dma100" : 751.53,
-    "dma200" : 764.98,
-    "volume" : 9416.00
+    "date" : "2026-11-27",
+    "price" : 738.65,
+    "dma50" : 726.24,
+    "dma100" : 750.11,
+    "dma200" : 764.71,
+    "volume" : 9291.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2086,15 +2086,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.22,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 5.08,
+    "pricePercentageAboveDma200" : 5.17,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.80,
     "operatingProfitMarginPercentile" : 19.83,
     "netProfitMarginPercentile" : 9.53,
-    "totalTechnicalScore" : 20.33,
+    "totalTechnicalScore" : 20.16,
     "totalFundamentalScore" : 34.16,
-    "totalScore" : 54.48
+    "totalScore" : 54.32
   }
 }

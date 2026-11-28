@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SANDUMA",
       "companyName" : "Sandur Manganese",
-      "marketCap" : 7812.00,
-      "peRatio" : 9.13,
+      "marketCap" : 7868.00,
+      "peRatio" : 9.19,
       "description" : "The Sandur Manganese & Iron Ores Limited (SMIORE), the flagship company of the Karnataka based Sandur Group, incorporated in 1954. Company is involved in mining of low phosphorous manganese and iron ore in the Hosapete Ballari region of Karnataka. In addition, Company manufactures ferro-alloys (silico-Manganese and ferro manganese) and coke at its plant in Vyasankare, near Hospet.[1] It is the 3rd Largest Manganese ore miner in India.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.47,
-      "pricePercentageAboveDma100" : 5.74,
-      "pricePercentageAboveDma200" : 5.81,
+      "pricePercentageAboveDma50" : 5.42,
+      "pricePercentageAboveDma100" : 5.70,
+      "pricePercentageAboveDma200" : 5.78,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 11.81,
       "operatingProfitMarginPercentile" : 18.08,
       "netProfitMarginPercentile" : 9.08,
-      "totalTechnicalScore" : 17.03,
+      "totalTechnicalScore" : 16.90,
       "totalFundamentalScore" : 38.96,
-      "totalScore" : 55.99
+      "totalScore" : 55.86
     }
   },
   "attributes" : {
     "companyCode" : "SANDUMA",
     "companyName" : "Sandur Manganese",
-    "marketCap" : 7812.00,
-    "peRatio" : 9.13,
+    "marketCap" : 7868.00,
+    "peRatio" : 9.19,
     "description" : "The Sandur Manganese & Iron Ores Limited (SMIORE), the flagship company of the Karnataka based Sandur Group, incorporated in 1954. Company is involved in mining of low phosphorous manganese and iron ore in the Hosapete Ballari region of Karnataka. In addition, Company manufactures ferro-alloys (silico-Manganese and ferro manganese) and coke at its plant in Vyasankare, near Hospet.[1] It is the 3rd Largest Manganese ore miner in India.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 211.73,
-    "dma50" : 199.39,
-    "dma100" : null,
-    "dma200" : 172.54,
-    "volume" : 6364292.00
-  }, {
     "date" : "2025-11-28",
     "price" : 213.47,
     "dma50" : 199.94,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 216.26,
     "dma50" : 202.44,
-    "dma100" : 210.58,
+    "dma100" : null,
     "dma200" : 194.88,
     "volume" : 1469668.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 188.73,
     "dma200" : 191.86,
     "volume" : 817033.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 161.86,
+    "dma50" : 176.78,
+    "dma100" : 188.24,
+    "dma200" : 191.56,
+    "volume" : 1040056.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 160.70,
-    "dma50" : 177.39,
-    "dma100" : 188.73,
-    "dma200" : 191.86,
-    "volume" : 817033.00
+    "date" : "2026-11-27",
+    "price" : 161.86,
+    "dma50" : 176.78,
+    "dma100" : 188.24,
+    "dma200" : 191.56,
+    "volume" : 1040056.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.47,
-    "pricePercentageAboveDma100" : 5.74,
-    "pricePercentageAboveDma200" : 5.81,
+    "pricePercentageAboveDma50" : 5.42,
+    "pricePercentageAboveDma100" : 5.70,
+    "pricePercentageAboveDma200" : 5.78,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 11.81,
     "operatingProfitMarginPercentile" : 18.08,
     "netProfitMarginPercentile" : 9.08,
-    "totalTechnicalScore" : 17.03,
+    "totalTechnicalScore" : 16.90,
     "totalFundamentalScore" : 38.96,
-    "totalScore" : 55.99
+    "totalScore" : 55.86
   }
 }

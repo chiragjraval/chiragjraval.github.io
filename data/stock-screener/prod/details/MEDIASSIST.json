@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "MEDIASSIST",
       "companyName" : "Medi Assist Ser.",
-      "marketCap" : 2064.00,
+      "marketCap" : 2065.00,
       "peRatio" : 18.40,
       "description" : "Incorporated in June 2000, Medi Assist Healthcare Services Limited is a health-tech and insurance-tech company that manages health benefits for employers, retail members, and public health schemes, primarily serving insurance companies.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.36,
-      "pricePercentageAboveDma100" : 5.72,
-      "pricePercentageAboveDma200" : 6.05,
+      "pricePercentageAboveDma50" : 5.34,
+      "pricePercentageAboveDma100" : 5.71,
+      "pricePercentageAboveDma200" : 6.04,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 1.67,
       "operatingProfitMarginPercentile" : 12.14,
       "netProfitMarginPercentile" : 5.62,
-      "totalTechnicalScore" : 22.13,
+      "totalTechnicalScore" : 22.09,
       "totalFundamentalScore" : 19.43,
-      "totalScore" : 41.56
+      "totalScore" : 41.52
     }
   },
   "attributes" : {
     "companyCode" : "MEDIASSIST",
     "companyName" : "Medi Assist Ser.",
-    "marketCap" : 2064.00,
+    "marketCap" : 2065.00,
     "peRatio" : 18.40,
     "description" : "Incorporated in June 2000, Medi Assist Healthcare Services Limited is a health-tech and insurance-tech company that manages health benefits for employers, retail members, and public health schemes, primarily serving insurance companies.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 487.30,
-    "dma50" : 509.76,
-    "dma100" : null,
-    "dma200" : 520.68,
-    "volume" : 125780.00
-  }, {
     "date" : "2025-11-28",
     "price" : 474.95,
     "dma50" : 508.39,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 361.00,
     "dma50" : 360.90,
-    "dma100" : 397.98,
+    "dma100" : null,
     "dma200" : 434.64,
     "volume" : 94433.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 323.09,
     "dma200" : 349.86,
     "volume" : 306615.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 276.40,
+    "dma50" : 296.57,
+    "dma100" : 322.21,
+    "dma200" : 349.13,
+    "volume" : 117217.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 276.25,
-    "dma50" : 297.40,
-    "dma100" : 323.09,
-    "dma200" : 349.86,
-    "volume" : 306615.00
+    "date" : "2026-11-27",
+    "price" : 276.40,
+    "dma50" : 296.57,
+    "dma100" : 322.21,
+    "dma200" : 349.13,
+    "volume" : 117217.00
   },
   "quarterlyResults" : [ {
     "date" : "2022-12-31",
@@ -1956,15 +1956,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.36,
-    "pricePercentageAboveDma100" : 5.72,
-    "pricePercentageAboveDma200" : 6.05,
+    "pricePercentageAboveDma50" : 5.34,
+    "pricePercentageAboveDma100" : 5.71,
+    "pricePercentageAboveDma200" : 6.04,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 1.67,
     "operatingProfitMarginPercentile" : 12.14,
     "netProfitMarginPercentile" : 5.62,
-    "totalTechnicalScore" : 22.13,
+    "totalTechnicalScore" : 22.09,
     "totalFundamentalScore" : 19.43,
-    "totalScore" : 41.56
+    "totalScore" : 41.52
   }
 }

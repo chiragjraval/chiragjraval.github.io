@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SAIL",
       "companyName" : "S A I L",
-      "marketCap" : 66485.00,
-      "peRatio" : 11.10,
+      "marketCap" : 67720.00,
+      "peRatio" : 11.30,
       "description" : "Steel Authority of India Limited (SAIL) is one of the largest steel-making companies in India and one of the Maharatnas of the countrys Central Public Sector Enterprises. SAIL produces iron and steel at five integrated plants and three special steel plants, located principally in the eastern and central regions of India and situated close to domestic sources of raw materials. SAIL manufactures and sells a broad range of steel products.(Source : Company Web-Site)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.29,
-      "pricePercentageAboveDma100" : 5.36,
-      "pricePercentageAboveDma200" : 5.22,
+      "pricePercentageAboveDma50" : 5.19,
+      "pricePercentageAboveDma100" : 5.27,
+      "pricePercentageAboveDma200" : 5.13,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 10.80,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 25.86,
+      "totalTechnicalScore" : 25.59,
       "totalFundamentalScore" : 31.74,
-      "totalScore" : 57.60
+      "totalScore" : 57.33
     }
   },
   "attributes" : {
     "companyCode" : "SAIL",
     "companyName" : "S A I L",
-    "marketCap" : 66485.00,
-    "peRatio" : 11.10,
+    "marketCap" : 67720.00,
+    "peRatio" : 11.30,
     "description" : "Steel Authority of India Limited (SAIL) is one of the largest steel-making companies in India and one of the Maharatnas of the countrys Central Public Sector Enterprises. SAIL produces iron and steel at five integrated plants and three special steel plants, located principally in the eastern and central regions of India and situated close to domestic sources of raw materials. SAIL manufactures and sells a broad range of steel products.(Source : Company Web-Site)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 136.21,
-    "dma50" : 135.06,
-    "dma100" : null,
-    "dma200" : 128.37,
-    "volume" : 16377559.00
-  }, {
     "date" : "2025-11-28",
     "price" : 134.91,
     "dma50" : 135.05,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 184.20,
     "dma50" : 160.91,
-    "dma100" : 151.28,
+    "dma100" : null,
     "dma200" : 144.79,
     "volume" : 48049152.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 173.28,
     "dma200" : 168.24,
     "volume" : 7091963.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 163.95,
+    "dma50" : 170.56,
+    "dma100" : 173.23,
+    "dma200" : 168.20,
+    "volume" : 12845710.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 160.96,
-    "dma50" : 170.83,
-    "dma100" : 173.28,
-    "dma200" : 168.24,
-    "volume" : 7091963.00
+    "date" : "2026-11-27",
+    "price" : 163.95,
+    "dma50" : 170.56,
+    "dma100" : 173.23,
+    "dma200" : 168.20,
+    "volume" : 12845710.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.29,
-    "pricePercentageAboveDma100" : 5.36,
-    "pricePercentageAboveDma200" : 5.22,
+    "pricePercentageAboveDma50" : 5.19,
+    "pricePercentageAboveDma100" : 5.27,
+    "pricePercentageAboveDma200" : 5.13,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 10.80,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 25.86,
+    "totalTechnicalScore" : 25.59,
     "totalFundamentalScore" : 31.74,
-    "totalScore" : 57.60
+    "totalScore" : 57.33
   }
 }

@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "CAPILLARY",
       "companyName" : "Capillary Tech.",
-      "marketCap" : 4004.00,
+      "marketCap" : 4010.00,
       "peRatio" : 55.00,
       "description" : "Incorporated in 2012, Capillary Technologies India Ltd is a leading Indian software-as-a-service (SaaS) company that specializes in customer loyalty and engagement solutions.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.16,
-      "pricePercentageAboveDma100" : 5.15,
-      "pricePercentageAboveDma200" : 5.30,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.14,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 20.61,
+      "totalTechnicalScore" : 20.57,
       "totalFundamentalScore" : 50.00,
-      "totalScore" : 70.61
+      "totalScore" : 70.57
     }
   },
   "attributes" : {
     "companyCode" : "CAPILLARY",
     "companyName" : "Capillary Tech.",
-    "marketCap" : 4004.00,
+    "marketCap" : 4010.00,
     "peRatio" : 55.00,
     "description" : "Incorporated in 2012, Capillary Technologies India Ltd is a leading Indian software-as-a-service (SaaS) company that specializes in customer loyalty and engagement solutions.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 676.15,
-    "dma50" : 617.55,
-    "dma100" : null,
-    "dma200" : 609.42,
-    "volume" : 26198272.00
-  }, {
     "date" : "2025-11-28",
     "price" : 644.00,
     "dma50" : 618.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 565.55,
     "dma50" : 544.12,
-    "dma100" : 589.32,
+    "dma100" : null,
     "dma200" : 586.15,
     "volume" : 29776.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 517.27,
     "dma200" : 534.18,
     "volume" : 30970.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 503.05,
+    "dma50" : 518.55,
+    "dma100" : 517.14,
+    "dma200" : 533.87,
+    "volume" : 81041.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 502.25,
-    "dma50" : 519.18,
-    "dma100" : 517.27,
-    "dma200" : 534.18,
-    "volume" : 30970.00
+    "date" : "2026-11-27",
+    "price" : 503.05,
+    "dma50" : 518.55,
+    "dma100" : 517.14,
+    "dma200" : 533.87,
+    "volume" : 81041.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-12-31",
@@ -1876,15 +1876,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.16,
-    "pricePercentageAboveDma100" : 5.15,
-    "pricePercentageAboveDma200" : 5.30,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.14,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 20.61,
+    "totalTechnicalScore" : 20.57,
     "totalFundamentalScore" : 50.00,
-    "totalScore" : 70.61
+    "totalScore" : 70.57
   }
 }

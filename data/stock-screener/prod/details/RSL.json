@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RSL",
       "companyName" : "Rajputana Stain.",
-      "marketCap" : 1306.00,
-      "peRatio" : 18.80,
+      "marketCap" : 1316.00,
+      "peRatio" : 19.00,
       "description" : ""
     },
     "companyScore" : {
@@ -20,23 +20,23 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.33,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 4.76,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.18,
+      "pricePercentageAboveDma200" : 4.73,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 20.00,
       "operatingProfitMarginPercentile" : 19.12,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 35.29,
+      "totalTechnicalScore" : 35.19,
       "totalFundamentalScore" : 49.12,
-      "totalScore" : 84.42
+      "totalScore" : 84.31
     }
   },
   "attributes" : {
     "companyCode" : "RSL",
     "companyName" : "Rajputana Stain.",
-    "marketCap" : 1306.00,
-    "peRatio" : 18.80,
+    "marketCap" : 1316.00,
+    "peRatio" : 19.00,
     "description" : ""
   },
   "technicalHistory" : [ {
@@ -1229,14 +1229,21 @@
     "dma100" : 162.90,
     "dma200" : 149.16,
     "volume" : 52770.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 157.44,
+    "dma50" : 167.01,
+    "dma100" : 163.16,
+    "dma200" : 149.24,
+    "volume" : 510719.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 156.30,
-    "dma50" : 167.40,
-    "dma100" : 162.90,
-    "dma200" : 149.16,
-    "volume" : 52770.00
+    "date" : "2026-11-27",
+    "price" : 157.44,
+    "dma50" : 167.01,
+    "dma100" : 163.16,
+    "dma200" : 149.24,
+    "volume" : 510719.00
   },
   "quarterlyResults" : [ {
     "date" : "2024-12-31",
@@ -1337,15 +1344,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.33,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 4.76,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.18,
+    "pricePercentageAboveDma200" : 4.73,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 20.00,
     "operatingProfitMarginPercentile" : 19.12,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 35.29,
+    "totalTechnicalScore" : 35.19,
     "totalFundamentalScore" : 49.12,
-    "totalScore" : 84.42
+    "totalScore" : 84.31
   }
 }

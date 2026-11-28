@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KSCL",
       "companyName" : "Kaveri Seed Co.",
-      "marketCap" : 3554.00,
-      "peRatio" : 13.90,
+      "marketCap" : 3578.00,
+      "peRatio" : 14.00,
       "description" : "Incorporated in 1976, Kaveri Seed Company Ltd is in the business of research, production, processing and marketing of various high quality hybrid seeds[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.18,
-      "pricePercentageAboveDma100" : 5.41,
-      "pricePercentageAboveDma200" : 5.75,
+      "pricePercentageAboveDma50" : 5.15,
+      "pricePercentageAboveDma100" : 5.37,
+      "pricePercentageAboveDma200" : 5.72,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 13.08,
       "operatingProfitMarginPercentile" : 11.93,
       "netProfitMarginPercentile" : 6.06,
-      "totalTechnicalScore" : 16.35,
+      "totalTechnicalScore" : 16.24,
       "totalFundamentalScore" : 31.06,
-      "totalScore" : 47.41
+      "totalScore" : 47.30
     }
   },
   "attributes" : {
     "companyCode" : "KSCL",
     "companyName" : "Kaveri Seed Co.",
-    "marketCap" : 3554.00,
-    "peRatio" : 13.90,
+    "marketCap" : 3578.00,
+    "peRatio" : 14.00,
     "description" : "Incorporated in 1976, Kaveri Seed Company Ltd is in the business of research, production, processing and marketing of various high quality hybrid seeds[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 979.80,
-    "dma50" : 1054.50,
-    "dma100" : null,
-    "dma200" : 1107.49,
-    "volume" : 80248.00
-  }, {
     "date" : "2025-11-28",
     "price" : 994.20,
     "dma50" : 1052.14,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 927.05,
     "dma50" : 873.14,
-    "dma100" : 884.84,
+    "dma100" : null,
     "dma200" : 960.59,
     "volume" : 109491.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 753.23,
     "dma200" : 813.79,
     "volume" : 42846.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 695.50,
+    "dma50" : 716.53,
+    "dma100" : 751.09,
+    "dma200" : 812.61,
+    "volume" : 28369.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 691.00,
-    "dma50" : 717.39,
-    "dma100" : 753.23,
-    "dma200" : 813.79,
-    "volume" : 42846.00
+    "date" : "2026-11-27",
+    "price" : 695.50,
+    "dma50" : 716.53,
+    "dma100" : 751.09,
+    "dma200" : 812.61,
+    "volume" : 28369.00
   },
   "quarterlyResults" : [ {
     "date" : "2006-06-30",
@@ -2616,15 +2616,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.18,
-    "pricePercentageAboveDma100" : 5.41,
-    "pricePercentageAboveDma200" : 5.75,
+    "pricePercentageAboveDma50" : 5.15,
+    "pricePercentageAboveDma100" : 5.37,
+    "pricePercentageAboveDma200" : 5.72,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 13.08,
     "operatingProfitMarginPercentile" : 11.93,
     "netProfitMarginPercentile" : 6.06,
-    "totalTechnicalScore" : 16.35,
+    "totalTechnicalScore" : 16.24,
     "totalFundamentalScore" : 31.06,
-    "totalScore" : 47.41
+    "totalScore" : 47.30
   }
 }

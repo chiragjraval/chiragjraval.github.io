@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LMW",
       "companyName" : "LMW",
-      "marketCap" : 18159.00,
-      "peRatio" : 85.20,
+      "marketCap" : 18133.00,
+      "peRatio" : 85.10,
       "description" : "Lakshmi Machine Works Ltd is a leading Textile Machinery Manufacturer in India engaged in the manufacturing and selling of textile spinning machinery, CNC Machine Tools, Heavy castings, and parts and components catering to diverse sectors.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.01,
-      "pricePercentageAboveDma100" : 5.05,
-      "pricePercentageAboveDma200" : 4.81,
+      "pricePercentageAboveDma50" : 5.02,
+      "pricePercentageAboveDma100" : 5.06,
+      "pricePercentageAboveDma200" : 4.82,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 14.77,
       "netProfitMarginPercentile" : 5.74,
-      "totalTechnicalScore" : 34.88,
+      "totalTechnicalScore" : 34.90,
       "totalFundamentalScore" : 36.89,
-      "totalScore" : 71.76
+      "totalScore" : 71.79
     }
   },
   "attributes" : {
     "companyCode" : "LMW",
     "companyName" : "LMW",
-    "marketCap" : 18159.00,
-    "peRatio" : 85.20,
+    "marketCap" : 18133.00,
+    "peRatio" : 85.10,
     "description" : "Lakshmi Machine Works Ltd is a leading Textile Machinery Manufacturer in India engaged in the manufacturing and selling of textile spinning machinery, CNC Machine Tools, Heavy castings, and parts and components catering to diverse sectors.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 15191.00,
-    "dma50" : 15335.66,
-    "dma100" : null,
-    "dma200" : 15556.35,
-    "volume" : 1678.00
-  }, {
     "date" : "2025-11-28",
     "price" : 15051.00,
     "dma50" : 15324.49,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 14509.00,
     "dma50" : 14133.95,
-    "dma100" : 14572.03,
+    "dma100" : null,
     "dma200" : 14853.03,
     "volume" : 2469.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 17161.26,
     "dma200" : 16391.47,
     "volume" : 8100.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 16974.00,
+    "dma50" : 17043.61,
+    "dma100" : 17173.22,
+    "dma200" : 16397.27,
+    "volume" : 4622.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 16998.00,
-    "dma50" : 17046.45,
-    "dma100" : 17161.26,
-    "dma200" : 16391.47,
-    "volume" : 8100.00
+    "date" : "2026-11-27",
+    "price" : 16974.00,
+    "dma50" : 17043.61,
+    "dma100" : 17173.22,
+    "dma200" : 16397.27,
+    "volume" : 4622.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.01,
-    "pricePercentageAboveDma100" : 5.05,
-    "pricePercentageAboveDma200" : 4.81,
+    "pricePercentageAboveDma50" : 5.02,
+    "pricePercentageAboveDma100" : 5.06,
+    "pricePercentageAboveDma200" : 4.82,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 14.77,
     "netProfitMarginPercentile" : 5.74,
-    "totalTechnicalScore" : 34.88,
+    "totalTechnicalScore" : 34.90,
     "totalFundamentalScore" : 36.89,
-    "totalScore" : 71.76
+    "totalScore" : 71.79
   }
 }

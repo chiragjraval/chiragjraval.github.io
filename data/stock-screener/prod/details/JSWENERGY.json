@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "JSWENERGY",
       "companyName" : "JSW Energy",
-      "marketCap" : 88951.00,
+      "marketCap" : 88924.00,
       "peRatio" : 37.70,
       "description" : "JSW Energy Ltd and its subsidiaries are primarily engaged in the business of generation of power from its power assets located at Karnataka, Maharashtra, Nandyal and Salboni. It is the holding company for the JSW group's power business. The company also has a JV company engaged in mining activities and an associate engaged in manufacturing of turbines.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.21,
+      "pricePercentageAboveDma50" : 5.20,
       "pricePercentageAboveDma100" : 5.36,
       "pricePercentageAboveDma200" : 5.34,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.94,
       "operatingProfitMarginPercentile" : 6.67,
       "netProfitMarginPercentile" : 8.61,
-      "totalTechnicalScore" : 20.91,
+      "totalTechnicalScore" : 20.90,
       "totalFundamentalScore" : 28.22,
-      "totalScore" : 49.13
+      "totalScore" : 49.12
     }
   },
   "attributes" : {
     "companyCode" : "JSWENERGY",
     "companyName" : "JSW Energy",
-    "marketCap" : 88951.00,
+    "marketCap" : 88924.00,
     "peRatio" : 37.70,
     "description" : "JSW Energy Ltd and its subsidiaries are primarily engaged in the business of generation of power from its power assets located at Karnataka, Maharashtra, Nandyal and Salboni. It is the holding company for the JSW group's power business. The company also has a JV company engaged in mining activities and an associate engaged in manufacturing of turbines.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 488.00,
-    "dma50" : 519.85,
-    "dma100" : null,
-    "dma200" : 532.33,
-    "volume" : 2463803.00
-  }, {
     "date" : "2025-11-28",
     "price" : 488.65,
     "dma50" : 518.62,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 573.80,
     "dma50" : 507.99,
-    "dma100" : 489.35,
+    "dma100" : null,
     "dma200" : 507.92,
     "volume" : 9041433.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 522.74,
     "dma200" : 521.00,
     "volume" : 3574604.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 485.00,
+    "dma50" : 505.36,
+    "dma100" : 522.12,
+    "dma200" : 520.64,
+    "volume" : 1042992.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 485.15,
-    "dma50" : 506.19,
-    "dma100" : 522.74,
-    "dma200" : 521.00,
-    "volume" : 3574604.00
+    "date" : "2026-11-27",
+    "price" : 485.00,
+    "dma50" : 505.36,
+    "dma100" : 522.12,
+    "dma200" : 520.64,
+    "volume" : 1042992.00
   },
   "quarterlyResults" : [ {
     "date" : "2008-12-31",
@@ -2516,15 +2516,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.21,
+    "pricePercentageAboveDma50" : 5.20,
     "pricePercentageAboveDma100" : 5.36,
     "pricePercentageAboveDma200" : 5.34,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.94,
     "operatingProfitMarginPercentile" : 6.67,
     "netProfitMarginPercentile" : 8.61,
-    "totalTechnicalScore" : 20.91,
+    "totalTechnicalScore" : 20.90,
     "totalFundamentalScore" : 28.22,
-    "totalScore" : 49.13
+    "totalScore" : 49.12
   }
 }

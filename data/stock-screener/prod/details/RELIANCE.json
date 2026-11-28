@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "RELIANCE",
       "companyName" : "Reliance Industries",
-      "marketCap" : 1889413.00,
-      "peRatio" : 23.00,
+      "marketCap" : 1871008.00,
+      "peRatio" : 22.80,
       "description" : "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.58,
-      "pricePercentageAboveDma100" : 4.53,
-      "pricePercentageAboveDma200" : 4.70,
+      "pricePercentageAboveDma50" : 4.65,
+      "pricePercentageAboveDma100" : 4.59,
+      "pricePercentageAboveDma200" : 4.75,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 7.74,
       "netProfitMarginPercentile" : 4.60,
-      "totalTechnicalScore" : 38.81,
+      "totalTechnicalScore" : 38.99,
       "totalFundamentalScore" : 27.04,
-      "totalScore" : 65.84
+      "totalScore" : 66.02
     }
   },
   "attributes" : {
     "companyCode" : "RELIANCE",
     "companyName" : "Reliance Industries",
-    "marketCap" : 1889413.00,
-    "peRatio" : 23.00,
+    "marketCap" : 1871008.00,
+    "peRatio" : 22.80,
     "description" : "Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1563.40,
-    "dma50" : 1471.36,
-    "dma100" : null,
-    "dma200" : 1408.89,
-    "volume" : 10907427.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1567.50,
     "dma50" : 1475.13,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1365.80,
     "dma50" : 1381.48,
-    "dma100" : 1440.25,
+    "dma100" : null,
     "dma200" : 1416.43,
     "volume" : 25655366.00
   }, {
@@ -932,7 +925,7 @@
     "date" : "2026-06-05",
     "price" : 1291.00,
     "dma50" : 1364.36,
-    "dma100" : 1390.45,
+    "dma100" : 1390.44,
     "dma200" : 1404.31,
     "volume" : 19769535.00
   }, {
@@ -1156,7 +1149,7 @@
     "date" : "2026-07-22",
     "price" : 1288.60,
     "dma50" : 1319.76,
-    "dma100" : 1349.14,
+    "dma100" : 1349.13,
     "dma200" : 1376.26,
     "volume" : 11520481.00
   }, {
@@ -1709,7 +1702,7 @@
     "date" : "2026-11-13",
     "price" : 1339.70,
     "dma50" : 1257.29,
-    "dma100" : 1271.49,
+    "dma100" : 1271.48,
     "dma200" : 1311.88,
     "volume" : 15309782.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1276.46,
     "dma200" : 1316.26,
     "volume" : 22305993.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1382.60,
+    "dma50" : 1291.74,
+    "dma100" : 1277.07,
+    "dma200" : 1316.92,
+    "volume" : 12952595.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1396.20,
-    "dma50" : 1288.03,
-    "dma100" : 1276.46,
-    "dma200" : 1316.26,
-    "volume" : 22305993.00
+    "date" : "2026-11-27",
+    "price" : 1382.60,
+    "dma50" : 1291.74,
+    "dma100" : 1277.07,
+    "dma200" : 1316.92,
+    "volume" : 12952595.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.58,
-    "pricePercentageAboveDma100" : 4.53,
-    "pricePercentageAboveDma200" : 4.70,
+    "pricePercentageAboveDma50" : 4.65,
+    "pricePercentageAboveDma100" : 4.59,
+    "pricePercentageAboveDma200" : 4.75,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 7.74,
     "netProfitMarginPercentile" : 4.60,
-    "totalTechnicalScore" : 38.81,
+    "totalTechnicalScore" : 38.99,
     "totalFundamentalScore" : 27.04,
-    "totalScore" : 65.84
+    "totalScore" : 66.02
   }
 }

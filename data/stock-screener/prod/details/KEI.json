@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KEI",
       "companyName" : "KEI Industries",
-      "marketCap" : 34872.00,
-      "peRatio" : 33.00,
+      "marketCap" : 35904.00,
+      "peRatio" : 34.00,
       "description" : "Incorporated in 1968, KEI Industries Ltd manufactures wires and cables (W&C) like EHV cables, HT cables, LT cables, and sells them in India and overseas[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.68,
-      "pricePercentageAboveDma100" : 6.15,
-      "pricePercentageAboveDma200" : 6.03,
+      "pricePercentageAboveDma50" : 5.53,
+      "pricePercentageAboveDma100" : 6.02,
+      "pricePercentageAboveDma200" : 5.90,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.14,
       "operatingProfitMarginPercentile" : 13.17,
       "netProfitMarginPercentile" : 8.40,
-      "totalTechnicalScore" : 27.85,
+      "totalTechnicalScore" : 27.45,
       "totalFundamentalScore" : 37.71,
-      "totalScore" : 65.57
+      "totalScore" : 65.17
     }
   },
   "attributes" : {
     "companyCode" : "KEI",
     "companyName" : "KEI Industries",
-    "marketCap" : 34872.00,
-    "peRatio" : 33.00,
+    "marketCap" : 35904.00,
+    "peRatio" : 34.00,
     "description" : "Incorporated in 1968, KEI Industries Ltd manufactures wires and cables (W&C) like EHV cables, HT cables, LT cables, and sells them in India and overseas[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 4135.70,
-    "dma50" : 4080.78,
-    "dma100" : null,
-    "dma200" : 3888.92,
-    "volume" : 94423.00
-  }, {
     "date" : "2025-11-28",
     "price" : 4145.60,
     "dma50" : 4083.32,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 4888.70,
     "dma50" : 4502.34,
-    "dma100" : 4390.36,
+    "dma100" : null,
     "dma200" : 4228.68,
     "volume" : 356197.00
   }, {
@@ -1121,7 +1114,7 @@
     "date" : "2026-07-15",
     "price" : 5092.50,
     "dma50" : 5165.48,
-    "dma100" : 4912.45,
+    "dma100" : 4912.46,
     "dma200" : 4649.54,
     "volume" : 412809.00
   }, {
@@ -1268,7 +1261,7 @@
     "date" : "2026-08-13",
     "price" : 5789.00,
     "dma50" : 5225.73,
-    "dma100" : 5022.62,
+    "dma100" : 5022.63,
     "dma200" : 4756.65,
     "volume" : 435737.00
   }, {
@@ -1282,7 +1275,7 @@
     "date" : "2026-08-17",
     "price" : 5873.00,
     "dma50" : 5268.98,
-    "dma100" : 5052.32,
+    "dma100" : 5052.33,
     "dma200" : 4777.05,
     "volume" : 364999.00
   }, {
@@ -1709,28 +1702,28 @@
     "date" : "2026-11-13",
     "price" : 4040.00,
     "dma50" : 4379.02,
-    "dma100" : 4855.00,
+    "dma100" : 4855.01,
     "dma200" : 4658.43,
     "volume" : 323824.00
   }, {
     "date" : "2026-11-16",
     "price" : 4020.00,
     "dma50" : 4364.94,
-    "dma100" : 4839.44,
+    "dma100" : 4839.45,
     "dma200" : 4652.07,
     "volume" : 174586.00
   }, {
     "date" : "2026-11-17",
     "price" : 3851.00,
     "dma50" : 4344.79,
-    "dma100" : 4823.76,
+    "dma100" : 4823.77,
     "dma200" : 4644.10,
     "volume" : 795662.00
   }, {
     "date" : "2026-11-18",
     "price" : 3725.00,
     "dma50" : 4320.48,
-    "dma100" : 4808.33,
+    "dma100" : 4808.34,
     "dma200" : 4634.96,
     "volume" : 733108.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 4729.12,
     "dma200" : 4591.77,
     "volume" : 821020.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 3753.90,
+    "dma50" : 4198.25,
+    "dma100" : 4714.15,
+    "dma200" : 4583.44,
+    "volume" : 763315.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 3646.00,
-    "dma50" : 4216.38,
-    "dma100" : 4729.12,
-    "dma200" : 4591.77,
-    "volume" : 821020.00
+    "date" : "2026-11-27",
+    "price" : 3753.90,
+    "dma50" : 4198.25,
+    "dma100" : 4714.15,
+    "dma200" : 4583.44,
+    "volume" : 763315.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.68,
-    "pricePercentageAboveDma100" : 6.15,
-    "pricePercentageAboveDma200" : 6.03,
+    "pricePercentageAboveDma50" : 5.53,
+    "pricePercentageAboveDma100" : 6.02,
+    "pricePercentageAboveDma200" : 5.90,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.14,
     "operatingProfitMarginPercentile" : 13.17,
     "netProfitMarginPercentile" : 8.40,
-    "totalTechnicalScore" : 27.85,
+    "totalTechnicalScore" : 27.45,
     "totalFundamentalScore" : 37.71,
-    "totalScore" : 65.57
+    "totalScore" : 65.17
   }
 }

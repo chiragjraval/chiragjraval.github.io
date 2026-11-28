@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TRIVENI",
       "companyName" : "Triven.Engg.Ind.",
-      "marketCap" : 5122.00,
-      "peRatio" : 15.50,
+      "marketCap" : 5249.00,
+      "peRatio" : 15.90,
       "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.20,
-      "pricePercentageAboveDma100" : 5.41,
-      "pricePercentageAboveDma200" : 5.21,
+      "pricePercentageAboveDma50" : 5.08,
+      "pricePercentageAboveDma100" : 5.29,
+      "pricePercentageAboveDma200" : 5.10,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.64,
       "operatingProfitMarginPercentile" : 11.55,
       "netProfitMarginPercentile" : 7.16,
-      "totalTechnicalScore" : 20.83,
+      "totalTechnicalScore" : 20.46,
       "totalFundamentalScore" : 28.36,
-      "totalScore" : 49.18
+      "totalScore" : 48.82
     }
   },
   "attributes" : {
     "companyCode" : "TRIVENI",
     "companyName" : "Triven.Engg.Ind.",
-    "marketCap" : 5122.00,
-    "peRatio" : 15.50,
+    "marketCap" : 5249.00,
+    "peRatio" : 15.90,
     "description" : "Triveni Engineering and Industries Ltd is an Integrated and diversified conglomerate in areas of sugar, ethanol and engineering. it is located strategically in sugarcane-rich western and central belt of UP. The company is among the Top 3 manufacturers in India for sugar & second highest supplier for ethanol."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 218.99,
-    "dma50" : 215.75,
-    "dma100" : null,
-    "dma200" : 224.48,
-    "volume" : 301859.00
-  }, {
     "date" : "2025-11-28",
     "price" : 214.59,
     "dma50" : 215.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 250.92,
     "dma50" : 231.50,
-    "dma100" : 225.11,
+    "dma100" : null,
     "dma200" : 225.97,
     "volume" : 529901.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 253.17,
     "dma200" : 242.86,
     "volume" : 1539892.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 238.18,
+    "dma50" : 241.97,
+    "dma100" : 252.76,
+    "dma200" : 242.81,
+    "volume" : 960572.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 232.42,
-    "dma50" : 242.13,
-    "dma100" : 253.17,
-    "dma200" : 242.86,
-    "volume" : 1539892.00
+    "date" : "2026-11-27",
+    "price" : 238.18,
+    "dma50" : 241.97,
+    "dma100" : 252.76,
+    "dma200" : 242.81,
+    "volume" : 960572.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.20,
-    "pricePercentageAboveDma100" : 5.41,
-    "pricePercentageAboveDma200" : 5.21,
+    "pricePercentageAboveDma50" : 5.08,
+    "pricePercentageAboveDma100" : 5.29,
+    "pricePercentageAboveDma200" : 5.10,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.64,
     "operatingProfitMarginPercentile" : 11.55,
     "netProfitMarginPercentile" : 7.16,
-    "totalTechnicalScore" : 20.83,
+    "totalTechnicalScore" : 20.46,
     "totalFundamentalScore" : 28.36,
-    "totalScore" : 49.18
+    "totalScore" : 48.82
   }
 }

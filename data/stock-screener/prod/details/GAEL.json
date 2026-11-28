@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "GAEL",
       "companyName" : "Guj. Ambuja Exp",
-      "marketCap" : 6417.00,
-      "peRatio" : 12.50,
+      "marketCap" : 6464.00,
+      "peRatio" : 12.60,
       "description" : "Gujarat Ambuja Exports is engaged in the manufacturing of Corn Starch Derivatives, Soya Derivatives, Feed Ingredients, Cotton Yarn, and Edible Oils. Since its incorporation in 1991, GAEL strives to serve the Food, Pharmaceutical, Feed, and many other industries with a long-term growth strategy in the Agro-Processing sector. (Source: Company Website)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.44,
-      "pricePercentageAboveDma100" : 5.63,
-      "pricePercentageAboveDma200" : 5.39,
+      "pricePercentageAboveDma50" : 5.39,
+      "pricePercentageAboveDma100" : 5.59,
+      "pricePercentageAboveDma200" : 5.35,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 6.77,
       "operatingProfitMarginPercentile" : 19.31,
       "netProfitMarginPercentile" : 9.54,
-      "totalTechnicalScore" : 26.45,
+      "totalTechnicalScore" : 26.33,
       "totalFundamentalScore" : 35.62,
-      "totalScore" : 62.08
+      "totalScore" : 61.96
     }
   },
   "attributes" : {
     "companyCode" : "GAEL",
     "companyName" : "Guj. Ambuja Exp",
-    "marketCap" : 6417.00,
-    "peRatio" : 12.50,
+    "marketCap" : 6464.00,
+    "peRatio" : 12.60,
     "description" : "Gujarat Ambuja Exports is engaged in the manufacturing of Corn Starch Derivatives, Soya Derivatives, Feed Ingredients, Cotton Yarn, and Edible Oils. Since its incorporation in 1991, GAEL strives to serve the Food, Pharmaceutical, Feed, and many other industries with a long-term growth strategy in the Agro-Processing sector. (Source: Company Website)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 107.07,
-    "dma50" : 107.47,
-    "dma100" : null,
-    "dma200" : 112.41,
-    "volume" : 454052.00
-  }, {
     "date" : "2025-11-28",
     "price" : 110.57,
     "dma50" : 107.59,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 152.81,
     "dma50" : 141.95,
-    "dma100" : 134.91,
+    "dma100" : null,
     "dma200" : 128.09,
     "volume" : 824872.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 160.05,
     "dma200" : 151.67,
     "volume" : 334158.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 140.92,
+    "dma50" : 152.80,
+    "dma100" : 159.83,
+    "dma200" : 151.56,
+    "volume" : 140497.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 139.91,
-    "dma50" : 153.29,
-    "dma100" : 160.05,
-    "dma200" : 151.67,
-    "volume" : 334158.00
+    "date" : "2026-11-27",
+    "price" : 140.92,
+    "dma50" : 152.80,
+    "dma100" : 159.83,
+    "dma200" : 151.56,
+    "volume" : 140497.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.44,
-    "pricePercentageAboveDma100" : 5.63,
-    "pricePercentageAboveDma200" : 5.39,
+    "pricePercentageAboveDma50" : 5.39,
+    "pricePercentageAboveDma100" : 5.59,
+    "pricePercentageAboveDma200" : 5.35,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 6.77,
     "operatingProfitMarginPercentile" : 19.31,
     "netProfitMarginPercentile" : 9.54,
-    "totalTechnicalScore" : 26.45,
+    "totalTechnicalScore" : 26.33,
     "totalFundamentalScore" : 35.62,
-    "totalScore" : 62.08
+    "totalScore" : 61.96
   }
 }

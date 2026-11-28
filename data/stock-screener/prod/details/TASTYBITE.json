@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "TASTYBITE",
       "companyName" : "Tasty Bite Eat.",
-      "marketCap" : 2561.00,
-      "peRatio" : 61.50,
+      "marketCap" : 2599.00,
+      "peRatio" : 62.40,
       "description" : "Tasty Bite Eatables is a manufacturer of ethnic and natural vegetarian packaged and ready to eat/serve (RTE) and Read-to-cook (RTC) food products, which is sold under the “Tasty Bite” brand in the United States of America, Australia, the United Kingdom, Germany and Canada. [1] It is one of the fastest growing Asian food brands in the United States.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.98,
-      "pricePercentageAboveDma100" : 4.82,
-      "pricePercentageAboveDma200" : 4.54,
+      "pricePercentageAboveDma50" : 4.91,
+      "pricePercentageAboveDma100" : 4.76,
+      "pricePercentageAboveDma200" : 4.46,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 11.95,
       "netProfitMarginPercentile" : 6.88,
-      "totalTechnicalScore" : 44.34,
+      "totalTechnicalScore" : 44.13,
       "totalFundamentalScore" : 33.76,
-      "totalScore" : 78.10
+      "totalScore" : 77.89
     }
   },
   "attributes" : {
     "companyCode" : "TASTYBITE",
     "companyName" : "Tasty Bite Eat.",
-    "marketCap" : 2561.00,
-    "peRatio" : 61.50,
+    "marketCap" : 2599.00,
+    "peRatio" : 62.40,
     "description" : "Tasty Bite Eatables is a manufacturer of ethnic and natural vegetarian packaged and ready to eat/serve (RTE) and Read-to-cook (RTC) food products, which is sold under the “Tasty Bite” brand in the United States of America, Australia, the United Kingdom, Germany and Canada. [1] It is one of the fastest growing Asian food brands in the United States.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 8303.50,
-    "dma50" : 8898.68,
-    "dma100" : null,
-    "dma200" : 9733.93,
-    "volume" : 1171.00
-  }, {
     "date" : "2025-11-28",
     "price" : 8363.00,
     "dma50" : 8877.67,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 6993.50,
     "dma50" : 7143.77,
-    "dma100" : 7422.27,
+    "dma100" : null,
     "dma200" : 8204.94,
     "volume" : 3077.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 9640.07,
     "dma200" : 9134.87,
     "volume" : 1499.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 10127.50,
+    "dma50" : 9948.28,
+    "dma100" : 9656.18,
+    "dma200" : 9144.75,
+    "volume" : 2726.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 9980.50,
-    "dma50" : 9940.97,
-    "dma100" : 9640.07,
-    "dma200" : 9134.87,
-    "volume" : 1499.00
+    "date" : "2026-11-27",
+    "price" : 10127.50,
+    "dma50" : 9948.28,
+    "dma100" : 9656.18,
+    "dma200" : 9144.75,
+    "volume" : 2726.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.98,
-    "pricePercentageAboveDma100" : 4.82,
-    "pricePercentageAboveDma200" : 4.54,
+    "pricePercentageAboveDma50" : 4.91,
+    "pricePercentageAboveDma100" : 4.76,
+    "pricePercentageAboveDma200" : 4.46,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 11.95,
     "netProfitMarginPercentile" : 6.88,
-    "totalTechnicalScore" : 44.34,
+    "totalTechnicalScore" : 44.13,
     "totalFundamentalScore" : 33.76,
-    "totalScore" : 78.10
+    "totalScore" : 77.89
   }
 }

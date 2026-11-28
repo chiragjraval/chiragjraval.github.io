@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "LANDMARK",
       "companyName" : "Landmark Cars",
-      "marketCap" : 1930.00,
-      "peRatio" : 29.80,
+      "marketCap" : 1866.00,
+      "peRatio" : 28.80,
       "description" : "Incorporated in 1998, Landmark Cars Limited is the leading premium automotive retail business in India with dealerships for Mercedes-Benz, Honda, Jeep, Volkswagen, and Renault. The company also caters to the commercial vehicle retail business of Ashok Leyland in India.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.04,
-      "pricePercentageAboveDma100" : 5.24,
-      "pricePercentageAboveDma200" : 5.05,
+      "pricePercentageAboveDma50" : 5.20,
+      "pricePercentageAboveDma100" : 5.40,
+      "pricePercentageAboveDma200" : 5.22,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 2.50,
       "operatingProfitMarginPercentile" : 14.00,
       "netProfitMarginPercentile" : 7.50,
-      "totalTechnicalScore" : 20.33,
+      "totalTechnicalScore" : 20.81,
       "totalFundamentalScore" : 24.00,
-      "totalScore" : 44.33
+      "totalScore" : 44.81
     }
   },
   "attributes" : {
     "companyCode" : "LANDMARK",
     "companyName" : "Landmark Cars",
-    "marketCap" : 1930.00,
-    "peRatio" : 29.80,
+    "marketCap" : 1866.00,
+    "peRatio" : 28.80,
     "description" : "Incorporated in 1998, Landmark Cars Limited is the leading premium automotive retail business in India with dealerships for Mercedes-Benz, Honda, Jeep, Volkswagen, and Renault. The company also caters to the commercial vehicle retail business of Ashok Leyland in India.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 534.95,
-    "dma50" : 584.35,
-    "dma100" : null,
-    "dma200" : 560.04,
-    "volume" : 37965.00
-  }, {
     "date" : "2025-11-28",
     "price" : 534.00,
     "dma50" : 582.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 417.40,
     "dma50" : 411.01,
-    "dma100" : 430.18,
+    "dma100" : null,
     "dma200" : 471.96,
     "volume" : 15930.00
   }, {
@@ -1002,7 +995,7 @@
     "date" : "2026-06-19",
     "price" : 426.05,
     "dma50" : 403.90,
-    "dma100" : 399.13,
+    "dma100" : 399.12,
     "dma200" : 448.93,
     "volume" : 329983.00
   }, {
@@ -1065,7 +1058,7 @@
     "date" : "2026-07-03",
     "price" : 449.40,
     "dma50" : 414.76,
-    "dma100" : 403.72,
+    "dma100" : 403.71,
     "dma200" : 448.16,
     "volume" : 205488.00
   }, {
@@ -1219,7 +1212,7 @@
     "date" : "2026-08-04",
     "price" : 543.50,
     "dma50" : 469.76,
-    "dma100" : 422.17,
+    "dma100" : 422.16,
     "dma200" : 458.74,
     "volume" : 148927.00
   }, {
@@ -1268,7 +1261,7 @@
     "date" : "2026-08-13",
     "price" : 532.00,
     "dma50" : 489.07,
-    "dma100" : 435.43,
+    "dma100" : 435.42,
     "dma200" : 464.83,
     "volume" : 181365.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 488.69,
     "dma200" : 470.42,
     "volume" : 45441.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 450.00,
+    "dma50" : 468.64,
+    "dma100" : 488.81,
+    "dma200" : 470.22,
+    "volume" : 102905.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 465.45,
-    "dma50" : 469.40,
-    "dma100" : 488.69,
-    "dma200" : 470.42,
-    "volume" : 45441.00
+    "date" : "2026-11-27",
+    "price" : 450.00,
+    "dma50" : 468.64,
+    "dma100" : 488.81,
+    "dma200" : 470.22,
+    "volume" : 102905.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-12-31",
@@ -1996,15 +1996,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.04,
-    "pricePercentageAboveDma100" : 5.24,
-    "pricePercentageAboveDma200" : 5.05,
+    "pricePercentageAboveDma50" : 5.20,
+    "pricePercentageAboveDma100" : 5.40,
+    "pricePercentageAboveDma200" : 5.22,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 2.50,
     "operatingProfitMarginPercentile" : 14.00,
     "netProfitMarginPercentile" : 7.50,
-    "totalTechnicalScore" : 20.33,
+    "totalTechnicalScore" : 20.81,
     "totalFundamentalScore" : 24.00,
-    "totalScore" : 44.33
+    "totalScore" : 44.81
   }
 }

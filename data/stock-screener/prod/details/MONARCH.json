@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MONARCH",
       "companyName" : "Monarch Networth",
-      "marketCap" : 2636.00,
-      "peRatio" : 13.70,
+      "marketCap" : 2656.00,
+      "peRatio" : 13.80,
       "description" : "Monarch Networth Capital is an integrated financial-services group offering retail and institutional broking, margin-trading and loan-against-securities facilities, wealth and financial-product distribution, investment banking, AIF and PMS fund management and emerging mutual-fund and IFSC asset-management services.[1][2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.21,
-      "pricePercentageAboveDma100" : 5.40,
-      "pricePercentageAboveDma200" : 5.12,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma200" : 5.09,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 15.42,
       "operatingProfitMarginPercentile" : 18.66,
       "netProfitMarginPercentile" : 9.25,
-      "totalTechnicalScore" : 25.73,
+      "totalTechnicalScore" : 25.61,
       "totalFundamentalScore" : 43.34,
-      "totalScore" : 69.07
+      "totalScore" : 68.95
     }
   },
   "attributes" : {
     "companyCode" : "MONARCH",
     "companyName" : "Monarch Networth",
-    "marketCap" : 2636.00,
-    "peRatio" : 13.70,
+    "marketCap" : 2656.00,
+    "peRatio" : 13.80,
     "description" : "Monarch Networth Capital is an integrated financial-services group offering retail and institutional broking, margin-trading and loan-against-securities facilities, wealth and financial-product distribution, investment banking, AIF and PMS fund management and emerging mutual-fund and IFSC asset-management services.[1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 306.80,
-    "dma50" : 315.08,
-    "dma100" : null,
-    "dma200" : 332.52,
-    "volume" : 91990.00
-  }, {
     "date" : "2025-11-28",
     "price" : 305.70,
     "dma50" : 314.71,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 302.70,
     "dma50" : 283.85,
-    "dma100" : 288.74,
+    "dma100" : null,
     "dma200" : 303.22,
     "volume" : 240828.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 360.87,
     "dma200" : 340.79,
     "volume" : 31285.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 334.90,
+    "dma50" : 346.77,
+    "dma100" : 360.68,
+    "dma200" : 340.74,
+    "volume" : 68867.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 332.35,
-    "dma50" : 347.25,
-    "dma100" : 360.87,
-    "dma200" : 340.79,
-    "volume" : 31285.00
+    "date" : "2026-11-27",
+    "price" : 334.90,
+    "dma50" : 346.77,
+    "dma100" : 360.68,
+    "dma200" : 340.74,
+    "volume" : 68867.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.21,
-    "pricePercentageAboveDma100" : 5.40,
-    "pricePercentageAboveDma200" : 5.12,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma200" : 5.09,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 15.42,
     "operatingProfitMarginPercentile" : 18.66,
     "netProfitMarginPercentile" : 9.25,
-    "totalTechnicalScore" : 25.73,
+    "totalTechnicalScore" : 25.61,
     "totalFundamentalScore" : 43.34,
-    "totalScore" : 69.07
+    "totalScore" : 68.95
   }
 }

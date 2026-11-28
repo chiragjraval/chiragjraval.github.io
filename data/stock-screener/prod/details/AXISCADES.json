@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "AXISCADES",
       "companyName" : "AXISCADES Tech.",
-      "marketCap" : 7716.00,
-      "peRatio" : 1878.00,
+      "marketCap" : 8123.00,
+      "peRatio" : 1977.00,
       "description" : "Axiscades Technologies Limited is a technology solutions company focussing on engineering solutions and services. [1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.22,
-      "pricePercentageAboveDma100" : 4.94,
-      "pricePercentageAboveDma200" : 4.79,
+      "pricePercentageAboveDma50" : 4.97,
+      "pricePercentageAboveDma100" : 4.68,
+      "pricePercentageAboveDma200" : 4.52,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 17.59,
       "operatingProfitMarginPercentile" : 0.23,
       "netProfitMarginPercentile" : 0.11,
-      "totalTechnicalScore" : 39.94,
+      "totalTechnicalScore" : 44.17,
       "totalFundamentalScore" : 17.94,
-      "totalScore" : 57.88
+      "totalScore" : 62.10
     }
   },
   "attributes" : {
     "companyCode" : "AXISCADES",
     "companyName" : "AXISCADES Tech.",
-    "marketCap" : 7716.00,
-    "peRatio" : 1878.00,
+    "marketCap" : 8123.00,
+    "peRatio" : 1977.00,
     "description" : "Axiscades Technologies Limited is a technology solutions company focussing on engineering solutions and services. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1424.70,
-    "dma50" : 1491.73,
-    "dma100" : null,
-    "dma200" : 1243.30,
-    "volume" : 31110.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1417.20,
     "dma50" : 1488.81,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1900.90,
     "dma50" : 1588.97,
-    "dma100" : 1415.11,
+    "dma100" : null,
     "dma200" : 1378.23,
     "volume" : 132557.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 1781.23,
     "dma200" : 1729.77,
     "volume" : 142436.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 1899.00,
+    "dma50" : 1888.07,
+    "dma100" : 1784.25,
+    "dma200" : 1731.46,
+    "volume" : 139709.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 1803.80,
-    "dma50" : 1887.62,
-    "dma100" : 1781.23,
-    "dma200" : 1729.77,
-    "volume" : 142436.00
+    "date" : "2026-11-27",
+    "price" : 1899.00,
+    "dma50" : 1888.07,
+    "dma100" : 1784.25,
+    "dma200" : 1731.46,
+    "volume" : 139709.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : -25.96
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.22,
-    "pricePercentageAboveDma100" : 4.94,
-    "pricePercentageAboveDma200" : 4.79,
+    "pricePercentageAboveDma50" : 4.97,
+    "pricePercentageAboveDma100" : 4.68,
+    "pricePercentageAboveDma200" : 4.52,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 17.59,
     "operatingProfitMarginPercentile" : 0.23,
     "netProfitMarginPercentile" : 0.11,
-    "totalTechnicalScore" : 39.94,
+    "totalTechnicalScore" : 44.17,
     "totalFundamentalScore" : 17.94,
-    "totalScore" : 57.88
+    "totalScore" : 62.10
   }
 }

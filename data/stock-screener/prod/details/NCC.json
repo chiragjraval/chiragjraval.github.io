@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "NCC",
       "companyName" : "NCC",
-      "marketCap" : 8046.00,
-      "peRatio" : 10.70,
+      "marketCap" : 8162.00,
+      "peRatio" : 10.90,
       "description" : "Incorporated in 1978, NCC Limited undertakes turnkey EPC contracts and BOT projects on Public-Private Partnership basis[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma50" : 5.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.07,
-      "pricePercentageAboveDma100" : 5.28,
-      "pricePercentageAboveDma200" : 5.62,
+      "pricePercentageAboveDma50" : 5.00,
+      "pricePercentageAboveDma100" : 5.20,
+      "pricePercentageAboveDma200" : 5.55,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 7.22,
       "netProfitMarginPercentile" : 5.52,
-      "totalTechnicalScore" : 15.96,
+      "totalTechnicalScore" : 20.75,
       "totalFundamentalScore" : 27.68,
-      "totalScore" : 43.64
+      "totalScore" : 48.43
     }
   },
   "attributes" : {
     "companyCode" : "NCC",
     "companyName" : "NCC",
-    "marketCap" : 8046.00,
-    "peRatio" : 10.70,
+    "marketCap" : 8162.00,
+    "peRatio" : 10.90,
     "description" : "Incorporated in 1978, NCC Limited undertakes turnkey EPC contracts and BOT projects on Public-Private Partnership basis[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 174.63,
-    "dma50" : 197.39,
-    "dma100" : null,
-    "dma200" : 218.21,
-    "volume" : 4491039.00
-  }, {
     "date" : "2025-11-28",
     "price" : 171.41,
     "dma50" : 196.37,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 164.48,
     "dma50" : 151.71,
-    "dma100" : 152.33,
+    "dma100" : null,
     "dma200" : 175.92,
     "volume" : 2937057.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 135.64,
     "dma200" : 146.21,
     "volume" : 1180864.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 130.00,
+    "dma50" : 129.93,
+    "dma100" : 135.43,
+    "dma200" : 146.05,
+    "volume" : 2130553.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 128.16,
+    "date" : "2026-11-27",
+    "price" : 130.00,
     "dma50" : 129.93,
-    "dma100" : 135.64,
-    "dma200" : 146.21,
-    "volume" : 1180864.00
+    "dma100" : 135.43,
+    "dma200" : 146.05,
+    "volume" : 2130553.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2660,21 +2660,21 @@
     "netProfit" : 163.25
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma50" : 5.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.07,
-    "pricePercentageAboveDma100" : 5.28,
-    "pricePercentageAboveDma200" : 5.62,
+    "pricePercentageAboveDma50" : 5.00,
+    "pricePercentageAboveDma100" : 5.20,
+    "pricePercentageAboveDma200" : 5.55,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 7.22,
     "netProfitMarginPercentile" : 5.52,
-    "totalTechnicalScore" : 15.96,
+    "totalTechnicalScore" : 20.75,
     "totalFundamentalScore" : 27.68,
-    "totalScore" : 43.64
+    "totalScore" : 48.43
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "VIDHIING",
       "companyName" : "Vidhi Specialty",
-      "marketCap" : 1454.00,
-      "peRatio" : 24.00,
+      "marketCap" : 1463.00,
+      "peRatio" : 24.20,
       "description" : "Vidhi Specialty Food Ingredients Limited, incorporated in 1994, is a leading manufacturer of Superior Synthetic and Natural Food Grade Colours. The company is Asia’s 2nd largest food colour manufacture. The company’s products have applications in industries of Food & Beverage, Confectionary, Pharmaceuticals, Pet Foods, Cosmetics, Inkjet Inks, Personal Care, and Home Care. [1][2]"
     },
     "companyScore" : {
@@ -19,34 +19,27 @@
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
-      "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 5.42,
-      "pricePercentageAboveDma100" : 5.51,
-      "pricePercentageAboveDma200" : 5.51,
+      "dma100HigherThanDma200" : 5.00,
+      "pricePercentageAboveDma50" : 5.38,
+      "pricePercentageAboveDma100" : 5.48,
+      "pricePercentageAboveDma200" : 5.48,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.80,
       "operatingProfitMarginPercentile" : 16.09,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 16.45,
+      "totalTechnicalScore" : 21.35,
       "totalFundamentalScore" : 43.16,
-      "totalScore" : 59.61
+      "totalScore" : 64.51
     }
   },
   "attributes" : {
     "companyCode" : "VIDHIING",
     "companyName" : "Vidhi Specialty",
-    "marketCap" : 1454.00,
-    "peRatio" : 24.00,
+    "marketCap" : 1463.00,
+    "peRatio" : 24.20,
     "description" : "Vidhi Specialty Food Ingredients Limited, incorporated in 1994, is a leading manufacturer of Superior Synthetic and Natural Food Grade Colours. The company is Asia’s 2nd largest food colour manufacture. The company’s products have applications in industries of Food & Beverage, Confectionary, Pharmaceuticals, Pet Foods, Cosmetics, Inkjet Inks, Personal Care, and Home Care. [1][2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 358.80,
-    "dma50" : 360.34,
-    "dma100" : null,
-    "dma200" : 398.64,
-    "volume" : 4597.00
-  }, {
     "date" : "2025-11-28",
     "price" : 360.25,
     "dma50" : 360.34,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 305.85,
     "dma50" : 309.18,
-    "dma100" : 317.72,
+    "dma100" : null,
     "dma200" : 345.14,
     "volume" : 66961.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 324.32,
     "dma200" : 324.50,
     "volume" : 3207.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 292.95,
+    "dma50" : 317.06,
+    "dma100" : 324.40,
+    "dma200" : 324.18,
+    "volume" : 42813.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 291.15,
-    "dma50" : 318.04,
-    "dma100" : 324.32,
-    "dma200" : 324.50,
-    "volume" : 3207.00
+    "date" : "2026-11-27",
+    "price" : 292.95,
+    "dma50" : 317.06,
+    "dma100" : 324.40,
+    "dma200" : 324.18,
+    "volume" : 42813.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2665,16 +2665,16 @@
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
-    "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 5.42,
-    "pricePercentageAboveDma100" : 5.51,
-    "pricePercentageAboveDma200" : 5.51,
+    "dma100HigherThanDma200" : 5.00,
+    "pricePercentageAboveDma50" : 5.38,
+    "pricePercentageAboveDma100" : 5.48,
+    "pricePercentageAboveDma200" : 5.48,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.80,
     "operatingProfitMarginPercentile" : 16.09,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 16.45,
+    "totalTechnicalScore" : 21.35,
     "totalFundamentalScore" : 43.16,
-    "totalScore" : 59.61
+    "totalScore" : 64.51
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "CLSEL",
       "companyName" : "Chamanlal Setia",
-      "marketCap" : 1315.00,
-      "peRatio" : 8.09,
+      "marketCap" : 1321.00,
+      "peRatio" : 8.13,
       "description" : "Chaman Lal Setia Exports Limited (CLSE) was incorporated in Amritsar, Punjab in 1994 by Mr. Chaman Lal Setia and his sons. [1] It’s one of the oldest Rice Millers cum Exporters of Basmati rice of all varieties from India. [2] The company is engaged in the business of milling and processing basmati rice. The company has been involved in export operations since 1982 and was recognized as an export house by the Ministry of Commerce in 1989, at present the company is a ‘Star Export House’. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.32,
-      "pricePercentageAboveDma100" : 5.37,
-      "pricePercentageAboveDma200" : 5.30,
+      "pricePercentageAboveDma50" : 5.29,
+      "pricePercentageAboveDma100" : 5.34,
+      "pricePercentageAboveDma200" : 5.28,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 12.05,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 10.00,
-      "totalTechnicalScore" : 25.99,
+      "totalTechnicalScore" : 25.90,
       "totalFundamentalScore" : 42.05,
-      "totalScore" : 68.04
+      "totalScore" : 67.95
     }
   },
   "attributes" : {
     "companyCode" : "CLSEL",
     "companyName" : "Chamanlal Setia",
-    "marketCap" : 1315.00,
-    "peRatio" : 8.09,
+    "marketCap" : 1321.00,
+    "peRatio" : 8.13,
     "description" : "Chaman Lal Setia Exports Limited (CLSE) was incorporated in Amritsar, Punjab in 1994 by Mr. Chaman Lal Setia and his sons. [1] It’s one of the oldest Rice Millers cum Exporters of Basmati rice of all varieties from India. [2] The company is engaged in the business of milling and processing basmati rice. The company has been involved in export operations since 1982 and was recognized as an export house by the Ministry of Commerce in 1989, at present the company is a ‘Star Export House’. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 261.25,
-    "dma50" : 272.69,
-    "dma100" : null,
-    "dma200" : 295.79,
-    "volume" : 41108.00
-  }, {
     "date" : "2025-11-28",
     "price" : 255.10,
     "dma50" : 272.00,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 280.66,
     "dma50" : 257.82,
-    "dma100" : 257.01,
+    "dma100" : null,
     "dma200" : 271.09,
     "volume" : 116871.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 285.45,
     "dma200" : 281.39,
     "volume" : 314602.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 265.75,
+    "dma50" : 281.95,
+    "dma100" : 285.21,
+    "dma200" : 281.24,
+    "volume" : 45636.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 264.50,
-    "dma50" : 282.61,
-    "dma100" : 285.45,
-    "dma200" : 281.39,
-    "volume" : 314602.00
+    "date" : "2026-11-27",
+    "price" : 265.75,
+    "dma50" : 281.95,
+    "dma100" : 285.21,
+    "dma200" : 281.24,
+    "volume" : 45636.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.32,
-    "pricePercentageAboveDma100" : 5.37,
-    "pricePercentageAboveDma200" : 5.30,
+    "pricePercentageAboveDma50" : 5.29,
+    "pricePercentageAboveDma100" : 5.34,
+    "pricePercentageAboveDma200" : 5.28,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 12.05,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 10.00,
-    "totalTechnicalScore" : 25.99,
+    "totalTechnicalScore" : 25.90,
     "totalFundamentalScore" : 42.05,
-    "totalScore" : 68.04
+    "totalScore" : 67.95
   }
 }

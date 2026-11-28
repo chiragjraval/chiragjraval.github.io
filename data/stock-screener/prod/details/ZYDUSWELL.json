@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ZYDUSWELL",
       "companyName" : "Zydus Wellness",
-      "marketCap" : 14505.00,
-      "peRatio" : 57.70,
+      "marketCap" : 14332.00,
+      "peRatio" : 57.00,
       "description" : "Zydus Wellness operates as an integrated consumer Company with business encompassing the entire value chain in the development, production, marketing and distribution of health and wellness products. The product portfolio of the Company includes brands like Sugar free, Everyuth and Nutralite.(Source : 202003 Annual Report Page No: 83)"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.32,
-      "pricePercentageAboveDma100" : 5.61,
-      "pricePercentageAboveDma200" : 5.37,
+      "pricePercentageAboveDma50" : 5.36,
+      "pricePercentageAboveDma100" : 5.65,
+      "pricePercentageAboveDma200" : 5.42,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 8.67,
       "operatingProfitMarginPercentile" : 15.41,
       "netProfitMarginPercentile" : 7.66,
-      "totalTechnicalScore" : 21.29,
+      "totalTechnicalScore" : 21.43,
       "totalFundamentalScore" : 31.75,
-      "totalScore" : 53.04
+      "totalScore" : 53.18
     }
   },
   "attributes" : {
     "companyCode" : "ZYDUSWELL",
     "companyName" : "Zydus Wellness",
-    "marketCap" : 14505.00,
-    "peRatio" : 57.70,
+    "marketCap" : 14332.00,
+    "peRatio" : 57.00,
     "description" : "Zydus Wellness operates as an integrated consumer Company with business encompassing the entire value chain in the development, production, marketing and distribution of health and wellness products. The product portfolio of the Company includes brands like Sugar free, Everyuth and Nutralite.(Source : 202003 Annual Report Page No: 83)"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 433.40,
-    "dma50" : 457.35,
-    "dma100" : null,
-    "dma200" : 421.95,
-    "volume" : 84407.00
-  }, {
     "date" : "2025-11-28",
     "price" : 430.45,
     "dma50" : 456.30,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 492.75,
     "dma50" : 454.35,
-    "dma100" : 432.89,
+    "dma100" : null,
     "dma200" : 431.36,
     "volume" : 624997.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 519.21,
     "dma200" : 492.12,
     "volume" : 96368.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 450.45,
+    "dma50" : 485.17,
+    "dma100" : 517.88,
+    "dma200" : 491.70,
+    "volume" : 323471.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 455.90,
-    "dma50" : 486.59,
-    "dma100" : 519.21,
-    "dma200" : 492.12,
-    "volume" : 96368.00
+    "date" : "2026-11-27",
+    "price" : 450.45,
+    "dma50" : 485.17,
+    "dma100" : 517.88,
+    "dma200" : 491.70,
+    "volume" : 323471.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.32,
-    "pricePercentageAboveDma100" : 5.61,
-    "pricePercentageAboveDma200" : 5.37,
+    "pricePercentageAboveDma50" : 5.36,
+    "pricePercentageAboveDma100" : 5.65,
+    "pricePercentageAboveDma200" : 5.42,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 8.67,
     "operatingProfitMarginPercentile" : 15.41,
     "netProfitMarginPercentile" : 7.66,
-    "totalTechnicalScore" : 21.29,
+    "totalTechnicalScore" : 21.43,
     "totalFundamentalScore" : 31.75,
-    "totalScore" : 53.04
+    "totalScore" : 53.18
   }
 }

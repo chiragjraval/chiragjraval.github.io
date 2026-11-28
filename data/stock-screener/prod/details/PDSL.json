@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PDSL",
       "companyName" : "PDS",
-      "marketCap" : 5816.00,
-      "peRatio" : 44.80,
+      "marketCap" : 5942.00,
+      "peRatio" : 45.80,
       "description" : "PDS Ltd is engaged in trading of garments, investment holding, design, development, marketing, sourcing and distribution of readymade garments of all kinds and other consumer products worldwide.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.52,
-      "pricePercentageAboveDma100" : 4.33,
-      "pricePercentageAboveDma200" : 4.17,
+      "pricePercentageAboveDma50" : 4.43,
+      "pricePercentageAboveDma100" : 4.22,
+      "pricePercentageAboveDma200" : 4.06,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 6.25,
       "operatingProfitMarginPercentile" : 12.87,
       "netProfitMarginPercentile" : 9.23,
-      "totalTechnicalScore" : 48.02,
+      "totalTechnicalScore" : 47.70,
       "totalFundamentalScore" : 28.35,
-      "totalScore" : 76.37
+      "totalScore" : 76.05
     }
   },
   "attributes" : {
     "companyCode" : "PDSL",
     "companyName" : "PDS",
-    "marketCap" : 5816.00,
-    "peRatio" : 44.80,
+    "marketCap" : 5942.00,
+    "peRatio" : 45.80,
     "description" : "PDS Ltd is engaged in trading of garments, investment holding, design, development, marketing, sourcing and distribution of readymade garments of all kinds and other consumer products worldwide.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 357.70,
-    "dma50" : 357.42,
-    "dma100" : null,
-    "dma200" : 388.89,
-    "volume" : 102416.00
-  }, {
     "date" : "2025-11-28",
     "price" : 361.45,
     "dma50" : 357.58,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 279.80,
     "dma50" : 296.92,
-    "dma100" : 322.31,
+    "dma100" : null,
     "dma200" : 341.47,
     "volume" : 291967.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 362.47,
     "dma200" : 352.74,
     "volume" : 234030.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 419.95,
+    "dma50" : 376.85,
+    "dma100" : 363.03,
+    "dma200" : 353.41,
+    "volume" : 293958.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 411.05,
-    "dma50" : 375.09,
-    "dma100" : 362.47,
-    "dma200" : 352.74,
-    "volume" : 234030.00
+    "date" : "2026-11-27",
+    "price" : 419.95,
+    "dma50" : 376.85,
+    "dma100" : 363.03,
+    "dma200" : 353.41,
+    "volume" : 293958.00
   },
   "quarterlyResults" : [ {
     "date" : "2013-12-31",
@@ -2316,15 +2316,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.52,
-    "pricePercentageAboveDma100" : 4.33,
-    "pricePercentageAboveDma200" : 4.17,
+    "pricePercentageAboveDma50" : 4.43,
+    "pricePercentageAboveDma100" : 4.22,
+    "pricePercentageAboveDma200" : 4.06,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 6.25,
     "operatingProfitMarginPercentile" : 12.87,
     "netProfitMarginPercentile" : 9.23,
-    "totalTechnicalScore" : 48.02,
+    "totalTechnicalScore" : 47.70,
     "totalFundamentalScore" : 28.35,
-    "totalScore" : 76.37
+    "totalScore" : 76.05
   }
 }

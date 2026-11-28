@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "MIDHANI",
       "companyName" : "Mishra Dhatu Nig",
-      "marketCap" : 6913.00,
-      "peRatio" : 46.30,
+      "marketCap" : 7060.00,
+      "peRatio" : 47.30,
       "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.37,
-      "pricePercentageAboveDma100" : 5.51,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.26,
+      "pricePercentageAboveDma100" : 5.41,
+      "pricePercentageAboveDma200" : 5.25,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.29,
       "operatingProfitMarginPercentile" : 5.77,
       "netProfitMarginPercentile" : 3.14,
-      "totalTechnicalScore" : 26.23,
+      "totalTechnicalScore" : 25.92,
       "totalFundamentalScore" : 27.19,
-      "totalScore" : 53.42
+      "totalScore" : 53.11
     }
   },
   "attributes" : {
     "companyCode" : "MIDHANI",
     "companyName" : "Mishra Dhatu Nig",
-    "marketCap" : 6913.00,
-    "peRatio" : 46.30,
+    "marketCap" : 7060.00,
+    "peRatio" : 47.30,
     "description" : "Mishra Dhatu Nigam Ltd (MIDHANI) manufactures superalloys, titanium, special purpose steel and other special metals.[1] It was incorporated in 1973 at Hyderabad as a Government of India Enterprise under the Ministry of Defence.[2] GoI still owns ~74% stake in the company after its IPO in 2018.[3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 330.55,
-    "dma50" : 371.97,
-    "dma100" : null,
-    "dma200" : 375.39,
-    "volume" : 441494.00
-  }, {
     "date" : "2025-11-28",
     "price" : 328.70,
     "dma50" : 370.28,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 382.15,
     "dma50" : 341.89,
-    "dma100" : 336.88,
+    "dma100" : null,
     "dma200" : 351.97,
     "volume" : 911378.00
   }, {
@@ -869,7 +862,7 @@
     "date" : "2026-05-22",
     "price" : 413.20,
     "dma50" : 373.45,
-    "dma100" : 354.27,
+    "dma100" : 354.28,
     "dma200" : 360.37,
     "volume" : 1633788.00
   }, {
@@ -1303,7 +1296,7 @@
     "date" : "2026-08-20",
     "price" : 420.50,
     "dma50" : 414.98,
-    "dma100" : 400.44,
+    "dma100" : 400.45,
     "dma200" : 387.76,
     "volume" : 521484.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 410.90,
     "dma200" : 396.62,
     "volume" : 918526.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 376.85,
+    "dma50" : 397.62,
+    "dma100" : 410.32,
+    "dma200" : 396.43,
+    "volume" : 821936.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 369.00,
-    "dma50" : 398.46,
-    "dma100" : 410.90,
-    "dma200" : 396.62,
-    "volume" : 918526.00
+    "date" : "2026-11-27",
+    "price" : 376.85,
+    "dma50" : 397.62,
+    "dma100" : 410.32,
+    "dma200" : 396.43,
+    "volume" : 821936.00
   },
   "quarterlyResults" : [ {
     "date" : "2017-03-31",
@@ -2186,15 +2186,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.37,
-    "pricePercentageAboveDma100" : 5.51,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.26,
+    "pricePercentageAboveDma100" : 5.41,
+    "pricePercentageAboveDma200" : 5.25,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.29,
     "operatingProfitMarginPercentile" : 5.77,
     "netProfitMarginPercentile" : 3.14,
-    "totalTechnicalScore" : 26.23,
+    "totalTechnicalScore" : 25.92,
     "totalFundamentalScore" : 27.19,
-    "totalScore" : 53.42
+    "totalScore" : 53.11
   }
 }

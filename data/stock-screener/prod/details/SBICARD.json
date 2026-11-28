@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "SBICARD",
       "companyName" : "SBI Cards",
-      "marketCap" : 55776.00,
-      "peRatio" : 21.40,
+      "marketCap" : 53844.00,
+      "peRatio" : 20.60,
       "description" : "SBI Cards and Payment Services Limited is a non-deposit accepting systemically important nonbanking financial company registered with the RBI. The Company is engaged in issuing credit cards to consumers in India. It is headquartered in Gurgaon, Haryana. It is a subsidiary of India’s largest commercial bank, the State Bank of India. [1][2][3]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
+      "priceHigherThanDma50" : 0.00,
       "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 0.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
-      "pricePercentageAboveDma50" : 4.97,
-      "pricePercentageAboveDma100" : 5.20,
-      "pricePercentageAboveDma200" : 5.47,
+      "pricePercentageAboveDma50" : 5.13,
+      "pricePercentageAboveDma100" : 5.36,
+      "pricePercentageAboveDma200" : 5.63,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 4.53,
       "operatingProfitMarginPercentile" : 17.42,
       "netProfitMarginPercentile" : 6.90,
-      "totalTechnicalScore" : 20.64,
+      "totalTechnicalScore" : 16.12,
       "totalFundamentalScore" : 28.85,
-      "totalScore" : 49.49
+      "totalScore" : 44.97
     }
   },
   "attributes" : {
     "companyCode" : "SBICARD",
     "companyName" : "SBI Cards",
-    "marketCap" : 55776.00,
-    "peRatio" : 21.40,
+    "marketCap" : 53844.00,
+    "peRatio" : 20.60,
     "description" : "SBI Cards and Payment Services Limited is a non-deposit accepting systemically important nonbanking financial company registered with the RBI. The Company is engaged in issuing credit cards to consumers in India. It is headquartered in Gurgaon, Haryana. It is a subsidiary of India’s largest commercial bank, the State Bank of India. [1][2][3]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 880.40,
-    "dma50" : 881.43,
-    "dma100" : null,
-    "dma200" : 860.08,
-    "volume" : 1094669.00
-  }, {
     "date" : "2025-11-28",
     "price" : 880.15,
     "dma50" : 881.38,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 670.70,
     "dma50" : 708.88,
-    "dma100" : 773.26,
+    "dma100" : null,
     "dma200" : 791.98,
     "volume" : 2303464.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 609.97,
     "dma200" : 647.56,
     "volume" : 756602.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 565.80,
+    "dma50" : 581.44,
+    "dma100" : 609.60,
+    "dma200" : 646.75,
+    "volume" : 2590129.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 586.10,
-    "dma50" : 582.07,
-    "dma100" : 609.97,
-    "dma200" : 647.56,
-    "volume" : 756602.00
+    "date" : "2026-11-27",
+    "price" : 565.80,
+    "dma50" : 581.44,
+    "dma100" : 609.60,
+    "dma200" : 646.75,
+    "volume" : 2590129.00
   },
   "quarterlyResults" : [ {
     "date" : "2019-03-31",
@@ -2100,21 +2100,21 @@
     "netProfit" : 777.76
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
+    "priceHigherThanDma50" : 0.00,
     "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 0.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
-    "pricePercentageAboveDma50" : 4.97,
-    "pricePercentageAboveDma100" : 5.20,
-    "pricePercentageAboveDma200" : 5.47,
+    "pricePercentageAboveDma50" : 5.13,
+    "pricePercentageAboveDma100" : 5.36,
+    "pricePercentageAboveDma200" : 5.63,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 4.53,
     "operatingProfitMarginPercentile" : 17.42,
     "netProfitMarginPercentile" : 6.90,
-    "totalTechnicalScore" : 20.64,
+    "totalTechnicalScore" : 16.12,
     "totalFundamentalScore" : 28.85,
-    "totalScore" : 49.49
+    "totalScore" : 44.97
   }
 }

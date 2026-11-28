@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "EIMCOELECO",
       "companyName" : "Eimco Elecon(I)",
-      "marketCap" : 1470.00,
-      "peRatio" : 34.90,
+      "marketCap" : 1528.00,
+      "peRatio" : 36.30,
       "description" : "Eimco Elecon (India) Limited, incorporated in 1974, is in the business of Manufacturing and Marketing Equipment for Underground and Opencast mines. The Co is situated at Vallabh Vidyanagar, Gujarat. It was the first Co. to introduce the intermediate technology of Side Dump Loaders, Load Haul Dumpers and Rocker Shovel Loaders in India. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.56,
-      "pricePercentageAboveDma100" : 4.10,
-      "pricePercentageAboveDma200" : 3.74,
+      "pricePercentageAboveDma50" : 4.38,
+      "pricePercentageAboveDma100" : 3.89,
+      "pricePercentageAboveDma200" : 3.51,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 18.55,
       "operatingProfitMarginPercentile" : 15.51,
       "netProfitMarginPercentile" : 7.59,
-      "totalTechnicalScore" : 42.40,
+      "totalTechnicalScore" : 41.78,
       "totalFundamentalScore" : 41.66,
-      "totalScore" : 84.06
+      "totalScore" : 83.44
     }
   },
   "attributes" : {
     "companyCode" : "EIMCOELECO",
     "companyName" : "Eimco Elecon(I)",
-    "marketCap" : 1470.00,
-    "peRatio" : 34.90,
+    "marketCap" : 1528.00,
+    "peRatio" : 36.30,
     "description" : "Eimco Elecon (India) Limited, incorporated in 1974, is in the business of Manufacturing and Marketing Equipment for Underground and Opencast mines. The Co is situated at Vallabh Vidyanagar, Gujarat. It was the first Co. to introduce the intermediate technology of Side Dump Loaders, Load Haul Dumpers and Rocker Shovel Loaders in India. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1628.40,
-    "dma50" : 1832.07,
-    "dma100" : null,
-    "dma200" : 2029.06,
-    "volume" : 13099.00
-  }, {
     "date" : "2025-11-28",
     "price" : 1632.40,
     "dma50" : 1824.24,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 1636.00,
     "dma50" : 1620.62,
-    "dma100" : 1603.99,
+    "dma100" : null,
     "dma200" : 1762.22,
     "volume" : 27793.00
   }, {
@@ -953,7 +946,7 @@
     "date" : "2026-06-10",
     "price" : 1546.30,
     "dma50" : 1584.25,
-    "dma100" : 1600.68,
+    "dma100" : 1600.67,
     "dma200" : 1712.94,
     "volume" : 23185.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 2160.66,
     "dma200" : 2033.47,
     "volume" : 16547.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 2647.50,
+    "dma50" : 2354.01,
+    "dma100" : 2168.01,
+    "dma200" : 2039.58,
+    "volume" : 28707.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 2547.60,
-    "dma50" : 2342.03,
-    "dma100" : 2160.66,
-    "dma200" : 2033.47,
-    "volume" : 16547.00
+    "date" : "2026-11-27",
+    "price" : 2647.50,
+    "dma50" : 2354.01,
+    "dma100" : 2168.01,
+    "dma200" : 2039.58,
+    "volume" : 28707.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.56,
-    "pricePercentageAboveDma100" : 4.10,
-    "pricePercentageAboveDma200" : 3.74,
+    "pricePercentageAboveDma50" : 4.38,
+    "pricePercentageAboveDma100" : 3.89,
+    "pricePercentageAboveDma200" : 3.51,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 18.55,
     "operatingProfitMarginPercentile" : 15.51,
     "netProfitMarginPercentile" : 7.59,
-    "totalTechnicalScore" : 42.40,
+    "totalTechnicalScore" : 41.78,
     "totalFundamentalScore" : 41.66,
-    "totalScore" : 84.06
+    "totalScore" : 83.44
   }
 }

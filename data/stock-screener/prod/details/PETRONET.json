@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PETRONET",
       "companyName" : "Petronet LNG",
-      "marketCap" : 48968.00,
-      "peRatio" : 10.60,
+      "marketCap" : 48352.00,
+      "peRatio" : 10.40,
       "description" : "Petronet LNG Ltd was formed to develop, design, construct, own and operate Liquefied Natural Gas (LNG) Import and regasification terminals in India.[1] It was incorporated in 1998 as a Joint Venture among GAIL, Indian Oil, Bharat Petroleum & ONGC holding 12.5% each.[2]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.67,
-      "pricePercentageAboveDma100" : 4.41,
-      "pricePercentageAboveDma200" : 4.38,
+      "pricePercentageAboveDma50" : 4.75,
+      "pricePercentageAboveDma100" : 4.49,
+      "pricePercentageAboveDma200" : 4.46,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 2.43,
       "operatingProfitMarginPercentile" : 19.77,
       "netProfitMarginPercentile" : 9.89,
-      "totalTechnicalScore" : 43.46,
+      "totalTechnicalScore" : 43.69,
       "totalFundamentalScore" : 32.09,
-      "totalScore" : 75.55
+      "totalScore" : 75.78
     }
   },
   "attributes" : {
     "companyCode" : "PETRONET",
     "companyName" : "Petronet LNG",
-    "marketCap" : 48968.00,
-    "peRatio" : 10.60,
+    "marketCap" : 48352.00,
+    "peRatio" : 10.40,
     "description" : "Petronet LNG Ltd was formed to develop, design, construct, own and operate Liquefied Natural Gas (LNG) Import and regasification terminals in India.[1] It was incorporated in 1998 as a Joint Venture among GAIL, Indian Oil, Bharat Petroleum & ONGC holding 12.5% each.[2]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 273.95,
-    "dma50" : 278.15,
-    "dma100" : null,
-    "dma200" : 291.22,
-    "volume" : 1777950.00
-  }, {
     "date" : "2025-11-28",
     "price" : 271.85,
     "dma50" : 277.90,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 279.90,
     "dma50" : 276.16,
-    "dma100" : 281.36,
+    "dma100" : null,
     "dma200" : 284.49,
     "volume" : 4049756.00
   }, {
@@ -1744,7 +1737,7 @@
     "date" : "2026-11-20",
     "price" : 329.15,
     "dma50" : 303.68,
-    "dma100" : 290.33,
+    "dma100" : 290.34,
     "dma200" : 289.44,
     "volume" : 4523312.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 291.83,
     "dma200" : 290.53,
     "volume" : 2263860.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 322.35,
+    "dma50" : 306.89,
+    "dma100" : 292.30,
+    "dma200" : 290.85,
+    "volume" : 1691466.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 326.45,
-    "dma50" : 306.26,
-    "dma100" : 291.83,
-    "dma200" : 290.53,
-    "volume" : 2263860.00
+    "date" : "2026-11-27",
+    "price" : 322.35,
+    "dma50" : 306.89,
+    "dma100" : 292.30,
+    "dma200" : 290.85,
+    "volume" : 1691466.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.67,
-    "pricePercentageAboveDma100" : 4.41,
-    "pricePercentageAboveDma200" : 4.38,
+    "pricePercentageAboveDma50" : 4.75,
+    "pricePercentageAboveDma100" : 4.49,
+    "pricePercentageAboveDma200" : 4.46,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 2.43,
     "operatingProfitMarginPercentile" : 19.77,
     "netProfitMarginPercentile" : 9.89,
-    "totalTechnicalScore" : 43.46,
+    "totalTechnicalScore" : 43.69,
     "totalFundamentalScore" : 32.09,
-    "totalScore" : 75.55
+    "totalScore" : 75.78
   }
 }

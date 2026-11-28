@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "INDUSINVIT",
       "companyName" : "Indus Inf. Trust",
-      "marketCap" : 8004.00,
-      "peRatio" : 14.80,
+      "marketCap" : 7850.00,
+      "peRatio" : 14.50,
       "description" : "Incorporated in 2022, Indus Infra Trust is a SEBI-registered infrastructure investment trust[1]"
     },
     "companyScore" : {
-      "priceHigherThanDma50" : 5.00,
-      "priceHigherThanDma100" : 5.00,
+      "priceHigherThanDma50" : 0.00,
+      "priceHigherThanDma100" : 0.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.96,
-      "pricePercentageAboveDma100" : 4.99,
-      "pricePercentageAboveDma200" : 4.85,
-      "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+      "pricePercentageAboveDma50" : 5.05,
+      "pricePercentageAboveDma100" : 5.09,
+      "pricePercentageAboveDma200" : 4.95,
+      "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 12.00,
       "operatingProfitMarginPercentile" : 19.38,
       "netProfitMarginPercentile" : 9.29,
-      "totalTechnicalScore" : 39.81,
+      "totalTechnicalScore" : 35.09,
       "totalFundamentalScore" : 40.66,
-      "totalScore" : 80.47
+      "totalScore" : 75.76
     }
   },
   "attributes" : {
     "companyCode" : "INDUSINVIT",
     "companyName" : "Indus Inf. Trust",
-    "marketCap" : 8004.00,
-    "peRatio" : 14.80,
+    "marketCap" : 7850.00,
+    "peRatio" : 14.50,
     "description" : "Incorporated in 2022, Indus Infra Trust is a SEBI-registered infrastructure investment trust[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 117.33,
-    "dma50" : 117.60,
-    "dma100" : null,
-    "dma200" : 114.07,
-    "volume" : 47423.00
-  }, {
     "date" : "2025-11-28",
     "price" : 117.89,
     "dma50" : 117.61,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 129.94,
     "dma50" : 124.47,
-    "dma100" : 121.35,
+    "dma100" : null,
     "dma200" : 119.28,
     "volume" : 80323.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 130.84,
     "dma200" : 127.28,
     "volume" : 161397.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 128.48,
+    "dma50" : 129.80,
+    "dma100" : 130.85,
+    "dma200" : 127.29,
+    "volume" : 704037.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 130.99,
-    "dma50" : 129.86,
-    "dma100" : 130.84,
-    "dma200" : 127.28,
-    "volume" : 161397.00
+    "date" : "2026-11-27",
+    "price" : 128.48,
+    "dma50" : 129.80,
+    "dma100" : 130.85,
+    "dma200" : 127.29,
+    "volume" : 704037.00
   },
   "quarterlyResults" : [ {
     "date" : "2023-06-30",
@@ -1930,21 +1930,21 @@
     "netProfit" : 303.51
   },
   "companyScore" : {
-    "priceHigherThanDma50" : 5.00,
-    "priceHigherThanDma100" : 5.00,
+    "priceHigherThanDma50" : 0.00,
+    "priceHigherThanDma100" : 0.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.96,
-    "pricePercentageAboveDma100" : 4.99,
-    "pricePercentageAboveDma200" : 4.85,
-    "weeklyVolumeHigherThanYearlyVolume" : 0.00,
+    "pricePercentageAboveDma50" : 5.05,
+    "pricePercentageAboveDma100" : 5.09,
+    "pricePercentageAboveDma200" : 4.95,
+    "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 12.00,
     "operatingProfitMarginPercentile" : 19.38,
     "netProfitMarginPercentile" : 9.29,
-    "totalTechnicalScore" : 39.81,
+    "totalTechnicalScore" : 35.09,
     "totalFundamentalScore" : 40.66,
-    "totalScore" : 80.47
+    "totalScore" : 75.76
   }
 }

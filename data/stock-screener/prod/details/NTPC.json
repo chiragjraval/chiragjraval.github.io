@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "NTPC",
       "companyName" : "NTPC",
-      "marketCap" : 310536.00,
+      "marketCap" : 310051.00,
       "peRatio" : 10.40,
       "description" : "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.[1]"
     },
@@ -21,32 +21,25 @@
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 0.00,
       "pricePercentageAboveDma50" : 5.02,
-      "pricePercentageAboveDma100" : 5.14,
-      "pricePercentageAboveDma200" : 5.28,
+      "pricePercentageAboveDma100" : 5.15,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.70,
       "operatingProfitMarginPercentile" : 14.60,
       "netProfitMarginPercentile" : 2.26,
-      "totalTechnicalScore" : 15.44,
+      "totalTechnicalScore" : 15.46,
       "totalFundamentalScore" : 31.56,
-      "totalScore" : 47.01
+      "totalScore" : 47.02
     }
   },
   "attributes" : {
     "companyCode" : "NTPC",
     "companyName" : "NTPC",
-    "marketCap" : 310536.00,
+    "marketCap" : 310051.00,
     "peRatio" : 10.40,
     "description" : "NTPC (National Thermal Power Corporation) Ltd along with its subsidiaries/ associates & JVs is primarily involved in generation and sale of bulk power to State power utilities. Other business of the group includes providing consultancy, project management & supervision, energy trading, oil & gas exploration and coal mining.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 327.35,
-    "dma50" : 332.75,
-    "dma100" : null,
-    "dma200" : 338.71,
-    "volume" : 7475265.00
-  }, {
     "date" : "2025-11-28",
     "price" : 326.45,
     "dma50" : 332.50,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 410.20,
     "dma50" : 378.28,
-    "dma100" : 358.14,
+    "dma100" : null,
     "dma200" : 355.14,
     "volume" : 13639378.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 329.67,
     "dma200" : 339.57,
     "volume" : 9351390.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 319.75,
+    "dma50" : 321.31,
+    "dma100" : 329.31,
+    "dma200" : 339.37,
+    "volume" : 6797363.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 320.25,
-    "dma50" : 321.37,
-    "dma100" : 329.67,
-    "dma200" : 339.57,
-    "volume" : 9351390.00
+    "date" : "2026-11-27",
+    "price" : 319.75,
+    "dma50" : 321.31,
+    "dma100" : 329.31,
+    "dma200" : 339.37,
+    "volume" : 6797363.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2667,14 +2667,14 @@
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 0.00,
     "pricePercentageAboveDma50" : 5.02,
-    "pricePercentageAboveDma100" : 5.14,
-    "pricePercentageAboveDma200" : 5.28,
+    "pricePercentageAboveDma100" : 5.15,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.70,
     "operatingProfitMarginPercentile" : 14.60,
     "netProfitMarginPercentile" : 2.26,
-    "totalTechnicalScore" : 15.44,
+    "totalTechnicalScore" : 15.46,
     "totalFundamentalScore" : 31.56,
-    "totalScore" : 47.01
+    "totalScore" : 47.02
   }
 }

@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "SANGAMIND",
       "companyName" : "Sangam India",
-      "marketCap" : 3397.00,
-      "peRatio" : 22.10,
+      "marketCap" : 3452.00,
+      "peRatio" : 22.50,
       "description" : "Sangam (India) Limited is engaged in the business of manufacturing and selling of Synthetic Blended, Cotton & Texturised yarn, Fabrics, Denim Fabrics and readymade seamless garment. [1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.57,
-      "pricePercentageAboveDma100" : 4.41,
-      "pricePercentageAboveDma200" : 3.94,
+      "pricePercentageAboveDma50" : 4.50,
+      "pricePercentageAboveDma100" : 4.33,
+      "pricePercentageAboveDma200" : 3.86,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 14.60,
       "netProfitMarginPercentile" : 8.07,
-      "totalTechnicalScore" : 47.92,
+      "totalTechnicalScore" : 47.69,
       "totalFundamentalScore" : 39.05,
-      "totalScore" : 86.97
+      "totalScore" : 86.74
     }
   },
   "attributes" : {
     "companyCode" : "SANGAMIND",
     "companyName" : "Sangam India",
-    "marketCap" : 3397.00,
-    "peRatio" : 22.10,
+    "marketCap" : 3452.00,
+    "peRatio" : 22.50,
     "description" : "Sangam (India) Limited is engaged in the business of manufacturing and selling of Synthetic Blended, Cotton & Texturised yarn, Fabrics, Denim Fabrics and readymade seamless garment. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 450.00,
-    "dma50" : 436.52,
-    "dma100" : null,
-    "dma200" : 417.45,
-    "volume" : 10870.00
-  }, {
     "date" : "2025-11-28",
     "price" : 446.45,
     "dma50" : 436.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 527.70,
     "dma50" : 460.43,
-    "dma100" : 453.14,
+    "dma100" : null,
     "dma200" : 441.02,
     "volume" : 104912.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 604.18,
     "dma200" : 558.23,
     "volume" : 53520.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 687.05,
+    "dma50" : 624.70,
+    "dma100" : 605.59,
+    "dma200" : 559.52,
+    "volume" : 32036.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 676.05,
-    "dma50" : 622.16,
-    "dma100" : 604.18,
-    "dma200" : 558.23,
-    "volume" : 53520.00
+    "date" : "2026-11-27",
+    "price" : 687.05,
+    "dma50" : 624.70,
+    "dma100" : 605.59,
+    "dma200" : 559.52,
+    "volume" : 32036.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.57,
-    "pricePercentageAboveDma100" : 4.41,
-    "pricePercentageAboveDma200" : 3.94,
+    "pricePercentageAboveDma50" : 4.50,
+    "pricePercentageAboveDma100" : 4.33,
+    "pricePercentageAboveDma200" : 3.86,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 14.60,
     "netProfitMarginPercentile" : 8.07,
-    "totalTechnicalScore" : 47.92,
+    "totalTechnicalScore" : 47.69,
     "totalFundamentalScore" : 39.05,
-    "totalScore" : 86.97
+    "totalScore" : 86.74
   }
 }

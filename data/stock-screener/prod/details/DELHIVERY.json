@@ -9,7 +9,7 @@
     "attributes" : {
       "companyCode" : "DELHIVERY",
       "companyName" : "Delhivery",
-      "marketCap" : 34535.00,
+      "marketCap" : 34393.00,
       "peRatio" : 164.00,
       "description" : "Delhivery provides a full range of Logistics services, including delivery of express parcels and heavy goods, PTL freight, TL freight, warehousing, supply chain solutions, cross-border Express, freight services, and supply chain software. The company also offers value-added services such as e-commerce return services, payment collection and processing, installation & assembly services, and fraud detection.[1]"
     },
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.66,
-      "pricePercentageAboveDma100" : 4.83,
-      "pricePercentageAboveDma200" : 4.74,
+      "pricePercentageAboveDma50" : 4.69,
+      "pricePercentageAboveDma100" : 4.84,
+      "pricePercentageAboveDma200" : 4.76,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 13.68,
       "operatingProfitMarginPercentile" : 19.59,
       "netProfitMarginPercentile" : 9.39,
-      "totalTechnicalScore" : 39.23,
+      "totalTechnicalScore" : 39.30,
       "totalFundamentalScore" : 42.66,
-      "totalScore" : 81.89
+      "totalScore" : 81.96
     }
   },
   "attributes" : {
     "companyCode" : "DELHIVERY",
     "companyName" : "Delhivery",
-    "marketCap" : 34535.00,
+    "marketCap" : 34393.00,
     "peRatio" : 164.00,
     "description" : "Delhivery provides a full range of Logistics services, including delivery of express parcels and heavy goods, PTL freight, TL freight, warehousing, supply chain solutions, cross-border Express, freight services, and supply chain software. The company also offers value-added services such as e-commerce return services, payment collection and processing, installation & assembly services, and fraud detection.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 425.25,
-    "dma50" : 445.30,
-    "dma100" : null,
-    "dma200" : 410.91,
-    "volume" : 1504688.00
-  }, {
     "date" : "2025-11-28",
     "price" : 426.20,
     "dma50" : 444.55,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 462.70,
     "dma50" : 438.58,
-    "dma100" : 422.31,
+    "dma100" : null,
     "dma200" : 420.85,
     "volume" : 3854755.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 445.32,
     "dma200" : 437.76,
     "volume" : 2780701.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 458.60,
+    "dma50" : 432.18,
+    "dma100" : 444.71,
+    "dma200" : 437.97,
+    "volume" : 8022962.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 460.50,
-    "dma50" : 431.11,
-    "dma100" : 445.32,
-    "dma200" : 437.76,
-    "volume" : 2780701.00
+    "date" : "2026-11-27",
+    "price" : 458.60,
+    "dma50" : 432.18,
+    "dma100" : 444.71,
+    "dma200" : 437.97,
+    "volume" : 8022962.00
   },
   "quarterlyResults" : [ {
     "date" : "2021-03-31",
@@ -2026,15 +2026,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.66,
-    "pricePercentageAboveDma100" : 4.83,
-    "pricePercentageAboveDma200" : 4.74,
+    "pricePercentageAboveDma50" : 4.69,
+    "pricePercentageAboveDma100" : 4.84,
+    "pricePercentageAboveDma200" : 4.76,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 13.68,
     "operatingProfitMarginPercentile" : 19.59,
     "netProfitMarginPercentile" : 9.39,
-    "totalTechnicalScore" : 39.23,
+    "totalTechnicalScore" : 39.30,
     "totalFundamentalScore" : 42.66,
-    "totalScore" : 81.89
+    "totalScore" : 81.96
   }
 }

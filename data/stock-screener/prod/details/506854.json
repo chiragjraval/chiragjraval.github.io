@@ -20,16 +20,16 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.76,
-      "pricePercentageAboveDma100" : 4.51,
-      "pricePercentageAboveDma200" : 3.81,
+      "pricePercentageAboveDma50" : 4.77,
+      "pricePercentageAboveDma100" : 4.53,
+      "pricePercentageAboveDma200" : 3.82,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 14.46,
       "operatingProfitMarginPercentile" : 10.11,
       "netProfitMarginPercentile" : 6.57,
-      "totalTechnicalScore" : 43.08,
+      "totalTechnicalScore" : 43.12,
       "totalFundamentalScore" : 31.14,
-      "totalScore" : 74.22
+      "totalScore" : 74.27
     }
   },
   "attributes" : {
@@ -40,13 +40,6 @@
     "description" : "Incorporated in 1972, Tanfac Industries Ltd is amongst the leading producers of Hydrofluoric Acid and its derivatives."
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 1950.88,
-    "dma50" : 2040.96,
-    "dma100" : null,
-    "dma200" : 1888.11,
-    "volume" : 4404.00
-  }, {
     "date" : "2025-11-28",
     "price" : 2039.48,
     "dma50" : 2040.90,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 2498.40,
     "dma50" : 2154.01,
-    "dma100" : 2092.02,
+    "dma100" : null,
     "dma200" : 2023.32,
     "volume" : 11730.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3186.89,
     "dma200" : 2824.34,
     "volume" : 14223.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 3498.80,
+    "dma50" : 3345.68,
+    "dma100" : 3198.30,
+    "dma200" : 2831.05,
+    "volume" : 8137.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 3498.65,
-    "dma50" : 3339.43,
-    "dma100" : 3186.89,
-    "dma200" : 2824.34,
-    "volume" : 14223.00
+    "date" : "2026-11-27",
+    "price" : 3498.80,
+    "dma50" : 3345.68,
+    "dma100" : 3198.30,
+    "dma200" : 2831.05,
+    "volume" : 8137.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.76,
-    "pricePercentageAboveDma100" : 4.51,
-    "pricePercentageAboveDma200" : 3.81,
+    "pricePercentageAboveDma50" : 4.77,
+    "pricePercentageAboveDma100" : 4.53,
+    "pricePercentageAboveDma200" : 3.82,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 14.46,
     "operatingProfitMarginPercentile" : 10.11,
     "netProfitMarginPercentile" : 6.57,
-    "totalTechnicalScore" : 43.08,
+    "totalTechnicalScore" : 43.12,
     "totalFundamentalScore" : 31.14,
-    "totalScore" : 74.22
+    "totalScore" : 74.27
   }
 }

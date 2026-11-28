@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "CENTUM",
       "companyName" : "Centum Electron",
-      "marketCap" : 5659.00,
-      "peRatio" : 55.50,
+      "marketCap" : 5893.00,
+      "peRatio" : 57.80,
       "description" : "Founded in 1993, Centum Electronics Limited is one of the largest Electronics System Design and Manufacturing (ESDM) companies in India. It offers entire spectrum of design services and manufacturing of systems, subsystems for mission critical products in Defence, Space, Aerospace, Industrial, Transportation and Medical sectors.[1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.37,
-      "pricePercentageAboveDma100" : 5.17,
-      "pricePercentageAboveDma200" : 4.64,
+      "pricePercentageAboveDma50" : 5.17,
+      "pricePercentageAboveDma100" : 4.97,
+      "pricePercentageAboveDma200" : 4.42,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 14.94,
       "operatingProfitMarginPercentile" : 13.39,
       "netProfitMarginPercentile" : 6.50,
-      "totalTechnicalScore" : 40.17,
+      "totalTechnicalScore" : 44.56,
       "totalFundamentalScore" : 34.84,
-      "totalScore" : 75.01
+      "totalScore" : 79.40
     }
   },
   "attributes" : {
     "companyCode" : "CENTUM",
     "companyName" : "Centum Electron",
-    "marketCap" : 5659.00,
-    "peRatio" : 55.50,
+    "marketCap" : 5893.00,
+    "peRatio" : 57.80,
     "description" : "Founded in 1993, Centum Electronics Limited is one of the largest Electronics System Design and Manufacturing (ESDM) companies in India. It offers entire spectrum of design services and manufacturing of systems, subsystems for mission critical products in Defence, Space, Aerospace, Industrial, Transportation and Medical sectors.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 2390.80,
-    "dma50" : 2506.78,
-    "dma100" : null,
-    "dma200" : 2284.83,
-    "volume" : 5740.00
-  }, {
     "date" : "2025-11-28",
     "price" : 2364.20,
     "dma50" : 2501.19,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 2868.40,
     "dma50" : 2728.55,
-    "dma100" : 2506.08,
+    "dma100" : null,
     "dma200" : 2466.39,
     "volume" : 26295.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 3963.99,
     "dma200" : 3574.70,
     "volume" : 107903.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 3991.50,
+    "dma50" : 4132.40,
+    "dma100" : 3967.52,
+    "dma200" : 3578.85,
+    "volume" : 65229.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 3833.00,
-    "dma50" : 4138.15,
-    "dma100" : 3963.99,
-    "dma200" : 3574.70,
-    "volume" : 107903.00
+    "date" : "2026-11-27",
+    "price" : 3991.50,
+    "dma50" : 4132.40,
+    "dma100" : 3967.52,
+    "dma200" : 3578.85,
+    "volume" : 65229.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.37,
-    "pricePercentageAboveDma100" : 5.17,
-    "pricePercentageAboveDma200" : 4.64,
+    "pricePercentageAboveDma50" : 5.17,
+    "pricePercentageAboveDma100" : 4.97,
+    "pricePercentageAboveDma200" : 4.42,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 14.94,
     "operatingProfitMarginPercentile" : 13.39,
     "netProfitMarginPercentile" : 6.50,
-    "totalTechnicalScore" : 40.17,
+    "totalTechnicalScore" : 44.56,
     "totalFundamentalScore" : 34.84,
-    "totalScore" : 75.01
+    "totalScore" : 79.40
   }
 }

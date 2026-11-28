@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "PREMEXPLN",
       "companyName" : "Prem. Explosives",
-      "marketCap" : 3045.00,
-      "peRatio" : 110.00,
+      "marketCap" : 3079.00,
+      "peRatio" : 111.00,
       "description" : "Premier Explosives Limited is engaged in the manufacturing of industrial explosives and detonators. It also undertakes operation and maintenance (O&M) services of solid propellant plants at the Sriharikota Centre of ISRO and Solid Fuel Complex at Jagdalpur under the umbrella of DRDO.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 0.00,
       "dma50HigherThanDma200" : 0.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.31,
-      "pricePercentageAboveDma100" : 5.62,
-      "pricePercentageAboveDma200" : 5.35,
+      "pricePercentageAboveDma50" : 5.25,
+      "pricePercentageAboveDma100" : 5.55,
+      "pricePercentageAboveDma200" : 5.29,
       "weeklyVolumeHigherThanYearlyVolume" : 5.00,
       "salesGrowthPercentile" : 19.76,
       "operatingProfitMarginPercentile" : 12.58,
       "netProfitMarginPercentile" : 7.59,
-      "totalTechnicalScore" : 26.28,
+      "totalTechnicalScore" : 26.10,
       "totalFundamentalScore" : 39.92,
-      "totalScore" : 66.20
+      "totalScore" : 66.03
     }
   },
   "attributes" : {
     "companyCode" : "PREMEXPLN",
     "companyName" : "Prem. Explosives",
-    "marketCap" : 3045.00,
-    "peRatio" : 110.00,
+    "marketCap" : 3079.00,
+    "peRatio" : 111.00,
     "description" : "Premier Explosives Limited is engaged in the manufacturing of industrial explosives and detonators. It also undertakes operation and maintenance (O&M) services of solid propellant plants at the Sriharikota Centre of ISRO and Solid Fuel Complex at Jagdalpur under the umbrella of DRDO.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 536.40,
-    "dma50" : 580.94,
-    "dma100" : null,
-    "dma200" : 533.35,
-    "volume" : 205472.00
-  }, {
     "date" : "2025-11-28",
     "price" : 530.30,
     "dma50" : 578.96,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 545.90,
     "dma50" : 479.00,
-    "dma100" : 489.53,
+    "dma100" : null,
     "dma200" : 502.49,
     "volume" : 665188.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 645.91,
     "dma200" : 608.89,
     "volume" : 116667.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 572.65,
+    "dma50" : 603.11,
+    "dma100" : 644.13,
+    "dma200" : 608.52,
+    "volume" : 110385.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 566.35,
-    "dma50" : 604.35,
-    "dma100" : 645.91,
-    "dma200" : 608.89,
-    "volume" : 116667.00
+    "date" : "2026-11-27",
+    "price" : 572.65,
+    "dma50" : 603.11,
+    "dma100" : 644.13,
+    "dma200" : 608.52,
+    "volume" : 110385.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 0.00,
     "dma50HigherThanDma200" : 0.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.31,
-    "pricePercentageAboveDma100" : 5.62,
-    "pricePercentageAboveDma200" : 5.35,
+    "pricePercentageAboveDma50" : 5.25,
+    "pricePercentageAboveDma100" : 5.55,
+    "pricePercentageAboveDma200" : 5.29,
     "weeklyVolumeHigherThanYearlyVolume" : 5.00,
     "salesGrowthPercentile" : 19.76,
     "operatingProfitMarginPercentile" : 12.58,
     "netProfitMarginPercentile" : 7.59,
-    "totalTechnicalScore" : 26.28,
+    "totalTechnicalScore" : 26.10,
     "totalFundamentalScore" : 39.92,
-    "totalScore" : 66.20
+    "totalScore" : 66.03
   }
 }

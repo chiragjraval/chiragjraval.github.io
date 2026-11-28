@@ -9,44 +9,37 @@
     "attributes" : {
       "companyCode" : "GOODLUCK",
       "companyName" : "Goodluck India",
-      "marketCap" : 5078.00,
-      "peRatio" : 24.10,
+      "marketCap" : 5166.00,
+      "peRatio" : 24.50,
       "description" : "Goodluck India Ltd is an engineering conglomerate engaged in the business of manufacturing and selling engineering products such as sheets, pipes, engineering structures, fabricated structures, forgings, and automobile tubes. [1]"
     },
     "companyScore" : {
       "priceHigherThanDma50" : 0.00,
-      "priceHigherThanDma100" : 0.00,
+      "priceHigherThanDma100" : 5.00,
       "priceHigherThanDma200" : 5.00,
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 5.19,
-      "pricePercentageAboveDma100" : 5.03,
-      "pricePercentageAboveDma200" : 4.62,
+      "pricePercentageAboveDma50" : 5.10,
+      "pricePercentageAboveDma100" : 4.94,
+      "pricePercentageAboveDma200" : 4.53,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 16.39,
       "operatingProfitMarginPercentile" : 15.54,
       "netProfitMarginPercentile" : 8.58,
-      "totalTechnicalScore" : 34.83,
+      "totalTechnicalScore" : 39.57,
       "totalFundamentalScore" : 40.50,
-      "totalScore" : 75.34
+      "totalScore" : 80.08
     }
   },
   "attributes" : {
     "companyCode" : "GOODLUCK",
     "companyName" : "Goodluck India",
-    "marketCap" : 5078.00,
-    "peRatio" : 24.10,
+    "marketCap" : 5166.00,
+    "peRatio" : 24.50,
     "description" : "Goodluck India Ltd is an engineering conglomerate engaged in the business of manufacturing and selling engineering products such as sheets, pipes, engineering structures, fabricated structures, forgings, and automobile tubes. [1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 384.83,
-    "dma50" : 394.03,
-    "dma100" : null,
-    "dma200" : 355.27,
-    "volume" : 231221.00
-  }, {
     "date" : "2025-11-28",
     "price" : 390.90,
     "dma50" : 393.91,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 412.25,
     "dma50" : 372.34,
-    "dma100" : 367.18,
+    "dma100" : null,
     "dma200" : 363.29,
     "volume" : 220080.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 511.82,
     "dma200" : 473.29,
     "volume" : 190164.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 518.10,
+    "dma50" : 528.71,
+    "dma100" : 512.04,
+    "dma200" : 473.73,
+    "volume" : 193029.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 509.20,
-    "dma50" : 529.14,
-    "dma100" : 511.82,
-    "dma200" : 473.29,
-    "volume" : 190164.00
+    "date" : "2026-11-27",
+    "price" : 518.10,
+    "dma50" : 528.71,
+    "dma100" : 512.04,
+    "dma200" : 473.73,
+    "volume" : 193029.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2661,20 +2661,20 @@
   },
   "companyScore" : {
     "priceHigherThanDma50" : 0.00,
-    "priceHigherThanDma100" : 0.00,
+    "priceHigherThanDma100" : 5.00,
     "priceHigherThanDma200" : 5.00,
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 5.19,
-    "pricePercentageAboveDma100" : 5.03,
-    "pricePercentageAboveDma200" : 4.62,
+    "pricePercentageAboveDma50" : 5.10,
+    "pricePercentageAboveDma100" : 4.94,
+    "pricePercentageAboveDma200" : 4.53,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 16.39,
     "operatingProfitMarginPercentile" : 15.54,
     "netProfitMarginPercentile" : 8.58,
-    "totalTechnicalScore" : 34.83,
+    "totalTechnicalScore" : 39.57,
     "totalFundamentalScore" : 40.50,
-    "totalScore" : 75.34
+    "totalScore" : 80.08
   }
 }

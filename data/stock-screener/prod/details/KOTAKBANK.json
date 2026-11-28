@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "KOTAKBANK",
       "companyName" : "Kotak Mah. Bank",
-      "marketCap" : 507344.00,
-      "peRatio" : 23.90,
+      "marketCap" : 497445.00,
+      "peRatio" : 23.50,
       "description" : "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.[1]"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.45,
-      "pricePercentageAboveDma100" : 3.98,
-      "pricePercentageAboveDma200" : 3.94,
+      "pricePercentageAboveDma50" : 4.57,
+      "pricePercentageAboveDma100" : 4.11,
+      "pricePercentageAboveDma200" : 4.07,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 9.40,
       "operatingProfitMarginPercentile" : 15.24,
       "netProfitMarginPercentile" : 8.28,
-      "totalTechnicalScore" : 42.36,
+      "totalTechnicalScore" : 42.75,
       "totalFundamentalScore" : 32.91,
-      "totalScore" : 75.28
+      "totalScore" : 75.67
     }
   },
   "attributes" : {
     "companyCode" : "KOTAKBANK",
     "companyName" : "Kotak Mah. Bank",
-    "marketCap" : 507344.00,
-    "peRatio" : 23.90,
+    "marketCap" : 497445.00,
+    "peRatio" : 23.50,
     "description" : "Kotak Mahindra Bank is a diversified financial services group providing a wide range of banking and financial services including Retail Banking, Treasury and Corporate Banking, Investment Banking, Stock Broking, Vehicle Finance, Advisory services, Asset Management, Life Insurance and General Insurance.[1]"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 422.04,
-    "dma50" : 418.97,
-    "dma100" : null,
-    "dma200" : 408.60,
-    "volume" : 21205675.00
-  }, {
     "date" : "2025-11-28",
     "price" : 424.88,
     "dma50" : 419.20,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 376.80,
     "dma50" : 385.90,
-    "dma100" : 407.87,
+    "dma100" : null,
     "dma200" : 404.00,
     "volume" : 12052112.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 423.38,
     "dma200" : 420.71,
     "volume" : 11053989.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 500.00,
+    "dma50" : 460.74,
+    "dma100" : 424.57,
+    "dma200" : 421.50,
+    "volume" : 10982685.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 509.95,
-    "dma50" : 459.13,
-    "dma100" : 423.38,
-    "dma200" : 420.71,
-    "volume" : 11053989.00
+    "date" : "2026-11-27",
+    "price" : 500.00,
+    "dma50" : 460.74,
+    "dma100" : 424.57,
+    "dma200" : 421.50,
+    "volume" : 10982685.00
   },
   "quarterlyResults" : [ {
     "date" : "2005-03-31",
@@ -2666,15 +2666,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.45,
-    "pricePercentageAboveDma100" : 3.98,
-    "pricePercentageAboveDma200" : 3.94,
+    "pricePercentageAboveDma50" : 4.57,
+    "pricePercentageAboveDma100" : 4.11,
+    "pricePercentageAboveDma200" : 4.07,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 9.40,
     "operatingProfitMarginPercentile" : 15.24,
     "netProfitMarginPercentile" : 8.28,
-    "totalTechnicalScore" : 42.36,
+    "totalTechnicalScore" : 42.75,
     "totalFundamentalScore" : 32.91,
-    "totalScore" : 75.28
+    "totalScore" : 75.67
   }
 }

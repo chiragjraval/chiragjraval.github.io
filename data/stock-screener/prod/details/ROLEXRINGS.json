@@ -9,8 +9,8 @@
     "attributes" : {
       "companyCode" : "ROLEXRINGS",
       "companyName" : "Rolex Rings",
-      "marketCap" : 5011.00,
-      "peRatio" : 22.40,
+      "marketCap" : 4955.00,
+      "peRatio" : 22.20,
       "description" : "Rolex Rings is a leading manufacturer of forged and machined components in India and is one of the top 5 forging companies in India. The company is a Global supplier of hot rolled forged, machined bearing rings and automotive components for various segments of vehicles, Industrial Machinery, Wind Turbines and Railways"
     },
     "companyScore" : {
@@ -20,33 +20,26 @@
       "dma50HigherThanDma100" : 5.00,
       "dma50HigherThanDma200" : 5.00,
       "dma100HigherThanDma200" : 5.00,
-      "pricePercentageAboveDma50" : 4.83,
-      "pricePercentageAboveDma100" : 4.44,
-      "pricePercentageAboveDma200" : 4.10,
+      "pricePercentageAboveDma50" : 4.90,
+      "pricePercentageAboveDma100" : 4.52,
+      "pricePercentageAboveDma200" : 4.18,
       "weeklyVolumeHigherThanYearlyVolume" : 0.00,
       "salesGrowthPercentile" : 19.05,
       "operatingProfitMarginPercentile" : 20.00,
       "netProfitMarginPercentile" : 9.20,
-      "totalTechnicalScore" : 43.38,
+      "totalTechnicalScore" : 43.59,
       "totalFundamentalScore" : 48.25,
-      "totalScore" : 91.63
+      "totalScore" : 91.84
     }
   },
   "attributes" : {
     "companyCode" : "ROLEXRINGS",
     "companyName" : "Rolex Rings",
-    "marketCap" : 5011.00,
-    "peRatio" : 22.40,
+    "marketCap" : 4955.00,
+    "peRatio" : 22.20,
     "description" : "Rolex Rings is a leading manufacturer of forged and machined components in India and is one of the top 5 forging companies in India. The company is a Global supplier of hot rolled forged, machined bearing rings and automotive components for various segments of vehicles, Industrial Machinery, Wind Turbines and Railways"
   },
   "technicalHistory" : [ {
-    "date" : "2025-11-27",
-    "price" : 104.58,
-    "dma50" : 120.40,
-    "dma100" : null,
-    "dma200" : 144.48,
-    "volume" : 437103.00
-  }, {
     "date" : "2025-11-28",
     "price" : 102.02,
     "dma50" : 119.68,
@@ -743,7 +736,7 @@
     "date" : "2026-04-27",
     "price" : 148.23,
     "dma50" : 131.36,
-    "dma100" : 126.93,
+    "dma100" : null,
     "dma200" : 134.13,
     "volume" : 6023193.00
   }, {
@@ -1768,14 +1761,21 @@
     "dma100" : 171.80,
     "dma200" : 161.96,
     "volume" : 872815.00
+  }, {
+    "date" : "2026-11-27",
+    "price" : 188.90,
+    "dma50" : 185.04,
+    "dma100" : 172.30,
+    "dma200" : 162.23,
+    "volume" : 1534435.00
   } ],
   "latestTechnicalAttributes" : {
-    "date" : "2026-11-26",
-    "price" : 191.02,
-    "dma50" : 184.88,
-    "dma100" : 171.80,
-    "dma200" : 161.96,
-    "volume" : 872815.00
+    "date" : "2026-11-27",
+    "price" : 188.90,
+    "dma50" : 185.04,
+    "dma100" : 172.30,
+    "dma200" : 162.23,
+    "volume" : 1534435.00
   },
   "quarterlyResults" : [ {
     "date" : "2020-09-30",
@@ -2046,15 +2046,15 @@
     "dma50HigherThanDma100" : 5.00,
     "dma50HigherThanDma200" : 5.00,
     "dma100HigherThanDma200" : 5.00,
-    "pricePercentageAboveDma50" : 4.83,
-    "pricePercentageAboveDma100" : 4.44,
-    "pricePercentageAboveDma200" : 4.10,
+    "pricePercentageAboveDma50" : 4.90,
+    "pricePercentageAboveDma100" : 4.52,
+    "pricePercentageAboveDma200" : 4.18,
     "weeklyVolumeHigherThanYearlyVolume" : 0.00,
     "salesGrowthPercentile" : 19.05,
     "operatingProfitMarginPercentile" : 20.00,
     "netProfitMarginPercentile" : 9.20,
-    "totalTechnicalScore" : 43.38,
+    "totalTechnicalScore" : 43.59,
     "totalFundamentalScore" : 48.25,
-    "totalScore" : 91.63
+    "totalScore" : 91.84
   }
 }
